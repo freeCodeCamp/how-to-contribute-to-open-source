@@ -26,3 +26,9 @@ If you have questions or comments, please create an issue.
 - ["How to find your first open source bug to fix"](https://medium.freecodecamp.com/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) by [@Shubheksha](https://github.com/Shubheksha)
 - ["First Timers Only"](https://medium.com/@kentcdodds/first-timers-only-78281ea47455) by [@kentcdodds](https://github.com/kentcdodds)
 - ["Bring Kindness Back to Open Source"](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) by [@shanselman](https://github.com/shanselman)
+
+## Using verion control
+- [Oh shit, git!](http://ohshitgit.com/) - how to get out of common `git` mistakes described in plain English
+- [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/) - various tutorials on using `git`
+- [GitHub Git Cheat Sheet](https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf) (PDF)
+- [FreeCodeCamp's Wiki on Git Resources](http://forum.freecodecamp.com/t/wiki-git-resources/13136)
