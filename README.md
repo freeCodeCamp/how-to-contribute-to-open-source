@@ -27,8 +27,9 @@ If you have questions or comments, please create an issue.
 - ["First Timers Only"](https://medium.com/@kentcdodds/first-timers-only-78281ea47455) by [@kentcdodds](https://github.com/kentcdodds)
 - ["Bring Kindness Back to Open Source"](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) by [@shanselman](https://github.com/shanselman)
 
-## Using verion control
+## Using version control
 - [Oh shit, git!](http://ohshitgit.com/) - how to get out of common `git` mistakes described in plain English
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/) - various tutorials on using `git`
 - [GitHub Git Cheat Sheet](https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf) (PDF)
 - [FreeCodeCamp's Wiki on Git Resources](http://forum.freecodecamp.com/t/wiki-git-resources/13136)
+- [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) - GitHub talk on how to make a pull request
