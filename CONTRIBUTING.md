@@ -16,8 +16,16 @@ Issues can be submitted by anyone, seasoned developers or newbies.
     ```
     git checkout -b update-readme-file
     ```
-    For clarity to yourself and others on the issue you're working on, name your branch something like `update-xxx` or `fix-xxx` where `xxx` is a short description of the changes you're making. For example `update-readme` or `fix-typo-on-contribution-md`.    
-5.  Make your changes in the new git branch then add your modified files to git, [How to add, commit, push and go](http://readwrite.com/2013/10/02/github-for-beginners-part-2/) 
+    For clarity to yourself and others on the issue you're working on, name your branch something like `update-xxx` or `fix-xxx` where `xxx` is a short description of the changes you're making. For example `update-readme` or `fix-typo-on-contribution-md`.
+5.  Open up the project in your favourite text editor, select the file you want to contribute to and make your changes.
+
+    If you are making changes to the README.md file, you would need to have Markdown knowledge. Visit [here to read about Github Markdown](https://guides.github.com/features/mastering-markdown/) and [here to practice](http://www.markdowntutorial.com/)
+
+    *   If you are adding a new project/organisation to the README, make sure it's listed in alphabetical order.
+    *   If you are adding a new organisation, make sure you add an organisation label to the organisation name. This would help
+        distinguish projects from organisation projects.
+
+6.  After making your changes in the new git branch then add your modified files to git, [How to add, commit, push and go](http://readwrite.com/2013/10/02/github-for-beginners-part-2/)
     
     ```
     git add path/to/filename.ext
@@ -31,17 +39,17 @@ Issues can be submitted by anyone, seasoned developers or newbies.
 
     Note, using a `git add .` will automatically add all files. You can do a `git status` to see your changes, but do it before `git add`.
 
-5.  Commit your changes using a descriptive commit message.
+6.  Commit your changes using a descriptive commit message.
     
     ```
     git commit -m "Brief Description of Commit"
     ```
-6.  Push your commits to your Github Fork: 
+7.  Push your commits to your Github Fork:
     
     ```
     git push -u origin branch-name
     ```
-7.  Submit a pull request.
+8.  Submit a pull request.
 
 ### Submitting a Pull Request
 
