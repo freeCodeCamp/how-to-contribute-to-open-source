@@ -36,6 +36,6 @@ Search links that point directly to suitable issues to contribute to on GitHub
 ## Using version control
 - [Oh shit, git!](http://ohshitgit.com/) - how to get out of common `git` mistakes described in plain English
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/) - various tutorials on using `git`
-- [GitHub Git Cheat Sheet](https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf) (PDF)
+- [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
 - [FreeCodeCamp's Wiki on Git Resources](http://forum.freecodecamp.com/t/wiki-git-resources/13136)
 - [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) - GitHub talk on how to make a pull request
