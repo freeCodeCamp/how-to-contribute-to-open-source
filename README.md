@@ -20,6 +20,16 @@ Search links that point directly to suitable issues to contribute to on GitHub
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
+##Projects
+- Free Code Camp :o2: [organisation]
+	- [Free Code Camp] (https://github.com/FreeCodeCamp/FreeCodeCamp/)
+		- [Contributing guide] (https://github.com/FreeCodeCamp/FreeCodeCamp/blob/staging/CONTRIBUTING.md)
+		- Issue label: [first-timers-only] (https://github.com/FreeCodeCamp/FreeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only) 
+
+- If me [project]
+	- [Contributing guide] (https://github.com/julianguyen/ifme/blob/master/README.md)
+	- Issue label: [newbiefriendly] (https://github.com/julianguyen/ifme/issues?q=is%3Aopen+is%3Aissue+label%3Anewbiefriendlyss)
+
 ## Mozilla's contributor ecosystem
 - [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - bugs that developers have identified as a good introduction to the project
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs that have a mentor assigned who will be there on IRC to help you when you get stuck while working on fix
@@ -36,6 +46,6 @@ Search links that point directly to suitable issues to contribute to on GitHub
 ## Using version control
 - [Oh shit, git!](http://ohshitgit.com/) - how to get out of common `git` mistakes described in plain English
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/) - various tutorials on using `git`
-- [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
+- [GitHub Git Cheat Sheet](https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf) (PDF)
 - [FreeCodeCamp's Wiki on Git Resources](http://forum.freecodecamp.com/t/wiki-git-resources/13136)
 - [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) - GitHub talk on how to make a pull request
