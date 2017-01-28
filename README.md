@@ -33,6 +33,9 @@ Search links that point directly to suitable issues to contribute to on GitHub
 - ["First Timers Only"](https://medium.com/@kentcdodds/first-timers-only-78281ea47455) by [@kentcdodds](https://github.com/kentcdodds)
 - ["Bring Kindness Back to Open Source"](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) by [@shanselman](https://github.com/shanselman)
 
+## Open Source Projects
+- [Rust](https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md)
+
 ## Using version control
 - [Oh shit, git!](http://ohshitgit.com/) - how to get out of common `git` mistakes described in plain English
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/) - various tutorials on using `git`
