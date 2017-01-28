@@ -7,6 +7,7 @@ If you find additional resources, please contribute a pull request.
 If you have questions or comments, please create an issue.
 
 ## Contributing to open source in general
+- [First Contributions](https://github.com/Roshanjossey/first-contributions/) - a hands-on tutorial for beginners to get start contributing
 - [Up For Grabs](http://up-for-grabs.net/#/) - a list of projects with beginner-friendly issues
 - [Issuehub.io](http://issuehub.io/) - a tool for searching GitHub issues by label and language
 - [First Timers Only](http://www.firsttimersonly.com/) - a list of bugs that are labelled "first-timers-only"
