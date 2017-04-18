@@ -1,0 +1,12 @@
+# Projects and Organizations
+
+This file contains a list of projects and organizations that are friendly to
+contributions, along with quick links to relevant documents you should reference
+before contributing.
+
+- freeCodeCamp (org)
+    - [freeCodeCamp](https://github.com/FreeCodeCamp/FreeCodeCamp/) (project)
+        - [Contributing guide](https://github.com/FreeCodeCamp/FreeCodeCamp/blob/staging/CONTRIBUTING.md
+        - Issue labels:
+            - [first-timers-only](https://github.com/FreeCodeCamp/FreeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
+            - [help wanted](https://github.com/freeCodeCamp/freeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
