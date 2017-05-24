@@ -13,7 +13,7 @@ If you have questions or comments, please create an issue.
 - [YourFirstPR](https://twitter.com/yourfirstpr) - starter issues on GitHub that can be easily tackled by new contributors.
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - a GitHub repo that amasses projects with good bugs for new contributors, and applies labels to describe them.
 - [Openhatch](https://openhatch.org/) - a non-profit organization that helps lower barriers of entry into open source. You can find bugs and projects here, as well.
-- [Open Source Guides](https://opensource.guide/how-to-contribute/) - Collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open source project.
+- [Open Source Guides](https://opensource.guide/) - Collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open source project.
 
 ## Direct GitHub searches
 Search links that point directly to suitable issues to contribute to on GitHub
@@ -33,6 +33,7 @@ Search links that point directly to suitable issues to contribute to on GitHub
 - ["How to find your first open source bug to fix"](https://medium.freecodecamp.com/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) by [@Shubheksha](https://github.com/Shubheksha)
 - ["First Timers Only"](https://medium.com/@kentcdodds/first-timers-only-78281ea47455) by [@kentcdodds](https://github.com/kentcdodds)
 - ["Bring Kindness Back to Open Source"](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) by [@shanselman](https://github.com/shanselman)
+- [Contribute to Open Source in Github](https://opensource.guide/how-to-contribute/) - by [@Github](https://github.com/github)
 
 ## Using version control
 - [Oh shit, git!](http://ohshitgit.com/) - how to get out of common `git` mistakes described in plain English
