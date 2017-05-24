@@ -34,7 +34,7 @@ Search links that point directly to suitable issues to contribute to on GitHub
 - ["First Timers Only"](https://medium.com/@kentcdodds/first-timers-only-78281ea47455) by [@kentcdodds](https://github.com/kentcdodds)
 - ["Bring Kindness Back to Open Source"](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) by [@shanselman](https://github.com/shanselman)
 - ["Getting into Open Source for the First Time"](http://www.nearform.com/nodecrunch/first-time-with-open-source) by [@mcdonnelldean](https://github.com/mcdonnelldean)
-- [Contribute to Open Source in Github](https://opensource.guide/how-to-contribute/) - by [@Github](https://github.com/github)
+- ["Contribute to Open Source in Github"](https://opensource.guide/how-to-contribute/) - by [@Github](https://github.com/github)
 
 ## Using version control
 - [Oh shit, git!](http://ohshitgit.com/) - how to get out of common `git` mistakes described in plain English
