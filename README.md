@@ -1,8 +1,8 @@
 # Welcome newbie open source contributors!
 
-This is a list of resources for people who are new to contributing to open source. 
+This is a list of resources for people who are new to contributing to open source.
 
-If you find additional resources, please contribute a pull request. 
+If you find additional resources, please contribute a pull request.
 
 If you have questions or comments, please create an issue.
 
@@ -42,3 +42,4 @@ Search links that point directly to suitable issues to contribute to on GitHub
 - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
 - [freeCodeCamp's Wiki on Git Resources](http://forum.freecodecamp.com/t/wiki-git-resources/13136)
 - [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) - GitHub talk on how to make a pull request
+- [GitHub Learning Resources](https://help.github.com/articles/git-and-github-learning-resources/) - Git and GitHub learning resources
