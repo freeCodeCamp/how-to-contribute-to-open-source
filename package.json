@@ -1,0 +1,27 @@
+{
+  "name": "how-to-contribute-to-open-source",
+  "version": "1.0.0",
+  "description": "This is a list of resources for people who are new to contributing to open source.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-plugin-json": "^1.2.0",
+    "eslint-plugin-markdown": "^1.0.0-beta.6"
+  },
+  "scripts": {
+    "test": "echo \"No tests\"",
+    "pretest": "npm run lint",
+    "lint": "eslint . --ext .json --ext .md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FreeCodeCamp/how-to-contribute-to-open-source.git"
+  },
+  "author": "",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/FreeCodeCamp/how-to-contribute-to-open-source/issues"
+  },
+  "homepage": "https://github.com/FreeCodeCamp/how-to-contribute-to-open-source#readme"
+}

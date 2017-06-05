@@ -1,0 +1,12 @@
+language: node_js
+
+node_js:
+  - '6'
+
+before_install: if [[ `npm -v` != 3* ]]; then npm i -g npm@3; fi
+
+cache:
+  directories:
+    - node_modules
+
+sudo: false
