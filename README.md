@@ -36,6 +36,9 @@ Search links that point directly to suitable issues to contribute to on GitHub
 - ["Getting into Open Source for the First Time"](http://www.nearform.com/nodecrunch/first-time-with-open-source) by [@mcdonnelldean](https://github.com/mcdonnelldean)
 - ["Contribute to Open Source in Github"](https://opensource.guide/how-to-contribute/) by [@Github](https://github.com/github)
 
+## Open Source Projects
+- [Rust](https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md)
+
 ## Using version control
 - [Oh shit, git!](http://ohshitgit.com/) - how to get out of common `git` mistakes described in plain English
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/) - various tutorials on using `git`
