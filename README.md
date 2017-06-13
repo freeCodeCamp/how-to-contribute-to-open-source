@@ -1,5 +1,10 @@
 # Welcome newbie open source contributors!
 
+[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+[![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
+
+This is a list of resources for people who are new to contributing to open source.
+
 This is a list of resources for people who are new to contributing to open source.
 
 If you find additional resources, please contribute a pull request.
