@@ -6,7 +6,7 @@ before contributing.
 
 - freeCodeCamp (org)
     - [freeCodeCamp](https://github.com/FreeCodeCamp/FreeCodeCamp/) (project)
-        - [Contributing guide](https://github.com/FreeCodeCamp/FreeCodeCamp/blob/staging/CONTRIBUTING.md
+        - [Contributing guide](https://github.com/FreeCodeCamp/FreeCodeCamp/blob/staging/CONTRIBUTING.md)
         - Issue labels:
             - [first-timers-only](https://github.com/FreeCodeCamp/FreeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
             - [help wanted](https://github.com/freeCodeCamp/freeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
