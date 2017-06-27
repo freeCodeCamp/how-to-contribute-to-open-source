@@ -47,3 +47,4 @@ Search links that point directly to suitable issues to contribute to on GitHub
 - [freeCodeCamp's Wiki on Git Resources](http://forum.freecodecamp.com/t/wiki-git-resources/13136)
 - [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) - GitHub talk on how to make a pull request
 - [GitHub Learning Resources](https://help.github.com/articles/git-and-github-learning-resources/) - Git and GitHub learning resources
+- [Pro Git](https://git-scm.com/book/en/v2) - The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress.
