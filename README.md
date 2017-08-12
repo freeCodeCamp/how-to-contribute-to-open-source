@@ -18,6 +18,7 @@ If you have questions or comments, please create an issue.
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - a GitHub repo that amasses projects with good bugs for new contributors, and applies labels to describe them.
 - [Openhatch](https://openhatch.org/) - a non-profit organization that helps lower barriers of entry into open source. You can find bugs and projects here, as well.
 - [Open Source Guides](https://opensource.guide/) - Collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open source project.
+- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612)- Do's and Don't on      GitHub
 
 ## Direct GitHub searches
 Search links that point directly to suitable issues to contribute to on GitHub
@@ -48,4 +49,3 @@ Search links that point directly to suitable issues to contribute to on GitHub
 - [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) - GitHub talk on how to make a pull request
 - [GitHub Learning Resources](https://help.github.com/articles/git-and-github-learning-resources/) - Git and GitHub learning resources
 - [Pro Git](https://git-scm.com/book/en/v2) - The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress.
-- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612)- Do's and Don't on      GitHub
