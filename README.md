@@ -35,7 +35,7 @@ Search links that point directly to suitable issues to contribute to on GitHub
 - [Start Mozilla](https://twitter.com/StartMozilla) - a Twitter account that tweets about issues fit for contributors new to the Mozilla ecosystem
 
 ## Useful articles for new open source contributors
-- ["How to find your first open source bug to fix"](https://medium.freecodecamp.com/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) by [@Shubheksha](https://github.com/Shubheksha)
+- ["How to find your first open source bug to fix"](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) by [@Shubheksha](https://github.com/Shubheksha)
 - ["First Timers Only"](https://medium.com/@kentcdodds/first-timers-only-78281ea47455) by [@kentcdodds](https://github.com/kentcdodds)
 - ["Bring Kindness Back to Open Source"](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) by [@shanselman](https://github.com/shanselman)
 - ["Getting into Open Source for the First Time"](http://www.nearform.com/nodecrunch/first-time-with-open-source) by [@mcdonnelldean](https://github.com/mcdonnelldean)
@@ -45,7 +45,7 @@ Search links that point directly to suitable issues to contribute to on GitHub
 - [Oh shit, git!](http://ohshitgit.com/) - how to get out of common `git` mistakes described in plain English
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/) - various tutorials on using `git`
 - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
-- [freeCodeCamp's Wiki on Git Resources](http://forum.freecodecamp.com/t/wiki-git-resources/13136)
+- [freeCodeCamp's Wiki on Git Resources](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
 - [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) - GitHub talk on how to make a pull request
 - [GitHub Learning Resources](https://help.github.com/articles/git-and-github-learning-resources/) - Git and GitHub learning resources
 - [Pro Git](https://git-scm.com/book/en/v2) - The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress.
