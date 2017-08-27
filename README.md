@@ -19,7 +19,7 @@ If you have questions or comments, please create an issue.
 - [Openhatch](https://openhatch.org/) - a non-profit organization that helps lower barriers of entry into open source. You can find bugs and projects here, as well.
 - [Open Source Guides](https://opensource.guide/) - Collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open source project.
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612)- Do's and Don'ts on GitHub
-- [Source:] (https://guides.github.com/)
+- [GitHub Guides](https://guides.github.com/) - basic guides on how to use GitHub effectively.
 
 ## Direct GitHub searches
 Search links that point directly to suitable issues to contribute to on GitHub
