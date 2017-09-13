@@ -15,4 +15,10 @@ before contributing.
         - [Contributing guide](https://github.com/servo/servo/blob/master/CONTRIBUTING.md)
         - Issue labels:
             - [Easy](https://github.com/servo/servo/issues?q=is%3Aissue+is%3Aopen+label%3AE-easy)
-            
+
+- nteract (org)
+    - [nteract](https://github.com/nteract/nteract) (project)
+        - [Contributing Guide](https://github.com/nteract/nteract/blob/master/CONTRIBUTING.md)
+        - Issue labels:
+            - [new-contributor-friendly](https://github.com/search?utf8=%E2%9C%93&q=user%3Anteract+is%3Aissue+is%3Aopen+is%3Anew-contributor-friendly)
+            - [mentoring-available](https://github.com/search?utf8=%E2%9C%93&q=user%3Anteract+is%3Aissue+is%3Aopen+is%3Amentoring-available&type=Issues&ref=searchresults)
