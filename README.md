@@ -41,7 +41,7 @@ Search links that point directly to suitable issues to contribute to on GitHub
 - ["Bring Kindness Back to Open Source"](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) by [@shanselman](https://github.com/shanselman)
 - ["Getting into Open Source for the First Time"](http://www.nearform.com/nodecrunch/first-time-with-open-source) by [@mcdonnelldean](https://github.com/mcdonnelldean)
 - ["Contribute to Open Source in Github"](https://opensource.guide/how-to-contribute/) by [@Github](https://github.com/github)
-- ["How to find a bug in code"](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
+- ["How to Find a Bug in Your Code"](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
 
 ## Using version control
 - [Oh shit, git!](http://ohshitgit.com/) - how to get out of common `git` mistakes described in plain English
@@ -52,3 +52,6 @@ Search links that point directly to suitable issues to contribute to on GitHub
 - [GitHub Learning Resources](https://help.github.com/articles/git-and-github-learning-resources/) - Git and GitHub learning resources
 - [Pro Git](https://git-scm.com/book/en/v2) - The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress.
 - [Try Git](https://try.github.io/) - Learn Git in your browser for free
+
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
