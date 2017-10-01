@@ -28,4 +28,4 @@ before contributing.
 - [Babel](https://github.com/babel/babel) (project)
     - [Contributing Guide](https://github.com/babel/babel/blob/master/CONTRIBUTING.md)
     - Issue labels:
-            - [Beginner Friendly](https://github.com/babel/babel/labels/beginner-friendly)
+        - [Beginner Friendly](https://github.com/babel/babel/labels/beginner-friendly)
