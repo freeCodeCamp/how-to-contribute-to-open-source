@@ -25,3 +25,7 @@ before contributing.
         - Issue labels:
             - [new-contributor-friendly](https://github.com/search?utf8=%E2%9C%93&q=user%3Anteract+is%3Aissue+is%3Aopen+is%3Anew-contributor-friendly)
             - [mentoring-available](https://github.com/search?utf8=%E2%9C%93&q=user%3Anteract+is%3Aissue+is%3Aopen+is%3Amentoring-available&type=Issues&ref=searchresults)
+- [Babel](https://github.com/babel/babel) (project)
+    - [Contributing Guide](https://github.com/babel/babel/blob/master/CONTRIBUTING.md)
+    - Issue labels:
+            - [Beginner Friendly](https://github.com/babel/babel/labels/beginner-friendly)
