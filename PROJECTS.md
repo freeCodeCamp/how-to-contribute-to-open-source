@@ -25,3 +25,10 @@ before contributing.
         - Issue labels:
             - [new-contributor-friendly](https://github.com/search?utf8=%E2%9C%93&q=user%3Anteract+is%3Aissue+is%3Aopen+is%3Anew-contributor-friendly)
             - [mentoring-available](https://github.com/search?utf8=%E2%9C%93&q=user%3Anteract+is%3Aissue+is%3Aopen+is%3Amentoring-available&type=Issues&ref=searchresults)
+
+- [Sympy](https://github.com/sympy/sympy) (project)
+    - [Dev Wiki](https://github.com/sympy/sympy/wiki#development)
+    - [Work Flow](https://github.com/sympy/sympy/wiki/Development-workflow)
+    - [Contributing Guide](https://github.com/sympy/sympy/wiki/Introduction-to-contributing)
+    - Issue labels:
+        - [Easy to fix](https://github.com/sympy/sympy/issues?q=is%3Aissue+is%3Aopen+label%3A%22Easy+to+Fix%22)
