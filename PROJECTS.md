@@ -25,3 +25,9 @@ before contributing.
         - Issue labels:
             - [new-contributor-friendly](https://github.com/search?utf8=%E2%9C%93&q=user%3Anteract+is%3Aissue+is%3Aopen+is%3Anew-contributor-friendly)
             - [mentoring-available](https://github.com/search?utf8=%E2%9C%93&q=user%3Anteract+is%3Aissue+is%3Aopen+is%3Amentoring-available&type=Issues&ref=searchresults)
+- TEAMMATES (org)
+    - [TEAMMATES](https://github.com/TEAMMATES/teammates) (project)
+        - [Contributing Guide](https://github.com/TEAMMATES/teammates/blob/master/docs/orientation-guide.md)
+        - Issue labels:
+            - [d.FirstTimers](https://github.com/TEAMMATES/teammates/issues?q=is%3Aopen+is%3Aissue+label%3Ad.FirstTimers)
+            - [d.Contributors](https://github.com/TEAMMATES/teammates/issues?q=is%3Aopen+is%3Aissue+label%3Ad.Contributors)
