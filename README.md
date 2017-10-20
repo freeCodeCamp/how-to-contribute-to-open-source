@@ -11,14 +11,14 @@ If you find additional resources, please contribute a pull request.
 If you have questions or comments, please create an issue.
 
 ## Contributing to open source in general
-- [Up For Grabs](http://up-for-grabs.net/#/) - a list of projects with beginner-friendly issues
-- [Issuehub.io](http://issuehub.io/) - a tool for searching GitHub issues by label and language
-- [First Timers Only](http://www.firsttimersonly.com/) - a list of bugs that are labelled "first-timers-only"
+- [Up For Grabs](http://up-for-grabs.net/#/) - a list of projects with beginner-friendly issues.
+- [Issuehub.io](http://issuehub.io/) - a tool for searching GitHub issues by label and language.
+- [First Timers Only](http://www.firsttimersonly.com/) - a list of bugs that are labelled "first-timers-only".
 - [YourFirstPR](https://twitter.com/yourfirstpr) - starter issues on GitHub that can be easily tackled by new contributors.
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - a GitHub repo that amasses projects with good bugs for new contributors, and applies labels to describe them.
 - [Openhatch](https://openhatch.org/) - a non-profit organization that helps lower barriers of entry into open source. You can find bugs and projects here, as well.
 - [Open Source Guides](https://opensource.guide/) - Collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open source project.
-- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612)- Do's and Don'ts on GitHub
+- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612)- Do's and Don'ts on GitHub.
 - [GitHub Guides](https://guides.github.com/) - basic guides on how to use GitHub effectively.
 
 ## Direct GitHub searches
