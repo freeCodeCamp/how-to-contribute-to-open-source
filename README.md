@@ -52,6 +52,13 @@ Search links that point directly to suitable issues to contribute to on GitHub
 - [GitHub Learning Resources](https://help.github.com/articles/git-and-github-learning-resources/) - Git and GitHub learning resources
 - [Pro Git](https://git-scm.com/book/en/v2) - The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress.
 - [Try Git](https://try.github.io/) - Learn Git in your browser for free
+- [Udacity](https://www.udacity.com/course/how-to-use-git-and-github--ud775) - Free git online course
+- [Codeschool](https://www.codeschool.com/learn/git) - How to use Git and GitHub
+
+## Online tutorials
+- [Codecademy](https://www.codecademy.com/) - Learn to code
+- [Coursera](https://www.coursera.org/learn/html-css-javascript-for-web-developers) - Free online class from John Hopkins University
+
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
