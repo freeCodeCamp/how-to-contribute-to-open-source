@@ -43,6 +43,10 @@ Search links that point directly to suitable issues to contribute to on GitHub
 - ["Contribute to Open Source in Github"](https://opensource.guide/how-to-contribute/) by [@Github](https://github.com/github)
 - ["How to Find a Bug in Your Code"](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
 
+## Public Library's
+- [JQuery](http://api.jquery.com/) Javascript Docs
+- [Bootstrap](http://getbootstrap.com/) Bootstrap Docs
+
 ## Using version control
 - [Oh shit, git!](http://ohshitgit.com/) - how to get out of common `git` mistakes described in plain English
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/) - various tutorials on using `git`
