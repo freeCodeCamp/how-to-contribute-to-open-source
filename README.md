@@ -43,6 +43,9 @@ Search links that point directly to suitable issues to contribute to on GitHub
 - ["Getting into Open Source for the First Time"](http://www.nearform.com/nodecrunch/first-time-with-open-source) by [@mcdonnelldean](https://github.com/mcdonnelldean)
 - ["Contribute to Open Source in Github"](https://opensource.guide/how-to-contribute/) by [@Github](https://github.com/github)
 - ["How to Find a Bug in Your Code"](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
+- ["The command line"](http://conqueringthecommandline.com/book) by Mark Bates
+- [The rails turorial"](https://www.railstutorial.org/) by Michael Hartl
+- [Let's build instagram](https://www.devwalks.com/lets-build-instagram-in-rails-part-1/) by Devwalks
 
 ## Using version control
 - [Oh shit, git!](http://ohshitgit.com/) - how to get out of common `git` mistakes described in plain English
