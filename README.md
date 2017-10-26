@@ -13,6 +13,7 @@ If you have questions or comments, please create an issue.
 ## Contributing to open source in general
 - [Up For Grabs](http://up-for-grabs.net/#/) - a list of projects with beginner-friendly issues.
 - [Issuehub.io](http://issuehub.io/) - a tool for searching GitHub issues by label and language.
+- [Code Triage](https://www.codetriage.com/) - another, really nice, tool for finding popular repositories and issues filtered by language.
 - [First Timers Only](http://www.firsttimersonly.com/) - a list of bugs that are labelled "first-timers-only".
 - [YourFirstPR](https://twitter.com/yourfirstpr) - starter issues on GitHub that can be easily tackled by new contributors.
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - a GitHub repo that amasses projects with good bugs for new contributors, and applies labels to describe them.
