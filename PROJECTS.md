@@ -24,7 +24,7 @@ before contributing.
         - [Contributing Guide](https://github.com/nteract/nteract/blob/master/CONTRIBUTING.md)
         - Issue labels:
             - [new-contributor-friendly](https://github.com/search?utf8=%E2%9C%93&q=user%3Anteract+is%3Aissue+is%3Aopen+is%3Anew-contributor-friendly)
-            - [mentoring-available](https://github.com/search?utf8=%E2%9C%93&q=user%3Anteract+is%3Aissue+is%3Aopen+is%3Amentoring-ava
+            - [mentoring-available](https://github.com/search?utf8=%E2%9C%93&q=user%3Anteract+is%3Aissue+is%3Aopen+is%3Amentoring-available)
 - [Sympy](https://github.com/sympy/sympy) (project)
     - [Dev Wiki](https://github.com/sympy/sympy/wiki#development)
     - [Work Flow](https://github.com/sympy/sympy/wiki/Development-workflow)
@@ -35,7 +35,6 @@ before contributing.
     - [Contributing Guide](https://github.com/babel/babel/blob/master/CONTRIBUTING.md)
     - Issue labels:
         - [Good First Issue](https://github.com/babel/babel/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
-ilable&type=Issues&ref=searchresults)
 - TEAMMATES (org)
     - [TEAMMATES](https://github.com/TEAMMATES/teammates) (project)
         - [Contributing Guide](https://github.com/TEAMMATES/teammates/blob/master/docs/orientation-guide.md)
