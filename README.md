@@ -22,6 +22,7 @@ If you have questions or comments, please create an issue.
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612)- Do's and Don'ts on GitHub.
 - [GitHub Guides](https://guides.github.com/) - basic guides on how to use GitHub effectively.
 - [First Contributions](https://roshanjossey.github.io/first-contributions) - Make your first open source contribution in 5 minutes. A tool and tutorial to help beginners get started with contributions.
+-[Best Programming courses & tutorials](https://hackr.io)-Learn any programming languages with the best options available online.
 
 ## Direct GitHub searches
 Search links that point directly to suitable issues to contribute to on GitHub
