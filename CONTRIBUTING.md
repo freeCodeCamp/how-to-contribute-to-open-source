@@ -20,7 +20,7 @@ Issues can be submitted by anyone, seasoned developers or newbies.
     git checkout -b update-readme-file
     ```
 
-    For clarity to yourself and others on the issue you're working on, name
+    For clarification to yourself and others on the issue you're working on, name
     your branch something like `update-xxx` or `fix-xxx` where `xxx` is a short
     description of the changes you're making. For example `update-readme` or
     `fix-typo-on-contribution-md`.
@@ -76,7 +76,7 @@ Issues can be submitted by anyone, seasoned developers or newbies.
     issue you're fixing. So an example would be `Closes #42` would close issue
     `#42`.
 
-### Submitting a Pull Request
+###-->>Submitting a Pull Request
 
 What is a pull request?
 [Visit link](https://yangsu.github.io/pull-request-tutorial/)
