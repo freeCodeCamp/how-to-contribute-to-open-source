@@ -57,5 +57,9 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [Try Git](https://try.github.io/) - Learn Git in your browser for free.
 - [Git-it](https://github.com/jlord/git-it-electron) - Step by step Git tutorial desktop app.
 
+## Open Source books
+- [Producing Open Source Software](http://producingoss.com/) Producing Open Source Software is a book about the human side of open source development. It describes how successful projects operate, the expectations of users and developers, and the culture of free software
+- [opensouces books series](https://opensource.com/resources/ebooks) Learn more about open source and the growing open source movement with our comprehensive list of free ebooks from opensource.com.
+
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
