@@ -82,7 +82,7 @@ What is a pull request?
 [Visit link](https://yangsu.github.io/pull-request-tutorial/)
 
 If you decide to fix an issue, it's advisable to check the comment thread in
-case there's somebody already working on a fix. If no-one is working on it at
+case there's somebody already working on a fix. If no one is working on it at
 the moment, kindly leave a comment stating that you intend to work on it so
 other people don't accidentally duplicate your effort.
 
@@ -91,8 +91,7 @@ for a particular period of time, say 2-3 weeks, it's acceptable to still pick
 up the issue but make sure to leave a comment.
 
 *Note*: Every open-source project has a **CONTRIBUTING.md** file, please make
-sure to read theirs before you open up a pull request, otherwise your pull
-request may be rejected. However if you do not see any contributing.md file,
+sure to read this before you open up a pull request, otherwise it may be rejected. However if you do not see any contributing.md file,
 you can send a pull request but do it in a descriptive manner.
 
 ### Helpful Resources
