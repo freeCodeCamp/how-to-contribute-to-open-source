@@ -10,6 +10,15 @@ If you find additional resources, please contribute a pull request.
 
 If you have questions or comments, please create an issue.
 
+## Table of Contents
+- [Contributing to open source in general](#contributing-to-open-source-in-general)
+- [Direct GitHub searchs](#direct-github-searchs)
+- [Mozilla's contributor ecosystem](mozillas-contributor-ecosystem)
+- [Useful articles for new open source contributors](#useful-articles-for-new-open-source-contributors)
+- [Using version control](#using-version-control)
+- [Open Source books](#open-source-books)
+- [License](#license)
+
 ## Contributing to open source in general
 - [Up For Grabs](http://up-for-grabs.net/#/) - a list of projects with beginner-friendly issues.
 - [Issuehub.io](http://issuehub.io/) - a tool for searching GitHub issues by label and language.
