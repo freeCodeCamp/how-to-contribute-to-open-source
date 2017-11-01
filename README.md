@@ -12,7 +12,7 @@ If you have questions or comments, please create an issue.
 
 ## Table of Contents
 - [Contributing to open source in general](#contributing-to-open-source-in-general)
-- [Direct GitHub searchs](#direct-github-searches)
+- [Direct GitHub searches](#direct-github-searches)
 - [Mozilla's contributor ecosystem](#mozillas-contributor-ecosystem)
 - [Useful articles for new open source contributors](#useful-articles-for-new-open-source-contributors)
 - [Using version control](#using-version-control)
