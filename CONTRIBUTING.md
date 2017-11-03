@@ -92,7 +92,7 @@ up the issue but make sure to leave a comment.
 
 *Note*: Every open-source project has a **CONTRIBUTING.md** file, please make
 sure to read this before you open up a pull request, otherwise it may be
-rejected. However if you do not see any contributing.md file, you can send a
+rejected. However if you do not see any CONTRIBUTING.md file, you can send a
 pull request but do it in a descriptive manner.
 
 ### Helpful Resources
