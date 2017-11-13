@@ -31,6 +31,7 @@ If you have questions or comments, please create an issue.
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612)- Do's and Don'ts on GitHub.
 - [GitHub Guides](https://guides.github.com/) - basic guides on how to use GitHub effectively.
 - [First Contributions](https://roshanjossey.github.io/first-contributions) - Make your first open source contribution in 5 minutes. A tool and tutorial to help beginners get started with contributions.
+- [Linux Foundation Open Source Guides](https://www.linuxfoundation.org/resources/open-source-guides/) - The Linux Foundation's guides to open source projects.
 
 ## Direct GitHub searches
 Search links that point directly to suitable issues to contribute to on GitHub.
