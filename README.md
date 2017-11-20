@@ -32,7 +32,7 @@ If you have questions or comments, please create an issue.
 - [GitHub Guides](https://guides.github.com/) - basic guides on how to use GitHub effectively.
 - [First Contributions](https://roshanjossey.github.io/first-contributions) - Make your first open source contribution in 5 minutes. A tool and tutorial to help beginners get started with contributions.
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Learn the GitHub workflow by contributing code to a simulation project.
-- [Linux Foundation Open Source Guides](https://www.linuxfoundation.org/resources/open-source-guides/) - The Linux Foundation's guides to open source projects.
+- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - The Linux Foundation's guides to open source projects.
 
 ## Direct GitHub searches
 Search links that point directly to suitable issues to contribute to on GitHub.
