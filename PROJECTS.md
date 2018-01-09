@@ -48,5 +48,5 @@ before contributing.
        - [Good First Issue](https://github.com/zulip/zulip/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
        - [Help Wanted](https://github.com/zulip/zulip/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 - Great big example application (org)
-    - [Great-big-example-application](https://github.com/dancancro/great-big-angular2-example)(project)
+    - [Great-big-example-application](https://github.com/dancancro/great-big-angular2-example) (project)
     - [Contributing Guide](https://github.com/dancancro/great-big-example-application/projects/1)
