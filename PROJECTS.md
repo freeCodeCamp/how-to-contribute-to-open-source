@@ -37,7 +37,7 @@ before contributing.
         - [Good First Issue](https://github.com/babel/babel/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 - TEAMMATES (org)
     - [TEAMMATES](https://github.com/TEAMMATES/teammates) (project)
-        - [Contributing Guide](https://github.com/TEAMMATES/teammates/blob/master/docs/orientation-guide.md)
+        - [Contributing Guide](https://github.com/TEAMMATES/teammates/blob/master/docs/CONTRIBUTING.md)
         - Issue labels:
             - [d.FirstTimers](https://github.com/TEAMMATES/teammates/issues?q=is%3Aopen+is%3Aissue+label%3Ad.FirstTimers)
             - [d.Contributors](https://github.com/TEAMMATES/teammates/issues?q=is%3Aopen+is%3Aissue+label%3Ad.Contributors)
