@@ -74,6 +74,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [Pro Git](https://git-scm.com/book/en/v2) - The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress.
 - [Git-it](https://github.com/jlord/git-it-electron) - Step by step Git tutorial desktop app.
 - [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - A guide about what to do when things go wrong.
+- [A Comprehensive Introduction To Git and GitHub](https://codeburst.io/git-good-part-a-e0d826286a2a) - A guide written by Madhav Bahl, which you should see if you are new to Git or GitHub, it covers GitHub as a service and concepts of Git version control in detail.
 
 ## Open Source books
 - [Producing Open Source Software](http://producingoss.com/) - Producing Open Source Software is a book about the human side of open source development. It describes how successful projects operate, the expectations of users and developers, and the culture of free software.
