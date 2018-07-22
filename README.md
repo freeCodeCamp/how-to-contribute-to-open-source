@@ -11,7 +11,6 @@ If you find additional resources, please contribute a pull request.
 If you have questions or comments, please create an issue.
 
 ## Table of Contents
-
 - [Contributing to open source in general](#contributing-to-open-source-in-general)
 - [Direct GitHub searches](#direct-github-searches)
 - [Mozilla's contributor ecosystem](#mozillas-contributor-ecosystem)
@@ -21,7 +20,6 @@ If you have questions or comments, please create an issue.
 - [License](#license)
 
 ## Contributing to open source in general
-
 - [Up For Grabs](http://up-for-grabs.net/#/) - a list of projects with beginner-friendly issues.
 - [Issuehub.io](http://issuehub.io/) - a tool for searching GitHub issues by label and language.
 - [Code Triage](https://www.codetriage.com/) - another, really nice, tool for finding popular repositories and issues filtered by language.
@@ -37,9 +35,7 @@ If you have questions or comments, please create an issue.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - An Open Source Etiquette Guidebook, written by Kent C. Dodds And Sarah Drasner
 
 ## Direct GitHub searches
-
 Search links that point directly to suitable issues to contribute to on GitHub.
-
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
 - [is:issue is:open label:first-timers-only](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
@@ -49,7 +45,6 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
 ## Mozilla's contributor ecosystem
-
 - [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - bugs that developers have identified as a good introduction to the project.
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs that have a mentor assigned who will be there on IRC to help you when you get stuck while working on fix.
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - a site dedicated to finding bugs on Bugzilla.
@@ -58,7 +53,6 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [Start Mozilla](https://twitter.com/StartMozilla) - a Twitter account that tweets about issues fit for contributors new to the Mozilla ecosystem.
 
 ## Useful articles for new open source contributors
-
 - ["How to choose (and contribute to) your first open source project"](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
 - ["How to find your first open source bug to fix"](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) by [@Shubheksha](https://github.com/Shubheksha)
 - ["First Timers Only"](https://medium.com/@kentcdodds/first-timers-only-78281ea47455) by [@kentcdodds](https://github.com/kentcdodds)
@@ -69,7 +63,6 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - ["Mastering Markdown"](https://guides.github.com/features/mastering-markdown/) by [@GitHubGuides](https://guides.github.com/)
 
 ## Using version control
-
 - [Try Git](https://try.github.io/) - Learn Git in 15 minutes from within your browser for free.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - A useful minimum set of commands for Everyday Git.
 - [Oh shit, git!](http://ohshitgit.com/) - how to get out of common `git` mistakes described in plain English.
@@ -84,11 +77,9 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [A Comprehensive Introduction To Git and GitHub](https://codeburst.io/git-good-part-a-e0d826286a2a) - A guide written by Madhav Bahl, which you should see if you are new to Git or GitHub, it covers GitHub as a service and concepts of Git version control in detail.
 
 ## Open Source books
-
 - [Producing Open Source Software](http://producingoss.com/) - Producing Open Source Software is a book about the human side of open source development. It describes how successful projects operate, the expectations of users and developers, and the culture of free software.
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - Learn more about open source and the growing open source movement with a comprehensive list of free ebooks from https://opensource.com.
 - [Software Release Practice HOWTO](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - This HOWTO describes good release practices for Linux and other open-source projects. By following these practices, you will make it as easy as possible for users to build your code and use it, and for other developers to understand your code and cooperate with you to improve it.
 
 ## License
-
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
