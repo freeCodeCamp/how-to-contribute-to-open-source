@@ -50,3 +50,10 @@ before contributing.
 - Great big example application (org)
     - [Great-big-example-application](https://github.com/dancancro/great-big-angular2-example) (project)
     - [Contributing Guide](https://github.com/dancancro/great-big-example-application/projects/1)
+- Public Lab (org)
+    - [Plots2](https://github.com/publiclab/plots2) (project)
+        - [Contributing guide](https://github.com/publiclab/plots2/blob/master/CONTRIBUTING.md)
+        - Issue labels: 
+            - [first-timers-only](https://github.com/publiclab/plots2/issues?q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
+            - [help-wanted](https://github.com/publiclab/plots2/issues?q=is%3Aissue+is%3Aopen+label%3Ahelp-wanted)
+            - [fto-candidate](https://github.com/publiclab/plots2/issues?q=is%3Aissue+is%3Aopen+label%3Afto-candidate)
