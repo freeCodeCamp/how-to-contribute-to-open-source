@@ -53,7 +53,12 @@ before contributing.
 - Public Lab (org)
     - [Plots2](https://github.com/publiclab/plots2) (project)
         - [Contributing guide](https://github.com/publiclab/plots2/blob/master/CONTRIBUTING.md)
-        - Issue labels: 
+        - Issue labels:
             - [first-timers-only](https://github.com/publiclab/plots2/issues?q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
             - [help-wanted](https://github.com/publiclab/plots2/issues?q=is%3Aissue+is%3Aopen+label%3Ahelp-wanted)
             - [fto-candidate](https://github.com/publiclab/plots2/issues?q=is%3Aissue+is%3Aopen+label%3Afto-candidate)
+- Redfin (org)
+    - [react-server](https://react-server.io/) (project)
+        - [Contributing Guide](https://github.com/redfin/react-server/blob/master/CONTRIBUTING.md)
+        - Issue labels:
+            - [good first contribution](https://github.com/redfin/react-server/labels/good%20first%20contribution)
