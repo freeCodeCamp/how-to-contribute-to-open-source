@@ -62,3 +62,8 @@ before contributing.
         - [Contributing Guide](https://github.com/redfin/react-server/blob/master/CONTRIBUTING.md)
         - Issue labels:
             - [good first contribution](https://github.com/redfin/react-server/labels/good%20first%20contribution)
+- React (org)
+    - [React](https://github.com/facebook/react) (project)
+        - [Contributing Guide](https://reactjs.org/docs/how-to-contribute.html)
+        - Issue labels:
+            - [good first issue](https://github.com/facebook/react/issues?page=1&q=is%3Aissue+is%3Aopen)
