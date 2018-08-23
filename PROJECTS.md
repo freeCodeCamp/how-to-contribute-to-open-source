@@ -67,3 +67,8 @@ before contributing.
         - [Contributing Guide](https://reactjs.org/docs/how-to-contribute.html)
         - Issue labels:
             - [good first issue](https://github.com/facebook/react/issues?page=1&q=is%3Aissue+is%3Aopen)
+- [Casualdate](https://github.com/StellarDoor5319/casualdate) (project)
+        - [Contributing Guide](https://github.com/redfin/react-server/blob/master/CONTRIBUTING.md)
+        - Issue labels: 
+            - [good first contribution](https://github.com/StellarDoor5319/casualdate/labels/good%20first%20contribution)
+
