@@ -8,6 +8,10 @@ before contributing.
     - [Contributing Guide](https://github.com/babel/babel/blob/master/CONTRIBUTING.md)
     - Issue labels:
         - [Good First Issue](https://github.com/babel/babel/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+- [Casualdate](https://github.com/StellarDoor5319/casualdate) (project)
+    - [Contributing Guide](https://github.com/redfin/react-server/blob/master/CONTRIBUTING.md)
+    - Issue labels: 
+        - [good first contribution](https://github.com/StellarDoor5319/casualdate/labels/good%20first%20contribution)
 - freeCodeCamp (org)
     - [freeCodeCamp](https://github.com/FreeCodeCamp/FreeCodeCamp/) (project)
         - [Contributing guide](https://github.com/FreeCodeCamp/FreeCodeCamp/blob/staging/CONTRIBUTING.md)
