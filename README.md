@@ -57,7 +57,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - ["How to find your first open source bug to fix"](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) by [@Shubheksha](https://github.com/Shubheksha)
 - ["First Timers Only"](https://medium.com/@kentcdodds/first-timers-only-78281ea47455) by [@kentcdodds](https://github.com/kentcdodds)
 - ["Bring Kindness Back to Open Source"](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) by [@shanselman](https://github.com/shanselman)
-- ["Getting into Open Source for the First Time"](http://www.nearform.com/nodecrunch/first-time-with-open-source) by [@mcdonnelldean](https://github.com/mcdonnelldean)
+- ["Getting into Open Source for the First Time"](https://web.archive.org/web/20170723130443/http://www.nearform.com:80/nodecrunch/first-time-with-open-source/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
 - ["How to Contribute to Open Source"](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
 - ["How to Find a Bug in Your Code"](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
 - ["Mastering Markdown"](https://guides.github.com/features/mastering-markdown/) by [@GitHubGuides](https://guides.github.com/)
