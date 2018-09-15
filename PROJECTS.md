@@ -48,6 +48,12 @@ before contributing.
         - [Contributing Guide](https://github.com/redfin/react-server/blob/master/CONTRIBUTING.md)
         - Issue labels:
             - [good first contribution](https://github.com/redfin/react-server/labels/good%20first%20contribution)
+- Rust(org)
+    -[Rust](https://github.com/rust-lang/rust)
+    -[Contributing Guide](https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md)
+    - Issue labels:
+        -[E-easy](https://github.com/rust-lang/rust/issues?q=is%3Aissue+is%3Aopen+label%3AE-easy)
+            
 - Servo (org)
     - [Servo](https://starters.servo.org/) (project)
         - [Contributing guide](https://github.com/servo/servo/blob/master/CONTRIBUTING.md)
@@ -71,8 +77,3 @@ before contributing.
     - Issue labels:
        - [Good First Issue](https://github.com/zulip/zulip/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
        - [Help Wanted](https://github.com/zulip/zulip/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
-- Rust(org)
-    -[Rust](https://github.com/rust-lang/rust)
-    -[Contributing Guide](https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md)
-    - Issue labels:
-        -[E-easy](https://github.com/rust-lang/rust/issues?q=is%3Aissue+is%3Aopen+label%3AE-easy)
