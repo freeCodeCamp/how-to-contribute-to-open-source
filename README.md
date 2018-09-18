@@ -61,6 +61,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - ["How to Contribute to Open Source"](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
 - ["How to Find a Bug in Your Code"](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
 - ["Mastering Markdown"](https://guides.github.com/features/mastering-markdown/) by [@GitHubGuides](https://guides.github.com/)
+- ["First mission: Contributors page"](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
 
 ## Using version control
 - [Think Like (a) Git](http://think-like-a-git.net/) - Git introduction for "advanced beginners," but are still struggling, in order to give you a simple strategy to safely experiment with git.
