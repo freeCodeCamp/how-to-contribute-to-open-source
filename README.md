@@ -1,4 +1,7 @@
+
 # Welcome newbie Open Source Contributors!
+
+#This is the best place to start contributing to open source, it has all necessary details and repository link to get started with.
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
