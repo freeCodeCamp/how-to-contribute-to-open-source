@@ -21,7 +21,7 @@ before contributing.
 - Great big example application (org)
     - [Great-big-example-application](https://github.com/dancancro/great-big-angular2-example) (project)
     - [Contributing Guide](https://github.com/dancancro/great-big-example-application/projects/1)
-- Metamaps (org)
+- [Metamaps (org)](https://github.com/metamaps)
     - [Metamaps](https://github.com/metamaps/metamaps)
         - [Contribution Guide](https://github.com/metamaps/metamaps/blob/develop/doc/CONTRIBUTING.md)
 - nteract (org)
