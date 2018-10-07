@@ -2,6 +2,7 @@
 
 HOW TO CONTRIBUTE TO OPEN SOURCE accepts PR's(pull requests) from **newbies**
 only, this is to help **newbies** get familiar with contribution processes.
+This is really fun.
 
 Issues can be submitted by anyone, seasoned developers or newbies.
 
