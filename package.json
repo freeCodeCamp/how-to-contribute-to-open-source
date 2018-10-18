@@ -1,5 +1,5 @@
 {
-  "name": "how-to-contribute-to-open-source",
+  "name": 'how-to-contribute-to-open-source',
   "version": "1.0.0",
   "description": "This is a list of resources for people who are new to contributing to open source.",
   "main": "index.js",
