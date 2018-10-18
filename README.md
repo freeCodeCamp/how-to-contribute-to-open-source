@@ -20,6 +20,7 @@ If you have questions or comments, please create an issue.
 - [License](#license)
 
 ## Contributing to open source in general
+- [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials to guide you on your way to contribution success here on GitHub. [@digitalocean]
 - [Up For Grabs](http://up-for-grabs.net/#/) - a list of projects with beginner-friendly issues.
 - [Issuehub.io](http://issuehub.io/) - a tool for searching GitHub issues by label and language.
 - [Code Triage](https://www.codetriage.com/) - another, really nice, tool for finding popular repositories and issues filtered by language.
