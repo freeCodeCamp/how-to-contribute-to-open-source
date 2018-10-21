@@ -55,6 +55,7 @@ Issues can be submitted by anyone, seasoned developers or newbies.
 
     Note, using a `git add .` will automatically add all files. You can do a
     `git status` to see your changes, but do it before `git add`.
+    
 
 6.  Commit your changes using a descriptive commit message.
 
