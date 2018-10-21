@@ -102,3 +102,4 @@ pull request but do it in a descriptive manner.
 - [Try Git](https://try.github.io/)
 
 - [Git/ Git Hub on Windows](https://www.youtube.com/watch?v=J_Clau1bYco)
+- [Visual Guide for learning GIT] (https://betterexplained.com/articles/a-visual-guide-to-version-control/)
