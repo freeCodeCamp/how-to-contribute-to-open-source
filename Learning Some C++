@@ -1,0 +1,9 @@
+Using Visual Studio
+//print1.cpp: Defines the entry point
+//
+#include "stdafx"
+int_tmain(int arg, _TCHAR* argv[])
+{
+  cout <<"Learning some C++";
+    return 0;
+}
