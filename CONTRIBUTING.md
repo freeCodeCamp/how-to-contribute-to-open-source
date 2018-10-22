@@ -7,13 +7,21 @@ Issues can be submitted by anyone, seasoned developers or newbies.
 
 ### Getting Started
 
-1.  If you are new to Git and Github, it is advisable you go through [this
-    link](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
+1.  If you are new to Git and Github, it is advisable you go through [GitHub For Beginners](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
     before moving to the next step.
 
 2.  Fork the project on Github, [Help Guide to Fork a repository](https://help.github.com/articles/fork-a-repo/).
-[![Screen Shot 2016-10-06 at 11.46.47 PM.png](https://s13.postimg.org/5yvhu7vpz/Screen_Shot_2016_10_06_at_11_46_47_PM.png)](https://postimg.org/image/6oea6kw9f/)
+
+
+    <html>
+        <img src="https://hisham.hm/img/posts/github-fork.png" alt="Illustration for how to fork a repository"
+        </img>
+    </html>
 3.  Clone the project.
+    <html>
+        <img src="https://services.github.com/on-demand/images/gifs/github-desktop/clone-repository-locally.gif" alt="Illustration for how to clone the project"
+        </img>
+    </html>
 4.  Create a branch specific to the issue you are working on.
 
     ```shell
@@ -79,7 +87,7 @@ Issues can be submitted by anyone, seasoned developers or newbies.
 ### Submitting a Pull Request
 
 What is a pull request?
-[Visit link](https://yangsu.github.io/pull-request-tutorial/)
+[Pull Request Tutorial](https://yangsu.github.io/pull-request-tutorial/)
 
 If you decide to fix an issue, it's advisable to check the comment thread in
 case there's somebody already working on a fix. If no one is working on it at
