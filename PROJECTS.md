@@ -24,7 +24,7 @@ before contributing.
     - [Development Kit](https://gitlab.com/gitlab-org/gitlab-development-kit)
     - Issue labels:
         - [1st contribution](https://gitlab.com/gitlab-org/gitlab-ce/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=1st%20contribution)
--GNOME (org)
+- GNOME (org)
     -[Contributing Guide](https://wiki.gnome.org/Newcomers)
 - Great big example application (org)
     - [Great-big-example-application](https://github.com/dancancro/great-big-angular2-example) (project)
