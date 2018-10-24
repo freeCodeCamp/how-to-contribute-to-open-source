@@ -29,6 +29,10 @@ before contributing.
 - Great big example application (org)
     - [Great-big-example-application](https://github.com/dancancro/great-big-angular2-example) (project)
     - [Contributing Guide](https://github.com/dancancro/great-big-example-application/projects/1)
+- [Hoa](https://hoa-project.net) (project)
+    - [Contributing Guide](https://hoa-project.net/En/Literature/Contributor/Guide.html)
+    - Issue labels:
+        - [casual](https://waffle.io/hoaproject/Central?search=difficulty:%20casual)
 - [Metamaps](https://github.com/metamaps) (org)
     - [Metamaps](https://github.com/metamaps/metamaps) (project)
         - [Contribution Guide](https://github.com/metamaps/metamaps/blob/develop/doc/CONTRIBUTING.md)
