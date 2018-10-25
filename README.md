@@ -18,7 +18,7 @@ If you have questions or comments, please create an issue.
 - [Using version control](#using-version-control)
 - [Open Source books](#open-source-books)
 - [License](#license)
-
+change
 ## Contributing to open source in general
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials by DigitalOcean to guide you on your way to contribution success here on GitHub.
 - [Up For Grabs](http://up-for-grabs.net/#/) - a list of projects with beginner-friendly issues.
