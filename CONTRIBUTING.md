@@ -7,13 +7,18 @@ Issues can be submitted by anyone, seasoned developers or newbies.
 
 ### Getting Started
 
-1.  If you are new to Git and Github, it is advisable you go through [this
-    link](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
+1.  If you are new to Git and Github, it is advisable you go through
+    [GitHub For Beginners](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
     before moving to the next step.
 
-2.  Fork the project on Github, [Help Guide to Fork a repository](https://help.github.com/articles/fork-a-repo/).
+2.  Fork the project on Github,
+    [Help Guide to Fork a repository](https://help.github.com/articles/fork-a-repo/).
+
+    ![Illustration for how to fork a repository](https://hisham.hm/img/posts/github-fork.png)
 
 3.  Clone the project.
+
+    ![Illustration for how to clone the project](https://services.github.com/on-demand/images/gifs/github-desktop/clone-repository-locally.gif)
 
 4.  Create a branch specific to the issue you are working on.
 
@@ -30,9 +35,10 @@ Issues can be submitted by anyone, seasoned developers or newbies.
     to contribute to and make your changes.
 
     If you are making changes to the README.md file, you would need to have
-    Markdown knowledge. Visit [here to read about Github
-    Markdown](https://guides.github.com/features/mastering-markdown/) and [here
-    to practice](http://www.markdowntutorial.com/)
+    Markdown knowledge. Visit
+    [here to read about GitHub Markdown](https://guides.github.com/features/mastering-markdown/)
+    and
+    [here to practice](http://www.markdowntutorial.com/).
 
     *   If you are adding a new project/organisation to the README, make sure
         it's listed in alphabetical order.
@@ -41,8 +47,8 @@ Issues can be submitted by anyone, seasoned developers or newbies.
         from organisation projects.
 
 6.  After making your changes in the new git branch then add your modified
-    files to git, [How to add, commit, push and
-    go](http://readwrite.com/2013/10/02/github-for-beginners-part-2/)
+    files to git,
+    [How to add, commit, push and go](http://readwrite.com/2013/10/02/github-for-beginners-part-2/).
 
     ```shell
     git add path/to/filename.ext
@@ -79,8 +85,7 @@ Issues can be submitted by anyone, seasoned developers or newbies.
 
 ### Submitting a Pull Request
 
-What is a pull request?
-[Visit link](https://yangsu.github.io/pull-request-tutorial/)
+[What is a pull request?](https://yangsu.github.io/pull-request-tutorial/)
 
 If you decide to fix an issue, it's advisable to check the comment thread in
 case there's somebody already working on a fix. If no one is working on it at
