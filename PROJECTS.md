@@ -12,9 +12,9 @@ before contributing.
     - [Contributing Guide](https://pybee.org/contributing/how/first-time/)
     - [BeeWare](https://github.com/pybee) (project)
         - [Batavia](https://github.com/pybee/batavia)
-  			    - Issue labels:
+  		    - Issue labels:
                 - [first-timers-only](https://github.com/pybee/batavia/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
-        - [Voc](https://github.com/pybee/voc)
+        - [VOC](https://github.com/pybee/voc)
             - Issue labels:
                 - [first-timers-only](https://github.com/pybee/voc/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
 - [Casualdate](https://github.com/StellarDoor5319/casualdate) (project)
