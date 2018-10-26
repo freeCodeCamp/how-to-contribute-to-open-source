@@ -1,6 +1,6 @@
 # Contributor's Guide
 
-HOW TO CONTRIBUTE TO OPEN SOURCE accepts PR's(pull requests) from **newbies**
+HOW TO CONTRIBUTE TO OPEN SOURCE accepts PR's (pull requests) from **newbies**
 only, this is to help **newbies** get familiar with contribution processes.
 
 Issues can be submitted by anyone, seasoned developers or newbies.
@@ -12,8 +12,9 @@ Issues can be submitted by anyone, seasoned developers or newbies.
     before moving to the next step.
 
 2.  Fork the project on Github, [Help Guide to Fork a repository](https://help.github.com/articles/fork-a-repo/).
-[![Screen Shot 2016-10-06 at 11.46.47 PM.png](https://s13.postimg.org/5yvhu7vpz/Screen_Shot_2016_10_06_at_11_46_47_PM.png)](https://postimg.org/image/6oea6kw9f/)
+
 3.  Clone the project.
+
 4.  Create a branch specific to the issue you are working on.
 
     ```shell
