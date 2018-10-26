@@ -18,6 +18,7 @@ If you have questions or comments, please create an issue.
 - [Using version control](#using-version-control)
 - [Open Source books](#open-source-books)
 - [License](#license)
+- [Open Source Contribution Initiatives](#open-source-contribution-initiatives)
 
 ## Contributing to open source in general
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials by DigitalOcean to guide you on your way to contribution success here on GitHub.
@@ -90,6 +91,13 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - Learn more about open source and the growing open source movement with a comprehensive list of free eBooks from https://opensource.com.
 - [Software Release Practice HOWTO](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - This HOWTO describes good release practices for Linux and other open-source projects. By following these practices, you will make it as easy as possible for users to build your code and use it, and for other developers to understand your code and cooperate with you to improve it.
 -[Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 is a collection of insightful and thought-provoking essays from today's technology leaders that continues painting the evolutionary picture that developed in the 1999 book, Open Sources: Voices from the Revolution. 
+
+## Open Source Contribution Initiatives
+
+- [Up For Grabs](http://up-for-grabs.net/#/) - Contains projects with beginner friendly issues
+- [First Timers Only](http://www.firsttimersonly.com/) - a list of bugs that are labelled "first-timers-only".
+- [First Contributions](https://firstcontributions.github.io/) - Make your first open source contribution in 5 minutes. A tool and tutorial to help beginners get started with contributions.
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - A program to encourage open source contributions. Earn gifts like t-shirts and stickers by making at least 5 pull requests in the month of October.
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
