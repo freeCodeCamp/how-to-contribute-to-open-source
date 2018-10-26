@@ -12,13 +12,24 @@ before contributing.
     - [Contributing Guide](https://github.com/redfin/react-server/blob/master/CONTRIBUTING.md)
     - Issue labels: 
         - [good first contribution](https://github.com/StellarDoor5319/casualdate/labels/good%20first%20contribution)
+- [Docker](https://github.com/docker) (project)
+    - [Contributing Guide](https://docs.docker.com/opensource/)
+    - Issue labels:
+        - [Open Issue](https://github.com/search?q=org%3Adocker+is%3Aissue+is%3Aopen)
+        - [exp/beginner](https://github.com/docker/docker/issues?q=is%3Aopen+is%3Aissue+label%3Aexp%2Fbeginner+sort%3Aupdated-desc)
 - freeCodeCamp (org)
     - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/) (project)
         - [Contributing guide](https://github.com/freeCodeCamp/freeCodeCamp/blob/master/CONTRIBUTING.md)
         - Issue labels:
             - [first-timers-only](https://github.com/FreeCodeCamp/FreeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
             - [help wanted](https://github.com/freeCodeCamp/freeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
--GNOME (org)
+- [GitLab](https://gitlab.com/gitlab-org) (org)
+    - [Contributing Guide](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md)
+    - [Development Guides](https://docs.gitlab.com/ce/development/README.html)
+    - [Development Kit](https://gitlab.com/gitlab-org/gitlab-development-kit)
+    - Issue labels:
+        - [1st contribution](https://gitlab.com/gitlab-org/gitlab-ce/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=1st%20contribution)
+- GNOME (org)
     -[Contributing Guide](https://wiki.gnome.org/Newcomers)
 - Great big example application (org)
     - [Great-big-example-application](https://github.com/dancancro/great-big-angular2-example) (project)
