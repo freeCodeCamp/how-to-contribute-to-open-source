@@ -10,6 +10,9 @@ If you find additional resources, please contribute a pull request.
 
 If you have questions or comments, please create an issue.
 
+Create pull request or suggest an edit.
+
+
 ## Table of Contents
 - [Contributing to open source in general](#contributing-to-open-source-in-general)
 - [Direct GitHub searches](#direct-github-searches)
