@@ -93,3 +93,11 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+
+## Open source contribution initiatives
+- [Open source contribution intiatives](#open-source-contribution-initiatives).
+- [Up For Grabs](http://up-for-grabs.net/#/) - a list of projects with beginner-friendly issues.
+- [Issuehub.io](http://issuehub.io/) - a tool for searching GitHub issues by label and language.
+- [Code Triage](https://www.codetriage.com/) - another, really nice, tool for finding popular repositories and issues filtered by language.
+- [First Timers Only](http://www.firsttimersonly.com/) - a list of bugs that are labelled "first-timers-only".
