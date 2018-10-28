@@ -21,15 +21,15 @@ Se hai domande o commenti, crea un problema/issue.
 
 ## Contribuire all'open source in generale
 - [Un'introduzione all'open source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorial di DigitalOcean per guidarti nel tuo modo di contribuire con successo qui su GitHub.
-- [In palio](http://up-for-grabs.net/#/) - un elenco di progetti con problemi per i principianti.
-- [Issuehub.io](http://issuehub.io/) - uno strumento per cercare i problemi di GitHub per etichetta e lingua.
-- [Code Triage](https://www.codetriage.com/) - un altro, davvero bello, strumento per trovare depositi di code/repositories e problemi popolari filtrati per lingua.
-- [Solo per i principianti](http://www.firsttimersonly.com/) - un elenco di bug/errore di codice etichettati come "first-timer-only(Solo per i principianti)".
-- [La tua prima richiesta di aggiunta (Pull Request)](https://twitter.com/yourfirstpr) - problemi di avviamento su GitHub che possono essere facilmente affrontati dai nuovi contributori.
-- [Awesome-for-beginners(Meraviglioso-per-principianti)](https://github.com/MunGell/awesome-for-beginners) - un deposito/repository GitHub che raccoglie progetti con buoni bug/errori per i nuovi contributori e applica etichette per descriverli.
+- [In palio](http://up-for-grabs.net/#/) - Un elenco di progetti con problemi per i principianti.
+- [Issuehub.io](http://issuehub.io/) - Uno strumento per cercare i problemi di GitHub per etichetta e lingua.
+- [Code Triage](https://www.codetriage.com/) - Un altro, davvero bello, strumento per trovare depositi di code/repositories e problemi popolari filtrati per lingua.
+- [Solo per i principianti](http://www.firsttimersonly.com/) - Un elenco di bug/errore di codice etichettati come "first-timer-only(Solo per i principianti)".
+- [La tua prima richiesta di aggiunta (Pull Request)](https://twitter.com/yourfirstpr) - Problemi di avviamento su GitHub che possono essere facilmente affrontati dai nuovi contributori.
+- [Awesome-for-beginners(Meraviglioso-per-principianti)](https://github.com/MunGell/awesome-for-beginners) - Un deposito/repository GitHub che raccoglie progetti con buoni bug/errori per i nuovi contributori e applica etichette per descriverli.
 - [Guide per l'Open Source Guides](https://opensource.guide/) - Raccolta di risorse per individui, comunità e aziende che desiderano imparare come eseguire e contribuire a un progetto open source.
 - [45 Github problemi i Pro e i Contro](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Cosa fare e cosa non fare su GitHub.
-- [Guide GitHub](https://guides.github.com/) - guide di base su come utilizzare GitHub in modo efficace.
+- [Guide GitHub](https://guides.github.com/) - Guide di base su come utilizzare GitHub in modo efficace.
 - [Il primo contributo](https://firstcontributions.github.io/) - Crea il tuo primo contributo open source in 5 minuti. Uno strumento e un tutorial per aiutare i principianti a iniziare con i contributi.
 - [Contribuisci all'open source](https://github.com/danthareja/contribute-to-open-source) - Impara il flusso di lavoro GitHub contribuendo con il codice a un progetto simulato.
 - [Guide all'open source di Linux Foundation per le Aziende](https://www.linuxfoundation.org/resources/open-source-guides/) - Le guide della Fondazione Linux per progetti open source.
@@ -37,22 +37,22 @@ Se hai domande o commenti, crea un problema/issue.
 
 ## Ricerche GitHub dirette
 
-- [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner) per principianti
-- [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy) facile
+- [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner) Per principianti
+- [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy) Facile
 - [is:issue is:open label:first-timers-only](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only) solo per i principianti
-- [is:issue is:open label:good-first-bug](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Agood-first-bug) primi bug/errori buoni
-- [is:issue is:open label:"good first issue"](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A"good+first+issue") primo problema/issue buona
-- [is:issue is:open label:starter](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Astarter) per iniziare
-- [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs) in palio
+- [is:issue is:open label:good-first-bug](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Agood-first-bug) Primi bug/errori buoni
+- [is:issue is:open label:"good first issue"](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A"good+first+issue") Primo problema/issue buona
+- [is:issue is:open label:starter](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Astarter) Per iniziare
+- [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs) In palio
 
 
 ## L'ecosistema del contributore di Mozilla
-- [primi bug/errori buoni](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - bug/errori che gli sviluppatori hanno identificato come una buona introduzione al progetto.
-- [Bug/errori mentori](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bug/errori a cui è stato assegnato un mentore che sarà presente su IRC per aiutarti quando rimani bloccato mentre lavori sulla correzione.
-- [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - un sito dedicato alla ricerca di bug/errori su Bugzilla.
-- [Strumenti Firefox per programmatori/sviluppatori DevTools](http://firefox-dev.tools/) - un sito dedicato ai bug/errori archiviati per gli strumenti di sviluppo nel browser Firefox.
-- [Cosa posso fare per Mozilla](http://whatcanidoformozilla.org/) -  scopri su cosa puoi lavorare rispondendo a una serie di domande sul tuo set di abilità e sui tuoi interessi.
-- [Avvia Mozilla](https://twitter.com/StartMozilla) - un account Twitter che pubblica argomenti adatti per i contributori nuovi dell'ecosistema Mozilla.
+- [primi bug/errori buoni](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - Bug/errori che gli sviluppatori hanno identificato come una buona introduzione al progetto.
+- [Bug/errori mentori](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - Bug/errori a cui è stato assegnato un mentore che sarà presente su IRC per aiutarti quando rimani bloccato mentre lavori sulla correzione.
+- [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - Un sito dedicato alla ricerca di bug/errori su Bugzilla.
+- [Strumenti Firefox per programmatori/sviluppatori DevTools](http://firefox-dev.tools/) - Un sito dedicato ai bug/errori archiviati per gli strumenti di sviluppo nel browser Firefox.
+- [Cosa posso fare per Mozilla](http://whatcanidoformozilla.org/) -  Scopri su cosa puoi lavorare rispondendo a una serie di domande sul tuo set di abilità e sui tuoi interessi.
+- [Avvia Mozilla](https://twitter.com/StartMozilla) - Un account Twitter che pubblica argomenti adatti per i contributori nuovi dell'ecosistema Mozilla.
 
 ## Articoli utili per i nuovi contributori all'open source
 - ["Come scegliere (e contribuire) al tuo primo progetto open source"](https://github.com/collections/choosing-projects) di [@GitHub](https://github.com/github)
@@ -71,7 +71,7 @@ Se hai domande o commenti, crea un problema/issue.
 - [Pensa come (un) Git (stupido)](http://think-like-a-git.net/) - L'Introduzione a Git per i "principianti avanzati", ma hanno ancora difficoltà, al fine di darti una semplice strategia per sperimentare in sicurezza con git.
 - [Prova Git](https://try.github.io/) - Impara Git in 15 minuti dal tuo browser gratuitamente.
 - [Ogni giorno Git](https://git-scm.com/docs/giteveryday) - Un utile set minimo di comandi per Git da usare ogni giorno.
-- [Oh mio Dio, git!](http://ohshitgit.com/) - come uscire dagli errori di `git` comuni descritti in inglese semplice.
+- [Oh mio Dio, git!](http://ohshitgit.com/) - Come uscire dagli errori di `git` comuni descritti in inglese semplice.
 - [Atlassian Git Tutoriali](https://www.atlassian.com/git/tutorials/) - vari tutorial sull'uso di `git`.
 - [foglietto di imbroglio  di GitHub Git](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
 - [Wiki di freeCodeCamp sulle risorse di Git](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
