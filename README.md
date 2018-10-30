@@ -33,7 +33,7 @@ If you have questions or comments, please create an issue.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - An Open Source Etiquette Guidebook, written by Kent C. Dodds And Sarah Drasner.
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Curated list of resources and opportunities for college students to learn a new coding language.
 - [Contributing to your First Open Source Project: A Practical Approach](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - A step-by-step approach to contributing to your first open source project by [Abati Adewale](https://www.acekyd.com).
-- [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests is a project to promote open source collaboration during the month of December.
+- [Pull Request Roulette](http://www.pullrequestroulette.com/) - This site has a list of pull requests submitted for review belonging to open source projects hosted on Github. 
 
 ## Direct GitHub searches
 Search links that point directly to suitable issues to contribute to on GitHub.
@@ -83,6 +83,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - A guide about what to do when things go wrong.
 - [A Comprehensive Introduction To Git and GitHub](https://codeburst.io/git-good-part-a-e0d826286a2a) - A guide written by Madhav Bahl, which you should see if you are new to Git or GitHub, it covers GitHub as a service and concepts of Git version control in detail.
 - [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - A complete guide of slides about git and GitHub explained in Spanish. Una guía completa de diapositivas sobre git y GitHub explicadas en Español.
+- [Git Kraken](https://www.gitkraken.com/git-client) - Visual, cross-platform, and interactive `git` desktop application for version control.
 
 ## Open Source books
 - [Producing Open Source Software](http://producingoss.com/) - Producing Open Source Software is a book about the human side of open source development. It describes how successful projects operate, the expectations of users and developers, and the culture of free software.
@@ -95,6 +96,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [First Timers Only](http://www.firsttimersonly.com/) - A list of bugs that are labelled "first-timers-only".
 - [First Contributions](https://firstcontributions.github.io/) - Make your first open source contribution in 5 minutes. A tool and tutorial to help beginners get started with contributions.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - A program to encourage open source contributions. Earn gifts like t-shirts and stickers by making at least 5 pull requests in the month of October.
+- [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests is a project to promote open source collaboration during the month of December.
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
