@@ -26,7 +26,7 @@ before contributing.
         - [Open Issue](https://github.com/search?q=org%3Adocker+is%3Aissue+is%3Aopen)
         - [exp/beginner](https://github.com/docker/docker/issues?q=is%3Aopen+is%3Aissue+label%3Aexp%2Fbeginner+sort%3Aupdated-desc)
 - [Fly.io](https://github.com/superfly/fly) (org)
-    - [Readme](https://github.com/superfly/fly/blob/master/README.md)
+    - [README](https://github.com/superfly/fly/blob/master/README.md)
     - [Contributing Guide](https://github.com/superfly/fly/blob/master/CONTRIBUTING.md)
     - [open issues](https://github.com/superfly/fly/issues)
 - [freeCodeCamp](https://www.freecodecamp.org/) (org)
