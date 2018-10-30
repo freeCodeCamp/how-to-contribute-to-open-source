@@ -25,7 +25,11 @@ before contributing.
     - Issue labels:
         - [Open Issue](https://github.com/search?q=org%3Adocker+is%3Aissue+is%3Aopen)
         - [exp/beginner](https://github.com/docker/docker/issues?q=is%3Aopen+is%3Aissue+label%3Aexp%2Fbeginner+sort%3Aupdated-desc)
-- freeCodeCamp (org)
+- [Fly.io](https://github.com/superfly/fly) (org)
+    - [README](https://github.com/superfly/fly/blob/master/README.md)
+    - [Contributing Guide](https://github.com/superfly/fly/blob/master/CONTRIBUTING.md)
+    - [open issues](https://github.com/superfly/fly/issues)
+- [freeCodeCamp](https://www.freecodecamp.org/) (org)
     - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/) (project)
         - [Contributing guide](https://github.com/freeCodeCamp/freeCodeCamp/blob/master/CONTRIBUTING.md)
         - Issue labels:
@@ -37,7 +41,7 @@ before contributing.
     - [Development Kit](https://gitlab.com/gitlab-org/gitlab-development-kit)
     - Issue labels:
         - [1st contribution](https://gitlab.com/gitlab-org/gitlab-ce/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=1st%20contribution)
-- GNOME (org)
+- [GNOME](https://www.gnome.org/) (org)
     - [Contributing Guide](https://wiki.gnome.org/Newcomers)
 - Great big example application (org)
     - [Great-big-example-application](https://github.com/dancancro/great-big-angular2-example) (project)
@@ -46,7 +50,7 @@ before contributing.
     - [Contributing Guide](https://hoa-project.net/En/Literature/Contributor/Guide.html)
     - Issue labels:
         - [casual](https://waffle.io/hoaproject/Central?search=difficulty:%20casual)
-- [Metamaps](https://github.com/metamaps) (org)
+- [Metamaps](https://metamaps.cc/) (org)
     - [Metamaps](https://github.com/metamaps/metamaps) (project)
         - [Contribution Guide](https://github.com/metamaps/metamaps/blob/develop/doc/CONTRIBUTING.md)
 - nteract (org)

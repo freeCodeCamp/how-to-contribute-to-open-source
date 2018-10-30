@@ -32,7 +32,7 @@ If you have questions or comments, please create an issue.
 - [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - The Linux Foundation's guides to open source projects.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - An Open Source Etiquette Guidebook, written by Kent C. Dodds And Sarah Drasner.
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Curated list of resources and opportunities for college students to learn a new coding language.
-- [Contributing to your First Open Source Project: A Practical Approach](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - A step-by-step approach to contributing to your first open dource project by [Abati Adewale](https://www.acekyd.com).
+- [Contributing to your First Open Source Project: A Practical Approach](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - A step-by-step approach to contributing to your first open source project by [Abati Adewale](https://www.acekyd.com).
 - [Pull Request Roulette](http://www.pullrequestroulette.com/) - This site has a list of pull requests submitted for review belonging to open source projects hosted on Github. 
 
 ## Direct GitHub searches
@@ -83,6 +83,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - A guide about what to do when things go wrong.
 - [A Comprehensive Introduction To Git and GitHub](https://codeburst.io/git-good-part-a-e0d826286a2a) - A guide written by Madhav Bahl, which you should see if you are new to Git or GitHub, it covers GitHub as a service and concepts of Git version control in detail.
 - [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - A complete guide of slides about git and GitHub explained in Spanish. Una guía completa de diapositivas sobre git y GitHub explicadas en Español.
+- [Git Kraken](https://www.gitkraken.com/git-client) - Visual, cross-platform, and interactive `git` desktop application for version control.
 
 ## Open Source books
 - [Producing Open Source Software](http://producingoss.com/) - Producing Open Source Software is a book about the human side of open source development. It describes how successful projects operate, the expectations of users and developers, and the culture of free software.
