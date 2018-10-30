@@ -33,6 +33,7 @@ If you have questions or comments, please create an issue.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - An Open Source Etiquette Guidebook, written by Kent C. Dodds And Sarah Drasner.
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Curated list of resources and opportunities for college students to learn a new coding language.
 - [Contributing to your First Open Source Project: A Practical Approach](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - A step-by-step approach to contributing to your first open source project by [Abati Adewale](https://www.acekyd.com).
+- [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests is a project to promote open source collaboration during the month of December.
 
 ## Direct GitHub searches
 Search links that point directly to suitable issues to contribute to on GitHub.
