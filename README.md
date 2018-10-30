@@ -33,6 +33,8 @@ If you have questions or comments, please create an issue.
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Learn the GitHub workflow by contributing code to a simulation project.
 - [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - The Linux Foundation's guides to open source projects.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - An Open Source Etiquette Guidebook, written by Kent C. Dodds And Sarah Drasner.
+- [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Curated list of resources and opportunities for college students to learn a new coding language.
+- [Contributing to your First Open Source Project: A Practical Approach](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - A step-by-step approach to contributing to your first open dource project by [Abati Adewale](https://www.acekyd.com).
 
 ## Direct GitHub searches
 Search links that point directly to suitable issues to contribute to on GitHub.
@@ -64,6 +66,8 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - ["First mission: Contributors page"](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
 - ["How to make your first open source contribution in just 5 minutes"](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) by [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
 - ["Hacktoberfest 2018: How you can get your free shirt — even if you’re new to coding"](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) by [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
+- ["A Bitter Guide To Open Source"](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
+- ["A junior developer’s step-by-step guide to contributing to open source for the first time"](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) by [@LetaKeane](http://www.letakeane.com/)
 
 ## Using version control
 - [Think Like (a) Git](http://think-like-a-git.net/) - Git introduction for "advanced beginners," but are still struggling, in order to give you a simple strategy to safely experiment with git.
@@ -79,6 +83,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [Git-it](https://github.com/jlord/git-it-electron) - Step by step Git tutorial desktop app.
 - [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - A guide about what to do when things go wrong.
 - [A Comprehensive Introduction To Git and GitHub](https://codeburst.io/git-good-part-a-e0d826286a2a) - A guide written by Madhav Bahl, which you should see if you are new to Git or GitHub, it covers GitHub as a service and concepts of Git version control in detail.
+- [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - A complete guide of slides about git and GitHub explained in Spanish. Una guía completa de diapositivas sobre git y GitHub explicadas en Español.
 
 ## Open Source books
 - [Producing Open Source Software](http://producingoss.com/) - Producing Open Source Software is a book about the human side of open source development. It describes how successful projects operate, the expectations of users and developers, and the culture of free software.

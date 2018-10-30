@@ -8,10 +8,23 @@ before contributing.
     - [Contributing Guide](https://github.com/babel/babel/blob/master/CONTRIBUTING.md)
     - Issue labels:
         - [Good First Issue](https://github.com/babel/babel/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+- [BeeWare](https://pybee.org/) (org)
+    - [Contributing Guide](https://pybee.org/contributing/how/first-time/)
+    - [Batavia](https://github.com/pybee/batavia) (project)
+        - Issue labels:
+            - [first-timers-only](https://github.com/pybee/batavia/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
+    - [VOC](https://github.com/pybee/voc) (project)
+        - Issue labels:
+            - [first-timers-only](https://github.com/pybee/voc/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
 - [Casualdate](https://github.com/StellarDoor5319/casualdate) (project)
     - [Contributing Guide](https://github.com/redfin/react-server/blob/master/CONTRIBUTING.md)
     - Issue labels: 
         - [good first contribution](https://github.com/StellarDoor5319/casualdate/labels/good%20first%20contribution)
+- [Docker](https://github.com/docker) (project)
+    - [Contributing Guide](https://docs.docker.com/opensource/)
+    - Issue labels:
+        - [Open Issue](https://github.com/search?q=org%3Adocker+is%3Aissue+is%3Aopen)
+        - [exp/beginner](https://github.com/docker/docker/issues?q=is%3Aopen+is%3Aissue+label%3Aexp%2Fbeginner+sort%3Aupdated-desc)
 - freeCodeCamp (org)
     - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/) (project)
         - [Contributing guide](https://github.com/freeCodeCamp/freeCodeCamp/blob/master/CONTRIBUTING.md)
@@ -25,10 +38,14 @@ before contributing.
     - Issue labels:
         - [1st contribution](https://gitlab.com/gitlab-org/gitlab-ce/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=1st%20contribution)
 - GNOME (org)
-    -[Contributing Guide](https://wiki.gnome.org/Newcomers)
+    - [Contributing Guide](https://wiki.gnome.org/Newcomers)
 - Great big example application (org)
     - [Great-big-example-application](https://github.com/dancancro/great-big-angular2-example) (project)
     - [Contributing Guide](https://github.com/dancancro/great-big-example-application/projects/1)
+- [Hoa](https://hoa-project.net) (project)
+    - [Contributing Guide](https://hoa-project.net/En/Literature/Contributor/Guide.html)
+    - Issue labels:
+        - [casual](https://waffle.io/hoaproject/Central?search=difficulty:%20casual)
 - [Metamaps](https://github.com/metamaps) (org)
     - [Metamaps](https://github.com/metamaps/metamaps) (project)
         - [Contribution Guide](https://github.com/metamaps/metamaps/blob/develop/doc/CONTRIBUTING.md)
