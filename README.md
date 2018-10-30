@@ -17,20 +17,17 @@ If you have questions or comments, please create an issue.
 - [Useful articles for new open source contributors](#useful-articles-for-new-open-source-contributors)
 - [Using version control](#using-version-control)
 - [Open Source books](#open-source-books)
+- [Open Source contribution initiatives](#open-source-contribution-initiatives)
 - [License](#license)
-- [Open Source Contribution Initiatives](#open-source-contribution-initiatives)
 
 ## Contributing to open source in general
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials by DigitalOcean to guide you on your way to contribution success here on GitHub.
-- [Up For Grabs](http://up-for-grabs.net/#/) - a list of projects with beginner-friendly issues.
 - [Issuehub.io](http://issuehub.io/) - a tool for searching GitHub issues by label and language.
 - [Code Triage](https://www.codetriage.com/) - another, really nice, tool for finding popular repositories and issues filtered by language.
-- [First Timers Only](http://www.firsttimersonly.com/) - a list of bugs that are labelled "first-timers-only".
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - a GitHub repo that amasses projects with good bugs for new contributors, and applies labels to describe them.
 - [Open Source Guides](https://opensource.guide/) - Collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open source project.
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Do's and Don'ts on GitHub.
 - [GitHub Guides](https://guides.github.com/) - basic guides on how to use GitHub effectively.
-- [First Contributions](https://firstcontributions.github.io/) - Make your first open source contribution in 5 minutes. A tool and tutorial to help beginners get started with contributions.
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Learn the GitHub workflow by contributing code to a simulation project.
 - [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - The Linux Foundation's guides to open source projects.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - An Open Source Etiquette Guidebook, written by Kent C. Dodds And Sarah Drasner.
@@ -92,10 +89,9 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [Software Release Practice HOWTO](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - This HOWTO describes good release practices for Linux and other open-source projects. By following these practices, you will make it as easy as possible for users to build your code and use it, and for other developers to understand your code and cooperate with you to improve it.
 -[Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 is a collection of insightful and thought-provoking essays from today's technology leaders that continues painting the evolutionary picture that developed in the 1999 book, Open Sources: Voices from the Revolution. 
 
-## Open Source Contribution Initiatives
-
+## Open Source contribution initiatives
 - [Up For Grabs](http://up-for-grabs.net/#/) - Contains projects with beginner friendly issues
-- [First Timers Only](http://www.firsttimersonly.com/) - a list of bugs that are labelled "first-timers-only".
+- [First Timers Only](http://www.firsttimersonly.com/) - A list of bugs that are labelled "first-timers-only".
 - [First Contributions](https://firstcontributions.github.io/) - Make your first open source contribution in 5 minutes. A tool and tutorial to help beginners get started with contributions.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - A program to encourage open source contributions. Earn gifts like t-shirts and stickers by making at least 5 pull requests in the month of October.
 
