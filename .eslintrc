@@ -1,6 +1,7 @@
+
 {
-  "plugins": [
+  ("plugins": 
     "json",
     "markdown"
-  ]
+  )
 }
