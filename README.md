@@ -96,6 +96,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [First Timers Only](http://www.firsttimersonly.com/) - A list of bugs that are labelled "first-timers-only".
 - [First Contributions](https://firstcontributions.github.io/) - Make your first open source contribution in 5 minutes. A tool and tutorial to help beginners get started with contributions.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - A program to encourage open source contributions. Earn gifts like t-shirts and stickers by making at least 5 pull requests in the month of October.
+- [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests is a project to promote open source collaboration during the month of December.
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
