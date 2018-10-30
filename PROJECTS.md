@@ -39,7 +39,7 @@ before contributing.
         - [1st contribution](https://gitlab.com/gitlab-org/gitlab-ce/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=1st%20contribution)
 - [GNOME](https://www.gnome.org/) (org)
     - [Contributing Guide](https://wiki.gnome.org/Newcomers)
-- [Great big example application](https://great-big-example-application.herokuapp.com/) (org)
+- Great big example application (org)
     - [Great-big-example-application](https://github.com/dancancro/great-big-angular2-example) (project)
     - [Contributing Guide](https://github.com/dancancro/great-big-example-application/projects/1)
 - [Hoa](https://hoa-project.net) (project)
