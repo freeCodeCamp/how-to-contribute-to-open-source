@@ -5,10 +5,13 @@
 [![Build Status](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
 
 This is a list of resources for people who are new to contributing to open source.
+这是一个针对那些想对开源文件做贡献的人而做的说明文件。
 
 If you find additional resources, please contribute a pull request.
+如果你有其他的指导说明，请提交给我们。
 
 If you have questions or comments, please create an issue.
+如果你有什么疑问或者建议，也请在
 
 ## Table of Contents
 - [Contributing to open source in general](#contributing-to-open-source-in-general)
