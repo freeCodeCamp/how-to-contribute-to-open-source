@@ -1,9 +1,9 @@
 # Contributor's Guide
 
-HOW TO CONTRIBUTE TO OPEN SOURCE accepts PR's (pull requests) from **newbies**
+HOW TO CONTRIBUTE TO OPEN SOURCE : accepts PR's (pull requests) from **newbies**
 only, this is to help **newbies** get familiar with the contribution processes.
 
-Issues can be submitted by anyone - seasoned developers or newbies.
+Issues can be submitted by anyone : seasoned developers or newbies.
 
 ### Getting Started
 
@@ -28,7 +28,7 @@ Issues can be submitted by anyone - seasoned developers or newbies.
 
     For clarity, name
     your branch `update-xxx` or `fix-xxx`. The `xxx` is a short
-    description of the changes you're making. Examples include `update-readme` or
+    description of the changes you're making. Examples include : `update-readme` or
     `fix-typo-on-contribution-md`.
 
 5.  Open up the project in your favorite text editor, select the file you want
