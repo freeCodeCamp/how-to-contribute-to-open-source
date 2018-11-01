@@ -40,11 +40,11 @@ Issues can be submitted by anyone - seasoned developers or newbies.
     and
     [here to practice](http://www.markdowntutorial.com/).
 
-    *   If you are adding a new project/organisation to the README, make sure
+    *   If you are Adding a new project/organization to the README, make sure
         it's listed in alphabetical order.
-    *   If you are adding a new organisation, make sure you add an organisation
-        label to the organisation name. This would help distinguish projects
-        from organisation projects.
+    *   If you are Adding a new organization, make sure you add an organization
+        label to the organization name. This would help distinguish projects
+        from organization projects.
 
 6.  Add your modified
     files to git, [How to Add, Commit, Push, and Go](http://readwrite.com/2013/10/02/github-for-beginners-part-2/).
@@ -87,11 +87,11 @@ Issues can be submitted by anyone - seasoned developers or newbies.
 [What is a Pull Request?](https://yangsu.github.io/pull-request-tutorial/)
 
 If you decide to fix an issue, it's advisable to check the comment thread to see if there's somebody already working on a fix. If no one is working on it, kindly leave a comment stating that you intend to work on it. That way
-other people don't accidentally duplicate your effort.
+other people don't accidentally duplicate your effort and your work.
 
 In a situation whereby somebody decides to fix an issue but doesn't follow up
 for a particular period of time, say 2-3 weeks, it's acceptable to still pick
-up the issue but make sure to leave a comment.
+up the issue but make sure to leave a **comment**.
 
 *Note*: Every open-source project has a **CONTRIBUTING.md** file, please make
 sure to read this before you open up a pull request, otherwise it may be
