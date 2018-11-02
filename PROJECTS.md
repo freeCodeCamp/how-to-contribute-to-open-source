@@ -57,8 +57,8 @@ before contributing.
     - [nteract](https://github.com/nteract/nteract) (project)
         - [Contributing Guide](https://github.com/nteract/nteract/blob/master/CONTRIBUTING.md)
         - Issue labels:
-            - [new-contributor-friendly](https://github.com/search?utf8=%E2%9C%93&q=user%3Anteract+is%3Aissue+is%3Aopen+is%3Anew-contributor-friendly)
-            - [mentoring-available](https://github.com/search?utf8=%E2%9C%93&q=user%3Anteract+is%3Aissue+is%3Aopen+is%3Amentoring-available)
+            - [new-contributor-friendly](https://github.com/nteract/nteract/issues?q=is%3Aissue+label%3Anew-contributor-friendly+is%3Aopen)
+            - [mentoring-available](https://github.com/nteract/nteract/issues?q=is%3Aissue+is%3Aopen+label%3Amentoring-available)
 - Public Lab (org)
     - [Plots2](https://github.com/publiclab/plots2) (project)
         - [Contributing guide](https://github.com/publiclab/plots2/blob/master/CONTRIBUTING.md)
