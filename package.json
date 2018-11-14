@@ -10,7 +10,7 @@
     "eslint-plugin-markdown": "^1.0.0-beta.6"
   },
   "scripts": {
-    "test": "awesome_bot --allow-redirect --allow-ssl --allow-dupe -allow 429 *.md",
+    "test": "awesome_bot *.md --allow-redirect --allow-ssl --allow-dupe -allow 429",
     "pretest": "npm run lint",
     "preinstall": "gem install awesome_bot",
     "lint": "eslint . --ext .json --ext .md"
