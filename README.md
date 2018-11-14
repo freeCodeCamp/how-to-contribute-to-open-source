@@ -34,7 +34,7 @@ If you have questions or comments, please create an issue.
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Curated list of resources and opportunities for college students to learn a new coding language.
 - [Contributing to your First Open Source Project: A Practical Approach](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - A step-by-step approach to contributing to your first open source project by [Abati Adewale](https://www.acekyd.com).
 - [Pull Request Roulette](http://www.pullrequestroulette.com/) - This site has a list of pull requests submitted for review belonging to open source projects hosted on Github. 
-- [Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - A step by step guide of how to start contributing to open source.
+- ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - A step-by-step video guide of how to start contributing to open source projects on GitHub.
 
 ## Direct GitHub searches
 Search links that point directly to suitable issues to contribute to on GitHub.
