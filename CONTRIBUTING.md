@@ -7,11 +7,11 @@ Issues can be submitted by anyone - seasoned developers or newbies.
 
 ### Getting Started
 
-1.  If you are new to Git and Github, it is advisable you go through
+1.  If you are new to Git and GitHub, it is advisable that you go through
     [GitHub For Beginners](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
     **before** moving to Step 2.
 
-2.  Fork the project on Github.
+2.  Fork the project on GitHub.
     [Help Guide to Fork a Repository](https://help.github.com/articles/fork-a-repo/).
 
     ![Illustration for How to Fork a Repository](https://hisham.hm/img/posts/github-fork.png)
@@ -34,7 +34,7 @@ Issues can be submitted by anyone - seasoned developers or newbies.
 5.  Open up the project in your favorite text editor, select the file you want
     to contribute to, and make your changes.
 
-    If you are making changes to the README.md file, you would need to have
+    If you are making changes to the `README.md` file, you would need to have
     Markdown knowledge. Visit
     [here to read about GitHub Markdown](https://guides.github.com/features/mastering-markdown/)
     and
@@ -68,7 +68,7 @@ Issues can be submitted by anyone - seasoned developers or newbies.
     git commit -m "Brief Description of Commit"
     ```
 
-7.  Push your commits to your Github Fork:
+7.  Push your commits to your GitHub Fork:
 
     ```shell
     git push -u origin branch-name
