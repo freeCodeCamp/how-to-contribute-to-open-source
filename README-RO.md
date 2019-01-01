@@ -58,7 +58,7 @@ Căutați linkuri care indică direct problemele potrivite pentru a contribui la
 - ["Cum să găsești prima eroare (bug) open source pentru a o rezolva"](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) de către [@Shubheksha](https://github.com/Shubheksha)
 - ["Numai pentru începători"](https://medium.com/@kentcdodds/first-timers-only-78281ea47455) de către [@kentcdodds](https://github.com/kentcdodds)
 - ["Adu-ți amabilitatea înapoi la Open Source"](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) de către [@shanselman](https://github.com/shanselman)
-- ["Intrarea în Open Source pentru prima dată"](https://web.archive.org/web/20170723130443/http://www.nearform.com:80/nodecrunch/first-time-with-open-source/) de către [@mcdonnelldean](https://github.com/mcdonnelldean)
+- ["Intrarea în Open Source pentru prima dată"](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) de către [@mcdonnelldean](https://github.com/mcdonnelldean)
 - ["Cum să contribuiți la Open Source"](https://opensource.guide/how-to-contribute/) de către [@GitHub](https://github.com/github)
 - ["Cum să găsești un bug în codul tău"](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) de către [@dougbradbury](https://twitter.com/dougbradbury)
 - ["Stăpânirea Markdown-ului"](https://guides.github.com/features/mastering-markdown/) de către [@GitHubGuides](https://guides.github.com/)
