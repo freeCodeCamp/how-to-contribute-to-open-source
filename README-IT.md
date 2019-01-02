@@ -59,7 +59,7 @@ Se hai domande o commenti, crea un problema/issue.
 - ["Come trovare il tuo primo bug/errore open source da correggere"](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) di [@Shubheksha](https://github.com/Shubheksha)
 - ["Solo per i principianti"](https://medium.com/@kentcdodds/first-timers-only-78281ea47455) di [@kentcdodds](https://github.com/kentcdodds)
 - ["Porta la gentilezza all'open source"](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) di [@shanselman](https://github.com/shanselman)
-- ["Entrare nell'Open Source per la prima volta"](https://web.archive.org/web/20170723130443/http://www.nearform.com:80/nodecrunch/first-time-with-open-source/) di [@mcdonnelldean](https://github.com/mcdonnelldean)
+- ["Entrare nell'Open Source per la prima volta"](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) di [@mcdonnelldean](https://github.com/mcdonnelldean)
 - ["Come contribuire all'open source"](https://opensource.guide/how-to-contribute/) di [@GitHub](https://github.com/github)
 - ["Come trovare un bug/errore nel codice"](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
 - ["Padroneggiare il Markdown"](https://guides.github.com/features/mastering-markdown/) di [@GitHubGuides](https://guides.github.com/)

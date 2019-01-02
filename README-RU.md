@@ -59,7 +59,7 @@
 - ["Как найти первую ошибку с открытым исходным кодом для исправления"](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) by [@Shubheksha](https://github.com/Shubheksha)
 - ["Только первые таймеры"](https://medium.com/@kentcdodds/first-timers-only-78281ea47455) OT [@kentcdodds](https://github.com/kentcdodds)
 - ["Принесите доброту в открытый исходный код"](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) by [@shanselman](https://github.com/shanselman)
-- ["Вступление в Open Source в первый раз"](https://web.archive.org/web/20170723130443/http://www.nearform.com:80/nodecrunch/first-time-with-open-source/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
+- ["Вступление в Open Source в первый раз"](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
 - ["Как внести вклад в открытый исходный код"](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
 - ["Как найти ошибку в коде"](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
 - ["Освоение Markdown"](https://guides.github.com/features/mastering-markdown/) by [@GitHubGuides](https://guides.github.com/)
