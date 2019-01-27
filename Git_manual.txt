@@ -1,0 +1,16 @@
+What is GIT?
+Git is a distributed version control system.
+Version control systems are a category of software tools that help a software team manage changes to source code over time. By far, the most widely used modern version control system in the world today is Git. Git is a mature, actively maintained open source project originally developed in 2005. 
+
+Why GIT? 
+Relying on software for mission-critical applications, altering your development workflow impacts your entire business. Git isn’t just for agile software development—it’s for agile business.
+ 
+Set Up Git: 
+git config --global user.name "Your Name" 
+git config --global user.email "youremail@domain.com"
+
+Other commands:
+git clone (url) :- It is primarily used to point to an existing repo and make a clone or                    copy of that repo at in a new directory, at another location. 
+git add (file names) :- adds all modified and new (untracked) files in the current                         directory. 
+git commit -m "committed message" :-The "commit" command is used to save your changes to                                     the local repository. 
+git push -u origin master :- The "push" command is used to publish new local commits on                              a remote server.  
