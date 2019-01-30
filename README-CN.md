@@ -22,16 +22,14 @@
 如果你有疑问或者评论，请创建一个issue。
 
 ## 内容列表
-- [欢迎新人开源贡献者！](#%E6%AC%A2%E8%BF%8E%E6%96%B0%E4%BA%BA%E5%BC%80%E6%BA%90%E8%B4%A1%E7%8C%AE%E8%80%85)
-  - [内容列表](#%E5%86%85%E5%AE%B9%E5%88%97%E8%A1%A8)
-  - [一般开源贡献](#%E4%B8%80%E8%88%AC%E5%BC%80%E6%BA%90%E8%B4%A1%E7%8C%AE)
-  - [GitHub上直接搜索](#github%E4%B8%8A%E7%9B%B4%E6%8E%A5%E6%90%9C%E7%B4%A2)
-  - [Mozilla的贡献者生态系统](#mozilla%E7%9A%84%E8%B4%A1%E7%8C%AE%E8%80%85%E7%94%9F%E6%80%81%E7%B3%BB%E7%BB%9F)
-  - [对新的开源贡献者有用的文章](#%E5%AF%B9%E6%96%B0%E7%9A%84%E5%BC%80%E6%BA%90%E8%B4%A1%E7%8C%AE%E8%80%85%E6%9C%89%E7%94%A8%E7%9A%84%E6%96%87%E7%AB%A0)
-  - [使用版本控制](#%E4%BD%BF%E7%94%A8%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6)
-  - [开源书籍](#%E5%BC%80%E6%BA%90%E4%B9%A6%E7%B1%8D)
-  - [开源贡献初步](#%E5%BC%80%E6%BA%90%E8%B4%A1%E7%8C%AE%E5%88%9D%E6%AD%A5)
-  - [协议](#%E5%8D%8F%E8%AE%AE)
+- [一般开源贡献](#%E4%B8%80%E8%88%AC%E5%BC%80%E6%BA%90%E8%B4%A1%E7%8C%AE)
+- [GitHub上直接搜索](#github%E4%B8%8A%E7%9B%B4%E6%8E%A5%E6%90%9C%E7%B4%A2)
+- [Mozilla的贡献者生态系统](#mozilla%E7%9A%84%E8%B4%A1%E7%8C%AE%E8%80%85%E7%94%9F%E6%80%81%E7%B3%BB%E7%BB%9F)
+- [对新的开源贡献者有用的文章](#%E5%AF%B9%E6%96%B0%E7%9A%84%E5%BC%80%E6%BA%90%E8%B4%A1%E7%8C%AE%E8%80%85%E6%9C%89%E7%94%A8%E7%9A%84%E6%96%87%E7%AB%A0)
+- [使用版本控制](#%E4%BD%BF%E7%94%A8%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6)
+- [开源书籍](#%E5%BC%80%E6%BA%90%E4%B9%A6%E7%B1%8D)
+- [开源贡献初步](#%E5%BC%80%E6%BA%90%E8%B4%A1%E7%8C%AE%E5%88%9D%E6%AD%A5)
+- [协议](#%E5%8D%8F%E8%AE%AE)
 
 ## 一般开源贡献
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - DigitalOcean提供的指导你通过你的方式在GitHub上成功进行贡献的指南。
@@ -102,7 +100,7 @@
 
 ## 开源书籍
 - [Producing Open Source Software](http://producingoss.com/) - Producing Open Source Software是一本关于开源开发人性化方面的书。它描述了成功的项目如何运作，用户和开发人员的期望，以及自由软件的文化。
-- [Open Source Book Series](https://opensource.com/resources/ebooks) - 通过https://open source.com提供的免费电子书的全面列表，进一步了解开源和不断增长的开源运动。
+- [Open Source Book Series](https://opensource.com/resources/ebooks) - 通过 https://opensource.com 提供的免费电子书的全面列表，进一步了解开源和不断增长的开源运动。
 - [Software Release Practice HOWTO](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - HOWTO介绍了Linux和其他开源项目的良好发布实践。通过遵循这些实践，您将使用户尽可能容易地构建和使用您的代码，并使其他开发人员能够理解您的代码并与您合作改进它。
 - [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) -《开放源代码2.0》是当今技术领导者富有洞察力和启发性的论文集，这些论文继续描绘了1999年出版的《开放源代码：革命之声》一书中的进化图景。
 
