@@ -18,7 +18,7 @@ before contributing.
             - [first-timers-only](https://github.com/pybee/voc/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
 - [Casualdate](https://github.com/StellarDoor5319/casualdate) (project)
     - [Contributing Guide](https://github.com/redfin/react-server/blob/master/CONTRIBUTING.md)
-    - Issue labels: 
+    - Issue labels:
         - [good first contribution](https://github.com/StellarDoor5319/casualdate/labels/good%20first%20contribution)
 - [Docker](https://github.com/docker) (project)
     - [Contributing Guide](https://docs.docker.com/opensource/)
@@ -103,3 +103,7 @@ before contributing.
     - Issue labels:
        - [Good First Issue](https://github.com/zulip/zulip/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
        - [Help Wanted](https://github.com/zulip/zulip/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
+- [Rust](https://github.com/rust-lang/rust) (project)
+    - [Contributing Guide](https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md)
+    - Issue labels:
+        - [E-easy](https://github.com/rust-lang/rust/issues?q=is%3Aissue+is%3Aopen+label%3AE-easy)
