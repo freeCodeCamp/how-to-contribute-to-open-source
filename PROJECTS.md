@@ -76,7 +76,7 @@ before contributing.
         - Issue labels:
             - [Good First Bug](https://github.com/rtfd/readthedocs.org/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+First+Bug%22)
 - Redfin (org)
-    - [react-server](https://react-server.io/) (project)
+    - [react-server](https://github.com/redfin/react-server) (project)
         - [Contributing Guide](https://github.com/redfin/react-server/blob/master/CONTRIBUTING.md)
         - Issue labels:
             - [good first contribution](https://github.com/redfin/react-server/labels/good%20first%20contribution)
@@ -106,4 +106,4 @@ before contributing.
 - [Rust](https://github.com/rust-lang/rust) (project)
     - [Contributing Guide](https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md)
     - Issue labels:
-        - [E-easy](https://github.com/rust-lang/rust/issues?q=is%3Aissue+is%3Aopen+label%3AE-easy)
+       - [E-easy](https://github.com/rust-lang/rust/issues?q=is%3Aissue+is%3Aopen+label%3AE-easy)
