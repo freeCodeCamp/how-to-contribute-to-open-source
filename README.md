@@ -1,3 +1,14 @@
+<table>
+    <tr>
+        <!-- Do not translate this table -->
+        <td><a href="./README.md"> English </a></td>
+        <td><a href="./README-CN.md"> 中文 </a></td>
+        <td><a href="./README-RU.md"> русский </a></td>
+        <td><a href="./README-RO.md"> Românesc </a></td>
+        <td><a href="./README-IT.md"> Italiano </a></td>
+    </tr>
+</table>
+
 # Welcome newbie Open Source contributors!
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
@@ -15,12 +26,13 @@ If you have questions or comments, please create an issue.
 - [Direct GitHub searches](#direct-github-searches)
 - [Mozilla's contributor ecosystem](#mozillas-contributor-ecosystem)
 - [Useful articles for new Open Source contributors](#useful-articles-for-new-open-source-contributors)
-- [Using version control](#using-version-control)
+- [Using Version Control](#using-version-control)
 - [Open Source books](#open-source-books)
 - [Open Source contribution initiatives](#open-source-contribution-initiatives)
 - [License](#license)
 
 ## Contributing to Open Source in general
+- [The Definitive Guide to Contributing to Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials by DigitalOcean to guide you on your way to contribution success here on GitHub.
 - [Issuehub.io](http://issuehub.io/) - a tool for searching GitHub issues by label and language.
 - [Code Triage](https://www.codetriage.com/) - another, really nice, tool for finding popular repositories and issues filtered by language.
