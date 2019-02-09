@@ -1,3 +1,14 @@
+<table>
+    <tr>
+        <!-- Do not translate this table -->
+        <td><a href="./README.md"> English </a></td>
+        <td><a href="./README-CN.md"> 中文 </a></td>
+        <td><a href="./README-RU.md"> русский </a></td>
+        <td><a href="./README-RO.md"> Românesc </a></td>
+        <td><a href="./README-IT.md"> Italiano </a></td>
+    </tr>
+</table>
+
 # Welcome newbie Open Source contributors!
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
@@ -11,11 +22,11 @@ If you find additional resources, please contribute a pull request.
 If you have questions or comments, please create an issue.
 
 ## Table of Contents
-- [Contributing to open source in general](#contributing-to-open-source-in-general)
+- [Contributing to Open Source in general](#contributing-to-open-source-in-general)
 - [Direct GitHub searches](#direct-github-searches)
 - [Mozilla's contributor ecosystem](#mozillas-contributor-ecosystem)
-- [Useful articles for new open source contributors](#useful-articles-for-new-open-source-contributors)
-- [Using version control](#using-version-control)
+- [Useful articles for new Open Source contributors](#useful-articles-for-new-open-source-contributors)
+- [Using Version Control](#using-version-control)
 - [Open Source books](#open-source-books)
 - [Open Source contribution initiatives](#open-source-contribution-initiatives)
 - [License](#license)
