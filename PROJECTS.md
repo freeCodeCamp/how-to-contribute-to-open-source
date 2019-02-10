@@ -113,7 +113,7 @@ before contributing.
         - [first-timers-only](https://github.com/hoodiehq/camp/labels/first-timers-only)
         - [good first issue](https://github.com/hoodiehq/camp/labels/good%20first%20issue)
     - [Hoodie](https://github.com/hoodiehq/hoodie) (project)
-      - [Contributin Guide](https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md)
+      - [Contributing Guide](https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md)
       - Issue labels:
         - [first-timers-only](https://github.com/hoodiehq/hoodie/labels/first-timers-only)
         - [starter](https://github.com/hoodiehq/hoodie/labels/starter)
