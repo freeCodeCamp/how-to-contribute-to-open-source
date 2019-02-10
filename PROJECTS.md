@@ -107,3 +107,9 @@ before contributing.
     - [Contributing Guide](https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md)
     - Issue labels:
        - [E-easy](https://github.com/rust-lang/rust/issues?q=is%3Aissue+is%3Aopen+label%3AE-easy)
+- [If Me](https://github.com/ifmeorg/ifme) (project)
+  - [Contributing Guide](https://github.com/ifmeorg/ifme/blob/master/CONTRIBUTING.md)
+  - Issue labels:
+     - [firs-timers-only](https://github.com/ifmeorg/ifme/labels/first-timers-only)
+     - [good first issue](https://github.com/ifmeorg/ifme/labels/good%20first%20issue)
+     - [beginner friendly](https://github.com/ifmeorg/ifme/labels/beginner%20friendly)
