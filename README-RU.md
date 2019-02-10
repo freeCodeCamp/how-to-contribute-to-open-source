@@ -1,3 +1,14 @@
+<table>
+    <tr>
+        <!-- Do not translate this table -->
+        <td><a href="./README.md"> English </a></td>
+        <td><a href="./README-CN.md"> 中文 </a></td>
+        <td><a href="./README-RU.md"> русский </a></td>
+        <td><a href="./README-RO.md"> Românesc </a></td>
+        <td><a href="./README-IT.md"> Italiano </a></td>
+    </tr>
+</table>
+
 # Приветствуем новичков с открытым исходным кодом!
 
 [![Приглашение](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
