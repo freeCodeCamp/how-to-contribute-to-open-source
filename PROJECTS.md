@@ -107,3 +107,5 @@ before contributing.
     - [Contributing Guide](https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md)
     - Issue labels:
        - [E-easy](https://github.com/rust-lang/rust/issues?q=is%3Aissue+is%3Aopen+label%3AE-easy)
+- [Jenkins](https://github.com/jenkinsci/jenkins) (Project)
+    - [Contributing Guide](https://wiki.jenkins.io/display/JENKINS/Beginners+Guide+to+Contributing)
