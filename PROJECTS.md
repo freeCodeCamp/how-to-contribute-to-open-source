@@ -107,3 +107,13 @@ before contributing.
     - [Contributing Guide](https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md)
     - Issue labels:
        - [E-easy](https://github.com/rust-lang/rust/issues?q=is%3Aissue+is%3Aopen+label%3AE-easy)
+- [Hoodiehq](http://hood.ie/) (org)
+    - [Camp](https://github.com/hoodiehq/camp) (project)
+      - Issue labels:
+        - [first-timers-only](https://github.com/hoodiehq/camp/labels/first-timers-only)
+        - [good first issue](https://github.com/hoodiehq/camp/labels/good%20first%20issue)
+    - [Hoodie](https://github.com/hoodiehq/hoodie) (project)
+      - [Contributin Guide](https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md)
+      - Issue labels:
+        - [first-timers-only](https://github.com/hoodiehq/hoodie/labels/first-timers-only)
+        - [starter](https://github.com/hoodiehq/hoodie/labels/starter)
