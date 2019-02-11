@@ -6,6 +6,7 @@
         <td><a href="./README-RU.md"> русский </a></td>
         <td><a href="./README-RO.md"> Românesc </a></td>
         <td><a href="./README-IT.md"> Italiano </a></td>
+        <td><a href="./README-pt-BR.md"> Português (BR) </a></td>
     </tr>
 </table>
 
