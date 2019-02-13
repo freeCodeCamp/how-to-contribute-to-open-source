@@ -11,16 +11,14 @@ Si encuetras recursos adicionales, por favor contribuye con una pull request a e
 Si tienes alguna pregunta o commentario, por favor crea una issue en este repositorio.
 
 ## Tabla de contenidos
-- [Bienvenido aprendiz colaborador de Código abierto!](#bienvenido-aprendiz-colaborador-de-c%C3%B3digo-abierto)
-  - [Tabla de contenidos](#tabla-de-contenidos)
-  - [Contribuyendo al código abierto en general](#contribuyendo-al-c%C3%B3digo-abierto-en-general)
-  - [Busquedas directas en GitHub](#busquedas-directas-en-github)
-  - [Ecosistema de colaboradores de Mozilla](#ecosistema-de-colaboradores-de-mozilla)
-  - [Artículos útiles para nuevos colaboradores de código abierto](#art%C3%ADculos-%C3%BAtiles-para-nuevos-colaboradores-de-c%C3%B3digo-abierto)
-  - [Usando control de versiones](#usando-control-de-versiones)
-  - [Libros de código abierto](#libros-de-c%C3%B3digo-abierto)
-  - [Iniciativas de contribución de Código abierto](#iniciativas-de-contribuci%C3%B3n-de-c%C3%B3digo-abierto)
-  - [Licencia](#licencia)
+- [Contribuyendo al código abierto en general](#contribuyendo-al-c%C3%B3digo-abierto-en-general)
+- [Busquedas directas en GitHub](#busquedas-directas-en-github)
+- [Ecosistema de colaboradores de Mozilla](#ecosistema-de-colaboradores-de-mozilla)
+- [Artículos útiles para nuevos colaboradores de código abierto](#art%C3%ADculos-%C3%BAtiles-para-nuevos-colaboradores-de-c%C3%B3digo-abierto)
+- [Usando control de versiones](#usando-control-de-versiones)
+- [Libros de código abierto](#libros-de-c%C3%B3digo-abierto)
+- [Iniciativas de contribución de Código abierto](#iniciativas-de-contribuci%C3%B3n-de-c%C3%B3digo-abierto)
+- [Licencia](#licencia)
 
 ## Contribuyendo al código abierto en general
 - [Guía definitiva para contribuir al código abierto](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) por [@DoomHammerNG](https://twitter.com/DoomHammerNG)
