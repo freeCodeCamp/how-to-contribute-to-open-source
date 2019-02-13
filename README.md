@@ -6,6 +6,7 @@
         <td><a href="./README-RU.md"> русский </a></td>
         <td><a href="./README-RO.md"> Românesc </a></td>
         <td><a href="./README-IT.md"> Italiano </a></td>
+        <td><a href="./README-ES.md"> Español </a></td>
         <td><a href="./README-pt-BR.md"> Português (BR) </a></td>
     </tr>
 </table>
@@ -23,14 +24,16 @@ If you find additional resources, please contribute a pull request.
 If you have questions or comments, please create an issue.
 
 ## Table of Contents
-- [Contributing to Open Source in general](#contributing-to-open-source-in-general)
-- [Direct GitHub searches](#direct-github-searches)
-- [Mozilla's contributor ecosystem](#mozillas-contributor-ecosystem)
-- [Useful articles for new Open Source contributors](#useful-articles-for-new-open-source-contributors)
-- [Using Version Control](#using-version-control)
-- [Open Source books](#open-source-books)
-- [Open Source contribution initiatives](#open-source-contribution-initiatives)
-- [License](#license)
+- [Welcome newbie Open Source contributors!](#welcome-newbie-open-source-contributors)
+  - [Table of Contents](#table-of-contents)
+  - [Contributing to Open Source in general](#contributing-to-open-source-in-general)
+  - [Direct GitHub searches](#direct-github-searches)
+  - [Mozilla's contributor ecosystem](#mozillas-contributor-ecosystem)
+  - [Useful articles for new Open Source contributors](#useful-articles-for-new-open-source-contributors)
+  - [Using Version Control](#using-version-control)
+  - [Open Source books](#open-source-books)
+  - [Open Source contribution initiatives](#open-source-contribution-initiatives)
+  - [License](#license)
 
 ## Contributing to Open Source in general
 - [The Definitive Guide to Contributing to Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
@@ -46,7 +49,7 @@ If you have questions or comments, please create an issue.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - An Open Source Etiquette Guidebook, written by Kent C. Dodds And Sarah Drasner.
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Curated list of resources and opportunities for college students to learn a new coding language.
 - [Contributing to your First Open Source Project: A Practical Approach](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - A step-by-step approach to contributing to your first Open Source project by [Abati Adewale](https://www.acekyd.com).
-- [Pull Request Roulette](http://www.pullrequestroulette.com/) - This site has a list of pull requests submitted for review belonging to Open Source projects hosted on Github. 
+- [Pull Request Roulette](http://www.pullrequestroulette.com/) - This site has a list of pull requests submitted for review belonging to Open Source projects hosted on Github.
 - ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - A step-by-step video guide of how to start contributing to Open Source projects on GitHub.
 
 ## Direct GitHub searches
@@ -104,7 +107,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [Producing Open Source Software](http://producingoss.com/) - Producing Open Source Software is a book about the human side of Open Source development. It describes how successful projects operate, the expectations of users and developers, and the culture of free software.
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - Learn more about Open Source and the growing Open Source movement with a comprehensive list of free eBooks from https://opensource.com.
 - [Software Release Practice HOWTO](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - This HOWTO describes good release practices for Linux and other Open-Source projects. By following these practices, you will make it as easy as possible for users to build your code and use it, and for other developers to understand your code and cooperate with you to improve it.
-- [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 is a collection of insightful and thought-provoking essays from today's technology leaders that continues painting the evolutionary picture that developed in the 1999 book, Open Sources: Voices from the Revolution. 
+- [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 is a collection of insightful and thought-provoking essays from today's technology leaders that continues painting the evolutionary picture that developed in the 1999 book, Open Sources: Voices from the Revolution.
 
 ## Open Source contribution initiatives
 - [Up For Grabs](http://up-for-grabs.net/#/) - Contains projects with beginner friendly issues
