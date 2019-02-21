@@ -5,7 +5,7 @@ only, this is to help **newbies** get familiar with the contribution processes.
 
 Issues can be submitted by anyone - seasoned developers or newbies.
 
-### Getting Started
+#### Getting Started
 
 1.  If you are new to Git and GitHub, it is advisable that you go through
     [GitHub For Beginners](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
