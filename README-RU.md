@@ -8,6 +8,7 @@
         <td><a href="./README-IT.md"> Italiano </a></td>
         <td><a href="./README-ES.md"> Español </a></td>
         <td><a href="./README-pt-BR.md"> Português (BR) </a></td>
+        <td><a href="./README-DE.md"> German </a></td>
     </tr>
 </table>
 
