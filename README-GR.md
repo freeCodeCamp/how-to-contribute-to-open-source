@@ -1,43 +1,61 @@
-# Καλώς ήρθατε στη συνεισφορά ανοικτού κώδικα!
+<table>
+    <tr>
+        <!-- Do not translate this table -->
+        <td><a href="./README.md"> English </a></td>
+        <td><a href="./README-CN.md"> 中文 </a></td>
+        <td><a href="./README-RU.md"> русский </a></td>
+        <td><a href="./README-RO.md"> Românesc </a></td>
+        <td><a href="./README-IT.md"> Italiano </a></td>
+        <td><a href="./README-ES.md"> Español </a></td>
+        <td><a href="./README-pt-BR.md"> Português (BR) </a></td>
+        <td><a href="./README-DE.md"> Deutsch </a></td>
+		<td><a href="./README-GR.md"> Ελληνικά </a></td>
+    </tr>
+</table>
+
+# Καλώς ήρθατε στη συνεισφορά λογισμικού Ανοικτού Κώδικα!
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 [![Build Status](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
 
-Αυτή είναι μια λίστα με πόρους για ανθρώπους που είναι αρχάριοι στην συνεισφορά ανοικτού κώδικα.
+Αυτή είνα μία λίστα με υλικό για αρχάριους στη συνεισφορά Ανοικτού Κώδικα.
 
-Αν βρείτε πρόσθετους πόρους, παρακαλούμε να συνεισφέρετε με ένα αίτημα έλξης(pull request).
+Αν βρείτε πρόσθετο υλικό, παρακαλούμε να το προσθέσετε με ένα pull request.
 
-Αν έχετε ερωτήσεις ή σχόλια, δημιουργήστε ένα πρόβλημα.
+Αν έχετε ερωτήσεις ή σχόλια, δημιουργήστε ένα issue.
 
-## Table of Contents
-- [Γενικά για την συνεισφορά σε ανοικτού κώδικα](#contributing-to-open-source-in-general)
-- [Direct GitHub searches](#direct-github-searches)
-- [Mozilla's contributor ecosystem](#mozillas-contributor-ecosystem)
-- [Useful articles for new open source contributors](#useful-articles-for-new-open-source-contributors)
-- [Using version control](#using-version-control)
-- [Open Source books](#open-source-books)
-- [License](#license)
+## Περιεχόμενα
+- [Καλώς ήρθατε στη συνεισφορά λογισμικού Ανοικτού Κώδικα!](#welcome-newbie-open-source-contributors)
+  - [Περιεχόμενα](#table-of-contents)
+  - [Γενικά για τη συνεισφορά Ανοικτού Κώδικα](#contributing-to-open-source-in-general)
+  - [Direct GitHub searches](#direct-github-searches)
+  - [Mozilla's contributor ecosystem](#mozillas-contributor-ecosystem)
+  - [Χρήσιμα άρθρα για αρχάριους στη συνεισφορά Ανοικτού Κώδικα](#useful-articles-for-new-open-source-contributors)
+  - [Χρήση Version Control](#using-version-control)
+  - [Βιβλία σχετικά με Ανοικτό κώδικα](#open-source-books)
+  - [Open Source contribution initiatives](#open-source-contribution-initiatives)
+  - [Άδεια χρήσης](#license)
 
-## Γενικά για την συνεισφορά σε ανοικτού κώδικα
-- [Εισαγωγή στον σνοικτό κώδικα](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials by DigitalOcean to guide you on your way to contribution success here on GitHub.
-- [Up For Grabs](http://up-for-grabs.net/#/) - a list of projects with beginner-friendly issues.
-- [Issuehub.io](http://issuehub.io/) - a tool for searching GitHub issues by label and language.
-- [Code Triage](https://www.codetriage.com/) - another, really nice, tool for finding popular repositories and issues filtered by language.
-- [Μόνο για αρχάριους](http://www.firsttimersonly.com/) - a list of bugs that are labelled "first-timers-only".
-- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - a GitHub repo that amasses projects with good bugs for new contributors, and applies labels to describe them.
-- [Οδηγοί ανοικτού κώδικα](https://opensource.guide/) - Collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open source project.
-- [45 Github προβλήματα με Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Do's and Don'ts on GitHub.
-- [Οδηγοί GitHub](https://guides.github.com/) - basic guides on how to use GitHub effectively.
-- [Πρώτες συνεισφορές](https://firstcontributions.github.io/) - Make your first open source contribution in 5 minutes. A tool and tutorial to help beginners get started with contributions.
-- [Συνεισφορά στον ανοικτό κώδικα](https://github.com/danthareja/contribute-to-open-source) - Learn the GitHub workflow by contributing code to a simulation project.
-- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - The Linux Foundation's guides to open source projects.
-- [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - An Open Source Etiquette Guidebook, written by Kent C. Dodds And Sarah Drasner.
-- [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Curated list of resources and opportunities for college students to learn a new coding language.
-- [Contributing to your First Open Source Project: A Practical Approach](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - A step-by-step approach to contributing to your first open dource project by [Abati Adewale](https://www.acekyd.com).
+## Γενικά για τη συνεισφορά Ανοικτού Κώδικα
+- [The Definitive Guide to Contributing to Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
+- [Εισαγωγή στον Ανοικτό Κώδικα](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Μαθήματα από την DigitalOcean για συνεισφορά Ανοικτού Κώδικα με επιτυχία, στο GitHub.
+- [Issuehub.io](http://issuehub.io/) - Ένα εργαλείο που επιτρέπει την αναζήτηση των issues του GitHub για συγκεκριμένες ετικέτες (labels) και γλώσσες προγραμματισμού.
+- [Code Triage](https://www.codetriage.com/) - Άλλο ένα, πολύ καλό, εργαλείο για να βρίσκουμε δημοφιλή repositories και issues διαχωρισμένα ώς προς την γλώσσα προγραμματισμού.
+- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - Ένα GitHub repository που συγκεντρώνει projects με bugs εύκολα για αρχάριους, εφαρμόζωντας ετικέτες (labels) για να τα περιγράψει.
+- [Οδηγοί για τον Ανοικτό Κώδικα](https://opensource.guide/) - Συλλογή από υλικό για άτομα, κοινότητες και εταιρίες που θέλουν να μάθουν πως να τρέξουν και να συνεισφέρουν σε ένα project Ανοικτού Κώδικα.
+- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Do's and Don'ts on GitHub.
+- [Οδηγοί GitHub](https://guides.github.com/) - Βασικοί οδηγοί για την αποτελεσματική χρήση του GitHub.
+- [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Μάθε τη ροή που πρέπει να ακολουθείται στο GitHub, μέσω της συνεισφοράς κώδικα σε ένα project προσομείωσης.
+- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Οι οδηγοί του Linux Foundation για τα project Ανοικτού Κώδικα.
+- [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - Ένα Open Source Etiquette Guidebook, γραμμένο από τον Kent C. Dodds και την Sarah Drasner.
+- [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Μία λίστα από υλικό και ευκαιρίες για φοιτητές να μάθουν μία νέα γλώσσα προγραμματισμού.
+- [Contributing to your First Open Source Project: A Practical Approach](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - Μία βήμα-προς-βήμα προσέγγιση για το πως να συνεισφέρεις σε ένα project Ανοικτού Κώδικα για πρώτη φορά, από τον [Abati Adewale](https://www.acekyd.com).
+- [Pull Request Roulette](http://www.pullrequestroulette.com/) - Μία ιστοσελίδα που απαριθμεί pull requests που έχουν υποβληθεί για έλεγχο σε projects Ανοικτού Κώδικα του GitHub.
+- ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - Ένας βήμα-προς-βήμα βίντεο οδηγός σχετικά με το πως να ξεκινήσει κάποιος να συνεισφέρει σε projects Ανοικτού Κώδικα στο GitHub.
 
 ## Direct GitHub searches
-Search links that point directly to suitable issues to contribute to on GitHub.
+Συνδέσμοι που μας πάνε απευθείας σε issues του GitHub, που είναι κατάλληλα για να συνεισφέρουμε.
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
 - [is:issue is:open label:first-timers-only](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
@@ -47,49 +65,58 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
 ## Mozilla's contributor ecosystem
-- [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - bugs that developers have identified as a good introduction to the project.
-- [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs that have a mentor assigned who will be there on IRC to help you when you get stuck while working on fix.
-- [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - a site dedicated to finding bugs on Bugzilla.
-- [Firefox DevTools](http://firefox-dev.tools/) - a site dedicated to bugs filed for the developer tools in the Firefox browser.
-- [What Can I Do For Mozilla](http://whatcanidoformozilla.org/) - figure out what you can work on by answering a bunch of questions about your skill set and interests.
-- [Start Mozilla](https://twitter.com/StartMozilla) - a Twitter account that tweets about issues fit for contributors new to the Mozilla ecosystem.
+- [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - Bugs που έχουν μαρκαριστεί από προγραμματιστές ως καταλληλα για αρχάριους στο project.
+- [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - Bugs στα οποία έχει καθοριστεί ένας μέντορας που θα βρίσκεται στο IRC για να σε καθοδηγήσει όταν θα χρειαστείς βοήθεια.
+- [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - Μία ιστοσελίδα ειδική στο να βρίσκει κάποιος bugs στο Bugzilla.
+- [Firefox DevTools](http://firefox-dev.tools/) - Μία ιστοσελίδα ειδική σε bugs για τα εργαλεία προγραμματισμού στο Firefox (Firefox Developer Tools).
+- [What Can I Do For Mozilla](http://whatcanidoformozilla.org/) - Μία ιστοσελίδα που βοηθάει κάποιον να βρει πάνω σε τι μπορεί να δουλέψει, απαντώντας μερικές ερωτήσεις σχετικές με τις ικανότητες και τα ενδιαφέροντα του.
+- [Start Mozilla](https://twitter.com/StartMozilla) - Ένας λογαριασμός στο Twitter που δημοσιεύει issues κατάλληλα για αρχάριους στη συνεισφορά Ανοικτού Κώδικα στο Mozilla ecosystem.
 
-## Useful articles for new open source contributors
-- ["How to choose (and contribute to) your first open source project"](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
-- ["How to find your first open source bug to fix"](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) by [@Shubheksha](https://github.com/Shubheksha)
-- ["First Timers Only"](https://medium.com/@kentcdodds/first-timers-only-78281ea47455) by [@kentcdodds](https://github.com/kentcdodds)
-- ["Bring Kindness Back to Open Source"](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) by [@shanselman](https://github.com/shanselman)
-- ["Getting into Open Source for the First Time"](https://web.archive.org/web/20170723130443/http://www.nearform.com:80/nodecrunch/first-time-with-open-source/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
-- ["How to Contribute to Open Source"](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
-- ["How to Find a Bug in Your Code"](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
-- ["Mastering Markdown"](https://guides.github.com/features/mastering-markdown/) by [@GitHubGuides](https://guides.github.com/)
-- ["First mission: Contributors page"](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
-- ["How to make your first open source contribution in just 5 minutes"](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) by [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
-- ["Hacktoberfest 2018: How you can get your free shirt — even if you’re new to coding"](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) by [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
-- ["A Bitter Guide To Open Source"](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
-- ["A junior developer’s step-by-step guide to contributing to open source for the first time"](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) by [@LetaKeane](http://www.letakeane.com/)
+## Χρήσιμα άρθρα για αρχάριους στη συνεισφορά Ανοικτού Κώδικα
+- [Πως να διαλέξεις (και να συνεισφέρεις) το πρώτο σου project Ανοικτού Κώδικα](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
+- [Πως να βρεις το πρώτο σου bug για να διορθώσεις](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) by [@Shubheksha](https://github.com/Shubheksha)
+- [Μόνο για αρχάριους](https://medium.com/@kentcdodds/first-timers-only-78281ea47455) by [@kentcdodds](https://github.com/kentcdodds)
+- [Φέρτε πίσω την ευγένεια στις κοινότητες Ανοικτού Κώδικα](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) by [@shanselman](https://github.com/shanselman)
+- [Μπαίνοντας στον κόσμο του Ανοικτού Κώδικα για πρώτη φορά](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
+- [Πως να συνεισφέρεις σε Ανοικτό Κώδικα](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
+- [Πως να βρεις bugs στον κώδικα σου](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
+- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) by [@GitHubGuides](https://guides.github.com/)
+- [Πρώτο βήμα: Σελίδα με άτομα που συνεισφέρουν (contributors page)](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
+- [Πως να συνεισφέρεις σε Ανοικτό Κώδικα για πρώτη φορά, σε μόλις 5 λεπτά](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) by [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
+- [Hacktoberfest 2018: Πως μπορείς να πάρεις το δωρεάν μπλουζάκι - ακόμα κι αν είσαι νέος στο προγραμματισμό](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) by [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
+- [Ένας πικρόχολος οδηγός στον Ανοικτό Κώδικα](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
+- [Οδηγός βήμα-προς-βήμα πρώτης συνεισφοράς Ανοικτού Κώδικα για junior developers](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) by [@LetaKeane](http://www.letakeane.com/)
+- [Μάθε βήμα-προς-βήμα το Git και το GitHub (σε Windows)](https://medium.com/@ows_ali/be93518e06dc) by [@ows-ali](https://medium.com/@ows_ali)
 
-## Using version control
-- [Think Like (a) Git](http://think-like-a-git.net/) - Git introduction for "advanced beginners," but are still struggling, in order to give you a simple strategy to safely experiment with git.
-- [Try Git](https://try.github.io/) - Learn Git in 15 minutes from within your browser for free.
-- [Everyday Git](https://git-scm.com/docs/giteveryday) - A useful minimum set of commands for Everyday Git.
-- [Oh shit, git!](http://ohshitgit.com/) - how to get out of common `git` mistakes described in plain English.
-- [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/) - various tutorials on using `git`.
+## Χρήση Version Control
+- [Think Like (a) Git](http://think-like-a-git.net/) - Εισαγωγή στο Git για "έμπειρους πρωτάρηδες", με σκοπό να τους δώσει μία απλή στρατηγική για να πειραματιστούν με το Git.
+- [Try Git](https://try.github.io/) - Μάθε το Git σε 15 λεπτά από τον browser σου, δωρεάν.
+- [Everyday Git](https://git-scm.com/docs/giteveryday) - Χρήσιμες εντολές για την καθημερινή χρήση του Git.
+- [Oh shit, git!](http://ohshitgit.com/) - Πως να αποφύγεις τα συνηθισμένα λάθη στο git.
+- [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/) - Διάφοροι οδηγοί για τη χρήση του 'git'.
 - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
 - [freeCodeCamp's Wiki on Git Resources](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
-- [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - GitHub talk on how to make a pull request.
-- [GitHub Learning Resources](https://help.github.com/articles/git-and-github-learning-resources/) - Git and GitHub learning resources.
-- [Pro Git](https://git-scm.com/book/en/v2) - The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress.
-- [Git-it](https://github.com/jlord/git-it-electron) - Step by step Git tutorial desktop app.
-- [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - A guide about what to do when things go wrong.
-- [A Comprehensive Introduction To Git and GitHub](https://codeburst.io/git-good-part-a-e0d826286a2a) - A guide written by Madhav Bahl, which you should see if you are new to Git or GitHub, it covers GitHub as a service and concepts of Git version control in detail.
-- [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - A complete guide of slides about git and GitHub explained in Spanish. Una guía completa de diapositivas sobre git y GitHub explicadas en Español.
+- [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - Συζήτηση για το πως να κάνει κάποιος ένα pull request.
+- [GitHub Learning Resources](https://help.github.com/articles/git-and-github-learning-resources/) - Υλικό για εκμάθηση του Git και GitHub.
+- [Pro Git](https://git-scm.com/book/en/v2) - Ολόκληρο το βιβλίο "Pro Git", γραμμένο από τον Scott Chacon και τον Ben Straub που δημοσιεύθηκε από την Apress.
+- [Git-it](https://github.com/jlord/git-it-electron) - Βήμα-προς-βήμα οδηγός για τη Git desktop εφαρμογή.
+- [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - Ένας οδηγός σχετικά με το τι κάνω όταν τα πράγματα πάνε στραβά.
+- [A Comprehensive Introduction To Git and GitHub](https://codeburst.io/git-good-part-a-e0d826286a2a) - Ένας οδηγός γραμμένος από τον Madhav Bahl, που πρέπει να δεις αν είσαι νέος στο Git ή στο GitHub. Καλύπτει, με λεπτομέρειες, το GitHub σαν υπηρεσία και έννοιες του Git version control.
+- [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - Ένας πλήρης οδηγός, στα Ισπανικά, με διαφάνειες σχετικές με το git και το GitHub.
+- [Git Kraken](https://www.gitkraken.com/git-client) - Visual, cross-platform, και διαδραστική `git` desktop εφαρμογή για version control.
 
-## Open Source books
-- [Producing Open Source Software](http://producingoss.com/) - Producing Open Source Software is a book about the human side of open source development. It describes how successful projects operate, the expectations of users and developers, and the culture of free software.
-- [Open Source Book Series](https://opensource.com/resources/ebooks) - Learn more about open source and the growing open source movement with a comprehensive list of free eBooks from https://opensource.com.
-- [Software Release Practice HOWTO](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - This HOWTO describes good release practices for Linux and other open-source projects. By following these practices, you will make it as easy as possible for users to build your code and use it, and for other developers to understand your code and cooperate with you to improve it.
--[Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 is a collection of insightful and thought-provoking essays from today's technology leaders that continues painting the evolutionary picture that developed in the 1999 book, Open Sources: Voices from the Revolution. 
+## Βιβλία σχετικά με Ανοικτό κώδικα
+- [Producing Open Source Software](http://producingoss.com/) - Το "Producing Open Source Software" είναι ένα βιβλίο σχετικά με την ανθρώπινη πλευρά της ανάπτυξης Ανοικτού Κώδικα. Περιγράφει πως λειτουργούν τα επιτυχημένα projects, τις προσδοκίες των χρηστών και των προγραμματιστών, και την κουλτουρα του ελεύθερου λογισμικού.
+- [Σειρά βιβλίων Ανοικτού Κώδικα](https://opensource.com/resources/ebooks) - Μάθε περισσότερα για τον Ανοικτό Κώδικα και το αναπτυσσόμενο κίνημα του, μέσα από μια περιεκτική λίστα δωρεάν ηλεκτρονικώ βιβλίων στο https://opensource.com.
+- [Software Release Practice HOWTO](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - Αυτός ο οδηγός περιγράφει κάποιες καλές πρακτικές για έκδοση λογισμικού του Linux και άλλα projects Ανοικτού Κώδικα. Ακολουθώντας αυτές τις πρακτικές, κάνετε όσο το δυνατόν ευκολότερο για τους χρήστες να χρησιμοποιήσουν τον κώδικα σας, και για τους προγραμματιστές να τον καταλάβουν και να συνεργαστούν μαζί σας, με σκοπό να τον βελτιώσουν.
+- [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - Το "Open Sources 2.0" είναι μία συλλογή από εύστοχες και παραγωγικές προσπάθειες από τους ηγέτες της σημερινής τεχνολογίας. Συνεχίζει το έργο που ξεκίνησε στο βιβλίο του 1999, "Open Sources: Voices from the Revolution".
 
-## License
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+## Open Source contribution initiatives
+- [Up For Grabs](http://up-for-grabs.net/#/) - Περιέχει projects με φιλικά-για-αρχάριους issues.
+- [First Timers Only](http://www.firsttimersonly.com/) - Μία λίστα από bugs μαρκαρισμένα ως "first-timers-only".
+- [First Contributions](https://firstcontributions.github.io/) - Κάνε την πρώτη σου συνεισφορά Ανοικτού Κώδικα σε 5 λεπτά. Ένα εργαλείο και οδηγός που βοηθάει τους νέους στον Ανοικτό Κώδικα να ξεκινήσουν.
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Ένα πρόγραμμα που παροτρύνει τη συνεισφορά Ανοικτού Κώδικα. Κέρδισε δώρα, όπως μπλουζάκια και αυτοκόλλητα, κάνωντας τουλάχιστον 5 pull request τον Οκτώβριο.
+- [24 Pull Requests](https://24pullrequests.com) - Το "24 Pull Requests" είναι ένα προγραμμα που προωθεί τη συνεισφορά Ανοικτού Κώδικα για το μήνα Δεκέμβριο.
+
+## Άδεια χρήσης
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Αυτό το έργο διανέμεται σύμφωνα με την <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International άδεια χρήσης</a>.
