@@ -94,7 +94,7 @@ Suchbegriffe, die direkt auf für Einsteiger\*innen geeignete Issues auf GitHub 
 
 - [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) von [@GitHub](https://github.com/github)
 - [How to find your first Open Source bug to fix](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) von [@Shubheksha](https://github.com/Shubheksha)
-- [First Timers Only](https://medium.com/@kentcdodds/first-timers-only-78281ea47455) von [@kentcdodds](https://github.com/kentcdodds)
+- [First Timers Only](https://kentcdodds.com/blog/first-timers-only) von [@kentcdodds](https://github.com/kentcdodds)
 - [Bring Kindness Back to Open Source](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) von [@shanselman](https://github.com/shanselman)
 - [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) von [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) von [@GitHub](https://github.com/github)

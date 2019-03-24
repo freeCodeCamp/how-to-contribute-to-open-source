@@ -72,7 +72,7 @@ Se hai domande o commenti, crea un problema/issue.
 ## Articoli utili per i nuovi contributori all'open source
 - ["Come scegliere (e contribuire) al tuo primo progetto open source"](https://github.com/collections/choosing-projects) di [@GitHub](https://github.com/github)
 - ["Come trovare il tuo primo bug/errore open source da correggere"](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) di [@Shubheksha](https://github.com/Shubheksha)
-- ["Solo per i principianti"](https://medium.com/@kentcdodds/first-timers-only-78281ea47455) di [@kentcdodds](https://github.com/kentcdodds)
+- ["Solo per i principianti"](https://kentcdodds.com/blog/first-timers-only) di [@kentcdodds](https://github.com/kentcdodds)
 - ["Porta la gentilezza all'open source"](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) di [@shanselman](https://github.com/shanselman)
 - ["Entrare nell'Open Source per la prima volta"](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) di [@mcdonnelldean](https://github.com/mcdonnelldean)
 - ["Come contribuire all'open source"](https://opensource.guide/how-to-contribute/) di [@GitHub](https://github.com/github)
