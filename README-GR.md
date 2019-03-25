@@ -73,7 +73,7 @@
 ## Χρήσιμα άρθρα για αρχάριους στη συνεισφορά Ανοικτού Κώδικα
 - [Πως να διαλέξεις (και να συνεισφέρεις) το πρώτο σου project Ανοικτού Κώδικα](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
 - [Πως να βρεις το πρώτο σου bug για να διορθώσεις](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) by [@Shubheksha](https://github.com/Shubheksha)
-- [Μόνο για αρχάριους](https://medium.com/@kentcdodds/first-timers-only-78281ea47455) by [@kentcdodds](https://github.com/kentcdodds)
+- [Μόνο για αρχάριους](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
 - [Φέρτε πίσω την ευγένεια στις κοινότητες Ανοικτού Κώδικα](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) by [@shanselman](https://github.com/shanselman)
 - [Μπαίνοντας στον κόσμο του Ανοικτού Κώδικα για πρώτη φορά](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [Πως να συνεισφέρεις σε Ανοικτό Κώδικα](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)

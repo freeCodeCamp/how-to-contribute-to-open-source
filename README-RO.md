@@ -71,7 +71,7 @@ Căutați linkuri care indică direct problemele potrivite pentru a contribui la
 ## Articole utile pentru noi contribuabili open source
 - ["Cum să alegeți (și să contribuiți la) primul dvs. proiect open source"](https://github.com/collections/choosing-projects) de către [@GitHub](https://github.com/github)
 - ["Cum să găsești prima eroare (bug) open source pentru a o rezolva"](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) de către [@Shubheksha](https://github.com/Shubheksha)
-- ["Numai pentru începători"](https://medium.com/@kentcdodds/first-timers-only-78281ea47455) de către [@kentcdodds](https://github.com/kentcdodds)
+- ["Numai pentru începători"](https://kentcdodds.com/blog/first-timers-only) de către [@kentcdodds](https://github.com/kentcdodds)
 - ["Adu-ți amabilitatea înapoi la Open Source"](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) de către [@shanselman](https://github.com/shanselman)
 - ["Intrarea în Open Source pentru prima dată"](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) de către [@mcdonnelldean](https://github.com/mcdonnelldean)
 - ["Cum să contribuiți la Open Source"](https://opensource.guide/how-to-contribute/) de către [@GitHub](https://github.com/github)

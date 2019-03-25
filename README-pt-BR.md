@@ -73,7 +73,7 @@ Pesquise por links diretos para issues no GitHub.
 ## Artigos úteis para novos contribuidores
 - [Como escolher (e contribuir com) o seu primeiro projeto Open Source](https://github.com/collections/choosing-projects) por [@GitHub](https://github.com/github)
 - [Como encontrar seu primeiro bug para resolver em um projeto Open Source](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) por [@Shubheksha](https://github.com/Shubheksha)
-- [Apenas para iniciantes](https://medium.com/@kentcdodds/first-timers-only-78281ea47455) por [@kentcdodds](https://github.com/kentcdodds)
+- [Apenas para iniciantes](https://kentcdodds.com/blog/first-timers-only) por [@kentcdodds](https://github.com/kentcdodds)
 - [Tragam a cordialidade de volta ao Open Source](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) por [@shanselman](https://github.com/shanselman)
 - [Mergulhando no Open Source pela primeira vez](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) por [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [Como contribuir com Open Source](https://opensource.guide/how-to-contribute/) por [@GitHub](https://github.com/github)
