@@ -25,17 +25,15 @@ If you find additional resources, please contribute a pull request.
 
 If you have questions or comments, please create an issue.
 
-## Table of Contents
-- [Welcome newbie Open Source contributors!](#welcome-newbie-open-source-contributors)
-  - [Table of Contents](#table-of-contents)
-  - [Contributing to Open Source in general](#contributing-to-open-source-in-general)
-  - [Direct GitHub searches](#direct-github-searches)
-  - [Mozilla's contributor ecosystem](#mozillas-contributor-ecosystem)
-  - [Useful articles for new Open Source contributors](#useful-articles-for-new-open-source-contributors)
-  - [Using Version Control](#using-version-control)
-  - [Open Source books](#open-source-books)
-  - [Open Source contribution initiatives](#open-source-contribution-initiatives)
-  - [License](#license)
+**Contents**
+- [Contributing to Open Source in general](#contributing-to-open-source-in-general)
+- [Direct GitHub searches](#direct-github-searches)
+- [Mozilla's contributor ecosystem](#mozillas-contributor-ecosystem)
+- [Useful articles for new Open Source contributors](#useful-articles-for-new-open-source-contributors)
+- [Using Version Control](#using-version-control)
+- [Open Source books](#open-source-books)
+- [Open Source contribution initiatives](#open-source-contribution-initiatives)
+- [License](#license)
 
 ## Contributing to Open Source in general
 - [The Definitive Guide to Contributing to Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
