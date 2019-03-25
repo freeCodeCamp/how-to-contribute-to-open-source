@@ -25,7 +25,7 @@ Dacă găsiți resurse suplimentare, vă rugăm să contribuiți cu o solicitare
 
 Dacă aveți întrebări sau comentarii, vă rugăm să creați o problemă (issue).
 
-## Cuprins
+**Cuprins**
 - [Contribuția la open source în general](#contribu%C8%9Bia-la-open-source-%C3%AEn-general)
 - [Căutări directe pe GitHub](#c%C4%83ut%C4%83ri-directe-pe-github)
 - [Ecosistemul contributorului Mozilla](#ecosistemul-contributorului-mozilla)

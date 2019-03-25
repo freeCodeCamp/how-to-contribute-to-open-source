@@ -25,7 +25,7 @@
 
 Если у вас есть вопросы или комментарии, создайте проблему.
 
-## Оглавление
+**Оглавление**
 - [Содействие открытому исходному коду вообще](#contributing-to-open-source-in-general)
 - [Direct GitHub searches](#direct-github-searches)
 - [экосистема вкладчика Mozilla](#mozillas-contributor-ecosystem)

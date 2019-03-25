@@ -25,7 +25,7 @@ Si encuetras recursos adicionales, por favor contribuye con una `pull request` a
 
 Si tienes alguna pregunta o comentario, por favor crea un `issue` en este repositorio.
 
-## Tabla de contenidos
+**Tabla de contenidos**
 - [Contribuyendo al código abierto en general](#contribuyendo-al-c%C3%B3digo-abierto-en-general)
 - [Búsquedas directas en GitHub](#busquedas-directas-en-github)
 - [Ecosistema de colaboradores de Mozilla](#ecosistema-de-colaboradores-de-mozilla)
