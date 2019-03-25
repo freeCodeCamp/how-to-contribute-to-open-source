@@ -12,13 +12,12 @@ Issues can be submitted by anyone - seasoned developers or newbies.
     **before** moving to Step 2.
 
 2.  Fork the project on GitHub.
-    [Help Guide to Fork a Repository](https://help.github.com/articles/fork-a-repo/).
+    [Help Guide to Fork a Repository](https://help.github.com/en/articles/fork-a-repo/).
 
     ![Illustration for How to Fork a Repository](https://hisham.hm/img/posts/github-fork.png)
 
 3.  Clone the project.
-
-    ![Illustration for How to Clone the Project](https://services.github.com/on-demand/images/gifs/github-desktop/clone-repository-locally.gif)
+    [Help Guide to Clone a Repository](https://help.github.com/en/articles/cloning-a-repository)
 
 4.  Create a branch specific to the issue you are working on.
 
