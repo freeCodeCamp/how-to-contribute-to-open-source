@@ -25,17 +25,15 @@
 
 Αν έχετε ερωτήσεις ή σχόλια, δημιουργήστε ένα issue.
 
-## Περιεχόμενα
-- [Καλώς ήρθατε στη συνεισφορά λογισμικού Ανοικτού Κώδικα!](#welcome-newbie-open-source-contributors)
-  - [Περιεχόμενα](#table-of-contents)
-  - [Γενικά για τη συνεισφορά Ανοικτού Κώδικα](#contributing-to-open-source-in-general)
-  - [Direct GitHub searches](#direct-github-searches)
-  - [Mozilla's contributor ecosystem](#mozillas-contributor-ecosystem)
-  - [Χρήσιμα άρθρα για αρχάριους στη συνεισφορά Ανοικτού Κώδικα](#useful-articles-for-new-open-source-contributors)
-  - [Χρήση Version Control](#using-version-control)
-  - [Βιβλία σχετικά με Ανοικτό κώδικα](#open-source-books)
-  - [Open Source contribution initiatives](#open-source-contribution-initiatives)
-  - [Άδεια χρήσης](#license)
+**Περιεχόμενα**
+- [Γενικά για τη συνεισφορά Ανοικτού Κώδικα](#contributing-to-open-source-in-general)
+- [Direct GitHub searches](#direct-github-searches)
+- [Mozilla's contributor ecosystem](#mozillas-contributor-ecosystem)
+- [Χρήσιμα άρθρα για αρχάριους στη συνεισφορά Ανοικτού Κώδικα](#useful-articles-for-new-open-source-contributors)
+- [Χρήση Version Control](#using-version-control)
+- [Βιβλία σχετικά με Ανοικτό κώδικα](#open-source-books)
+- [Open Source contribution initiatives](#open-source-contribution-initiatives)
+- [Άδεια χρήσης](#license)
 
 ## Γενικά για τη συνεισφορά Ανοικτού Κώδικα
 - [The Definitive Guide to Contributing to Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)

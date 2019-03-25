@@ -26,18 +26,16 @@ Wenn du weitere nützliche Materialien findest, starte bitte einen Pull Request.
 
 Wenn du Fragen oder Kommentare hast, eröffne bitte einen neuen Issue.
 
-## Inhaltsverzeichnis
+**Inhaltsverzeichnis**
 
-- [Willkommen, Open-Source-Einsteiger\*in!](#willkommen-open-source-einsteiger*in)
-  - [Inhaltsverzeichnis](#inhaltsverzeichnis)
-  - [Open-Source-Beiträge im Allgemeinen](#open-source-beiträge-im-allgemeinen)
-  - [GitHub-Suchen](#github-suchen)
-  - [Mozillas Open-Source-Ökosystem](#mozillas-open-source-ökosystem)
-  - [Nützliche Artikel für Open-Source-Mitarbeiter\*innen](#nützliche-artikel-für-open-source-mitarbeiter*innen)
-  - [Versionskontrolle nutzen](#versionskontrolle-nutzen)
-  - [Open-Source-Bücher](#open-source-bücher)
-  - [Open-Source-Beitragsinitiativen](#open-source-beitragsinitiativen)
-  - [Lizenz](#lizenz)
+- [Open-Source-Beiträge im Allgemeinen](#open-source-beiträge-im-allgemeinen)
+- [GitHub-Suchen](#github-suchen)
+- [Mozillas Open-Source-Ökosystem](#mozillas-open-source-ökosystem)
+- [Nützliche Artikel für Open-Source-Mitarbeiter\*innen](#nützliche-artikel-für-open-source-mitarbeiter*innen)
+- [Versionskontrolle nutzen](#versionskontrolle-nutzen)
+- [Open-Source-Bücher](#open-source-bücher)
+- [Open-Source-Beitragsinitiativen](#open-source-beitragsinitiativen)
+- [Lizenz](#lizenz)
 
 ## Open-Source-Beiträge im Allgemeinen
 

@@ -26,6 +26,7 @@ If you find additional resources, please contribute a pull request.
 If you have questions or comments, please create an issue.
 
 **Contents**
+
 - [Contributing to Open Source in general](#contributing-to-open-source-in-general)
 - [Direct GitHub searches](#direct-github-searches)
 - [Mozilla's contributor ecosystem](#mozillas-contributor-ecosystem)

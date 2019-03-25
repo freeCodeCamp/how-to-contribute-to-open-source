@@ -25,7 +25,7 @@ Se você sabe de algum recurso extra que não esteja listado aqui, por favor env
 
 Se você possui alguma dúvida ou comentário, por favor crie uma issue.
 
-## Conteúdo
+**Conteúdo**
 - [Contribuindo com Open Source](#contributing-to-open-source-in-general)
 - [Pesquisas diretas no GitHub](#direct-github-searches)
 - [Ambiente de contribuidores da Mozilla](#mozillas-contributor-ecosystem)

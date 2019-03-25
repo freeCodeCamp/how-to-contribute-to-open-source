@@ -25,7 +25,7 @@ Se trovi risorse aggiuntive, si prega di contribuire con una richiesta di pull.
 
 Se hai domande o commenti, crea un problema/issue.
 
-## Sommario
+**Sommario**
 - [Contribuire all'open source in generale](#contribuire-allopen-source-in-generale)
 - [Ricerche GitHub dirette](#ricerche-github-dirette)
 - [L'ecosistema del contributore di Mozilla](#lecosistema-del-contributore-di-mozilla)
