@@ -13,28 +13,28 @@
     </tr>
 </table>
 
-# Welcome newbie Open Source contributors!
+# Bienvenue aux nouveaux contributeurs d'Open Source !
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 [![Build Status](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
 
-This is a list of resources for people who are new to contributing to Open Source.
+Voici une liste de ressources pour les contributeurs débutants de l'Open Source.
 
-If you find additional resources, please contribute a pull request.
+Si vous trouvez des ressources additionnelles, veuillez ajouter une contribution (`pull request`).
 
-If you have questions or comments, please create an issue.
+Si vous avez des questions ou commentaires, veuillez créer un tiquet.
 
-**Contents**
+**Sommaire**
 
-- [Contributing to Open Source in general](#contributing-to-open-source-in-general)
-- [Direct GitHub searches](#direct-github-searches)
-- [Mozilla's contributor ecosystem](#mozillas-contributor-ecosystem)
-- [Useful articles for new Open Source contributors](#useful-articles-for-new-open-source-contributors)
-- [Using Version Control](#using-version-control)
-- [Open Source books](#open-source-books)
-- [Open Source contribution initiatives](#open-source-contribution-initiatives)
-- [License](#license)
+- [Contribuer à l'Open Source en général](#contributing-to-open-source-in-general)
+- [Recherches GitHub directes](#direct-github-searches)
+- [L'écosystème de contribution de Mozilla](#mozillas-contributor-ecosystem)
+- [Articles utiles pour les nouveaux contributeurs à l'Open Source](#useful-articles-for-new-open-source-contributors)
+- [Utilisation du locitiel de gestion de versions](#using-version-control)
+- [Ouvrages sur l'Open Source books](#open-source-books)
+- [Initiatives de contribution à l'Open Source](#open-source-contribution-initiatives)
+- [Licence](#license)
 
 ## Contributing to Open Source in general
 - [The Definitive Guide to Contributing to Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
