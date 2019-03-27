@@ -19,7 +19,7 @@
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 [![Build Status](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
 
-Voici une liste de ressources pour les contributeurs débutants de l'Open Source.
+Voici une liste de ressources pour les contributeurs novices de l'Open Source.
 
 Si vous trouvez des ressources additionnelles, veuillez ajouter une contribution (`pull request`).
 
@@ -31,18 +31,18 @@ Si vous avez des questions ou commentaires, veuillez créer un tiquet.
 - [Recherches GitHub directes](#direct-github-searches)
 - [L'écosystème de contribution de Mozilla](#mozillas-contributor-ecosystem)
 - [Articles utiles pour les nouveaux contributeurs à l'Open Source](#useful-articles-for-new-open-source-contributors)
-- [Utilisation du locitiel de gestion de versions](#using-version-control)
+- [Utilisation du logitiel de gestion de versions](#using-version-control)
 - [Ouvrages sur l'Open Source books](#open-source-books)
 - [Initiatives de contribution à l'Open Source](#open-source-contribution-initiatives)
 - [Licence](#license)
 
-## Contributing to Open Source in general
-- [The Definitive Guide to Contributing to Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
-- [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials by DigitalOcean to guide you on your way to contribution success here on GitHub.
-- [Issuehub.io](http://issuehub.io/) - a tool for searching GitHub issues by label and language.
-- [Code Triage](https://www.codetriage.com/) - another, really nice, tool for finding popular repositories and issues filtered by language.
-- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - a GitHub repo that amasses projects with good bugs for new contributors, and applies labels to describe them.
-- [Open Source Guides](https://opensource.guide/) - Collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an Open Source project.
+## Contribuer à l'Open Source en général
+- [Le Guide Définitif pour Contribuer à l'Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) de [@DoomHammerNG](https://twitter.com/DoomHammerNG)
+- [Une Intro à l'Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutoriels de DigitalOcean pour vous mettre sur la bonne voie pour contribuer avec succès dans GitHub.
+- [Issuehub.io](http://issuehub.io/) - un outil pour chercher les `issues` dans GitHub en le les filtrant par label et langue.
+- [Code Triage](https://www.codetriage.com/) - un autre outil pratique pour chercher les dépôts populaires et `issues` filtrés par langue.
+- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - un dépôt GitHub regroupant des projets avec de bugs faciles pour les contributeurs novices, et avec des labels pour les décrire.
+- [Open Source Guides](https://opensource.guide/) - Collection de ressources pour les particuliers, communautés et sociétés qui désirent apprendre à gérer et contribuer à un projet d'Open Source.
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Do's and Don'ts on GitHub.
 - [GitHub Guides](https://guides.github.com/) - basic guides on how to use GitHub effectively.
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Learn the GitHub workflow by contributing code to a simulation project.
