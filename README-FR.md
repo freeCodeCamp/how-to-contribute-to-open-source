@@ -13,48 +13,48 @@
     </tr>
 </table>
 
-# Welcome newbie Open Source contributors!
+# Bienvenue aux nouveaux contributeurs d'Open Source !
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 [![Build Status](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
 
-This is a list of resources for people who are new to contributing to Open Source.
+Voici une liste de ressources pour les contributeurs novices de l'Open Source.
 
-If you find additional resources, please contribute a pull request.
+Si vous trouvez des ressources additionnelles, veuillez ajouter une contribution (`pull request`).
 
-If you have questions or comments, please create an issue.
+Si vous avez des questions ou commentaires, veuillez créer un tiquet.
 
-**Contents**
+**Sommaire**
 
-- [Contributing to Open Source in general](#contributing-to-open-source-in-general)
-- [Direct GitHub searches](#direct-github-searches)
-- [Mozilla's contributor ecosystem](#mozillas-contributor-ecosystem)
-- [Useful articles for new Open Source contributors](#useful-articles-for-new-open-source-contributors)
-- [Using Version Control](#using-version-control)
-- [Open Source books](#open-source-books)
-- [Open Source contribution initiatives](#open-source-contribution-initiatives)
-- [License](#license)
+- [Contribuer à l'Open Source en général](#contributing-to-open-source-in-general)
+- [Recherches GitHub directes](#direct-github-searches)
+- [L'écosystème de contribution de Mozilla](#mozillas-contributor-ecosystem)
+- [Articles utiles pour les nouveaux contributeurs à l'Open Source](#useful-articles-for-new-open-source-contributors)
+- [Utilisation du logitiel de gestion de versions](#using-version-control)
+- [Ouvrages sur l'Open Source books](#open-source-books)
+- [Initiatives de contribution à l'Open Source](#open-source-contribution-initiatives)
+- [Licence](#license)
 
-## Contributing to Open Source in general
-- [The Definitive Guide to Contributing to Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
-- [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials by DigitalOcean to guide you on your way to contribution success here on GitHub.
-- [Issuehub.io](http://issuehub.io/) - a tool for searching GitHub issues by label and language.
-- [Code Triage](https://www.codetriage.com/) - another, really nice, tool for finding popular repositories and issues filtered by language.
-- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - a GitHub repo that amasses projects with good bugs for new contributors, and applies labels to describe them.
-- [Open Source Guides](https://opensource.guide/) - Collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an Open Source project.
-- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Do's and Don'ts on GitHub.
-- [GitHub Guides](https://guides.github.com/) - basic guides on how to use GitHub effectively.
-- [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Learn the GitHub workflow by contributing code to a simulation project.
-- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - The Linux Foundation's guides to Open Source projects.
-- [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - An Open Source Etiquette Guidebook, written by Kent C. Dodds And Sarah Drasner.
-- [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Curated list of resources and opportunities for college students to learn a new coding language.
-- [Contributing to your First Open Source Project: A Practical Approach](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - A step-by-step approach to contributing to your first Open Source project by [Abati Adewale](https://www.acekyd.com).
-- [Pull Request Roulette](http://www.pullrequestroulette.com/) - This site has a list of pull requests submitted for review belonging to Open Source projects hosted on Github.
-- ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - A step-by-step video guide of how to start contributing to Open Source projects on GitHub.
+## Contribuer à l'Open Source en général
+- [Le Guide Définitif pour Contribuer à l'Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) de [@DoomHammerNG](https://twitter.com/DoomHammerNG)
+- [Une Intro à l'Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutoriels de DigitalOcean pour vous mettre sur la bonne voie pour contribuer avec succès dans GitHub.
+- [Issuehub.io](http://issuehub.io/) - un outil pour chercher les `issues` dans GitHub en le les filtrant par label et langue.
+- [Code Triage](https://www.codetriage.com/) - un autre outil pratique pour chercher les dépôts populaires et `issues` filtrés par langue.
+- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - un dépôt GitHub regroupant des projets avec de bugs faciles pour les contributeurs novices, et avec des labels pour les décrire.
+- [Guides de l'Open Source](https://opensource.guide/) - Collection de ressources pour les particuliers, communautés et sociétés qui désirent apprendre à gérer et contribuer à un projet d'Open Source.
+- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Ce qu'il faut faire et ne pas faire sur GitHub.
+- [Guides de GitHub](https://guides.github.com/) - guides basiques sur comment utiliser GitHub efficacement.
+- [Contribuer à l'Open Source](https://github.com/danthareja/contribute-to-open-source) - Apprendre le processus de GitHub en contribuant du code à une simulation de projet.
+- [Guide pour l'Open Source de la Fondation Linux pour l'entreprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Les guides de la Fondation Linux pour les projets Open Source.
+- [CSS Tricks - Guide de l'etiquette dans l'Open Source](https://css-tricks.com/open-source-etiquette-guidebook/) - Un guide de l'étiquette dans l'Open Source, écrit par [Kent C. Dodds](https://github.com/kentcdodds) et [Sarah Drasner](https://github.com/sdras).
+- [Ressources de A à Z pour les étudiants](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Liste organisée de ressources et d'opportunités pour les étudiants universitaires souhaitant apprendre un nouveau language informatique.
+- [Contribuer à votre premier projet Open Source : une approche pratique](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - Une approche étape par étape pour contribuer à votre premier projet Open Source, de [Abati Adewale](https://www.acekyd.com).
+- [Pull Request Roulette](http://www.pullrequestroulette.com/) - Ce site offre une liste de `pull requests` soumises pour être revues appartenant à des projets Open Source hébergés sur GitHub.
+- ["Comment contribuer à un projet Open Source sur GitHub" de Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - Un guide vidéo expliquant étape par étape comment contribuer à des projets Open Source sur GitHub.
 
-## Direct GitHub searches
-Search links that point directly to suitable issues to contribute to on GitHub.
+## Recherches directes sur GitHub
+Cherchez des liens qui pointent directement vers des `issues` propices à la contribution sur GitHub.
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
 - [is:issue is:open label:first-timers-only](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
@@ -63,15 +63,15 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [is:issue is:open label:starter](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Astarter)
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
-## Mozilla's contributor ecosystem
-- [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - bugs that developers have identified as a good introduction to the project.
-- [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs that have a mentor assigned who will be there on IRC to help you when you get stuck while working on fix.
-- [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - a site dedicated to finding bugs on Bugzilla.
-- [Firefox DevTools](http://firefox-dev.tools/) - a site dedicated to bugs filed for the developer tools in the Firefox browser.
-- [What Can I Do For Mozilla](http://whatcanidoformozilla.org/) - figure out what you can work on by answering a bunch of questions about your skill set and interests.
-- [Start Mozilla](https://twitter.com/StartMozilla) - a Twitter account that tweets about issues fit for contributors new to the Mozilla ecosystem.
+## L'écosystème de collaboration de Mozilla
+- [Bons premiers bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - bugs que les développeurs ont identifiés comme de bonnes introductions au projet.
+- [Bugs encadrés](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs qui ont un mentor assigné qui sera là sur IRC pour vous aider si vous êtes bloqué en essayant de le résoudre.
+- [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - un site dédié à la recherche de bugs sur Bugzilla.
+- [Firefox DevTools](http://firefox-dev.tools/) - un site dédié aux bugs reporté sur l'outil de développement du navigateur Firefox.
+- [Que puis-je faire pour Mozilla](http://whatcanidoformozilla.org/)  -  découvrez ce sur quoi vous pouvez travailler en répondant à une série de questions au sujet de vos compétences et intérêts.
+- [Start Mozilla](https://twitter.com/StartMozilla) - un compte Twitter qui publie des problèmes adaptés aux apprentis contributeurs de l'écosystème Mozilla.
 
-## Useful articles for new Open Source contributors
+## Articles utiles pour les contributeurs novices de l'Open Source
 - [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
 - [How to find your first Open Source bug to fix](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) by [@Shubheksha](https://github.com/Shubheksha)
 - [First Timers Only](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
