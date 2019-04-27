@@ -14,7 +14,7 @@
     </tr>
 </table>
 
-# Merhaba yeni Açık Kaynak Katkı Sağlayıcıları!
+# Merhaba, Yeni Başlamış Açık Kaynak Katkı Sağlayıcıları!
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
@@ -30,6 +30,8 @@
 - **_pull request_**
 - **_issue_**
 - **_bug_**
+- **_markdown_**
+- **_cheat sheet_**
 
 Açık Kaynağa katkı sağlamak konusunda yeni olanlar için kaynak listesi
 
@@ -86,50 +88,50 @@ Direkt olarak uygun issuelara referans veren katkı sağlanabilecek arama bağla
 - [Start Mozilla](https://twitter.com/StartMozilla) - Mozilla ekosisteminde yeni olan katkı sağlayıcıları için twitler atan twitter hesabı 
 
 ## Yeni Open Source Katkı Sağlayıcıları için faydalı makaleler 
-- [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
-- [How to find your first Open Source bug to fix](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) by [@Shubheksha](https://github.com/Shubheksha)
-- [First Timers Only](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
-- [Bring Kindness Back to Open Source](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) by [@shanselman](https://github.com/shanselman)
-- [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
-- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
-- [How to Find a Bug in Your Code](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
-- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) by [@GitHubGuides](https://guides.github.com/)
-- [First mission: Contributors page](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
-- [How to make your first Open Source contribution in just 5 minutes](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) by [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
-- [Hacktoberfest 2018: How you can get your free shirt — even if you’re new to coding](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) by [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
-- [A Bitter Guide To Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
-- [A junior developer’s step-by-step guide to contributing to Open Source for the first time](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) by [@LetaKeane](http://www.letakeane.com/)
-- [Learn Git and GitHub Step By Step (on Windows)](https://medium.com/@ows_ali/be93518e06dc) by [@ows-ali](https://medium.com/@ows_ali)
+- [İlk Açık Kaynak Projenizi nasıl seçersiniz?](https://github.com/collections/choosing-projects) yazan [@GitHub](https://github.com/github)
+- [Düzeltmek için ilk Açık Kaynak Bugınızı nasıl bulursunuz?](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) yazan [@Shubheksha](https://github.com/Shubheksha)
+- [İlk Defa Açık Kaynağa başlayacaklar için](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
+- [Açık Kaynağa iyiliği Geri Getirmek](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) yazan [@shanselman](https://github.com/shanselman)
+- [İlk defa Açık Kaynağın içine girmek](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) yazan [@mcdonnelldean](https://github.com/mcdonnelldean)
+- [Açık Kaynağa Nasıl Katkı Sağlanır](https://opensource.guide/how-to-contribute/) yazan [@GitHub](https://github.com/github)
+- [Kodunuzda Bugı Nasıl Bulabilirsiniz?](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) yazan [@dougbradbury](https://twitter.com/dougbradbury)
+- [Markdownda Uzmanlaşmak](https://guides.github.com/features/mastering-markdown/) by [@GitHubGuides](https://guides.github.com/)
+- [İlk Görev: Katkı Sağlayıcı Sayfası](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) yazan [@forCrowd](https://github.com/forCrowd)
+- [5 Dakika İçerisinde Açık Kaynağa Nasıl Katkı Sağlarsın](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) yazan [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
+- [Hacktoberfest 2018: Nasıl ücretsiz t-shirt alırsın — Kodlama Yeni Olsan Dahi](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) yazan [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
+- [Açık Kaynak için Acı Kılavuz](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) yazan [@ken_wheeler](https://medium.com/@ken_wheeler)
+- [Yeni Developerlar İçin Adım Adım İlk Defa Açık Kaynağa Katkı Sağlama Kılavuzu](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) yazan [@LetaKeane](http://www.letakeane.com/)
+- [Windows üzerinde Adım Adım Git ve GitHub Öğren)](https://medium.com/@ows_ali/be93518e06dc) yazan [@ows-ali](https://medium.com/@ows_ali)
 
 ## Versiyon Kontrol Kullanmak
-- [Think Like (a) Git](http://think-like-a-git.net/) - Git introduction for "advanced beginners," but are still struggling, in order to give you a simple strategy to safely experiment with git.
-- [Try Git](https://try.github.io/) - Learn Git in 15 minutes from within your browser for free.
-- [Everyday Git](https://git-scm.com/docs/giteveryday) - A useful minimum set of commands for Everyday Git.
-- [Oh shit, git!](http://ohshitgit.com/) - how to get out of common `git` mistakes described in plain English.
-- [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/) - various tutorials on using `git`.
+- [Git Gibi Düşünmek](http://think-like-a-git.net/) - İleri Seviye Yeni Başlayan olup bazı noktalarda zorlananlar için güvenli bir deneyim sağlamaları için basit stratejiler veren Git Tanıtımı
+- [Git'i Dene](https://try.github.io/) - Ücretsiz olarak tarayıcın üzerinde 15 dakikada Git Öğren
+- [Her Gün "Git"](https://git-scm.com/docs/giteveryday) - Her Gün ihtiyaç duyabileceğiniz kullanışlı komutlar
+- [Oh shit, git!](http://ohshitgit.com/) - Düz bir ingilizce ile anlatılmış "Git kullanırken yapılan ortak hatalardan nasıl kaçınırsın" kılavuzu
+- [Atlassian'ın Git Dersleri](https://www.atlassian.com/git/tutorials/) - Çeşitli `git` kullanma kılavuzları.
 - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
-- [freeCodeCamp's Wiki on Git Resources](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
-- [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - GitHub talk on how to make a pull request.
-- [GitHub Learning Resources](https://help.github.com/articles/git-and-github-learning-resources/) - Git and GitHub learning resources.
-- [Pro Git](https://git-scm.com/book/en/v2) - The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress.
-- [Git-it](https://github.com/jlord/git-it-electron) - Step by step Git tutorial desktop app.
-- [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - A guide about what to do when things go wrong.
-- [A Comprehensive Introduction To Git and GitHub](https://codeburst.io/git-good-part-a-e0d826286a2a) - A guide written by Madhav Bahl, which you should see if you are new to Git or GitHub, it covers GitHub as a service and concepts of Git version control in detail.
-- [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - A complete guide of slides about git and GitHub explained in Spanish. Una guía completa de diapositivas sobre git y GitHub explicadas en Español.
-- [Git Kraken](https://www.gitkraken.com/git-client) - Visual, cross-platform, and interactive `git` desktop application for version control.
+- [freeCodeCamp ın Viki Git Kaynakları](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
+- [GitHub Akışı](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - Pull Request nasıl yapılır hakkında bir Github Konuşması
+- [GitHub Öğrenme Kaynakları](https://help.github.com/articles/git-and-github-learning-resources/) - Git ve GitHub öğrenme kaynakları.
+- [Pro Git](https://git-scm.com/book/en/v2) - Scott Chacon ve Ben Straub tarafından yazılmış, ApressThe tarafından paylaşılmış "Pro Git book" kitabının tamamı.
+- [Git-it](https://github.com/jlord/git-it-electron) - Adım Adım Desktopta kullanabileceğiniz Git dersleri
+- [Git için Uçuş Kuralları](https://github.com/k88hudson/git-flight-rules) - İşler sarpa sardığında ne yapılması gerektiği ile ilgili kılavuz.
+- [Git and GitHub hakkında kapsamlı bir tanıtım](https://codeburst.io/git-good-part-a-e0d826286a2a) - Madhav Bahl tarafından yazılmış ki git ve GitHub'da yeniyseniz mutlaka görmelisiniz, Git Versiyon Kontrolünü detaylı olarak anlatan bir tanıtım.
+- [Başlangıç Seviyesi için İspanyolca Git Kılavuzu](https://platzi.github.io/git-slides/#/)git ve GitHub hakkında İspanyolca açıklanmış eksiksiz kılavuz slaytı.Una guía completa de diapositivas sobre git y GitHub explicadas en Español.
+- [Git Kraken](https://www.gitkraken.com/git-client) - Versiyon Kontrol için görsel, çapraz platform uyumlu ve interaktif `git` masaüstü uygulaması
 
-## Open Source books
-- [Producing Open Source Software](http://producingoss.com/) - Producing Open Source Software is a book about the human side of Open Source development. It describes how successful projects operate, the expectations of users and developers, and the culture of free software.
-- [Open Source Book Series](https://opensource.com/resources/ebooks) - Learn more about Open Source and the growing Open Source movement with a comprehensive list of free eBooks from https://opensource.com.
-- [Software Release Practice HOWTO](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - This HOWTO describes good release practices for Linux and other Open-Source projects. By following these practices, you will make it as easy as possible for users to build your code and use it, and for other developers to understand your code and cooperate with you to improve it.
-- [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 is a collection of insightful and thought-provoking essays from today's technology leaders that continues painting the evolutionary picture that developed in the 1999 book, Open Sources: Voices from the Revolution.
+## Açık Kaynak kitaplar
+- [Açık Kaynak Proje Üretmek](http://producingoss.com/) - "Producing Open Source Software"  kitabı Açık Kaynak Geliştirmenin İnsan tarafı hakkında bir kitaptır. Ücretsiz yazılım kültürünü, kullanıcı ve geliştiricilerden beklentileri ve başarı projelerin yönetimini anlatır. 
+- [Açık Kaynak Kitap Serisi](https://opensource.com/resources/ebooks) - Açık Kaynak ve büyüyen Açık Kaynak Hareketi hakkında hakkında daha fazla bilgiler öğrenebileceğiniz https://opensource.com sitesinden kapsamlı ücretsiz kitap listesi
+- [Yazılım Yayınlama Pratikleri: Nasıl Yapılır](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - Linux ve diğer Açık-Kaynak projeler için doğru yayınlama pratiklerini açıklar. Bu pratikleri takip ederek, kullanıcıların kodunuzu daha iyi derlemesini, kullanmasını ve diğer geliştiriclerin kodunuzu anlayarak sizin işbirliği içinde kodunuzu iyileştirmesini sağlayacaksınız.
+- [Açık Kaynak 2.0 : Süregelen Evrim](https://archive.org/details/opensources2.000diborich)(2005) - Açık Kaynak 2.0 Bugünün teknoloji liderlerinden, 1999 yılında yayınlanmış kitap olan "Açık Kaynak: Evrimden gelen Sesler" kitabının, süregelenen evriminin fotoğrafını yüksek idrak kabiliyetiyle resmeden ve düşünmeye sevk edici kompozisyon dizisidir. 
 
-## Open Source contribution initiatives
-- [Up For Grabs](http://up-for-grabs.net/#/) - Contains projects with beginner friendly issues
-- [First Timers Only](http://www.firsttimersonly.com/) - A list of bugs that are labelled "first-timers-only".
-- [First Contributions](https://firstcontributions.github.io/) - Make your first Open Source contribution in 5 minutes. A tool and tutorial to help beginners get started with contributions.
-- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - A program to encourage Open Source contributions. Earn gifts like t-shirts and stickers by making at least 5 pull requests in the month of October.
-- [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests is a project to promote Open Source collaboration during the month of December.
+## Açık Kaynağa Katkı Sağlama Grişimleri
+- [Up For Grabs](http://up-for-grabs.net/#/) - Başlangıç seviyesi dostu issuelar ile beraber projeleri içerir
+- [Yalnızca İlk Defa Başlayanlar İçin](http://www.firsttimersonly.com/) - "first-timers-only" olarak etkiketlenmiş bug listesi
+- [İlk Katkılar](https://firstcontributions.github.io/) - 5 dakika içerisinde ilk Açık Kaynak Katkını yap. Katkı Yapmaya başlamak için yardım eden araç ve ders 
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Açık Kaynağa Katkı sağlamayı teşvik eden bir program. Ayında bazında en az 5 pull request yaparak t-shirt ve stiker gibi hediyeler kazan.
+- [24 Pull Requests](https://24pullrequests.com) - Aralık ayı boyunca Açık Kaynak işbirliğini destekleyen proje. 
 
 ## License
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Lisans türü: <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
