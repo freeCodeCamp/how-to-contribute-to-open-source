@@ -8,8 +8,8 @@ before contributing.
     - [Contributing Guide](https://github.com/babel/babel/blob/master/CONTRIBUTING.md)
     - Issue labels:
         - [Good First Issue](https://github.com/babel/babel/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
-- [BeeWare](https://pybee.org/) (org)
-    - [Contributing Guide](https://pybee.org/contributing/how/first-time/)
+- [BeeWare](https://beeware.org/) (org)
+    - [Contributing Guide](https://beeware.org/contributing/how/first-time/)
     - [Batavia](https://github.com/pybee/batavia) (project)
         - Issue labels:
             - [first-timers-only](https://github.com/pybee/batavia/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
