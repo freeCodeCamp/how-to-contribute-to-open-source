@@ -10,12 +10,12 @@ before contributing.
         - [Good First Issue](https://github.com/babel/babel/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 - [BeeWare](https://beeware.org/) (org)
     - [Contributing Guide](https://beeware.org/contributing/how/first-time/)
-    - [Batavia](https://github.com/pybee/batavia) (project)
+    - [Batavia](https://github.com/beeware/batavia) (project)
         - Issue labels:
-            - [first-timers-only](https://github.com/pybee/batavia/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
-    - [VOC](https://github.com/pybee/voc) (project)
+            - [first-timers-only](https://github.com/beeware/batavia/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
+    - [VOC](https://github.com/beeware/voc) (project)
         - Issue labels:
-            - [first-timers-only](https://github.com/pybee/voc/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
+            - [first-timers-only](https://github.com/beeware/voc/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
 - [Casualdate](https://github.com/StellarDoor5319/casualdate) (project)
     - [Contributing Guide](https://github.com/redfin/react-server/blob/master/CONTRIBUTING.md)
     - Issue labels:
