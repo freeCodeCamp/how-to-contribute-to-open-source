@@ -110,4 +110,4 @@ before contributing.
 - [Test Kitchen](https://github.com/test-kitchen/test-kitchen) (project)
     - [Contributing Guide](https://github.com/test-kitchen/test-kitchen/blob/master/CONTRIBUTING.md)
     - Issue labels:
-       - [*](https://github.com/test-kitchen/test-kitchen/issues?q=is%3Aopen+is%3Aissue+label%3A*)
+       - [*](https://github.com/test-kitchen/test-kitchen/issues?q=is%3Aopen+is%3Aopen)
