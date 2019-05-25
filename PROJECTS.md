@@ -107,3 +107,7 @@ before contributing.
     - [Contributing Guide](https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md)
     - Issue labels:
        - [E-easy](https://github.com/rust-lang/rust/issues?q=is%3Aissue+is%3Aopen+label%3AE-easy)
+- [Test Kitchen](https://github.com/test-kitchen/test-kitchen) (project)
+    - [Contributing Guide](https://github.com/test-kitchen/test-kitchen/blob/master/CONTRIBUTING.md)
+    - Issue labels:
+       - [*](https://github.com/test-kitchen/test-kitchen/issues?q=is%3Aopen+is%3Aissue+label%3A*)
