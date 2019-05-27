@@ -39,7 +39,7 @@ Açık Kaynağa katkı sağlamak konusunda yeni olanlar için kaynak listesi
 
 Eğer bir sorunuz veya yorumunuz varsa lütfen issue oluşturun.
 
-**Contents**
+**İçerikler**
 
 - [Genel olarak Açık Kaybağa katkı sağlamak](#contributing-to-open-source-in-general)
 - [Doğrudan github aramaları](#direct-github-searches)
@@ -50,7 +50,7 @@ Eğer bir sorunuz veya yorumunuz varsa lütfen issue oluşturun.
 - [Açık Kaynağa katkı girişimleri](#open-source-contribution-initiatives)
 - [Lisans](#license)
 
-## Genel olarak Açık Kaybağa katkı sağlamak
+## Genel olarak Açık Kaynağa katkı sağlamak
 - [Açık Kaynağa katkı sağlamak hakkında açıklayıcı kılavuz](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [Açık Kaynağa Giriş](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - DigitalOcean tarafından hazırlanan GitHub'da başarılı katkı için yolunda kılavuz olacak dersler 
 - [Issuehub.io](http://issuehub.io/) - GitHub issuelarını label ve dile göre aramak için araç
@@ -69,7 +69,7 @@ Simülasyon prosine kod katkısı sağlayarak GitHub dinamiklerini öğren
 - [Pull Request Ruleti](http://www.pullrequestroulette.com/) - Açık Kaynak Projelere ait gözden geçirilmesi için gönderilmiş pull requestler. 
 - ["GitHub'daki açık kaynak projelere nasıl katkı sağlanır." Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - "GitHub'daki açık kaynak projelere adım adım nasıl katkı sağlanır?" ile ilgili videolar.
 
-## Direkt GitHub arama sonuçarı
+## Direkt GitHub arama sonuçları
 Direkt olarak uygun issuelara referans veren katkı sağlanabilecek arama bağlantıları 
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
@@ -79,7 +79,7 @@ Direkt olarak uygun issuelara referans veren katkı sağlanabilecek arama bağla
 - [is:issue is:open label:starter](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Astarter)
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
-## Mozilla's contributor ecosystem
+## Mozilla'nın Contributor ekosistemi
 - [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - İyi bir başlangış olarak tanımlanmış buglar 
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - Üzerinde çalışırken sıkıştığında sohbet aracılığı ile yardım alabileceğin, mentörler tarafından atanmış buglar
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - Bugzilla üzerinden bug bulabileceğiniz websitesi.
@@ -126,7 +126,7 @@ Direkt olarak uygun issuelara referans veren katkı sağlanabilecek arama bağla
 - [Yazılım Yayınlama Pratikleri: Nasıl Yapılır](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - Linux ve diğer Açık-Kaynak projeler için doğru yayınlama pratiklerini açıklar. Bu pratikleri takip ederek, kullanıcıların kodunuzu daha iyi derlemesini, kullanmasını ve diğer geliştiriclerin kodunuzu anlayarak sizin işbirliği içinde kodunuzu iyileştirmesini sağlayacaksınız.
 - [Açık Kaynak 2.0 : Süregelen Evrim](https://archive.org/details/opensources2.000diborich) (2005) - Açık Kaynak 2.0 Bugünün teknoloji liderlerinden, 1999 yılında yayınlanmış kitap olan "Açık Kaynak: Devrimden Sesler" kitabının, süregelen evrimsel resmini yüksek idrak kabiliyetiyle resmeden ve düşünmeye sevk edici kompozisyon dizisidir. 
 
-## Açık Kaynağa Katkı Sağlama Grişimleri
+## Açık Kaynağa Katkı Sağlama Girişimleri
 - [Up For Grabs](http://up-for-grabs.net/#/) - Başlangıç seviyesi dostu issuelar ile beraber projeleri içerir
 - [Yalnızca İlk Defa Başlayanlar İçin](http://www.firsttimersonly.com/) - "first-timers-only" olarak etkiketlenmiş bug listesi
 - [İlk Katkılar](https://firstcontributions.github.io/) - 5 dakika içerisinde ilk Açık Kaynak Katkını yap. Katkı Yapmaya başlamak için yardım eden araç ve ders 
