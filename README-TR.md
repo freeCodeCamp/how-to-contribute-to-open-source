@@ -39,10 +39,10 @@ Açık Kaynağa katkı sağlamak konusunda yeni olanlar için kaynak listesi
 
 Eğer bir sorunuz veya yorumunuz varsa lütfen issue oluşturun.
 
-**Contents**
+**İçerikler**
 
-- [Genel olarak Açık Kaybağa katkı sağlamak](#contributing-to-open-source-in-general)
-- [Doğrudan github aramaları](#direct-github-searches)
+- [Genel olarak Açık Kaynağa katkı sağlamak](#contributing-to-open-source-in-general)
+- [Doğrudan Github aramaları](#direct-github-searches)
 - [Mozilla'nın katkı sağlayıcıları ekosistemi](#mozillas-contributor-ecosystem)
 - [Yeni Açık Kaynak katkı sağlayıcıları için faydalı makaleler](#useful-articles-for-new-open-source-contributors)
 - [Versiyon Kontrol Kullanmak](#using-version-control)
@@ -50,10 +50,10 @@ Eğer bir sorunuz veya yorumunuz varsa lütfen issue oluşturun.
 - [Açık Kaynağa katkı girişimleri](#open-source-contribution-initiatives)
 - [Lisans](#license)
 
-## Genel olarak Açık Kaybağa katkı sağlamak
+## Genel olarak Açık Kaynağa katkı sağlamak
 - [Açık Kaynağa katkı sağlamak hakkında açıklayıcı kılavuz](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [Açık Kaynağa Giriş](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - DigitalOcean tarafından hazırlanan GitHub'da başarılı katkı için yolunda kılavuz olacak dersler 
-- [Issuehub.io](http://issuehub.io/) - GitHub issuelarını label ve dile göre aramak için araç
+- [Issuehub.io](http://issuehub.io/) - GitHub issuelarını etiket ve dile göre aramak için araç
 - [Code Triage](https://www.codetriage.com/) - Dil bazlı filtrelenmiş popüler repoları ve issueları bulmak için gayet hoş başka bir araç 
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - Uygun bugları etiketler uygulayarak repoları toplamış olan faydalı bir repo 
 - [Open Source Guides](https://opensource.guide/) - Bireyler, topluluklar ve şirketler için Açık Kaynağa nasıl katkı sağlayacakları konusunda yardımcı kaynakların toplandığı koleksiyon
@@ -79,9 +79,9 @@ Direkt olarak uygun issuelara referans veren katkı sağlanabilecek arama bağla
 - [is:issue is:open label:starter](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Astarter)
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
-## Mozilla's contributor ecosystem
-- [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - İyi bir başlangış olarak tanımlanmış buglar 
-- [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - Üzerinde çalışırken sıkıştığında sohbet aracılığı ile yardım alabileceğin, mentörler tarafından atanmış buglar
+## Mozilla'nın contributor ekosistemi
+- [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - İyi bir başlangıç olarak tanımlanmış bug'lar 
+- [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - Üzerinde çalışırken sıkıştığında sohbet aracılığı ile yardım alabileceğin, mentörler tarafından atanmış bug'lar
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - Bugzilla üzerinden bug bulabileceğiniz websitesi.
 - [Firefox DevTools](http://firefox-dev.tools/) - Firefox Tarayıcı içerisinde bug bulabileceğiniz ve inceleyebileceğiniz araçlar 
 - [Mozilla İçin Ne Yapabilirim?](http://whatcanidoformozilla.org/) - Sorulara cevap vererek ilgi alanına ve kabiliyetlerine uygun neyin üzerinde çalışabilirsin öğren. 
@@ -89,12 +89,12 @@ Direkt olarak uygun issuelara referans veren katkı sağlanabilecek arama bağla
 
 ## Yeni Open Source Katkı Sağlayıcıları için faydalı makaleler 
 - [İlk Açık Kaynak Projenizi nasıl seçersiniz?](https://github.com/collections/choosing-projects) yazan [@GitHub](https://github.com/github)
-- [Düzeltmek için ilk Açık Kaynak Bugınızı nasıl bulursunuz?](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) yazan [@Shubheksha](https://github.com/Shubheksha)
+- [Düzeltmek için ilk Açık Kaynak Bug'ınızı nasıl bulursunuz?](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) yazan [@Shubheksha](https://github.com/Shubheksha)
 - [İlk Defa Açık Kaynağa başlayacaklar için](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
 - [Açık Kaynağa iyiliği Geri Getirmek](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) yazan [@shanselman](https://github.com/shanselman)
 - [İlk defa Açık Kaynağın içine girmek](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) yazan [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [Açık Kaynağa Nasıl Katkı Sağlanır](https://opensource.guide/how-to-contribute/) yazan [@GitHub](https://github.com/github)
-- [Kodunuzda Bugı Nasıl Bulabilirsiniz?](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) yazan [@dougbradbury](https://twitter.com/dougbradbury)
+- [Kodunuzda Bug'ı Nasıl Bulabilirsiniz?](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) yazan [@dougbradbury](https://twitter.com/dougbradbury)
 - [Markdownda Uzmanlaşmak](https://guides.github.com/features/mastering-markdown/) by [@GitHubGuides](https://guides.github.com/)
 - [İlk Görev: Katkı Sağlayıcı Sayfası](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) yazan [@forCrowd](https://github.com/forCrowd)
 - [5 Dakika İçerisinde Açık Kaynağa Nasıl Katkı Sağlarsın](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) yazan [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
@@ -108,7 +108,7 @@ Direkt olarak uygun issuelara referans veren katkı sağlanabilecek arama bağla
 - [Git'i Dene](https://try.github.io/) - Ücretsiz olarak tarayıcın üzerinde 15 dakikada Git Öğren
 - [Her Gün "Git"](https://git-scm.com/docs/giteveryday) - Her Gün ihtiyaç duyabileceğiniz kullanışlı komutlar
 - [Oh shit, git!](http://ohshitgit.com/) - Düz bir ingilizce ile anlatılmış "Git kullanırken yapılan ortak hatalardan nasıl kaçınırsın" kılavuzu
-- [Atlassian'ın Git Dersleri](https://www.atlassian.com/git/tutorials/) - Çeşitli `git` kullanma kılavuzları.
+- [Atlassian'ın Git Dersleri](https://www.atlassian.com/git/tutorials/) - Çeşitli git kullanma kılavuzları.
 - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
 - [freeCodeCamp ın Viki Git Kaynakları](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
 - [GitHub Akışı](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - Pull Request nasıl yapılır hakkında bir Github Konuşması
@@ -117,8 +117,8 @@ Direkt olarak uygun issuelara referans veren katkı sağlanabilecek arama bağla
 - [Git-it](https://github.com/jlord/git-it-electron) - Adım Adım Desktopta kullanabileceğiniz Git dersleri
 - [Git için Uçuş Kuralları](https://github.com/k88hudson/git-flight-rules) - İşler sarpa sardığında ne yapılması gerektiği ile ilgili kılavuz.
 - [Git and GitHub hakkında kapsamlı bir tanıtım](https://codeburst.io/git-good-part-a-e0d826286a2a) - Madhav Bahl tarafından yazılmış ki git ve GitHub'da yeniyseniz mutlaka görmelisiniz, Git Versiyon Kontrolünü detaylı olarak anlatan bir tanıtım.
-- [Başlangıç Seviyesi için İspanyolca Git Kılavuzu](https://platzi.github.io/git-slides/#/)git ve GitHub hakkında İspanyolca açıklanmış eksiksiz kılavuz slaytı.Una guía completa de diapositivas sobre git y GitHub explicadas en Español.
-- [Git Kraken](https://www.gitkraken.com/git-client) - Versiyon Kontrol için görsel, çapraz platform uyumlu ve interaktif `git` masaüstü uygulaması
+- [Başlangıç Seviyesi için İspanyolca Git Kılavuzu](https://platzi.github.io/git-slides/#/)git ve GitHub hakkında İspanyolca açıklanmış eksiksiz kılavuz slaytı. Una guía completa de diapositivas sobre git y GitHub explicadas en Español.
+- [Git Kraken](https://www.gitkraken.com/git-client) - Versiyon Kontrol için görsel, çapraz platform uyumlu ve interaktif git masaüstü uygulaması
 
 ## Açık Kaynak kitaplar
 - [Açık Kaynak Proje Üretmek](http://producingoss.com/) - "Producing Open Source Software"  kitabı Açık Kaynak Geliştirmenin İnsan tarafı hakkında bir kitaptır. Ücretsiz yazılım kültürünü, kullanıcı ve geliştiricilerden beklentileri ve başarı projelerin yönetimini anlatır. 
@@ -126,11 +126,11 @@ Direkt olarak uygun issuelara referans veren katkı sağlanabilecek arama bağla
 - [Yazılım Yayınlama Pratikleri: Nasıl Yapılır](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - Linux ve diğer Açık-Kaynak projeler için doğru yayınlama pratiklerini açıklar. Bu pratikleri takip ederek, kullanıcıların kodunuzu daha iyi derlemesini, kullanmasını ve diğer geliştiriclerin kodunuzu anlayarak sizin işbirliği içinde kodunuzu iyileştirmesini sağlayacaksınız.
 - [Açık Kaynak 2.0 : Süregelen Evrim](https://archive.org/details/opensources2.000diborich) (2005) - Açık Kaynak 2.0 Bugünün teknoloji liderlerinden, 1999 yılında yayınlanmış kitap olan "Açık Kaynak: Devrimden Sesler" kitabının, süregelen evrimsel resmini yüksek idrak kabiliyetiyle resmeden ve düşünmeye sevk edici kompozisyon dizisidir. 
 
-## Açık Kaynağa Katkı Sağlama Grişimleri
-- [Up For Grabs](http://up-for-grabs.net/#/) - Başlangıç seviyesi dostu issuelar ile beraber projeleri içerir
+## Açık Kaynağa Katkı Sağlama Girişimleri
+- [Up For Grabs](http://up-for-grabs.net/#/) - Başlangıç seviyesi dostu issue'lar ile beraber projeleri içerir
 - [Yalnızca İlk Defa Başlayanlar İçin](http://www.firsttimersonly.com/) - "first-timers-only" olarak etkiketlenmiş bug listesi
 - [İlk Katkılar](https://firstcontributions.github.io/) - 5 dakika içerisinde ilk Açık Kaynak Katkını yap. Katkı Yapmaya başlamak için yardım eden araç ve ders 
-- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Açık Kaynağa Katkı sağlamayı teşvik eden bir program. Ayında bazında en az 5 pull request yaparak t-shirt ve stiker gibi hediyeler kazan.
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Açık Kaynağa Katkı sağlamayı teşvik eden bir program. Ay bazında en az 5 pull request yaparak t-shirt ve sticker gibi hediyeler kazan.
 - [24 Pull Requests](https://24pullrequests.com) - Aralık ayı boyunca Açık Kaynak işbirliğini destekleyen proje. 
 
 ## License
