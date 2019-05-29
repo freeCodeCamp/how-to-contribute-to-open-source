@@ -48,7 +48,6 @@ before contributing.
     - [Contributing Guide](https://github.com/dancancro/great-big-example-application/projects/1)
 - [Hoa](https://hoa-project.net) (project)
     - [Contributing Guide](https://hoa-project.net/En/Literature/Contributor/Guide.html)
-    - Issue labels
 - [Metamaps](https://metamaps.cc/) (org)
     - [Metamaps](https://github.com/metamaps/metamaps) (project)
         - [Contribution Guide](https://github.com/metamaps/metamaps/blob/develop/doc/CONTRIBUTING.md)
