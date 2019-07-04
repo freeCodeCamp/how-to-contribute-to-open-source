@@ -18,7 +18,7 @@
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 [![Build Status](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
 
-これはオープンソースへの貢献が初めての方のためのリストです。
+これはオープンソース貢献が初めての方のためのリストです。
 
 他のリソースを見つけた場合、プルリクを送ってください。
 
@@ -28,7 +28,7 @@
 
 - [オープンソース貢献初心者のみなさんようこそ!](#welcome-newbie-open-source-contributors)
   - [目次](#table-of-contents)
-  - [一般駅なオープンソースへの貢献](#contributing-to-open-source-in-general)
+  - [一般的なオープンソースへの貢献](#contributing-to-open-source-in-general)
   - [Direct GitHub searches](#direct-github-searches)
   - [Mozillaの貢献者エコシステム](#mozillas-contributor-ecosystem)
   - [オープンソース貢献初心者に有益な情報](#useful-articles-for-new-open-source-contributors)
@@ -38,7 +38,7 @@
   - [ライセンス](#license)
 
 ## Contributing to Open Source in general
-- [最も信頼のおけるオープンソース貢献のガイド](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
+- [信頼性の高いオープンソース貢献のガイド](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [オープンソース入門](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - DigitalOceanによるGithubの貢献で成功するためのチュートリアル
 - [Issuehub.io](http://issuehub.io/) - ラベルと言語でGithubのIssuesを検索するためのツール
 - [Code Triage](https://www.codetriage.com/) - その他の言語フィルターによって人気のレポジトリーを探すための良いツール、
@@ -65,7 +65,7 @@ Githubでの貢献に適切な問題を直接示しているリンクを探し�
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
 ## Mozilla'の貢献エコシステム
-- [良い最初のバグ](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - 開発者がプロジェクトに良い導入だと認識しているバグ
+- [初心者向けバグ](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - 開発者がプロジェクトに良い導入だと認識しているバグ
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs that have a mentor assigned who will be there on IRC to help you when you get stuck while working on fix.
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - Bugzillaでバグをさがすための献身的なサイト
 - [Firefox開発者ツールs](http://firefox-dev.tools/) - Firefoxブラウザの開発者ツール用のバグに献身的なサイト
@@ -74,7 +74,7 @@ Githubでの貢献に適切な問題を直接示しているリンクを探し�
 
 ## オープンソース貢献初心者に有益な記事
 - [最初のオープンソースの選び方（貢献の仕方)](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
-- [修正するための最初のオープンソースのバグの見つけ方](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) by [@Shubheksha](https://github.com/Shubheksha)
+- [オープンソースで修正するバグの最初の見つけ方](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) by [@Shubheksha](https://github.com/Shubheksha)
 - [初心者限定](https://medium.com/@kentcdodds/first-timers-only-78281ea47455) by [@kentcdodds](https://github.com/kentcdodds)
 - [Bring Kindness Back to Open Source](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) by [@shanselman](https://github.com/shanselman)
 - [初めてのオープンソース参加](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
@@ -83,7 +83,7 @@ Githubでの貢献に適切な問題を直接示しているリンクを探し�
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) by [@GitHubGuides](https://guides.github.com/)
 - [最初のミッション: 貢献者のページ](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
 - [たった5分で最初のオープンソース貢献を行う方法](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) by [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
-- [Hacktoberfest 2018: コーディング初心者で、無料シャツの手に入れ方](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) by [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
+- [Hacktoberfest 2018: コーディング初心者の人が無料シャツの手に入れる仕方](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) by [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
 - [A Bitter Guide To Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
 - [A junior developer’s step-by-step guide to contributing to Open Source for the first time](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) by [@LetaKeane](http://www.letakeane.com/)
 - [Windowsで順を追ってGitとGitHubを学ぼう](https://medium.com/@ows_ali/be93518e06dc) by [@ows-ali](https://medium.com/@ows_ali)
