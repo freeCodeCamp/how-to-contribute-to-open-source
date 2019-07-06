@@ -29,7 +29,7 @@
 - [オープンソース貢献初心者のみなさんようこそ!](#welcome-newbie-open-source-contributors)
   - [目次](#table-of-contents)
   - [通常のオープンソースへの貢献](#contributing-to-open-source-in-general)
-  - [Direct GitHub searches](#direct-github-searches)
+  - [Github上で直接検索](#direct-github-searches)
   - [Mozillaの貢献者エコシステム](#mozillas-contributor-ecosystem)
   - [オープンソース貢献初心者に有益な情報](#useful-articles-for-new-open-source-contributors)
   - [バージョン管理の使用](#using-version-control)
@@ -54,8 +54,8 @@
 - [プルリクエストルーレット](http://www.pullrequestroulette.com/) - このサイトにはGithub上のオープンソースプロジェクトにレビューしたプルリクエストのリストがある
 - ["Egghead.ioによるGitHubでのオープンソースプロジェクト始め方ガイド](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - GitHubでオープンソースプロジェクトの貢献の始め方、順を追ったガイド動画
 
-## 直接Githubで探す
-Githubでの貢献に適切な問題を直接示しているリンクを探してください
+## Github上で直接検索
+Github上での貢献に適切な問題を表示しているリンクを直接探してください
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
 - [is:issue is:open label:first-timers-only](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
@@ -69,7 +69,7 @@ Githubでの貢献に適切な問題を直接示しているリンクを探し�
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs that have a mentor assigned who will be there on IRC to help you when you get stuck while working on fix.
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - Bugzillaでバグをさがすための献身的なサイト
 - [Firefox開発者ツールs](http://firefox-dev.tools/) - Firefoxブラウザの開発者ツール用のバグに献身的なサイト
-- [Mozillaのためにできること](http://whatcanidoformozilla.org/) - figure out what you can work on by answering a bunch of questions about your skill set and interests.
+- [Mozillaのためにできること](http://whatcanidoformozilla.org/) - 自分のスキルセットと興味についての筆問に答えて何ができるか明らかにしよう
 - [Mozillaをはじめよう](https://twitter.com/StartMozilla) - Mozillaエコシステム初心者の貢献者に最適な問題についてツイートするツイッターアカウント
 
 ## オープンソース貢献初心者に有益な記事
@@ -89,7 +89,7 @@ Githubでの貢献に適切な問題を直接示しているリンクを探し�
 - [Windowsで順を追ってGitとGitHubを学ぼう](https://medium.com/@ows_ali/be93518e06dc) by [@ows-ali](https://medium.com/@ows_ali)
 
 ## バージョン管理の使用
-- [Gitのように考えよう](http://think-like-a-git.net/) - Git introduction for "advanced beginners," but are still struggling, in order to give you a simple strategy to safely experiment with git.
+- [Gitのように考えよう](http://think-like-a-git.net/) - 少し前進したけどまだ奮闘中の初心者へ、Gitを安全に経験できるための簡単な作戦を与えるためのGit紹介
 - [Gitを使ってみよう](https://try.github.io/) - 無料でブラウザを使って、15分でGitを学ぼう
 - [Gitの日々](https://git-scm.com/docs/giteveryday) - 毎日のGit生活のために必要な最低限の役立つコマンド一覧
 - [gitめ…](http://ohshitgit.com/) - gitで良く起こるミスを阻止する方法について、英語で説明
@@ -119,4 +119,4 @@ Githubでの貢献に適切な問題を直接示しているリンクを探し�
 - [24プルリクエスト](https://24pullrequests.com) - 21プルリクエストは12月の間オープンソース活動を促進するためのプロジェクトです
 
 ## ライセンス
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />この取り組みは以下にライセンスされています <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
