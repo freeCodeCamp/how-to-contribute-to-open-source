@@ -75,7 +75,7 @@ Github上での貢献に適切な問題を表示しているリンクを直接�
 ## オープンソース貢献初心者に有益な記事
 - [最初のオープンソースの選び方（貢献の仕方)](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
 - [オープンソースで修正するバグの最初の見つけ方](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) by [@Shubheksha](https://github.com/Shubheksha)
-- [初心者限定](https://medium.com/@kentcdodds/first-timers-only-78281ea47455) by [@kentcdodds](https://github.com/kentcdodds)
+- [初心者限定](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
 - [オープンソースに優しさを](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) by [@shanselman](https://github.com/shanselman)
 - [初めてのオープンソース参加](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [オープンソースの貢献方法](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
