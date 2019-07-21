@@ -28,14 +28,14 @@
 
 **محتوا**
 
-- [Contributing to Open Source in general](#contributing-to-open-source-in-general)
-- [Direct GitHub searches](#direct-github-searches)
-- [Mozilla's contributor ecosystem](#mozillas-contributor-ecosystem)
-- [Useful articles for new Open Source contributors](#useful-articles-for-new-open-source-contributors)
-- [Using Version Control](#using-version-control)
-- [Open Source books](#open-source-books)
-- [Open Source contribution initiatives](#open-source-contribution-initiatives)
-- [License](#license)
+- [کمک به منبع باز به طور کلی](#کمک-به-منبع-باز-به-طور-کلی)
+- [جستجو مستقیم گیت هاب](#جستجو-مستقیم-گیت-هاب)
+- [استفاده از کنترل نسخه](#استفاده-از-کنترل-نسخه)
+- [کمک به منبع باز به طور کلی](#کمک-به-منبع-باز-به-طور-کلی)
+- [استفاده از کنترل نسخه](#استفاده-از-کنترل-نسخه)
+- [کتاب منبع باز](#کتاب-منبع-باز)
+- [کمک به منبع باز به طور کلی](#کمک-به-منبع-باز-به-طور-کلی)
+- [مجوز](#مجوز)
 
 ## کمک به منبع باز به طور کلی
 - [The Definitive Guide to Contributing to Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
@@ -122,3 +122,4 @@
 
 ## مجوز
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />این کار تحت مجوز <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a> منتشر شده است.
+
