@@ -14,6 +14,8 @@
     </tr>
 </table>
 
+<div dir="rtl" style="direction:rtl;text-align:right;">
+<p>
 # تازه واردین مشارکت کننده در منبع باز خوش آمدید.
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
@@ -37,6 +39,11 @@
 - [کمک به منبع باز به طور کلی](#کمک-به-منبع-باز-به-طور-کلی)
 - [مجوز](#مجوز)
 
+</p>
+</div>
+<div dir="rtl" style="direction:rtl;text-align:right;">
+<p>
+
 ## کمک به منبع باز به طور کلی
 - [The Definitive Guide to Contributing to Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials by DigitalOcean to guide you on your way to contribution success here on GitHub.
@@ -55,6 +62,11 @@
 - ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - A step-by-step video guide of how to start contributing to Open Source projects on GitHub.
 - [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - This walkthrough of an open source contribution covers everything from picking a suitable project, working on an issue, to getting the PR merged in.
 
+</p>
+</div>
+<div dir="rtl" style="direction:rtl;text-align:right;">
+<p>
+
 ## جستجو مستقیم گیت هاب
 لینک های جستجو که مستقیما شما را به مشکلات گزارش شده مربوط به موضوعی خاص در گیت هاب می رسانند: 
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
@@ -65,6 +77,11 @@
 - [is:issue is:open label:starter](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Astarter)
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
+</p>
+</div>
+<div dir="rtl" style="direction:rtl;text-align:right;">
+<p>
+
 ## اکوسیستم مشارکت موزیلا
 - [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - bugs that developers have identified as a good introduction to the project.
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs that have a mentor assigned who will be there on IRC to help you when you get stuck while working on fix.
@@ -72,6 +89,11 @@
 - [Firefox DevTools](http://firefox-dev.tools/) - a site dedicated to bugs filed for the developer tools in the Firefox browser.
 - [What Can I Do For Mozilla](http://whatcanidoformozilla.org/) - figure out what you can work on by answering a bunch of questions about your skill set and interests.
 - [Start Mozilla](https://twitter.com/StartMozilla) - a Twitter account that tweets about issues fit for contributors new to the Mozilla ecosystem.
+
+</p>
+</div>
+<div dir="rtl" style="direction:rtl;text-align:right;">
+<p>
 
 ## مقالات مفید برای مشارکت کنندگان جدید منبع باز
 - [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
@@ -88,6 +110,11 @@
 - [A Bitter Guide To Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
 - [A junior developer’s step-by-step guide to contributing to Open Source for the first time](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) by [@LetaKeane](http://www.letakeane.com/)
 - [Learn Git and GitHub Step By Step (on Windows)](https://medium.com/@ows_ali/be93518e06dc) by [@ows-ali](https://medium.com/@ows_ali)
+
+</p>
+</div>
+<div dir="rtl" style="direction:rtl;text-align:right;">
+<p>
 
 ## استفاده از کنترل نسخه
 - [Think Like (a) Git](http://think-like-a-git.net/) - Git introduction for "advanced beginners," but are still struggling, in order to give you a simple strategy to safely experiment with git.
@@ -107,11 +134,21 @@
 - [Git Kraken](https://www.gitkraken.com/git-client) - Visual, cross-platform, and interactive `git` desktop application for version control.
 - [Git Tips](https://github.com/git-tips/tips) - Collection of most commonly used git tips and tricks.
 
+</p>
+</div>
+<div dir="rtl" style="direction:rtl;text-align:right;">
+<p>
+
 ## کتاب منبع باز
 - [Producing Open Source Software](http://producingoss.com/) - Producing Open Source Software is a book about the human side of Open Source development. It describes how successful projects operate, the expectations of users and developers, and the culture of free software.
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - Learn more about Open Source and the growing Open Source movement with a comprehensive list of free eBooks from https://opensource.com.
 - [Software Release Practice HOWTO](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - This HOWTO describes good release practices for Linux and other Open-Source projects. By following these practices, you will make it as easy as possible for users to build your code and use it, and for other developers to understand your code and cooperate with you to improve it.
 - [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 is a collection of insightful and thought-provoking essays from today's technology leaders that continues painting the evolutionary picture that developed in the 1999 book, Open Sources: Voices from the Revolution.
+
+</p>
+</div>
+<div dir="rtl" style="direction:rtl;text-align:right;">
+<p>
 
 ## ابتکار های مشارکت منبع باز
 - [Up For Grabs](http://up-for-grabs.net/#/) - Contains projects with beginner friendly issues
@@ -120,6 +157,14 @@
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - A program to encourage Open Source contributions. Earn gifts like t-shirts and stickers by making at least 5 pull requests in the month of October.
 - [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests is a project to promote Open Source collaboration during the month of December.
 
+</p>
+</div>
+<div dir="rtl" style="direction:rtl;text-align:right;">
+<p>
+
+
 ## مجوز
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />این کار تحت مجوز <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a> منتشر شده است.
+</p>
+</div>
 
