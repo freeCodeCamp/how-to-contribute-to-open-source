@@ -15,49 +15,49 @@
     </tr>
 </table>
 
-# Welcome newbie Open Source contributors!
+# 새로운 오픈 소스 컨트리뷰터분들을 환영합니다!
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 [![Build Status](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
 
-This is a list of resources for people who are new to contributing to Open Source.
+아래는 오픈 소스에 기여를 시작하고자 하는 사람들을 위한 리소스 목록입니다.
 
-If you find additional resources, please contribute a pull request.
+만약 새로운 리소스를 찾았다면, pull request 를 통해 기여해주세요.
 
-If you have questions or comments, please create an issue.
+질문이나 남기실 말이 있다면, 새로운 이슈를 남겨주세요.
 
-**Contents**
+**목차**
 
-- [Contributing to Open Source in general](#contributing-to-open-source-in-general)
-- [Direct GitHub searches](#direct-github-searches)
-- [Mozilla's contributor ecosystem](#mozillas-contributor-ecosystem)
-- [Useful articles for new Open Source contributors](#useful-articles-for-new-open-source-contributors)
-- [Using Version Control](#using-version-control)
-- [Open Source books](#open-source-books)
-- [Open Source contribution initiatives](#open-source-contribution-initiatives)
-- [License](#license)
+- [일반적으로 오픈 소스에 기여하기](#일반적으로-오픈-소스에-기여하기)
+- [GitHub에서 직접 검색하기](#GitHub에서-직접-검색하기)
+- [Mozilla의 컨트리뷰터 생태계](#Mozilla의-컨트리뷰터-생태계)
+- [새로운 오픈 소스 컨트리뷰터를 위한 유용한 기사](#새로운-오픈-소스-컨트리뷰터를-위한-유용한-기사)
+- [버전 관리 사용하기](#버전-관리-사용하기)
+- [오픈 소스 서적](#오픈-소스-서적)
+- [오픈 소스 기여 시작하기](#오픈-소스-기여-시작하기)
+- [라이선스](#라이선스)
 
-## Contributing to Open Source in general
+## 일반적으로 오픈 소스에 기여하기
 - [The Definitive Guide to Contributing to Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
-- [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials by DigitalOcean to guide you on your way to contribution success here on GitHub.
-- [Issuehub.io](http://issuehub.io/) - a tool for searching GitHub issues by label and language.
-- [Code Triage](https://www.codetriage.com/) - another, really nice, tool for finding popular repositories and issues filtered by language.
-- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - a GitHub repo that amasses projects with good bugs for new contributors, and applies labels to describe them.
-- [Open Source Guides](https://opensource.guide/) - Collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an Open Source project.
-- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Do's and Don'ts on GitHub.
-- [GitHub Guides](https://guides.github.com/) - basic guides on how to use GitHub effectively.
-- [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Learn the GitHub workflow by contributing code to a simulation project.
-- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - The Linux Foundation's guides to Open Source projects.
-- [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - An Open Source Etiquette Guidebook, written by Kent C. Dodds And Sarah Drasner.
-- [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Curated list of resources and opportunities for college students to learn a new coding language.
-- [Contributing to your First Open Source Project: A Practical Approach](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - A step-by-step approach to contributing to your first Open Source project by [Abati Adewale](https://www.acekyd.com).
-- [Pull Request Roulette](http://www.pullrequestroulette.com/) - This site has a list of pull requests submitted for review belonging to Open Source projects hosted on Github.
-- ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - A step-by-step video guide of how to start contributing to Open Source projects on GitHub.
-- [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - This walkthrough of an open source contribution covers everything from picking a suitable project, working on an issue, to getting the PR merged in.
+- [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - DigitalOcean의 GitHub에서 기여를 성공할 수 있는 방법을 안내하는 튜토리얼
+- [Issuehub.io](http://issuehub.io/) - 라벨과 언어로 GitHub 이슈들을 찾는 도구
+- [Code Triage](https://www.codetriage.com/) - 언어별로 필터링된 인기있는 레파지토리와 이슈들을 찾는 또 다른 좋은 도구
+- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - 새로운 컨트리뷰터를 위한 좋은 버그와 해당 버그를 설명하는 라벨을 모아둔 GitHub 레포지토리 
+- [Open Source Guides](https://opensource.guide/) - 오픈소스 프로젝트를 운영하고 기여하는 방법을 배우고 싶어하는 개인, 커뮤니티, 회사를 위한 리소스들의 모음집
+- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - GitHub에서 해야할 것과 하지 말아야 할 것
+- [GitHub Guides](https://guides.github.com/) - GitHub를 효과적으로 사용하는 방법에 대한 기본 가이드
+- [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - 시뮬레이션 프로젝트의 코드에 기여함으로서 GitHub 워크플로우 배우기
+- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Linux Foundation의 오픈 소스 프로젝트 가이드
+- [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - Kent C. Dodds와 Sarah Drasner의 오픈 소스 에티켓 가이드 북
+- [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - 새로운 컴퓨터 언어를 배우는 대학생들을 위한 기회와 리소스가 정리된 목록 
+- [Contributing to your First Open Source Project: A Practical Approach](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - [Abati Adewale](https://www.acekyd.com)의 첫번째 오픈 소스 프로젝트에 기여하기 위한 단계별 접근 방식
+- [Pull Request Roulette](http://www.pullrequestroulette.com/) - GitHub에서 호스팅 되는 오픈 소스 프로젝트의 리뷰를 필요로 하는 제출된 pull request들의 리스트가 정리된 사이트
+- ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - GitHub의 오픈 소스 프로젝트에 기여를 시작하는 방법에 대한 단계별 비디오 가이드
+- [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - 적절한 프로젝트를 선택하는 것부터, 이슈 해결, PR 병합하기까지 모든것을 다루는 단계별 오픈 소스 기여 연습
 
-## Direct GitHub searches
-Search links that point directly to suitable issues to contribute to on GitHub.
+## GitHub에서 직접 검색하기
+GitHub에서 기여할 만한 적절한 이슈를 직접적으로 가리키는 검색 링크입니다.
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
 - [is:issue is:open label:first-timers-only](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
@@ -66,15 +66,15 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [is:issue is:open label:starter](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Astarter)
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
-## Mozilla's contributor ecosystem
-- [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - bugs that developers have identified as a good introduction to the project.
-- [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs that have a mentor assigned who will be there on IRC to help you when you get stuck while working on fix.
-- [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - a site dedicated to finding bugs on Bugzilla.
-- [Firefox DevTools](http://firefox-dev.tools/) - a site dedicated to bugs filed for the developer tools in the Firefox browser.
-- [What Can I Do For Mozilla](http://whatcanidoformozilla.org/) - figure out what you can work on by answering a bunch of questions about your skill set and interests.
-- [Start Mozilla](https://twitter.com/StartMozilla) - a Twitter account that tweets about issues fit for contributors new to the Mozilla ecosystem.
+## Mozilla의 컨트리뷰터 생태계
+- [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - 개발자들이 프로젝트에 대한 좋은 경험이라고 판단한 버그들
+- [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - 수정 작업을 하다가 막혔을 때 도와줄 수 있는 멘토가 IRC에 있는 버그들
+- [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - Bugzilla 에서 버그를 찾기 위한 사이트
+- [Firefox DevTools](http://firefox-dev.tools/) - Firefox browser의 개발자 도구에 대해 접수된 버그에 대한 사이트 
+- [What Can I Do For Mozilla](http://whatcanidoformozilla.org/)  - 너의 기술과 흥미에 대한 여러개의 질문에 대답함으로서 Mozilla를 위해 무엇을 할 수 있는지 알아보세요.
+- [Start Mozilla](https://twitter.com/StartMozilla) - Mozilla 생태계를 처음 접하는 컨트리뷰터에게 적합한 이슈를 트윗하는 트위터 계정
 
-## Useful articles for new Open Source contributors
+## 새로운 오픈 소스 컨트리뷰터를 위한 유용한 기사
 - [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
 - [How to find your first Open Source bug to fix](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) by [@Shubheksha](https://github.com/Shubheksha)
 - [First Timers Only](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
@@ -90,36 +90,36 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [A junior developer’s step-by-step guide to contributing to Open Source for the first time](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) by [@LetaKeane](http://www.letakeane.com/)
 - [Learn Git and GitHub Step By Step (on Windows)](https://medium.com/@ows_ali/be93518e06dc) by [@ows-ali](https://medium.com/@ows_ali)
 
-## Using Version Control
-- [Think Like (a) Git](http://think-like-a-git.net/) - Git introduction for "advanced beginners," but are still struggling, in order to give you a simple strategy to safely experiment with git.
-- [Try Git](https://try.github.io/) - Learn Git in 15 minutes from within your browser for free.
-- [Everyday Git](https://git-scm.com/docs/giteveryday) - A useful minimum set of commands for Everyday Git.
-- [Oh shit, git!](https://ohshitgit.com/) - how to get out of common `git` mistakes described in plain English; also see [Dangit, git!](https://dangitgit.com/) for the page without swears.
-- [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/) - various tutorials on using `git`.
+## 버전 관리 사용하기
+- [Think Like (a) Git](http://think-like-a-git.net/) - 고급 초보자들을 위한 Git 소개, git에 대한 확실한 경험을 전달하기 위해 고군 분투중입니다.
+- [Try Git](https://try.github.io/) - 브라우저에서 15분 이내에 Git을 무료로 배워보세요.
+- [Everyday Git](https://git-scm.com/docs/giteveryday) - 매일매일 Git을 사용하는데 유용한 최소한의 명령어들 모음
+- [Oh shit, git!](https://ohshitgit.com/) - 영어로 설명된 일반적인 git 실수에서 벗어나는 방법; 또한 [Dangit, git!](https://dangitgit.com/) 을 참조하세요.
+- [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/) - `git`을 사용한 다양한 튜토리얼
 - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
 - [freeCodeCamp's Wiki on Git Resources](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
-- [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - GitHub talk on how to make a pull request.
-- [GitHub Learning Resources](https://help.github.com/articles/git-and-github-learning-resources/) - Git and GitHub learning resources.
-- [Pro Git](https://git-scm.com/book/en/v2) - The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress.
-- [Git-it](https://github.com/jlord/git-it-electron) - Step by step Git tutorial desktop app.
-- [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - A guide about what to do when things go wrong.
-- [A Comprehensive Introduction To Git and GitHub](https://codeburst.io/git-good-part-a-e0d826286a2a) - A guide written by Madhav Bahl, which you should see if you are new to Git or GitHub, it covers GitHub as a service and concepts of Git version control in detail.
-- [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - A complete guide of slides about git and GitHub explained in Spanish. Una guía completa de diapositivas sobre git y GitHub explicadas en Español.
-- [Git Kraken](https://www.gitkraken.com/git-client) - Visual, cross-platform, and interactive `git` desktop application for version control.
-- [Git Tips](https://github.com/git-tips/tips) - Collection of most commonly used git tips and tricks.
+- [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - pull request를 만드는 방법에 대한 GitHub 이야기
+- [GitHub Learning Resources](https://help.github.com/articles/git-and-github-learning-resources/) - Git과 GitHub 학습 자료
+- [Pro Git](https://git-scm.com/book/en/v2) - Apress에서 출판한 Scott Chacon과 Ben Straub의 Pro Git 책 전문
+- [Git-it](https://github.com/jlord/git-it-electron) - 단계별 Git 튜토리얼 데스크탑 앱
+- [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - 일이 잘못되어가고 있을 때 해야할 일들에 대한 안내
+- [A Comprehensive Introduction To Git and GitHub](https://codeburst.io/git-good-part-a-e0d826286a2a) - 만약 Git이나 GitHub가 처음이라면 Madhav Bahl의 안내서를 보세요. GitHub 서비스와 Git 버전 관리에 대한 자세한 개념을 다룹니다.
+- [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - 스페인어로 설명된 Git과 GitHub에 대한 완벽한 안내 슬라이드.
+- [Git Kraken](https://www.gitkraken.com/git-client) - 버전 관리를 위한 비주얼, 크로스 플랫폼, 대화형 'git' 데스크톱 어플리케이션
+- [Git Tips](https://github.com/git-tips/tips) - 가장 일반적으로 사용되는 git 팁과 트릭들의 모음집
 
-## Open Source books
-- [Producing Open Source Software](http://producingoss.com/) - Producing Open Source Software is a book about the human side of Open Source development. It describes how successful projects operate, the expectations of users and developers, and the culture of free software.
-- [Open Source Book Series](https://opensource.com/resources/ebooks) - Learn more about Open Source and the growing Open Source movement with a comprehensive list of free eBooks from https://opensource.com.
-- [Software Release Practice HOWTO](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - This HOWTO describes good release practices for Linux and other Open-Source projects. By following these practices, you will make it as easy as possible for users to build your code and use it, and for other developers to understand your code and cooperate with you to improve it.
-- [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 is a collection of insightful and thought-provoking essays from today's technology leaders that continues painting the evolutionary picture that developed in the 1999 book, Open Sources: Voices from the Revolution.
+## 오픈 소스 서적
+- [Producing Open Source Software](http://producingoss.com/) - Producing Open Source Software 는 오픈 소스 개발의 인간적인 측면에 대한 책입니다. 이 책에서는 프로젝트의 성공적인 운영 방식, 사용자와 개발자의 기대, 자유 소프트웨어 문화에 대해 다룹니다.
+- [Open Source Book Series](https://opensource.com/resources/ebooks) - https://opensource.com 에서 무료 eBook 리스트를 통해 오픈 소스와 성장하는 오픈 소스 운동에 대해 배워보세요.
+- [Software Release Practice HOWTO](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - HOWTO 에서는 리눅스와 다른 오픈 소스 프로젝트의 좋은 배포 방법을 설명합니다. 이러한 방법을 따름으로서, 당신은 사용자가 쉽게 당신의 코드를 작성하고 사용할 수 있게 할 수 있으며, 다른 개발자가 당신의 코드를 쉽게 이해하고 개선하기 위해 협력할 수 있습니다.
+- [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0은 1999년의 책인 오픈 소스 : 혁명의 목소리에서 발전된 진화적인 그림을 이어 그리는 오늘날의 기술 리더들의 통찰력과 생각을 자극하는 에세이들의 모음집입니다.
 
-## Open Source contribution initiatives
-- [Up For Grabs](http://up-for-grabs.net/#/) - Contains projects with beginner friendly issues
-- [First Timers Only](http://www.firsttimersonly.com/) - A list of bugs that are labelled "first-timers-only".
-- [First Contributions](https://firstcontributions.github.io/) - Make your first Open Source contribution in 5 minutes. A tool and tutorial to help beginners get started with contributions.
-- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - A program to encourage Open Source contributions. Earn gifts like t-shirts and stickers by making at least 5 pull requests in the month of October.
-- [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests is a project to promote Open Source collaboration during the month of December.
+## 오픈 소스 기여 시작하기
+- [Up For Grabs](http://up-for-grabs.net/#/) - 초보자들에게 친숙한 이슈를 포함하는 프로젝트들
+- [First Timers Only](http://www.firsttimersonly.com/) - "first-timers-only" 로 라벨링된 버그 리스트
+- [First Contributions](https://firstcontributions.github.io/) - 오분 안에 오픈 소스에 처음으로 기여하세요. 초보자가 기여를 시작하는 것을 도와주는 도구와 튜토리얼이 있습니다.
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - 오픈 소스 기여를 권장하는 프로그램. 10월에 최소 5번의 pull request를 통해 티셔츠나 스티커 같은 선물을 받으세요.
+- [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests는 12월 한 달 동안 오픈 소스 협업을 촉진하기 위한 프로젝트입니다.
 
-## License
+## 라이선스
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
