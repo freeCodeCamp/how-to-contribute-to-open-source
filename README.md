@@ -40,6 +40,7 @@ If you have questions or comments, please create an issue.
 ## Contributing to Open Source in general
 - [The Definitive Guide to Contributing to Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials by DigitalOcean to guide you on your way to contribution success here on GitHub.
+- [SourceSort](https://www.sourcesort.com) - searchable collection of open source projects looking for help, complete with metrics like first PR acceptance rate and response time that can make all the difference for new contributors.
 - [Issuehub.io](http://issuehub.io/) - a tool for searching GitHub issues by label and language.
 - [Code Triage](https://www.codetriage.com/) - another, really nice, tool for finding popular repositories and issues filtered by language.
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - a GitHub repo that amasses projects with good bugs for new contributors, and applies labels to describe them.
