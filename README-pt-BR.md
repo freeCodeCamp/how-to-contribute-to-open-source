@@ -28,14 +28,14 @@ Se você sabe de algum recurso extra que não esteja listado aqui, por favor env
 Se você possui alguma dúvida ou comentário, por favor crie uma issue.
 
 **Conteúdo**
-- [Contribuindo com Open Source](#contributing-to-open-source-in-general)
-- [Pesquisas diretas no GitHub](#direct-github-searches)
-- [Ambiente de contribuidores da Mozilla](#mozillas-contributor-ecosystem)
-- [Artigos úteis para novos contribuidores Open Source](#useful-articles-for-new-open-source-contributors)
-- [Usando ferramentas de Controle de Versões](#using-version-control)
-- [Livros sobre Open Source](#open-source-books)
-- [Iniciativas para contribuição em Open Source](#open-source-contribution-initiatives)
-- [Licença](#license)
+- [Contribuindo com Open Source](#contribuindo-com-open-source)
+- [Pesquisas diretas no GitHub](#pesquisas-diretas-no-github)
+- [Ambiente de contribuidores da Mozilla](#ambiente-de-contribuidores-da-mozilla)
+- [Artigos úteis para novos contribuidores Open Source](#artigos-úteis-para-novos-contribuidores)
+- [Usando ferramentas de Controle de Versões](#usando-ferramentas-de-controle-de-versões)
+- [Livros sobre Open Source](#livros-sobre-open-source)
+- [Iniciativas para contribuição em Open Source](#iniciativas-para-contribuição-em-open-source)
+- [Licença](#licença)
 
 ## Contribuindo com Open Source
 - [O Guia Definitivo para Contribuições Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
