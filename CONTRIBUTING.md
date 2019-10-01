@@ -104,3 +104,7 @@ pull request but do it in a descriptive manner.
 - [Try Git](https://try.github.io/)
 
 - [Git/ Git Hub on Windows](https://www.youtube.com/watch?v=J_Clau1bYco)
+
+
+
+[Contributing to Open Source in general](https://css-tricks.com/how-to-contribute-to-an-open-source-project/)
