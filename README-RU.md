@@ -53,7 +53,6 @@
 - [Вклад в ваш первый проект с открытым исходным кодом: практический подход](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - Пошаговое руководство по тому, как сделать свой первый вклад в Open Source от [Abati Adewale](https://www.acekyd.com).
 - [Pull Request Roulette](http://www.pullrequestroulette.com/) - Список pull запросов поданных на рассмотрение, которые относятся к проектам Open Source на GitHub.
 - [Как внести свой вклад в проект с открытым исходным кодом на GitHub от Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - Пошаговое видео руководство по тому, как сделать свой первый вклад в Open Source на GitHub.
-- [Вклад в Open Source: пошаговое прохождение от начала до конца](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - Это пошаговое руководство охватывает всё: от выбора подходящего проекта до работы над проблемой и слияния PR.
 
 ## Прямой поиск на GitHub
 Поиск по ярлыкам, которые хорошо подходят для того, чтобы начать контрибьютить на GitHub.
