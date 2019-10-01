@@ -114,7 +114,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - Learn more about Open Source and the growing Open Source movement with a comprehensive list of free eBooks from https://opensource.com.
 - [Software Release Practice HOWTO](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - This HOWTO describes good release practices for Linux and other Open-Source projects. By following these practices, you will make it as easy as possible for users to build your code and use it, and for other developers to understand your code and cooperate with you to improve it.
 - [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 is a collection of insightful and thought-provoking essays from today's technology leaders that continues painting the evolutionary picture that developed in the 1999 book, Open Sources: Voices from the Revolution.
-- [The Architecture of Open Source Applications](http://produhttp://www.aosabook.org/en/git.htmlcingoss.com/) - Git is an open source project that was born out of those needs and frustrations in 2005.
+- [The Architecture of Open Source Applications](http://www.aosabook.org/en/git.html) - Git is an open source project that was born out of those needs and frustrations in 2005.
 
 ## Open Source contribution initiatives
 - [Up For Grabs](http://up-for-grabs.net/#/) - Contains projects with beginner friendly issues
