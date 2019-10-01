@@ -1,6 +1,6 @@
 # Projects and Organizations
 
-This file contains a list of projects and organizations that are friendly to
+The file contains a list of projects and organizations that are friendly to
 contributions, along with quick links to relevant documents you should reference
 before contributing.
 
@@ -109,3 +109,5 @@ before contributing.
     - [Contributing Guide](https://github.com/test-kitchen/test-kitchen/blob/master/CONTRIBUTING.md)
     - Issue labels:
        - [*](https://github.com/test-kitchen/test-kitchen/issues?q=is%3Aopen+is%3Aissue+label%3A%E2%AD%90%EF%B8%8F)
+       
+ -Happy coding and keep learning      
