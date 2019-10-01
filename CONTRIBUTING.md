@@ -85,6 +85,9 @@ Issues can be submitted by anyone - seasoned developers or newbies.
 
 [What is a Pull Request?](https://yangsu.github.io/pull-request-tutorial/)
 
+You can read this article regarding pull requests for newbies.
+https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b/
+
 If you decide to fix an issue, it's advisable to check the comment thread to see if there's somebody already working on a fix. If no one is working on it, kindly leave a comment stating that you intend to work on it. That way
 other people don't accidentally duplicate your effort.
 
