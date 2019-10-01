@@ -17,27 +17,27 @@
 <div dir="rtl" style="direction:rtl;text-align:right;">
 <p>
 
-# تازه واردین مشارکت کننده در منبع باز خوش آمدید.
+# تازه‌کارهای مشارکت کننده در منبع باز به اینجا خوش آمدید.
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 [![Build Status](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
 
-این فهرستی از منابع برای افرادی است که جدیدا تصمیم به کمک منبع باز گرفته اند.
+این فهرستی از منابع و لینک‌هایی‌ست برای افرادی است که جدیدا تصمیم به کمک "منبع باز" گرفته اند.
 
-اگر منابع اضافی پیدا کردید، لطفا آنرا به ما گزارش دهید.
+اگر منابع دیگری پیدا کردید، لطفا آنرا به ما گزارش دهید.
 
-اگر سوالی دارید یا نظر دارید، لطفا آنرا اطلاع دهید.
+اگر سوالی و یا نظر دارید، لطفا آنرا اطلاع دهید.
 
-**محتوا**
+**فهرست محتوا**
 
 - [کمک به منبع باز به طور کلی](#کمک-به-منبع-باز-به-طور-کلی)
-- [جستجو مستقیم گیت هاب](#جستجو-مستقیم-گیت-هاب)
+- [جستجو مستقیم در گیت هاب](#جستجو-مستقیم-در-گیت-هاب)
+- [اکوسیستم مشارکت موزیلا](#اکوسیستم-مشارکت-موزیلا)
+- [مقالات مفید برای مشارکت کنندگان جدید منبع باز](#مقالات-مفید-برای-مشارکت-کنندگان-جدید-منبع-باز)
 - [استفاده از کنترل نسخه](#استفاده-از-کنترل-نسخه)
-- [کمک به منبع باز به طور کلی](#کمک-به-منبع-باز-به-طور-کلی)
-- [استفاده از کنترل نسخه](#استفاده-از-کنترل-نسخه)
-- [کتاب منبع باز](#کتاب-منبع-باز)
-- [کمک به منبع باز به طور کلی](#کمک-به-منبع-باز-به-طور-کلی)
+- [کتاب در مورد نرم افزارهای منبع باز](#کتاب-در-مورد-نرم-افزارهای-منبع-باز)
+- [ابتکار در مشارکت به منبع باز](#ابتکار-در-مشارکت-به-منبع-باز)
 - [مجوز](#مجوز)
 
 </p>
@@ -68,8 +68,8 @@
 <div dir="rtl" style="direction:rtl;text-align:right;">
 <p>
 
-## جستجو مستقیم گیت هاب
-لینک های جستجو که مستقیما شما را به مشکلات گزارش شده مربوط به موضوعی خاص در گیت هاب می رسانند: 
+## جستجو مستقیم در گیت هاب
+لینک های جستجو که مستقیما شما را به مشکلات گزارش شده مربوط به موضوعی خاص در گیت هاب می رسانند:
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
 - [is:issue is:open label:first-timers-only](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
@@ -140,7 +140,7 @@
 <div dir="rtl" style="direction:rtl;text-align:right;">
 <p>
 
-## کتاب منبع باز
+## کتاب در مورد نرم افزارهای منبع باز
 - [Producing Open Source Software](http://producingoss.com/) - Producing Open Source Software is a book about the human side of Open Source development. It describes how successful projects operate, the expectations of users and developers, and the culture of free software.
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - Learn more about Open Source and the growing Open Source movement with a comprehensive list of free eBooks from https://opensource.com.
 - [Software Release Practice HOWTO](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - This HOWTO describes good release practices for Linux and other Open-Source projects. By following these practices, you will make it as easy as possible for users to build your code and use it, and for other developers to understand your code and cooperate with you to improve it.
@@ -151,7 +151,7 @@
 <div dir="rtl" style="direction:rtl;text-align:right;">
 <p>
 
-## ابتکار های مشارکت منبع باز
+## ابتکار در مشارکت به منبع باز
 - [Up For Grabs](http://up-for-grabs.net/#/) - Contains projects with beginner friendly issues
 - [First Timers Only](http://www.firsttimersonly.com/) - A list of bugs that are labelled "first-timers-only".
 - [First Contributions](https://firstcontributions.github.io/) - Make your first Open Source contribution in 5 minutes. A tool and tutorial to help beginners get started with contributions.
