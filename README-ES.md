@@ -113,7 +113,7 @@ Lista de enlaces convenientes para principiantes que apuntan a `issues` en GitHu
 
 ## Iniciativas de contribución de Código abierto
 - [Up For Grabs](http://up-for-grabs.net/#/) - Contiene proyectos con cuestiones accesibles para principiantes.
-- [First Timers Only](http://www.firsttimersonly.com/) - Una lsta de errores etiquetados cómo 'first-timers-only' (solo para primerizos).
+- [First Timers Only](http://www.firsttimersonly.com/) - Una lista de errores etiquetados cómo 'first-timers-only' (solo para primerizos).
 - [First Contributions](https://firstcontributions.github.io/) - Haz tu primera contribución al código abierto en 5 minutos.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Una herramienta que anima a la contribución de código abierto. Gana regalos cómo camisetas y pegatinas haciendo al menos 5 `pull requests` durante el mes de Octubre.
 - [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests es un proyecto que promueve la colaboración de código abierto durante el mes de Diciembre.
