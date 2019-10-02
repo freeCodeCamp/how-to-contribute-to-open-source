@@ -23,7 +23,7 @@
 
 Esta es una lista de recursos para personas que se inician en la colaboración de proyectos de código abierto.
 
-Si encuetras recursos adicionales, por favor contribuye con una `pull request` a este repositorio.
+Si encuentras recursos adicionales, por favor contribuye con un `pull request` a este repositorio.
 
 Si tienes alguna pregunta o comentario, por favor crea un `issue` en este repositorio.
 
@@ -66,7 +66,7 @@ Lista de enlaces convenientes para principiantes que apuntan a `issues` en GitHu
 
 ## Ecosistema de colaboradores de Mozilla
 - [Issues perfectos por donde empezar a colaborar](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - `Issues` que desarrolladores han identificado cómo adecuadas para introducirse en el proyecto.
-- [Issues asistidas por un mentor](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - `Issues` que tienen un mentor asignado el cuál estará disponible mediante IRC para ayudarte mientras trabajas en ellas.
+- [Issues asistidas por un mentor](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - `Issues` que tienen un mentor asignado el cual estará disponible mediante IRC para ayudarte mientras trabajas en ellas.
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - Un sitio donde encontrar `issues` de Bugzilla.
 - [Firefox DevTools](http://firefox-dev.tools/) - Un sitio dedicado donde encontrar `issues` archivados por la herramienta de desarrollo dentro del navegador Firefox.
 - [Qué puedo hacer por Mozilla](http://whatcanidoformozilla.org/) - Descubre en qué puedes trabajar contestando una serie de preguntas sobre tus habilidades e intereses.
@@ -106,7 +106,7 @@ Lista de enlaces convenientes para principiantes que apuntan a `issues` en GitHu
 - [Git Kraken](https://www.gitkraken.com/git-client) - Aplicación de escritorio visual, multiplataforma e interactiva de git para el control de versiones.
 
 ## Libros de código abierto
-- [Desarrollando software de código abierto](http://producingoss.com/) - Desarrollando software de código abierto es un libro sobre el lado humano del desarrollo de códugo abierto. Este describre cómo funcionan los proyectos exitosos, las expectativas de los usuarios y desarrolladores, y la cultura del software libre.
+- [Desarrollando software de código abierto](http://producingoss.com/) - Desarrollando software de código abierto es un libro sobre el lado humano del desarrollo de código abierto. Este describre cómo funcionan los proyectos exitosos, las expectativas de los usuarios y desarrolladores, y la cultura del software libre.
 - [Serie de libros sobre código abierto](https://opensource.com/resources/ebooks) - Aprender más acerca del código abierto y el creciente movimiento de código abierto con una lista exhaustiva de libros gratuitos provenientes de https://opensource.com.
 - [Prácticas sobre cómo lanzar un software](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - Este guía describe buenas prácticas de lanzamiento para Linux y otros proyectos de código abierto. Siguiendo estas prácticas, facilitarás a otros usuarios tanto a preparar y usar tu código, y a otros desarrolladores a entenderlo y cooperar contigo para mejorarlo.
 - [Código abierto 2.0: Evolución continua](https://archive.org/details/opensources2.000diborich) (2005) - Código abierto 2.0 es una colección de ensayos perspicaces y estimulantes sobre las tecnologías líderes hoy en día que continúan pintando el cuadro evolutivo que se desarrolló en el libro de 1999, Código abierto: Voces de la revolución.
