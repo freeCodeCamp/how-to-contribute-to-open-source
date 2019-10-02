@@ -65,7 +65,7 @@ Pesquise por links diretos para issues no GitHub.
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
 ## Ambiente de Contribuidores da Mozilla
-- [Primeiros Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - Bugs que desenvolvedores indentificaram como ótima introdução ao projeto.
+- [Primeiros Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - Bugs que desenvolvedores identificaram como ótima introdução ao projeto.
 - [Mentoria de Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - Bugs que possuem um mentor disponível para te ajudar caso você encontre dificuldades enquanto trabalha em uma solução.
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - Um site dedicado a encontrar bugs no Bugzilla.
 - [Firefox DevTools](http://firefox-dev.tools/) - Um site dedicado a bugs reportados para o DevTools no navegador Firefox.
