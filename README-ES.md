@@ -23,7 +23,7 @@
 
 Esta es una lista de recursos para personas que se inician en la colaboración de proyectos de código abierto.
 
-Si encuetras recursos adicionales, por favor contribuye con una `pull request` a este repositorio.
+Si encuentras recursos adicionales, por favor contribuye con una `pull request` a este repositorio.
 
 Si tienes alguna pregunta o comentario, por favor crea un `issue` en este repositorio.
 
