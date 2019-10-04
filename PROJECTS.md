@@ -20,6 +20,10 @@ before contributing.
     - [Contributing Guide](https://github.com/redfin/react-server/blob/master/CONTRIBUTING.md)
     - Issue labels:
         - [good first contribution](https://github.com/StellarDoor5319/casualdate/labels/good%20first%20contribution)
+- [DITA Open Toolkit](https://www.dita-ot.org/)
+    - [Contributing Guide](https://www.dita-ot.org/contributing)
+    - Issue label:
+        - [good first issue](https://github.com/dita-ot/dita-ot/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 - [Docker](https://github.com/docker) (project)
     - [Contributing Guide](https://docs.docker.com/opensource/)
     - Issue labels:
