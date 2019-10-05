@@ -113,3 +113,5 @@ before contributing.
     - [Contributing Guide](https://github.com/test-kitchen/test-kitchen/blob/master/CONTRIBUTING.md)
     - Issue labels:
        - [*](https://github.com/test-kitchen/test-kitchen/issues?q=is%3Aopen+is%3Aissue+label%3A%E2%AD%90%EF%B8%8F)
+- Django (Framework)
+    - [Contributing Guide](https://github.com/django/django)
