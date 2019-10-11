@@ -30,3 +30,14 @@ Dit is een lijst met bronnen voor mensen die nog niet eerder hebben bijgedragen 
 Als je aanvullende bronnen vindt, kan je een pull-request indienen.
 
 Als je vragen of opmerkingen hebt, kan je een issue aanmaken.
+
+**Inhoud**
+
+- [Bijdragen aan een Open Source project in het algemeen](#contributing-to-open-source-in-general)
+- [GitHub doorzoeken](#direct-github-searches)
+- [Het bijdragende ecosysteem van Mozilla](#mozillas-contributor-ecosystem)
+- [Handige artikelen voor nieuwe Open Source-bijdragers](#useful-articles-for-new-open-source-contributors)
+- [Versie control gebruiken](#using-version-control)
+- [Open Source boeken](#open-source-books)
+- [Open Source bijdrage-initiatieven](#open-source-contribution-initiatives)
+- [Licenties](#license)
