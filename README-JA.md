@@ -95,7 +95,7 @@ Github上での貢献に適切な問題を表示しているリンクを直接�
 - [gitめ…](http://ohshitgit.com/) - gitで良く起こるミスを阻止する方法について、英語で説明
 - [アトラシアン社のGitチュートリアル](https://www.atlassian.com/git/tutorials/) - various tutorials on using `git`.
 - [GitHubとGitのチートシート](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
-- [GitリソースにあるfreeCodeCampのWiki](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
+- [GitリソースにあるfreeCodeCampのWiki](https://www.freecodecamp.org/forum/t/wiki-git-resources/13136)
 - [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - GitHubによる、プルリクエストの送り方の説明
 - [GitHub Learning Resources](https://help.github.com/articles/git-and-github-learning-resources/) - GitとGitHub学習者用のリソース
 - [Pro Git](https://git-scm.com/book/en/v2) - The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress.

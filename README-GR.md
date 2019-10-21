@@ -95,7 +95,7 @@
 - [Oh shit, git!](http://ohshitgit.com/) - Πως να αποφύγεις τα συνηθισμένα λάθη στο git.
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/) - Διάφοροι οδηγοί για τη χρήση του 'git'.
 - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
-- [freeCodeCamp's Wiki on Git Resources](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
+- [freeCodeCamp's Wiki on Git Resources](https://www.freecodecamp.org/forum/t/wiki-git-resources/13136)
 - [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - Συζήτηση για το πως να κάνει κάποιος ένα pull request.
 - [GitHub Learning Resources](https://help.github.com/articles/git-and-github-learning-resources/) - Υλικό για εκμάθηση του Git και GitHub.
 - [Pro Git](https://git-scm.com/book/en/v2) - Ολόκληρο το βιβλίο "Pro Git", γραμμένο από τον Scott Chacon και τον Ben Straub που δημοσιεύθηκε από την Apress.

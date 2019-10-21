@@ -110,7 +110,7 @@ Direkt olarak uygun issuelara referans veren katkı sağlanabilecek arama bağla
 - [Oh shit, git!](http://ohshitgit.com/) - Düz bir ingilizce ile anlatılmış "Git kullanırken yapılan ortak hatalardan nasıl kaçınırsın" kılavuzu
 - [Atlassian'ın Git Dersleri](https://www.atlassian.com/git/tutorials/) - Çeşitli git kullanma kılavuzları.
 - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
-- [freeCodeCamp ın Viki Git Kaynakları](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
+- [freeCodeCamp ın Viki Git Kaynakları](https://www.freecodecamp.org/forum/t/wiki-git-resources/13136)
 - [GitHub Akışı](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - Pull Request nasıl yapılır hakkında bir Github Konuşması
 - [GitHub Öğrenme Kaynakları](https://help.github.com/articles/git-and-github-learning-resources/) - Git ve GitHub öğrenme kaynakları.
 - [Pro Git](https://git-scm.com/book/en/v2) - Scott Chacon ve Ben Straub tarafından yazılmış, ApressThe tarafından paylaşılmış "Pro Git book" kitabının tamamı.

@@ -97,7 +97,7 @@ GitHub에서 기여할 만한 적절한 이슈를 직접적으로 가리키는 �
 - [Oh shit, git!](https://ohshitgit.com/) - 영어로 설명된 일반적인 git 실수에서 벗어나는 방법; 또한 [Dangit, git!](https://dangitgit.com/) 을 참조하세요.
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/) - `git`을 사용한 다양한 튜토리얼
 - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
-- [freeCodeCamp's Wiki on Git Resources](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
+- [freeCodeCamp's Wiki on Git Resources](https://www.freecodecamp.org/forum/t/wiki-git-resources/13136)
 - [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - pull request를 만드는 방법에 대한 GitHub 이야기
 - [GitHub Learning Resources](https://help.github.com/articles/git-and-github-learning-resources/) - Git과 GitHub 학습 자료
 - [Pro Git](https://git-scm.com/book/en/v2) - Apress에서 출판한 Scott Chacon과 Ben Straub의 Pro Git 책 전문

@@ -116,7 +116,7 @@ Suchbegriffe, die direkt auf für Einsteiger\*innen geeignete Issues auf GitHub 
 - [Oh shit, git!](http://ohshitgit.com/) - wie man die typischsten Git-Fehler vermeidet.
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/) - zahlreiche Tutorials über die Nutzung von `git`.
 - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
-- [freeCodeCamp's Wiki on Git Resources](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
+- [freeCodeCamp's Wiki on Git Resources](https://www.freecodecamp.org/forum/t/wiki-git-resources/13136)
 - [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - GitHub Talk darüber, wie man einen Pull-Request erstellt.
 - [GitHub Learning Resources](https://help.github.com/articles/git-and-github-learning-resources/) - Git und GitHub Lernmaterialien.
 - [Pro Git](https://git-scm.com/book/en/v2) - Das komplette Pro-Git-Buch, verfasst von Scott Chacon und Ben Straub (Apress).

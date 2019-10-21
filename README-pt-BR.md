@@ -95,7 +95,7 @@ Pesquise por links diretos para issues no GitHub.
 - [Oh shit, git!](http://ohshitgit.com/) - Como consertar erros comuns em git.
 - [Tutoriais de Git da Atlassian](https://www.atlassian.com/git/tutorials/) - Vários tutoriais sobre como usar `git`.
 - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
-- [Recursos sobre Git por freeCodeCamp](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
+- [Recursos sobre Git por freeCodeCamp](https://www.freecodecamp.org/forum/t/wiki-git-resources/13136)
 - [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - Talk sobre como criar Pull Requests.
 - [Recursos de Aprendizagem de Git e GitHub](https://help.github.com/articles/git-and-github-learning-resources/)
 - [Pro Git](https://git-scm.com/book/en/v2) - Livro completo Pro Git, escrito por Scott Chacon e Ben Straub e publicado pela Apress.

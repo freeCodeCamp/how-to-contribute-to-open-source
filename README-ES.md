@@ -95,7 +95,7 @@ Lista de enlaces convenientes para principiantes que apuntan a `issues` en GitHu
 - [Oh shit, git!](http://ohshitgit.com/) - Cómo resolver errores comunes de git descritos de manera simple.
 - [Tutoriales de Git por Atlassian](https://www.atlassian.com/git/tutorials/) - Varios tutoriales usando `git` hechos por Atlassian.
 - [Trucos de GitHub Git](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
-- [Recursos sobre Git en la Wiki de freeCodeCamp](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
+- [Recursos sobre Git en la Wiki de freeCodeCamp](https://www.freecodecamp.org/forum/t/wiki-git-resources/13136)
 - [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - Charla de GitHub sobre cómo hacer un `pull request`.
 - [Recursos de aprendizaje de GitHub](https://help.github.com/articles/git-and-github-learning-resources/) - Recursos de aprendizaje para Git y GitHub.
 - [Git Pro](https://git-scm.com/book/en/v2) - Libro completo Git Pro, escrito or Scott Chacon y Ben Straub, publicado por Apress.
