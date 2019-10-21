@@ -90,7 +90,7 @@ Căutați linkuri care indică direct problemele potrivite pentru a contribui la
 - [Oh shit, git!](http://ohshitgit.com/) - cum să scapi de greșelile comune în "git" descrise în engleză simplă.
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/) - diverse tutoriale despre utilizarea "git"-ului.
 - [GitHub Git Fițuică](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
-- [Wiki-ul freeCodeCamp despre resursele Git](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
+- [Wiki-ul freeCodeCamp despre resursele Git](https://www.freecodecamp.org/forum/t/wiki-git-resources/13136)
 - [Fluxul GitHub](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - GitHub vorbește despre modul de a face o cerere de adaugare (pull request).
 - [Resurse de învățare GitHub](https://help.github.com/articles/git-and-github-learning-resources/) - Resurse de învățare Git și GitHub.
 - [Pro Git](https://git-scm.com/book/en/v2) - Întreaga carte Pro Git, scrisă de Scott Chacon și Ben Straub și publicată de Apress.

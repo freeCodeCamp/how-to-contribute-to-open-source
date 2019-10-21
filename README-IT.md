@@ -91,7 +91,7 @@ Se hai domande o commenti, crea un problema/issue.
 - [Oh mio Dio, git!](http://ohshitgit.com/) - come uscire dagli errori di `git` comuni descritti in inglese semplice.
 - [Atlassian Git Tutoriali](https://www.atlassian.com/git/tutorials/) - vari tutorial sull'uso di `git`.
 - [foglietto di imbroglio  di GitHub Git](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
-- [Wiki di freeCodeCamp sulle risorse di Git](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
+- [Wiki di freeCodeCamp sulle risorse di Git](https://www.freecodecamp.org/forum/t/wiki-git-resources/13136)
 - [Il flusso di GitHub](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - GitHub parla di come effettuare una richiesta di pull.
 - [Risorse per l'apprendimento di GitHub](https://help.github.com/articles/git-and-github-learning-resources/) - Risorse per l'apprendimento di Git e GitHub.
 - [Pro Git](https://git-scm.com/book/en/v2) - L'intero libro di Pro Git, scritto da Scott Chacon e Ben Straub e pubblicato da Apress.

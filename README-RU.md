@@ -93,7 +93,7 @@
 - [О, дерьмо, гит!](http://ohshitgit.com/) - как выйти из обычных ошибок `git`, описанных на простом английском языке.
 - [Учебники Atlassian Git](https://www.atlassian.com/git/tutorials/) - различные руководства по использованию `git`.
 - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
-- [freeCodeCamp's Wiki для Git Resources]](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
+- [freeCodeCamp's Wiki для Git Resources]](https://www.freecodecamp.org/forum/t/wiki-git-resources/13136)
 - [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - GitHub расскажет о том, как сделать запрос на тяну.
 - [Ресурсы обучения GitHub](https://help.github.com/articles/git-and-github-learning-resources/) - Ресурсы Git и GitHub.
 - [Pro Git](https://git-scm.com/book/en/v2) - Вся книга Pro Git, написанная Скоттом Чаконом и Бен Страубом и опубликованная Apress.

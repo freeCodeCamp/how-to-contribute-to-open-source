@@ -96,7 +96,7 @@ Listes de recherches pointant directement vers des `issues` propices à la contr
 - [Oh shit, git!](http://ohshitgit.com/) - comment s'extraire des erreurs de `git` courantes expliqué de manière simple.
 - [Tutoriels Git d'Atlassian](https://www.atlassian.com/git/tutorials/) - tutoriels variés sur comment utiliser `git`.
 - [Aide-mémoire pour GitHub Git](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
-- [Wiki de freeCodeCamp sur les ressources Git](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
+- [Wiki de freeCodeCamp sur les ressources Git](https://www.freecodecamp.org/forum/t/wiki-git-resources/13136)
 - [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - Discussion sur comment effectuer une `pull request` dans GitHub.
 - [Ressources pour apprendre GitHub](https://help.github.com/articles/git-and-github-learning-resources/) - Ressources pour apprendre Git et GitHub.
 - [Pro Git](https://git-scm.com/book/en/v2) - Le livre entier Pro Git, écrit par Scott Chacon et Ben Straub et publié par Apress.

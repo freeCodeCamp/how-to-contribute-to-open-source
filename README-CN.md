@@ -94,7 +94,7 @@
 - [Oh shit, git!](http://ohshitgit.com/) - 如何避免一般的用易懂的英语描述的`git`错误。
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/) - 各种各样的使用`git`的教程。
 - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
-- [freeCodeCamp's Wiki on Git Resources](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
+- [freeCodeCamp's Wiki on Git Resources](https://www.freecodecamp.org/forum/t/wiki-git-resources/13136)
 - [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - 涉及在GitHub上如何做一个拉取请求。
 - [GitHub Learning Resources](https://help.github.com/articles/git-and-github-learning-resources/) - Git和GitHub学习资源。
 - [Pro Git](https://git-scm.com/book/en/v2) - Pro Git书入口, 由Scott Chacon和Ben Straub撰写并且通过Apress出版。
