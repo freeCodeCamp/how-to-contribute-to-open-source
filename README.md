@@ -61,6 +61,8 @@ If you have questions or comments, please create an issue.
 - ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - A step-by-step video guide of how to start contributing to Open Source projects on GitHub.
 - [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - This walkthrough of an open source contribution covers everything from picking a suitable project, working on an issue, to getting the PR merged in.
 - ["How to Contribute to Open Source Project by" Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - They are focusing on the nitty-gritty of contributing a pull request (PR) to someone else’s project on GitHub. 
+- ["Contribute to existing open source projects" by Shubham Shah]
+You can contribute to free software in many ways. Developers can fork projects, make changes to code, and send pull requests. ... Sometimes developers are too busy or too lazy to check the quality of their code.
 
 ## Direct GitHub searches
 Search links that point directly to suitable issues to contribute to on GitHub.
