@@ -61,8 +61,6 @@ If you have questions or comments, please create an issue.
 - ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - A step-by-step video guide of how to start contributing to Open Source projects on GitHub.
 - [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - This walkthrough of an open source contribution covers everything from picking a suitable project, working on an issue, to getting the PR merged in.
 - ["How to Contribute to Open Source Project by" Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - They are focusing on the nitty-gritty of contributing a pull request (PR) to someone else’s project on GitHub. 
-- ["Here is a great tutorial for creating your first pull request by" Roshan Jossey](https://github.com/Roshanjossey/first-contributions) -This project aims at providing guidance & simplifying the way beginners make their first contribution.
-
 
 ## Direct GitHub searches
 Search links that point directly to suitable issues to contribute to on GitHub.
@@ -130,6 +128,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [First Contributions](https://firstcontributions.github.io/) - Make your first Open Source contribution in 5 minutes. A tool and tutorial to help beginners get started with contributions.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - A program to encourage Open Source contributions. Earn gifts like t-shirts and stickers by making at least 4 pull requests in the month of October.
 - [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests is a project to promote Open Source collaboration during the month of December.
+- [First Contributions](https://github.com/firstcontributions/first-contributions) - This project aims at providing guidance and opportunity to beginners to make their first contribution with this project.
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
