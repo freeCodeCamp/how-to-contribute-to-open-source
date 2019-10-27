@@ -93,7 +93,7 @@ for a particular period of time, say 2-3 weeks, it's acceptable to still pick
 up the issue but make sure to leave a comment.
 
 *Note*: Every open-source project has a **CONTRIBUTING.md** file, please make
-sure to read this before you open up a pull request, otherwise it may be
+sure to read this before you open up a pull request, otherwise your pull requests may be
 rejected. However, if you do not see any CONTRIBUTING.md file, you can send a
 pull request but do it in a descriptive manner.
 
