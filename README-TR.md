@@ -33,11 +33,11 @@
 - **_markdown_**
 - **_cheat sheet_**
 
-Açık Kaynağa katkı sağlamak konusunda yeni olanlar için kaynak listesi
+Açık kaynağa katkı sağlamak konusunda yeni olanlar için kaynak listesi.
 
 İlave olarak kaynak bulursanız lütfen pull request atarak katkı sağlayın. 
 
-Eğer bir sorunuz veya yorumunuz varsa lütfen issue oluşturun.
+Eğer bir sorunuz veya yorumunuz varsa lütfen "issue" oluşturun.
 
 **İçerikler**
 
@@ -69,7 +69,7 @@ Simülasyon prosine kod katkısı sağlayarak GitHub dinamiklerini öğren
 - [Pull Request Ruleti](http://www.pullrequestroulette.com/) - Açık Kaynak projelere ait gözden geçirilmesi için gönderilmiş pull requestler. 
 - ["GitHub'daki açık kaynak projelere nasıl katkı sağlanır." Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - "GitHub'daki açık kaynak projelere adım adım nasıl katkı sağlanır?" ile ilgili videolar.
 
-## Direkt GitHub arama sonuçarı
+## Direkt GitHub arama sonuçları
 Direkt olarak uygun issuelara referans veren katkı sağlanabilecek arama bağlantıları 
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
@@ -87,7 +87,7 @@ Direkt olarak uygun issuelara referans veren katkı sağlanabilecek arama bağla
 - [Mozilla İçin Ne Yapabilirim?](http://whatcanidoformozilla.org/) - Sorulara cevap vererek ilgi alanına ve kabiliyetlerine uygun neyin üzerinde çalışabilirsin öğren. 
 - [Start Mozilla](https://twitter.com/StartMozilla) - Mozilla ekosisteminde yeni olan katkı sağlayıcıları için tweetler atan Twitter hesabı 
 
-## Yeni Open Source Katkı Sağlayıcıları için faydalı makaleler 
+## Yeni Açık Kaynak Katkı Sağlayıcıları için faydalı makaleler 
 - [İlk Açık Kaynak Projenizi nasıl seçersiniz?](https://github.com/collections/choosing-projects) yazan [@GitHub](https://github.com/github)
 - [Düzeltmek için ilk Açık Kaynak Bug'ınızı nasıl bulursunuz?](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) yazan [@Shubheksha](https://github.com/Shubheksha)
 - [İlk Defa Açık Kaynağa başlayacaklar için](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
@@ -133,5 +133,5 @@ Direkt olarak uygun issuelara referans veren katkı sağlanabilecek arama bağla
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Açık Kaynağa Katkı sağlamayı teşvik eden bir program. Ay bazında en az 5 pull request yaparak t-shirt ve sticker gibi hediyeler kazan.
 - [24 Pull Requests](https://24pullrequests.com) - Aralık ayı boyunca Açık Kaynak işbirliğini destekleyen proje. 
 
-## License
+## Lisans
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Lisans türü: <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
