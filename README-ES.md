@@ -84,7 +84,6 @@ Lista de enlaces convenientes para principiantes que apuntan a `issues` en GitHu
 - [Primera misión: Página de colaboradores](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) por [@forCrowd](https://github.com/forCrowd)
 - [Cómo hacer tu primera contribución al código abierto en 5 minutos](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) por [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
 - [Hacktoberfest 2018: Cómo puedes conseguir tu primera camiseta - incluso si eres nuevo programando](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) por [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
-- [Una amarga guía sobre el código abierto](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) por [@ken_wheeler](https://medium.com/@ken_wheeler)
 - [Una guía paso a paso sobre cómo contribuir por primera vez al código abierto hecha para programadores sin experiencia](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) por [@LetaKeane](http://www.letakeane.com/)
 - [Aprende Git y GitHub paso a paso (en Windows)](https://medium.com/@ows_ali/be93518e06dc) por [@ows-ali](https://medium.com/@ows_ali)
 
