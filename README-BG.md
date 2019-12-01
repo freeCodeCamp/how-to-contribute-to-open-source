@@ -28,28 +28,20 @@
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/) [![Build Status](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
 
-This is a list of resources for people who are new to contributing to Open Source.
-
-Това е списък с ресурси, предназначени за хора, които са нови при допринасянето към отворения код (Open Source).
-
-If you find additional resources, please contribute a pull request.
+Това е списък с ресурси, предназначени за хора, които са нови в допринасянето към отворения код (Open Source).
 
 Ако откриете допълнителни ресурси, можете да на направите заявка за сливане (pull request).
 
-If you have questions or comments, please create an issue. Ако имате въпроси или искате просто да коментирате, можете да създадете issue.
+**Съдържание**
 
-**Contents** **Съдържание**
-
-- [Contributing to Open Source in general](#contributing-to-open-source-in-general)
-- [Direct GitHub searches](#direct-github-searches)
-- [Mozilla's contributor ecosystem](#mozillas-contributor-ecosystem)
-- [Useful articles for new Open Source contributors](#useful-articles-for-new-open-source-contributors)
-- [Using Version Control](#using-version-control)
-- [Open Source books](#open-source-books)
+- [Основи на допринасянето към отворения код](#contributing-to-open-source-in-general)
+- [Директно търсене в GitHub](#direct-github-searches)
+- [Еко системата на Mozilla за доброволен принос](#mozillas-contributor-ecosystem)
+- [Полезни статии за начинаещи open source доброволци](#useful-articles-for-new-open-source-contributors)
+- [Как да използваме контрол на версиите (Version Control)](#using-version-control)
+- [Книги за отворения код](#open-source-books)
 - [Open Source contribution initiatives](#open-source-contribution-initiatives)
 - [License](#license)
-
-## Contributing to Open Source in general
 
 ## Основи на допринасянето към отворения код
 
@@ -106,7 +98,7 @@ If you have questions or comments, please create an issue. Ако имате в�
 - [Учебни бъгове](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - Учебни бъгове с предварително определен наставник, който е на разположение в чата (IRC), за да ви помогне, ако срещнете проблем, докато работите по отстраняване на бъга.
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - Сайт, посветен на намиране на бъгове в Bugzilla.
 - [Firefox DevTools](http://firefox-dev.tools/) - Сайт, посветен на бъгове в инструментите за разработчици на браузера Firefox.
-- [Какво мога на работя за Mozilla](http://whatcanidoformozilla.org/) - Разберете каква работа би била подходяща за вас като отговорите на няколко въпроса относно уменията и интерестите ви.
+- [Какво мога да работя за Mozilla](http://whatcanidoformozilla.org/) - Разберете каква работа би била подходяща за вас като отговорите на няколко въпроса относно уменията и интерестите ви.
 - [Започни с Mozilla](https://twitter.com/StartMozilla) - Профил в Тwitter на тема issue-та, подходящи за прохождащи в Mozilla екосистемата разработчици
 
 ## Полезни статии за начинаещи open source доброволци
@@ -146,23 +138,23 @@ If you have questions or comments, please create an issue. Ако имате в�
 - [Git съвети](https://github.com/git-tips/tips) - Колекция от най-използваните съвети и трикове за git.
 - [Най-добрите Git практики](https://sethrobertson.github.io/GitBestPractices/) - Commit-вай често, усъвършенствай по-късно, публикувай веднъж: най-добрите Git практики.
 
-## Open Source книги
+## Книги за отворения код
 
-- [Да напишеш Open Source софтуер](http://producingoss.com/) - "Да напишеш Open Source софтуер" е книга за човешката стана на процеса по разработване на Open Source. В нея се описва как функционира един успешен проект, какви са очакванията на потребители и разработчици и каква е културата на "свободния софтуер" Producing Open Source Software is a book about the human side of Open Source development. It describes how successful projects operate, the expectations of users and developers, and the culture of free software.
-- [Open Source - колекция](https://opensource.com/resources/ebooks) - Learn more about Open Source and the growing Open Source movement with a comprehensive list of free eBooks from <https://opensource.com>.
-- [Software Release Practice HOWTO](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - This HOWTO describes good release practices for Linux and other Open-Source projects. By following these practices, you will make it as easy as possible for users to build your code and use it, and for other developers to understand your code and cooperate with you to improve it.
-- [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 is a collection of insightful and thought-provoking essays from today's technology leaders that continues painting the evolutionary picture that developed in the 1999 book, Open Sources: Voices from the Revolution.
-- [The Architecture of Open Source Applications](http://www.aosabook.org/en/git.html) - Show how various aspects of Git work under the covers to enable distributed workflows, and how it differs from other version control systems (VCSs).
+- [Да напишеш софтуер с отворен код](http://producingoss.com/) - "Да напишеш Open Source софтуер" е книга за човешката стана на процеса по разработване на Open Source. В нея се описва как функционира един успешен проект, какви са очакванията на потребители и разработчици и каква е културата на "свободния софтуер"
+- [Open Source - колекция издания](https://opensource.com/resources/ebooks) - Научете повече за Open Source и за Движенитето за Отворен код - списък с безплатни е-книги от <https://opensource.com>.
+- [Практическо ръководство за публикуване на софтуер](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - Това практическо ръководство описва добри практики за публикуване на проекти на Линукс или други с отворен код. Следвайки дадените практически насоки, вие ще направите вашия код лесен за стартиране и използване от потребителите, а за разработчиците - лесен за разбиране и доизграждане.
+- [Отворен код 2.0 : Еволюция на доброволния принос](https://archive.org/details/opensources2.000diborich) (2005) - Отворен код 2.0 е колекция от проницателни и провокативни есета, написани от технологичните лидери на нашето съвремие. Колекцията е еволюционното продължение на книгата от 1999 "Отворения код: Гласът на революцията".
+- [Архитектура на приложенията с отворен код](http://www.aosabook.org/en/git.html) - Статията показва от различен ъгъл как работата под Git всъщност е типичен дистрибутивен работния процес и как се различава от други видове системи за контрол на версиите.
 
-## Open Source contribution initiatives
+## Инициативи за принос към Open Source
 
-- [Up For Grabs](http://up-for-grabs.net/#/) - Contains projects with beginner friendly issues
-- [First Timers Only](http://www.firsttimersonly.com/) - A list of bugs that are labelled "first-timers-only".
-- [First Contributions](https://firstcontributions.github.io/) - Make your first Open Source contribution in 5 minutes. A tool and tutorial to help beginners get started with contributions. [Here](https://github.com/firstcontributions/first-contributions) is the GitHub source code for the site and opportunity to make a contribution to the repository itself.
-- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - A program to encourage Open Source contributions. Earn gifts like t-shirts and stickers by making at least 4 pull requests in the month of October.
-- [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests is a project to promote Open Source collaboration during the month of December.
+- [Up For Grabs](http://up-for-grabs.net/#/) - Сайтът съдържа проекти с issue-та, подходящи за начинаещия
+- [Само за начинаещи](http://www.firsttimersonly.com/) - Списък с бъгове с етикет "само-за-начинанещи".
+- [Първи принос](https://firstcontributions.github.io/) - Дайте приноса си към Open Source само за 5 минути. Тук се съдържат инструмент и насоки как начинаещите да започнат да допринасят. [Тук линкът](https://github.com/firstcontributions/first-contributions) води към отворения код в GitHub на сайтаи е предоставена възможност за принос към самото хранилище.
+- [Хактобер фест](https://hacktoberfest.digitalocean.com/) - Програма, която да окуражи доброволците. Можете да спечелите подаръци, като например тениски или стикери, ако направите най-малко 4 заявки за сливане(pull requests) през месец октомври.
+- [24 заявки за сливане(Pull Requests)](https://24pullrequests.com) - 24 заявки за сливане(Pull Requests) е проект, който иска да даде гласност на съвместната работа по Open Source проекти през месец Декември.
 
-## License
+## Лицензи
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)<br>
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+Тази статия използва следния лиценз: [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
