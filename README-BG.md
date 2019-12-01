@@ -22,45 +22,43 @@
 
  <!-- Do not translate this --> <!-- Този превод се стреми да е по-скоро смислен, отколкото прецизно точен -->
 
- # Welcome newbie Open Source contributors!
-
-# Добре дошли, доброволци на отворения код!
+ # Добре дошли, доброволци на отворения код!
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/) [![Build Status](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
 
 Това е списък с ресурси, предназначени за хора, които са нови в допринасянето към отворения код (Open Source).
 
-Ако откриете допълнителни ресурси, можете да на направите заявка за сливане (pull request).
+Ако откриете допълнителни ресурси, можете да на направите заявка за сливане(pull request).
 
 **Съдържание**
 
-- [Основи на допринасянето към отворения код](#contributing-to-open-source-in-general)
+- [Основи на допринасянето към отворения код(Open Source)](#contributing-to-open-source-in-general)
 - [Директно търсене в GitHub](#direct-github-searches)
 - [Еко системата на Mozilla за доброволен принос](#mozillas-contributor-ecosystem)
-- [Полезни статии за начинаещи open source доброволци](#useful-articles-for-new-open-source-contributors)
+- [Полезни статии за начинаещи Open Source доброволци](#useful-articles-for-new-open-source-contributors)
 - [Как да използваме контрол на версиите (Version Control)](#using-version-control)
 - [Книги за отворения код](#open-source-books)
-- [Open Source contribution initiatives](#open-source-contribution-initiatives)
-- [License](#license)
+- [Инициативи за принос към Open Source](#open-source-contribution-initiatives)
+- [Лицензи](#license)
 
-## Основи на допринасянето към отворения код
+## Основи на допринасянето към отворения код(Open Source)
 
 - [Пълно ръководство за допринасянето към Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
-- [Въведение в Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Инструкциите на DigitalOcean ще ви помогнат за изминете по-лесно пътя до успешен принос тук, в GitHub.
+- [Въведение в Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Инструкциите на DigitalOcean ще ви помогнат да изминете по-лесно пътя до успешен принос тук, в GitHub.
 - [SourceSort](https://www.sourcesort.com) - Колекция от проекти open source, които се нуждаят от помощ. Има възможност за търсене. Колекцията включва също и данни за неща, като например каква е процентната вероятност вашата заявка за сливане (pull request) да бъде одобрена и колко време са чака за отговор. Такива статистики биха били много полезни за начинаещи в open source приноса.
-- [Issuehub.io](http://issuehub.io/) - Инструмент за търсене по етикет (label) или език на issue-та в GitHub.
+- [Issuehub.io](http://issuehub.io/) - Инструмент за търсене по етикет (label) или език на issue-та(ишута) в GitHub.
 
-- [Code Triage](https://www.codetriage.com/) - Друг инструмент за намиране на популярни хранилища (repositories) и issue-та. Предоставя възможност за филтриране по език и като цяло е много приятен.
+- [Code Triage](https://www.codetriage.com/) - Друг инструмент за намиране на популярни хранилища (repositories) и issue-та. Предоставя възможност за филтриране по език и като цяло е много приятен за ползване.
 
 - [(Страхотно за начинаещи) Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - GitHub хранилище (repository), в което се събитат проекти с бъгове, подходящи за начинаещи. Всеки бъг има подходящи етикети за по-ясно описание.
 
-- [Open Source ръководства](https://opensource.guide/) - Колекция от ресурси за ентусиасти, общности и компании, които искат да научат как да стартитат свой или как да допринасат към Open Source проект.
+- [Open Source ръководства](https://opensource.guide/) - Колекция от ресурси за ентусиасти, общности и компании, които искат да научат как да стартитат свой или как да допринесат към Open Source проект.
 
 - [Github issue - 45 добри и лоши практики](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Какво да правим и какво не в GitHub.
 
 - [GitHub ръководства](https://guides.github.com/) - Кратки ръководства как да използваме ефективно GitHub.
 
-- [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Научете начина на работа в GitHub чрез добавяне на код към симулациа на проект.
+- [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Научете начина на работа в GitHub чрез добавяне на код към проект-симулация.
 
 - [Ръководства на Линукс фондацията за Open Source в бизнеса](https://www.linuxfoundation.org/resources/open-source-guides/) - Ръководства на Линукс фондацията за Open Source проекти в бизнеса
 
