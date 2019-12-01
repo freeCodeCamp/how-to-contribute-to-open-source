@@ -60,7 +60,7 @@
 
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Научете начина на работа в GitHub чрез добавяне на код към проект-симулация.
 
-- [Ръководства на Линукс фондацията за Open Source в бизнеса](https://www.linuxfoundation.org/resources/open-source-guides/) - Ръководства на Линукс фондацията за Open Source проекти в бизнеса
+- [Ръководства от Линукс фондацията за Open Source в бизнеса](https://www.linuxfoundation.org/resources/open-source-guides/) - Ръководства от Линукс фондацията за Open Source проекти в бизнеса
 
 - [CSS трикове - Пътеводител в Open Source етикета](https://css-tricks.com/open-source-etiquette-guidebook/) - Ръководство за Open Source етикета, написано от Kent C. Dodds и Sarah Drasner.
 
@@ -68,7 +68,7 @@
 
 - [Как да допринесем към първия си Open Source проект - практически насоки](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - Ръководство стъпка по стъпка как да допринесете към първия си Open Source проект, от [Abati Adewale](https://www.acekyd.com).
 
-- [Pull Request рулетка](http://www.pullrequestroulette.com/) - На този сайт можете да намери списък с pull request-и заявени за одобрение към Open Source проекти, качени Github.
+- [Pull Request рулетка](http://www.pullrequestroulette.com/) - На този сайт можете да намерите списък с pull request-и, заявени за одобрение към Open Source проекти, качени в Github.
 
 - ["Как да допринесем към Open Source проект в GitHub" от Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - Видео-ръководство стъпка по стъпка как да започнем да даваме своя принос към Open Source проекти в GitHub.
 
@@ -92,44 +92,44 @@
 
 ## Еко системата на Mozilla за доброволен принос
 
-- [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - Бъгове, които разработчиците са определили като подходящи за опознаване на проекта.
+- [Стават за първи бъг (Good First Bugs)](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - Бъгове, които разработчиците са определили като подходящи за опознаване на Mozilla проекта.
 - [Учебни бъгове](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - Учебни бъгове с предварително определен наставник, който е на разположение в чата (IRC), за да ви помогне, ако срещнете проблем, докато работите по отстраняване на бъга.
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - Сайт, посветен на намиране на бъгове в Bugzilla.
-- [Firefox DevTools](http://firefox-dev.tools/) - Сайт, посветен на бъгове в инструментите за разработчици на браузера Firefox.
-- [Какво мога да работя за Mozilla](http://whatcanidoformozilla.org/) - Разберете каква работа би била подходяща за вас като отговорите на няколко въпроса относно уменията и интерестите ви.
-- [Започни с Mozilla](https://twitter.com/StartMozilla) - Профил в Тwitter на тема issue-та, подходящи за прохождащи в Mozilla екосистемата разработчици
+- [Firefox инструменти за разработчици (DevTools)](http://firefox-dev.tools/) - Сайт, посветен на бъгове в инструментите за разработчици към браузера Firefox.
+- [Какво мога да работя в Mozilla](http://whatcanidoformozilla.org/) - Разберете каква работа би била подходяща за вас, като отговорите на няколко въпроса относно уменията и интерестите ви.
+- [Започни с Mozilla](https://twitter.com/StartMozilla) - Профил в Тwitter на тема issue-та, подходящи за прохождащи в Mozilla еко системата разработчици
 
 ## Полезни статии за начинаещи open source доброволци
 
 - [Как да изберем (и да допринесем към) своя първи Open Source проект](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
 - [Как да открием и поправим първия си Open Source бъг](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) by [@Shubheksha](https://github.com/Shubheksha)
-- [Само да начинаещи](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
+- [Само за начинаещи](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
 - [Нека върнем добрината (и толерантността) в Open Source](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) by [@shanselman](https://github.com/shanselman)
 - [Да навлезем в Open Source](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [Как да допринесем към Open Source](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
 - [Как да открием бъг в собствения си код](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
 - [Да усъвършенстваме Markdown](https://guides.github.com/features/mastering-markdown/) by [@GitHubGuides](https://guides.github.com/)
 - [Мисия първа: Страница на доброволците](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
-- [Как да направите първия си Open Source принос за само 5 минути](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) by [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
-- [Hacktoberfest 2019: Как да получите безплатна тениска -- дори и да сте нови в програнето](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) by [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
+- [Как да направите първия си Open Source принос само за 5 минути](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) by [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
+- [Хактобър фест 2019: Как да получите безплатна тениска -- дори и да сте нови в програмирането](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) by [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
 - [Наръчник на горчивия опит в Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
 - [Наръчник на начинаещия разрабочик в първия му принос към Open Source - стъпка по стъпка](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) by [@LetaKeane](http://www.letakeane.com/)
 - [Как да научим Git и GitHub в лесни стъпки (само за Windows)](https://medium.com/@ows_ali/be93518e06dc) by [@ows-ali](https://medium.com/@ows_ali)
 
 ## Как да използваме контрол на версиите (Version Control)
 
-- [Мисли като за Git](http://think-like-a-git.net/) - Въведение в Git за начинаещи с малки познания, но все още не знаещи много неща. Ресурсът ще ви даде проста и безопасна стратегия как да правите експерименти с Git
+- [Мисли като за Git](http://think-like-a-git.net/) - Въведение в Git, подгодящо за начинаещи с малки познания, но все още не знаещи много неща. Ресурсът ще ви даде проста и безопасна стратегия как да правите експерименти с Git
 - [Пробвайте Git](https://try.github.io/) - Научете безплатно Git за 15 минути, работейки само в браузера.
 - [Git за всеки ден](https://git-scm.com/docs/giteveryday) - Минималното количество полезни Git команди, използвани всеки ден
-- [О, по дяволите, git!](https://ohshitgit.com/) - Как да избегнем често срещани `git` грешки; обясени просто. (Вижте също и) [Проклятие, git!](https://dangitgit.com/) за страницата без псувни.
+- [О, по дяволите, git!](https://ohshitgit.com/) - Как да избегнем често срещани `git` грешки; обясени просто. (Вижте също и) [Проклятие, git!](https://dangitgit.com/) страницата без псувни.
 - [Git ръководства от Atlassian](https://www.atlassian.com/git/tutorials/) - Различни ръководства за употребата на `git`.
 - [Пищов(Cheat Sheet) за Git на GitHub](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
 - [Eнциклопедия(wiki страници) с Git ресурси от freeCodeCamp](https://www.freecodecamp.org/forum/t/wiki-git-resources/13136)
-- [GitHub работен процес](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - Презентация на трейнъри от GitHub на тема ка да направим pull request.
+- [GitHub работен процес](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - Видео презентация на трейнъри от GitHub на тема как да направим pull request.
 - [GitHub учебни ресурси](https://help.github.com/articles/git-and-github-learning-resources/) - Git и GitHub учебни ресурси.
 - [Git за професионалисти](https://git-scm.com/book/en/v2) - Книгата "Git за професионалисти", написана от Scott Chacon и Ben Straub и издадена от Apress.
 - [Git-it](https://github.com/jlord/git-it-electron) - Десктоп приложение - Git ръководство стъпка по стъпка.
-- [Солидни правила за Git](https://github.com/k88hudson/git-flight-rules) - Наръчник за това какво да правим, когато нещата не вървят.
+- [Солидни правила за Git](https://github.com/k88hudson/git-flight-rules) - Наръчник какво да правим, когато нещата не вървят.
 - [Разбираемо въведение в Git и GitHub](https://codeburst.io/git-good-part-a-e0d826286a2a) - Наръчник, задължителен за всеки начинаещ в Git или GitHub, написан от Madhav Bahl. Покрива темата за GitHub като услуга и детайлизира концепцията за Git контрол на версиите.
 - [Git наръчник за начинаещи, на испански](https://platzi.github.io/git-slides/#/) - Пълен наръчник за Git и GitHub, под формата на слайдове на испански.
 - [Git Kraken](https://www.gitkraken.com/git-client) - Десктоп приложение за `git` контрол на версиите, което е платформено-независимо, интерактивно и с добра графика.
@@ -138,19 +138,19 @@
 
 ## Книги за отворения код
 
-- [Да напишеш софтуер с отворен код](http://producingoss.com/) - "Да напишеш Open Source софтуер" е книга за човешката стана на процеса по разработване на Open Source. В нея се описва как функционира един успешен проект, какви са очакванията на потребители и разработчици и каква е културата на "свободния софтуер"
+- [Да напишеш софтуер с отворен код](http://producingoss.com/) - "Да напишеш Open Source софтуер" е книга за човешката страна на процеса по разработване на Open Source. В нея се описва как функционира един успешен проект, какви са очакванията на потребители и разработчици и каква е културата на "свободния софтуер".
 - [Open Source - колекция издания](https://opensource.com/resources/ebooks) - Научете повече за Open Source и за Движенитето за Отворен код - списък с безплатни е-книги от <https://opensource.com>.
-- [Практическо ръководство за публикуване на софтуер](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - Това практическо ръководство описва добри практики за публикуване на проекти на Линукс или други с отворен код. Следвайки дадените практически насоки, вие ще направите вашия код лесен за стартиране и използване от потребителите, а за разработчиците - лесен за разбиране и доизграждане.
-- [Отворен код 2.0 : Еволюция на доброволния принос](https://archive.org/details/opensources2.000diborich) (2005) - Отворен код 2.0 е колекция от проницателни и провокативни есета, написани от технологичните лидери на нашето съвремие. Колекцията е еволюционното продължение на книгата от 1999 "Отворения код: Гласът на революцията".
+- [Практическо ръководство за публикуване на софтуер](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - Това практическо ръководство описва добри практики за публикуване на Линукс проекти или други с отворен код. Следвайки дадените практически насоки, вие ще направите вашия код лесен за стартиране и използване от потребителите, а за разработчиците - лесен за разбиране и доизграждане.
+- [Отворен код 2.0 : Еволюция на доброволния принос](https://archive.org/details/opensources2.000diborich) (2005) - Отворен код 2.0 е колекция от проницателни и провокативни есета, написани от технологичните лидери на нашето съвремие. Колекцията е еволюционното продължение на революционната книга от 1999 "Отворения код: Гласът на революцията".
 - [Архитектура на приложенията с отворен код](http://www.aosabook.org/en/git.html) - Статията показва от различен ъгъл как работата под Git всъщност е типичен дистрибутивен работния процес и как се различава от други видове системи за контрол на версиите.
 
 ## Инициативи за принос към Open Source
 
 - [Up For Grabs](http://up-for-grabs.net/#/) - Сайтът съдържа проекти с issue-та, подходящи за начинаещия
-- [Само за начинаещи](http://www.firsttimersonly.com/) - Списък с бъгове с етикет "само-за-начинанещи".
-- [Първи принос](https://firstcontributions.github.io/) - Дайте приноса си към Open Source само за 5 минути. Тук се съдържат инструмент и насоки как начинаещите да започнат да допринасят. [Тук линкът](https://github.com/firstcontributions/first-contributions) води към отворения код в GitHub на сайтаи е предоставена възможност за принос към самото хранилище.
-- [Хактобер фест](https://hacktoberfest.digitalocean.com/) - Програма, която да окуражи доброволците. Можете да спечелите подаръци, като например тениски или стикери, ако направите най-малко 4 заявки за сливане(pull requests) през месец октомври.
-- [24 заявки за сливане(Pull Requests)](https://24pullrequests.com) - 24 заявки за сливане(Pull Requests) е проект, който иска да даде гласност на съвместната работа по Open Source проекти през месец Декември.
+- [Само за начинаещи](http://www.firsttimersonly.com/) - Списък с бъгове с етикет "само-за-начинаещи".
+- [Първи принос](https://firstcontributions.github.io/) - Дайте приноса си към Open Source само за 5 минути. Тук се съдържат инструмент и насоки как начинаещите да започнат да допринасят. [Тук линкът](https://github.com/firstcontributions/first-contributions) води към отворения код в GitHub на сайта и е предоставена възможност за принос към самото хранилище.
+- [Хактобер фест](https://hacktoberfest.digitalocean.com/) - Програма, която да окуражава доброволците. Можете да спечелите подаръци, като например тениски или стикери, ако направите най-малко 4 заявки за сливане(pull requests) през месец октомври.
+- [24 заявки за сливане(Pull Requests)](https://24pullrequests.com) - 24 заявки за сливане(Pull Requests) е проект, който иска да даде гласност на съвместната работа по Open Source проекти през месец декември.
 
 ## Лицензи
 
