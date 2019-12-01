@@ -44,8 +44,11 @@
 ## Основи на допринасянето към отворения код(Open Source)
 
 - [Пълно ръководство за допринасянето към Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
+
 - [Въведение в Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Инструкциите на DigitalOcean ще ви помогнат да изминете по-лесно пътя до успешен принос тук, в GitHub.
+
 - [SourceSort](https://www.sourcesort.com) - Колекция от проекти open source, които се нуждаят от помощ. Има възможност за търсене. Колекцията включва също и данни за неща, като например каква е процентната вероятност вашата заявка за сливане (pull request) да бъде одобрена и колко време са чака за отговор. Такива статистики биха били много полезни за начинаещи в open source приноса.
+
 - [Issuehub.io](http://issuehub.io/) - Инструмент за търсене по етикет (label) или език на issue-та(ишута) в GitHub.
 
 - [Code Triage](https://www.codetriage.com/) - Друг инструмент за намиране на популярни хранилища (repositories) и issue-та. Предоставя възможност за филтриране по език и като цяло е много приятен за ползване.
@@ -116,6 +119,13 @@
 - [Наръчник на начинаещия разрабочик в първия му принос към Open Source - стъпка по стъпка](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) by [@LetaKeane](http://www.letakeane.com/)
 - [Как да научим Git и GitHub в лесни стъпки (само за Windows)](https://medium.com/@ows_ali/be93518e06dc) by [@ows-ali](https://medium.com/@ows_ali)
 
+_Ресурси на български_
+
+- [Ръководство за начинаещи в Git](https://bul.moc9.com/beginner-s-guide-git)
+- [Първи стъпки в Git](https://blog.superhosting.bg/meet-git.html) - Статия
+- [Видео урок за GitHub](https://www.youtube.com/watch?v=jig4lzbzAgk)
+- [Git за професионалисти](https://git-scm.com//book/bg/v2) - Книгата "Git за професионалисти" с превод на български, написана от Scott Chacon и Ben Straub и издадена от Apress.
+
 ## Как да използваме контрол на версиите (Version Control)
 
 - [Мисли като за Git](http://think-like-a-git.net/) - Въведение в Git, подгодящо за начинаещи с малки познания, но все още не знаещи много неща. Ресурсът ще ви даде проста и безопасна стратегия как да правите експерименти с Git
@@ -128,6 +138,7 @@
 - [GitHub работен процес](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - Видео презентация на трейнъри от GitHub на тема как да направим pull request.
 - [GitHub учебни ресурси](https://help.github.com/articles/git-and-github-learning-resources/) - Git и GitHub учебни ресурси.
 - [Git за професионалисти](https://git-scm.com/book/en/v2) - Книгата "Git за професионалисти", написана от Scott Chacon и Ben Straub и издадена от Apress.
+- [Git за професионалисти на български](https://git-scm.com//book/bg/v2) - Книгата "Git за професионалисти" с превод на български, написана от Scott Chacon и Ben Straub и издадена от Apress.
 - [Git-it](https://github.com/jlord/git-it-electron) - Десктоп приложение - Git ръководство стъпка по стъпка.
 - [Солидни правила за Git](https://github.com/k88hudson/git-flight-rules) - Наръчник какво да правим, когато нещата не вървят.
 - [Разбираемо въведение в Git и GitHub](https://codeburst.io/git-good-part-a-e0d826286a2a) - Наръчник, задължителен за всеки начинаещ в Git или GitHub, написан от Madhav Bahl. Покрива темата за GitHub като услуга и детайлизира концепцията за Git контрол на версиите.
