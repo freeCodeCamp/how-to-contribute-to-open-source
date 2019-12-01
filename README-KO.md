@@ -1,19 +1,24 @@
-<table>
-    <tr>
-        <!-- Do not translate this table -->
-        <td><a href="./README.md"> English </a></td>
-        <td><a href="./README-CN.md"> 中文 </a></td>
-        <td><a href="./README-RU.md"> русский </a></td>
-        <td><a href="./README-RO.md"> Românesc </a></td>
-        <td><a href="./README-IT.md"> Italiano </a></td>
-        <td><a href="./README-ES.md"> Español </a></td>
-        <td><a href="./README-pt-BR.md"> Português (BR) </a></td>
-        <td><a href="./README-DE.md"> Deutsch </a></td>
-        <td><a href="./README-GR.md"> Ελληνικά </a></td>
-        <td><a href="./README-FR.md"> Français </a></td>
-        <td><a href="./README-KO.md"> 한국어 </a></td>
-    </tr>
-</table>
+<!-- Do not translate this -->
+<details>
+<summary>
+<strong> Read this guide in other languages </strong>
+</summary>
+    <ul>
+        <li><a href="./README.md"> English </a></li>
+        <li><a href="./README-CN.md"> 中文 </a></li>
+        <li><a href="./README-RU.md"> русский </a></li>
+        <li><a href="./README-RO.md"> Românesc </a></li>
+        <li><a href="./README-IT.md"> Italiano </a></li>
+        <li><a href="./README-ES.md"> Español </a></li>
+        <li><a href="./README-pt-BR.md"> Português (BR) </a></li>
+        <li><a href="./README-DE.md"> Deutsch </a></li>
+        <li><a href="./README-GR.md"> Ελληνικά </a></li>
+        <li><a href="./README-FR.md"> Français </a></li>
+        <li><a href="./README-KO.md"> 한국어 </a></li>
+    </ul>
+</details>
+<!-- Do not translate this -->
+
 
 # 새로운 오픈 소스 컨트리뷰터분들을 환영합니다!
 
@@ -41,6 +46,7 @@
 ## 일반적으로 오픈 소스에 기여하기
 - [The Definitive Guide to Contributing to Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - DigitalOcean의 GitHub에서 기여를 성공할 수 있는 방법을 안내하는 튜토리얼
+- [SourceSort](https://www.sourcesort.com) - 도움을 필요로 하는 검색가능한 오픈 소스 프로젝트들의 모음집, 새로운 컨트리뷰터들에게 중요한 첫번째 PR 승인률과 반응 시간과 같은 수치들을 갖추고 있음
 - [Issuehub.io](http://issuehub.io/) - 라벨과 언어로 GitHub 이슈들을 찾는 도구
 - [Code Triage](https://www.codetriage.com/) - 언어별로 필터링된 인기있는 레파지토리와 이슈들을 찾는 또 다른 좋은 도구
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - 새로운 컨트리뷰터를 위한 좋은 버그와 해당 버그를 설명하는 라벨을 모아둔 GitHub 레포지토리 
@@ -55,6 +61,8 @@
 - [Pull Request Roulette](http://www.pullrequestroulette.com/) - GitHub에서 호스팅 되는 오픈 소스 프로젝트의 리뷰를 필요로 하는 제출된 pull request들의 리스트가 정리된 사이트
 - ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - GitHub의 오픈 소스 프로젝트에 기여를 시작하는 방법에 대한 단계별 비디오 가이드
 - [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - 적절한 프로젝트를 선택하는 것부터, 이슈 해결, PR 병합하기까지 모든것을 다루는 단계별 오픈 소스 기여 연습
+- ["How to Contribute to Open Source Project by" Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - 다른 사람들의 Github의 프로젝트에 PR을 기여하는 것의 핵심에 중점을 두고 있습니다.
+- ["How to get started with Open Source by" Sayan Chowdhury](https://hackerearth.com/getstarted-opensource/) - 초보자들이 좋아하는 언어에 대한 흥미를 바탕으로 오픈 소스에 기여하기 위한 리소스들을 다룬 글입니다.
 
 ## GitHub에서 직접 검색하기
 GitHub에서 기여할 만한 적절한 이슈를 직접적으로 가리키는 검색 링크입니다.
@@ -85,7 +93,7 @@ GitHub에서 기여할 만한 적절한 이슈를 직접적으로 가리키는 �
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) by [@GitHubGuides](https://guides.github.com/)
 - [First mission: Contributors page](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
 - [How to make your first Open Source contribution in just 5 minutes](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) by [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
-- [Hacktoberfest 2018: How you can get your free shirt — even if you’re new to coding](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) by [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
+- [Hacktoberfest 2019: How you can get your free shirt — even if you’re new to coding](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) by [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
 - [A Bitter Guide To Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
 - [A junior developer’s step-by-step guide to contributing to Open Source for the first time](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) by [@LetaKeane](http://www.letakeane.com/)
 - [Learn Git and GitHub Step By Step (on Windows)](https://medium.com/@ows_ali/be93518e06dc) by [@ows-ali](https://medium.com/@ows_ali)
@@ -107,18 +115,20 @@ GitHub에서 기여할 만한 적절한 이슈를 직접적으로 가리키는 �
 - [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - 스페인어로 설명된 Git과 GitHub에 대한 완벽한 안내 슬라이드.
 - [Git Kraken](https://www.gitkraken.com/git-client) - 버전 관리를 위한 비주얼, 크로스 플랫폼, 대화형 'git' 데스크톱 어플리케이션
 - [Git Tips](https://github.com/git-tips/tips) - 가장 일반적으로 사용되는 git 팁과 트릭들의 모음집
+- [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - 커밋은 자주, 완벽함은 나중으로, 게시는 한번만 : Git Best Practices
 
 ## 오픈 소스 서적
 - [Producing Open Source Software](http://producingoss.com/) - Producing Open Source Software 는 오픈 소스 개발의 인간적인 측면에 대한 책입니다. 이 책에서는 프로젝트의 성공적인 운영 방식, 사용자와 개발자의 기대, 자유 소프트웨어 문화에 대해 다룹니다.
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - https://opensource.com 에서 무료 eBook 리스트를 통해 오픈 소스와 성장하는 오픈 소스 운동에 대해 배워보세요.
 - [Software Release Practice HOWTO](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - HOWTO 에서는 리눅스와 다른 오픈 소스 프로젝트의 좋은 배포 방법을 설명합니다. 이러한 방법을 따름으로서, 당신은 사용자가 쉽게 당신의 코드를 작성하고 사용할 수 있게 할 수 있으며, 다른 개발자가 당신의 코드를 쉽게 이해하고 개선하기 위해 협력할 수 있습니다.
 - [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0은 1999년의 책인 오픈 소스 : 혁명의 목소리에서 발전된 진화적인 그림을 이어 그리는 오늘날의 기술 리더들의 통찰력과 생각을 자극하는 에세이들의 모음집입니다.
+- [The Architecture of Open Source Applications](http://www.aosabook.org/en/git.html) - 분산 워크플로우를 가능하게 하기 위해서 Git의 다양한 측면이 어떻게 작동하는지, 그리고 다른 버전 관리 시스템(VCSs)들과 어떻게 다른지 보여줍니다.
 
 ## 오픈 소스 기여 시작하기
 - [Up For Grabs](http://up-for-grabs.net/#/) - 초보자들에게 친숙한 이슈를 포함하는 프로젝트들
 - [First Timers Only](http://www.firsttimersonly.com/) - "first-timers-only" 로 라벨링된 버그 리스트
-- [First Contributions](https://firstcontributions.github.io/) - 오분 안에 오픈 소스에 처음으로 기여하세요. 초보자가 기여를 시작하는 것을 도와주는 도구와 튜토리얼이 있습니다.
-- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - 오픈 소스 기여를 권장하는 프로그램. 10월에 최소 5번의 pull request를 통해 티셔츠나 스티커 같은 선물을 받으세요.
+- [First Contributions](https://firstcontributions.github.io/) - 오분 안에 오픈 소스에 처음으로 기여하세요. 초보자가 기여를 시작하는 것을 도와주는 도구와 튜토리얼이 있습니다. [여기](https://github.com/firstcontributions/first-contributions)는 사이트를 위한 GitHub 소스 코드이자 저장소 자체에 기여를 할 수 있는 기회입니다.
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - 오픈 소스 기여를 권장하는 프로그램. 10월에 최소 4번의 pull request를 통해 티셔츠나 스티커 같은 선물을 받으세요.
 - [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests는 12월 한 달 동안 오픈 소스 협업을 촉진하기 위한 프로젝트입니다.
 
 ## 라이선스
