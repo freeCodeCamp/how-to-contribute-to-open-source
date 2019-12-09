@@ -48,6 +48,17 @@ before contributing.
     - [Contributing Guide](https://github.com/dancancro/great-big-example-application/projects/1)
 - [Hoa](https://hoa-project.net) (project)
     - [Contributing Guide](https://hoa-project.net/En/Literature/Contributor/Guide.html)
+- [Hoodiehq](http://hood.ie/) (org)
+    - [Camp](https://github.com/hoodiehq/camp) (project)
+        - Issue labels:
+            - [first-timers-only](https://github.com/hoodiehq/camp/labels/first-timers-only)
+            - [good first issue](https://github.com/hoodiehq/camp/labels/good%20first%20issue)
+    - [Hoodie](https://github.com/hoodiehq/hoodie) (project)
+        - [Contributing Guide](https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md)
+        - Issue labels:
+            - [first-timers-only](https://github.com/hoodiehq/hoodie/labels/first-timers-only)
+            - [help wanted](https://github.com/hoodiehq/hoodie/labels/help%20wanted)
+            - [starter](https://github.com/hoodiehq/hoodie/labels/starter)
 - [Metamaps](https://metamaps.cc/) (org)
     - [Metamaps](https://github.com/metamaps/metamaps) (project)
         - [Contribution Guide](https://github.com/metamaps/metamaps/blob/develop/doc/CONTRIBUTING.md)
