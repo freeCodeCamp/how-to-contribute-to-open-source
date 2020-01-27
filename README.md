@@ -62,6 +62,8 @@ If you have questions or comments, please create an issue.
 - [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - This walkthrough of an open source contribution covers everything from picking a suitable project, working on an issue, to getting the PR merged in.
 - ["How to Contribute to Open Source Project by" Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - They are focusing on the nitty-gritty of contributing a pull request (PR) to someone else’s project on GitHub. 
 - ["How to get started with Open Source by" Sayan Chowdhury](https://hackerearth.com/getstarted-opensource/) - This article covers the resources for contributing to open source for beginners based on their favorite language interest.
+- ["Browse good first issues to start contributing to open source"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) - GitHub now helps you find good first issues to start contributing to open source.
+
 
 ## Direct GitHub searches
 Search links that point directly to suitable issues to contribute to on GitHub.
