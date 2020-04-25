@@ -1,5 +1,6 @@
 {
-  "plugins": [
+  [
+  "plugins",
     "json",
     "markdown"
   ]
