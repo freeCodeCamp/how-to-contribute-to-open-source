@@ -5,6 +5,15 @@ only, this is to help **newbies** get familiar with the contribution processes.
 
 Issues can be submitted by anyone - seasoned developers or newbies.
 
+**Contents**
+
+- [Getting Started](#getting-started)
+- [Submitting a Pull Request](#submitting-a-pull-request)
+- [Adding to the Main README](#adding-to-the-main-readme)
+- [Adding to Non-English README](#adding-to-non-english-readme)
+- [Adding to the Project File](#adding-to-the-project-file)
+- [Helpful Resources](#helpful-resources)
+
 ### Getting Started
 
 1.  If you are new to Git and GitHub, it is advisable that you go through
@@ -96,6 +105,62 @@ up the issue but make sure to leave a comment.
 sure to read this before you open up a pull request, otherwise it may be
 rejected. However, if you do not see any CONTRIBUTING.md file, you can send a
 pull request but do it in a descriptive manner.
+
+### Adding to the Main README
+
+The
+[main `README.md` file](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/blob/master/README.md)
+contains a list of useful resources for beginners who want to contribute to
+open source.
+
+You can contribute to this page by adding a Markdown formatted link.
+
+It should look similar to this below.
+
+```
+- [Title of the page](www.websitename.com/slug-name-here) - Add description of why I should look at this site
+```
+
+When in doubt, take a look at the current list items to get an idea of how you should format your contribution.
+
+When adding your contribution to the list, please add your link to the most appropriate section. If you are unsure, feel free to ask in your pull requst or comment in an issue asking for guidance.
+
+### Adding to Non-English README
+
+The main `README.md` file is written in English. That file will be the template for all the other languages.
+
+The non-English README files are named `README-XX.md`, where `xx` is the
+[two letter language code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
+for the language.
+
+You can contribute to the non-English README files by taking links that are in the English README but are not in the language of your choosing. When making a pull request with these changes, please tag someone who can verify your language contribution by adding `@` in front of their GitHub username to the pull request.
+
+If your language does not exist yet, feel free to start it yourself. If you decide to do this, please add more than just the title. If you do not have the time to create one, feel free to
+[create an issue](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/issues/new/choose)
+to crowdsource help.
+
+### Adding to the Project File
+
+We have a
+[`PROJECT.md`](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/blob/master/PROJECTS.md)
+file to help curate a list of projects and organizations that are friendly to contributions.
+
+If you know of a project or organization that fits this description, feel free to add them to this list.
+
+The list is generally formatted like below.
+
+```
+- [Project name](https://github.com/project-name/proj) (project)
+    - [Contributing Guide](https://github.com/project-name/proj/blob/master/CONTRIBUTING.md)
+    - Issue labels:
+        - [Good First Issue](https://github.com/project-name/proj/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+```
+
+So you have the project page itself at the top. This can be the front-facing website or GitHub page.
+
+Next we ask to link to the contributing page. This will give direction to people who want to contribute. This file is important to read so you understand what is expected from contributors who have not contributed to their project before.
+
+Last, we want to link to beginner friendly labels. These are typically `Good First Issue` or something similar.
 
 ### Helpful Resources
 
