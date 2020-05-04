@@ -150,10 +150,11 @@ If you know of a project or organization that fits this description, feel free t
 The list is generally formatted like below.
 
 ```
-- [Project name](https://github.com/project-name/proj) (project)
-    - [Contributing Guide](https://github.com/project-name/proj/blob/master/CONTRIBUTING.md)
-    - Issue labels:
-        - [Good First Issue](https://github.com/project-name/proj/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+- [freeCodeCamp](https://www.freecodecamp.org/) (org)
+    - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/) (project)
+        - [Contributing guide](https://github.com/freeCodeCamp/freeCodeCamp/blob/master/CONTRIBUTING.md)
+        - Issue labels:
+            - [first-timers-only](https://github.com/FreeCodeCamp/FreeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
 ```
 
 So you have the project page itself at the top. This can be the front-facing website or GitHub page.
