@@ -1,6 +1,6 @@
 # Contributor's Guide
 
-HOW TO CONTRIBUTE TO OPEN SOURCE accepts PR's (pull requests) from **newbies**
+'HOW TO CONTRIBUTE TO OPEN SOURCE' accepts PR's (pull requests) from **newbies**
 only, this is to help **newbies** get familiar with the contribution processes.
 
 Issues can be submitted by anyone - seasoned developers or newbies.
