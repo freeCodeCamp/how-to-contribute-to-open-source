@@ -151,10 +151,10 @@ The list is generally formatted like below.
 
 ```
 - [freeCodeCamp](https://www.freecodecamp.org/) (org)
-+     - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/) (project)
-+         - [Contributing guide](https://github.com/freeCodeCamp/freeCodeCamp/blob/master/CONTRIBUTING.md)
-+         - Issue labels:
-+             - [first-timers-only](https://github.com/FreeCodeCamp/FreeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
+    - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/) (project)
+        - [Contributing guide](https://github.com/freeCodeCamp/freeCodeCamp/blob/master/CONTRIBUTING.md)
+        - Issue labels:
+            - [first-timers-only](https://github.com/FreeCodeCamp/FreeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
 ```
 
 So you have the project page itself at the top. This can be the front-facing website or GitHub page.
