@@ -118,3 +118,9 @@ before contributing.
        - [*](https://github.com/test-kitchen/test-kitchen/issues?q=is%3Aopen+is%3Aissue+label%3A%E2%AD%90%EF%B8%8F)
 - Django (Framework)
     - [Contributing Guide](https://github.com/django/django)
+    
+- [tsParticles](https://github.com/matteobruni/tsparticles) (Library)
+    - [Contributing Guide](https://github.com/matteobruni/tsparticles/blob/master/CONTRIBUTING.md)
+    - Issue labels:
+       - [Good First Issue](https://github.com/matteobruni/tsparticles/labels/good%20first%20issue)
+       - [Help Wanted](https://github.com/matteobruni/tsparticles/labels/help%20wanted)
