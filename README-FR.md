@@ -54,6 +54,11 @@ Si vous avez des questions ou commentaires, veuillez créer un ticket.
 - [Contribuer à votre premier projet Open Source : une approche pratique](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - une approche étape par étape pour contribuer à votre premier projet Open Source, de [Abati Adewale](https://www.acekyd.com).
 - [Pull Request Roulette](http://www.pullrequestroulette.com/) - ce site offre une liste de `pull requests` soumises pour être revues appartenant à des projets Open Source hébergés sur GitHub.
 - ["Comment contribuer à un projet Open Source sur GitHub" de Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - un guide vidéo expliquant étape par étape comment contribuer à des projets Open Source sur GitHub.
+- [Contribuer à l'Open Source: Un guide de A à Z](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - ce guide couvre tous les aspects de la contribution Open Source, de la recherche d'un projet approprié à la résolution d'`issues`, en passant par l'intégration de `pull requests`.
+- ["Comment contribuer à l'Open Source" par Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - l'autrice entre dans les détails de la contribution Open Source sur GitHub. 
+- ["Comment se lancer dans l'Open Source" par Sayan Chowdhury](https://hackerearth.com/getstarted-opensource/) - cet article aborde les ressources à disposition des débutants pour la contribution aux projets Open Source sur base de leur langage informatique préféré.
+- ["Parcourir de bonnes premières `issues` pour se lancer dans l'Open Source"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) - GitHub offre désormais la possibilité aux novices de trouver des `issues` adaptés à leur niveau pour se lancer dans la contribution Open Source.
+- ["Comment contribuer aux projets Open Source" par Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) -  cet article exhaustif s'adresse aux entreprises (mais reste utile pour les contributeurs individuels) et explique pourquoi et comment contribuer à des projets Open Source.
 
 ## Recherches directes sur GitHub
 Listes de recherches pointant directement vers des `issues` propices à la contribution sur GitHub.
@@ -105,12 +110,19 @@ Listes de recherches pointant directement vers des `issues` propices à la contr
 - [Introduction complète à Git et GitHub](https://codeburst.io/git-good-part-a-e0d826286a2a) - Un guide rédigé par Madhav Bahl, que vous devriez consulter si vous êtes un(e) novice de Git ou GitHub. Il couvre GitHub en tant que service ainsi que les concepts de gestion de version Git en détail.
 - [Guide en espagnol pour les novices de Git](https://platzi.github.io/git-slides/#/) - Un guide complet de diapositives sur Git et GitHub expliqué en espagnol.
 - [Git Kraken](https://www.gitkraken.com/git-client) - Application visuelle, multiplateforme et interactive de gestion de version Git.
+- [Git Tips](https://github.com/git-tips/tips) - Une collection des trucs et astuces Git les plus utiles.
+- [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - Effectuez régulièrement des `commits`, peaufinez-les plus tard, publiez une seule fois: les meilleurs pratiques Git.
+- [Git Interactive Tutorial](https://learngitbranching.js.org/) - La méthode la plus interactive et visuelle pour apprendre Git.
 
 ## Livres sur l'Open Source
 - [Concevoir un logiciel Open Source](http://producingoss.com/) - "Producing Open Source Software" est un ouvrage sur l'aspect humain du développement Open Source. Il décrit comment opèrent les projets réussis, les attentes des utilisateurs et développeurs, et la culture du logiciel libre.
 - [Série de livres sur l'Open Source](https://opensource.com/resources/ebooks) - Apprenez-en plus sur l'Open Source en général ainsi que sur le mouvement Open Source croissant grâce à cette série de livres électroniques gratuits de https://opensource.com.
 - [Pratiques de lancement de logiciel](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - Ce guide décrit les bonnes pratiques de lancement pour Linux et autres projets Open Source. En suivant ces pratiques, vous faciliterez la tâche des utilisateurs pour construire votre code et l'utiliser, et celle des autres développeurs pour comprendre votre code et coopérer avec vous afin de l'améliorer.
 - [Open Sources 2.0 : L'Évolution Continuelle](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0  est un recueil d'articles perspicaces et stimulants de leaders technologiques qui continuent sur la lancée de l'image dépeinte dans le livre de 1999, Open Sources: Voices from the Revolution ("Open Source : Les Voix de la Révolution").
+- [L'Architecture des Applications Open Source](http://www.aosabook.org/en/git.html) - cet ouvrage aborde la façon dont Git fonctionne "sous le capot" pour rendre possible le workflow distribué, et en quoi il diffère des autres logiciels de gestion de version.
+
+- [Open Sources: Les Voix de la Révolution Open Source](https://www.oreilly.com/openbook/opensources/book/) - Recueil de textes écrits par des pionniers de l'Open Source, tels que Linus Torvalds (Linux), Larry Wall (Perl) et Richard Stallman (GNU).
+
 
 ## Initiatives de contributions à l'Open Source
 - [Up For Grabs](http://up-for-grabs.net/#/) - Contient des projets avec des bugs accessibles aux novices.
