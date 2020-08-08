@@ -75,7 +75,7 @@ Zoek links die rechtstreeks verwijzen naar geschikte issues om aan bij te dragen
 - [is:issue is:open label:starter](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Astarter)
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
-## Het bijdragende ecosysteem van Mozilla**
+## Het bijdragende ecosysteem van Mozilla
 - [Goede Eerste Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - bugs die ontwikkelaars hebben geïdentificeerd als een goede introductie tot het project.
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs waaraan een mentor is toegewezen die aanwezig zal zijn op IRC om je te helpen als je vastloopt terwijl je aan een oplossing werkt.
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - een site gewijd aan het vinden van bugs op Bugzilla.
