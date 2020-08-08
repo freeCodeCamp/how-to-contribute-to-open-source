@@ -119,6 +119,4 @@ Zoek links die rechtstreeks verwijzen naar geschikte issues om aan bij te dragen
 - [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests is een project om Open Source samenwerking in de maand december te promoten.
 
 ## Licenties
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-
-
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Dit werk is in licentie gegeven onder een <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International-licentie.</a>.
