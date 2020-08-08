@@ -10,6 +10,7 @@
         <td><a href="./README-pt-BR.md"> Português (BR) </a></td>
         <td><a href="./README-DE.md"> Deutsch </a></td>
         <td><a href="./README-GR.md"> Ελληνικά </a></td>
+        <td><a href="./README-NL.md"> Nederlands </a></td>
         <td><a href="./README-TR.md"> Turkish </a></td>
     </tr>
 </table>
