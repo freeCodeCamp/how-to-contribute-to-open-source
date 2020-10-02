@@ -1,0 +1,27 @@
+name: Ruby
+
+on:
+  push:
+    branches: ['*']
+  pull_request:
+    branches: ['*']
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Source Files
+        uses: actions/checkout@v2
+
+      - name: Set up Ruby 2.6
+        uses: actions/setup-ruby@v1
+        with:
+          ruby-version: 2.6.x
+
+      - name: Run Checks
+        run: |
+          gem install awesome_bot
+          gem install danger
+          awesome_bot --allow-ssl --allow 302,429
+          danger
