@@ -43,6 +43,7 @@ If you have questions or comments, please create an issue.
 - [License](#license)
 
 ## Contributing to Open Source in general
+- [Basic Git and github commands](https://www.youtube.com/watch?v=uj4fy4kpaOA) - Youtube tutorial to get u started in feild of open source development.
 - [The Definitive Guide to Contributing to Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials by DigitalOcean to guide you on your way to contribution success here on GitHub.
 - [SourceSort](https://www.sourcesort.com) - searchable collection of open source projects looking for help, complete with metrics like first PR acceptance rate and response time that can make all the difference for new contributors.
