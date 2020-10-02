@@ -1,4 +1,4 @@
-name: Ruby
+name: Check Resources
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
     branches: ['*']
 
 jobs:
-  build:
+  validate:
     runs-on: ubuntu-latest
 
     steps:
@@ -22,6 +22,10 @@ jobs:
       - name: Run Checks
         run: |
           gem install awesome_bot
+          awesome_bot -f README.md --allow-ssl --allow 302,429
           gem install danger
-          awesome_bot --allow-ssl --allow 302,429
           danger
+        shell: bash +e +o pipefail {0}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DANGER_GITHUB_API_TOKEN: ${{ secrets.DANGER_GITHUB_API_TOKEN }}
