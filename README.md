@@ -64,6 +64,9 @@ If you have questions or comments, please create an issue.
 - ["How to get started with Open Source by" Sayan Chowdhury](https://hackerearth.com/getstarted-opensource/) - This article covers the resources for contributing to open source for beginners based on their favorite language interest.
 - ["Browse good first issues to start contributing to open source"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) - GitHub now helps you find good first issues to start contributing to open source.
 - ["How to Contribute to Open Source Project" by Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - This comprehensive article is directed towards businesses (but still useful for individual contributors) where it talks about why, how, and what open-source projects to contribute to.
+- ["start-here-guidelines" by Andrei](https://github.com/zero-to-mastery/start-here-guidelines) - 
+Lets Git started in the world of opensource, starting in the opensource playground. Especially designed for education and practical experience purposes.
+
 
 ## Direct GitHub searches
 Search links that point directly to suitable issues to contribute to on GitHub.
