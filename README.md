@@ -101,6 +101,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [Why Open Source and How?](https://careerkarma.com/blog/open-source-projects-for-beginners/) by [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
 
 ## Using Version Control
+-[All you need to know git and Git-Hub](https://www.youtube.com/watch?v=iR5WIknxdkY) - A youtube tutorial to equip you with all the commands you need while using Git and Git-hub. 
 - [Think Like (a) Git](http://think-like-a-git.net/) - Git introduction for "advanced beginners," but are still struggling, in order to give you a simple strategy to safely experiment with git.
 - [Try Git](https://try.github.io/) - Learn Git in 15 minutes from within your browser for free.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - A useful minimum set of commands for Everyday Git.
