@@ -16,8 +16,6 @@ jobs:
           ruby-version: 2.6.x
 
       - name: Run Checks
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         shell: bash +e +o pipefail {0}
         run: |
           gem install awesome_bot
@@ -25,6 +23,6 @@ jobs:
           gem install danger
 
       - name: Run Danger
-        uses: danger/danger@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: danger/danger@master
