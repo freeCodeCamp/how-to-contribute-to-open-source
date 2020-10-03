@@ -16,13 +16,13 @@ jobs:
           ruby-version: 2.6.x
 
       - name: Run Checks
-        shell: bash +e +o pipefail {0}
+      #  shell: bash +e +o pipefail {0}
         run: |
           gem install awesome_bot
           awesome_bot -f README.md --allow-ssl --allow 302,429 --white-list firsttimersonly.com,github.com/github,creativecommons.org/licenses/by-sa/4.0
           gem install danger
 
-      - name: Run Danger
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        uses: danger/danger@master
+      # - name: Run Danger
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      #   uses: danger/danger@master
