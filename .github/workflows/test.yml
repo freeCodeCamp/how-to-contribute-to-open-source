@@ -1,10 +1,6 @@
 name: Check Resources
 
-on:
-  push:
-    branches: ['*']
-  pull_request:
-    branches: ['*']
+on: [push,pull_request]
 
 jobs:
   validate:
@@ -20,12 +16,12 @@ jobs:
           ruby-version: 2.6.x
 
       - name: Run Checks
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DANGER_GITHUB_API_TOKEN: ${{ secrets.DANGER_GITHUB_API_TOKEN }}
+        shell: bash +e +o pipefail {0}
         run: |
           gem install awesome_bot
           awesome_bot -f README.md --allow-ssl --allow 302,429 --white-list firsttimersonly.com,github.com/github,creativecommons.org/licenses/by-sa/4.0
           gem install danger
           danger
-        shell: bash +e +o pipefail {0}
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          DANGER_GITHUB_API_TOKEN: ${{ secrets.DANGER_GITHUB_API_TOKEN }}
