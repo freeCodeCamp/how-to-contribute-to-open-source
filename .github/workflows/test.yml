@@ -22,7 +22,7 @@ jobs:
       - name: Run Checks
         run: |
           gem install awesome_bot
-          awesome_bot -f README.md --allow-ssl --allow 302,429
+          awesome_bot -f README.md --allow-ssl --allow 302,429 --white-list firsttimersonly.com,github.com/github,creativecommons.org/licenses/by-sa/4.0
           gem install danger
           danger
         shell: bash +e +o pipefail {0}
