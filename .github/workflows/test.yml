@@ -18,10 +18,13 @@ jobs:
       - name: Run Checks
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          DANGER_GITHUB_API_TOKEN: ${{ secrets.DANGER_GITHUB_API_TOKEN }}
         shell: bash +e +o pipefail {0}
         run: |
           gem install awesome_bot
           awesome_bot -f README.md --allow-ssl --allow 302,429 --white-list firsttimersonly.com,github.com/github,creativecommons.org/licenses/by-sa/4.0
           gem install danger
-          danger
+
+      - name: Run Danger
+        uses: danger/danger@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
