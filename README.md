@@ -93,7 +93,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
 - [How to Find a Bug in Your Code](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
-- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) by [@GitHubGuides](https://guides.github.com/)
+- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) by [@GitHub](https://github.com/github)
 - [First mission: Contributors page](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
 - [How to make your first Open Source contribution in just 5 minutes](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) by [@roshanjossey](https://github.com/Roshanjossey/)
 - [Hacktoberfest 2019: How you can get your free shirt — even if you’re new to coding](https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b/) by [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
