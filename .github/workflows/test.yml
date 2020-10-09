@@ -19,7 +19,7 @@ jobs:
       #  shell: bash +e +o pipefail {0}
         run: |
           gem install awesome_bot
-          awesome_bot -f README.md --allow-ssl --allow 302,429 --white-list firsttimersonly.com,github.com/github,creativecommons.org/licenses/by-sa/4.0,@kentcdodds,kentcdodds.com/blog/what-open-source-project-should-i-contribute-to
+          awesome_bot -f README.md --allow-ssl --allow 302,429 --white-list firsttimersonly.com,github.com/github,creativecommons.org/licenses/by-sa/4.0
           gem install danger
 
       # - name: Run Danger
