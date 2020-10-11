@@ -45,9 +45,9 @@ Hvis du har sporgsmåler eller kommentater, vær sød at lave en *issue*.
 - [Licens](#license)
 
 ## Bidragyering til Open-Source generalt
-- [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
-- [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials by DigitalOcean to guide you on your way to contribution success here on GitHub.
-- [Issuehub.io](http://issuehub.io/) - a tool for searching GitHub issues by label and language.
+- [Den definitiv guide til open source bidragyering](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) af [@DoomHammerNG](https://twitter.com/DoomHammerNG)
+- [En introduktion til open source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorialer af DigitalOcean til at vis dig vej på open source bidragyering succes
+- [Issuehub.io](http://issuehub.io/) - Hjælpsom for at søge GitHub issuer med navn og sprog.
 - [Code Triage](https://www.codetriage.com/) - another, really nice, tool for finding popular repositories and issues filtered by language.
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - a GitHub repo that amasses projects with good bugs for new contributors, and applies labels to describe them.
 - [Open Source Guides](https://opensource.guide/) - Collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an Open Source project.
