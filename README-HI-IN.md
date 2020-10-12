@@ -21,3 +21,13 @@
 <!-- Do not translate this -->
 
 # आपका स्वागत है 
+
+[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+[![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
+[![Build Status](https://api.travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
+
+यह उन लोगों के लिए संसाधनों की एक सूची है जो ओपन सोर्स में योगदान करने के लिए नए हैं।
+
+यदि आपको अतिरिक्त संसाधन मिलते हैं, तो कृपया एक पुल अनुरोध में योगदान करें।
+
+यदि आपके कोई प्रश्न या टिप्पणी है, तो कृपया एक मुद्दा बनाएं।
