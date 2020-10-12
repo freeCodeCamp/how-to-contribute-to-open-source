@@ -68,42 +68,42 @@
 - ["إرشادات البدء هنا" بواسطة Andrei](https://github.com/zero-to-mastery/start-here-guidelines) - لنبدأ في عالم البيئات مفتوحة المصدر ، بدءًا من الملعب مفتوح المصدر. مصممة خصيصا لأغراض التعليم والخبرة العملية.
 
 
-## Direct GitHub searches
-Search links that point directly to suitable issues to contribute to on GitHub.
-- [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
-- [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
-- [is:issue is:open label:first-timers-only](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
-- [is:issue is:open label:good-first-bug](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Agood-first-bug)
-- [is:issue is:open label:"good first issue"](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A"good+first+issue")
-- [is:issue is:open label:starter](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Astarter)
-- [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
+## البحث مباشرة في "جيت هب"
+روابط بحث تشير مباشرة إلى مشاكل مناسبة للمساهمة على "جبت هب"
+- [is:مشكلة is:مفتوحة label:مبتدئ](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
+- [is:مشكلة is:مفتوحة label:سهل](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
+- [is:مشكلة is:مفتوحة label:لأولمرة فقط](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
+- [is:مشكلة is:مفتوحة label:أول خطأ جبد](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Agood-first-bug)
+- [is:مشكلة is:مفتوحة label:"أول مشكلة جيدة"](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A"good+first+issue")
+- [is:مشكلة is:مفتوحة label:بادئ](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Astarter)
+- [is:مشكلة is:مفتوحة label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
-## Mozilla's contributor ecosystem
-- [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - bugs that developers have identified as a good introduction to the project.
-- [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs that have a mentor assigned who will be there on IRC to help you when you get stuck while working on a fix.
-- [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - a site dedicated to finding bugs on Bugzilla.
-- [Firefox DevTools](http://firefox-dev.tools/) - a site dedicated to bugs filed for the developer tools in the Firefox browser.
-- [What Can I Do For Mozilla](https://whatcanidoformozilla.org/) - figure out what you can work on by answering a bunch of questions about your skill set and interests.
-- [Start Mozilla](https://twitter.com/StartMozilla) - a Twitter account that tweets about issues fit for contributors new to the Mozilla ecosystem.
+## المساهمين في بيئة " موزيلا"
+- [أفضل أخطاء أولية](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - الأخطاء التي حددها المطورون على أنها مقدمة جيدة للمشروع.
+- [أخطاء موجهة](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - الأخطاء التي تم تعيين لها موجه والذي سيكون حاضر لمساعدتك عندما تتعثر أثناء العمل على إصلاحها.
+- [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - موقع مخصص للبحث عن الأخطاء في "Bugzilla".
+- [أدوات تطوير "فيرفوكس"](http://firefox-dev.tools/) - موقع مخصص للأخطاء المودعة لأدوات المطورين في متصفح "فيرفوكس".
+- ["ماذا يمكنني أن أفعل "لموزيلا](https://whatcanidoformozilla.org/) - اكتشف ما يمكنك العمل عليه من خلال الإجابة على مجموعة من الأسئلة حول مجموعة المهارات والاهتمامات الخاصة بك.
+- [ابدأ مع موزيلا](https://twitter.com/StartMozilla) - حساب تويتر يقوم بالتغريد حول المشكلات المناسبة للمساهمين الجدد في نظام بيئة "موزيلا".
 
-## Useful articles for new Open Source contributors
-- [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
-- [How to find your first Open Source bug to fix](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) by [@Shubheksha](https://github.com/Shubheksha)
-- [First Timers Only](https://kentcdodds.com/blog/first-timers-only/) by [@kentcdodds](https://github.com/kentcdodds)
+## مقالات مفيدة للمساهمين الجدد في بيئة مفوحة المصدر
+- [كيف تختار (و تساهم في) مشروعك الأول مفتوح المصد](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
+- [كيفية العثور على أول خطأ مفتوح المصدر لإصلاحه](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) by [@Shubheksha](https://github.com/Shubheksha)
+- [فقط لأول مرة](https://kentcdodds.com/blog/first-timers-only/) by [@kentcdodds](https://github.com/kentcdodds)
 - [Bring Kindness Back to Open Source](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) by [@shanselman](https://github.com/shanselman)
-- [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
-- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
-- [How to Find a Bug in Your Code](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
-- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) by [@GitHub](https://github.com/github)
-- [First mission: Contributors page](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
-- [How to make your first Open Source contribution in just 5 minutes](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) by [@roshanjossey](https://github.com/Roshanjossey/)
-- [Hacktoberfest 2019: How you can get your free shirt — even if you’re new to coding](https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b/) by [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
-- [A Bitter Guide To Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
-- [A junior developer’s step-by-step guide to contributing to Open Source for the first time](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) by [@LetaKeane](https://hackernoon.com/u/letakeane)
-- [Learn Git and GitHub Step By Step (on Windows)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) by [@ows-ali](https://medium.com/@ows_ali)
-- [Why Open Source and How?](https://careerkarma.com/blog/open-source-projects-for-beginners/) by [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
-- [How to get started with Open Source - By Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/)
-- [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) by Kent C. Dodds
+- [البداية مع بيئة  مفتوحة المصدر لأول مرة](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
+- [كيف تساهم في بيئة مفتوحة المصدر](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
+- [كيف تجد المشاكل في الأكواد الخاصة بك](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
+- [احتراف لغة مارك داون ".md"](https://guides.github.com/features/mastering-markdown/) by [@GitHub](https://github.com/github)
+- [المهمة الأولى: صفحة المساهمين](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
+- [كيف تقدم أول مساهمة مفتوحة المصدر لك في 5 دقائق فقط](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) by [@roshanjossey](https://github.com/Roshanjossey/)
+- [مهرجان البرمجة 2019: كيف يمكنك الحصول على قميصك المجاني - حتى لو كنت جديدًا في مجال البرمجة](https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b/) by [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
+- [دليل مرير لبيئة مفتوحة المصدر](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
+- [دليل خطوة بخطوة للمطورين المبتدئين للمساهمة في بيئة مفتوحة المصدر لأول مرة](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) by [@LetaKeane](https://hackernoon.com/u/letakeane)
+- [تعلم "جت" و "جيت هب" خطوة بخطوة (في نظام التشغيل ويندوز)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) by [@ows-ali](https://medium.com/@ows_ali)
+- [لماذا بيئة مفتوحة المصدر وكيف؟](https://careerkarma.com/blog/open-source-projects-for-beginners/) by [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
+- [كيف تبدأ مع بيئة مفتوحة المصدر - بقلم سايان تشودري](https://www.hackerearth.com/getstarted-opensource/)
+- [ما البيئة مفتوحة المصدر الذي يجب أن أساهم فيها](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) by Kent C. Dodds
 
 ## Using Version Control
 - [Think Like (a) Git](http://think-like-a-git.net/) - Git introduction for "advanced beginners," but are still struggling, in order to give you a simple strategy to safely experiment with git.
@@ -139,5 +139,5 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - A program to encourage Open Source contributions. Earn gifts like t-shirts and stickers by making at least 4 pull requests in the month of October.
 - [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests is a project to promote Open Source collaboration during the month of December.
 
-## License
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+## الترخيص
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />هذا العمل مرخص بموجب <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 الرخصة الدولية</a>.
