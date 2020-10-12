@@ -1,3 +1,21 @@
+<table>
+    <tr>
+        <!-- Do not translate this table -->
+        <td><a href="./README.md"> English </a></td>
+        <td><a href="./README-CN.md"> 中文 </a></td>
+        <td><a href="./README-RU.md"> русский </a></td>
+        <td><a href="./README-RO.md"> Românesc </a></td>
+        <td><a href="./README-IT.md"> Italiano </a></td>
+        <td><a href="./README-ES.md"> Español </a></td>
+        <td><a href="./README-pt-BR.md"> Português (BR) </a></td>
+        <td><a href="./README-DE.md"> Deutsch </a></td>
+        <td><a href="./README-GR.md"> Ελληνικά </a></td>
+        <td><a href="./README-FR.md"> Français </a></td>
+        <td><a href="./README-TR.md"> Turkish </a></td>
+        <td><a href="./README-ID.md">Bahasa Indonesia</a></td>
+    </tr>
+</table>
+
 # Selamat Datang Kontributor Open Source Pemula!
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
