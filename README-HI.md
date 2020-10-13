@@ -67,7 +67,7 @@
 - ["How to Contribute to Open Source Project" by Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - यह व्यापक लेख व्यवसायों की ओर निर्देशित है (लेकिन व्यक्तिगत योगदानकर्ताओं के लिए अभी भी उपयोगी है) जहां यह बात करता है कि क्यों, कैसे, और क्या-क्या ओपन-सोर्स प्रोजेक्ट्स में योगदान करना है।
 - ["start-here-guidelines" by Andrei](https://github.com/zero-to-mastery/start-here-guidelines) - ओपनसैट खेल की दुनिया में शुरू होता है, ओपनसोर्स खेल के मैदान में शुरू होता है। विशेष रूप से शिक्षा और व्यावहारिक अनुभव उद्देश्यों के लिए डिज़ाइन किया गया।
 
-## Direct GitHub searches
+## डायरेक्ट गिटहब खोजता है
 Search links that point directly to suitable issues to contribute to on GitHub.
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
@@ -77,14 +77,14 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [is:issue is:open label:starter](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Astarter)
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
-## Mozilla's contributor ecosystem
+## मोज़िला का योगदानकर्ता पारिस्थितिकी तंत्र
 - [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - बग जो डेवलपर्स ने परियोजना के लिए एक अच्छा परिचय के रूप में पहचाना है।
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - बग जो एक संरक्षक को सौंपा गया है, जो आईआरसी पर आपकी मदद करेगा जब आप एक फिक्स पर काम करते समय फंस जाते हैं।
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - Bugzilla पर बग ढूंढने के लिए समर्पित एक साइट।
 - [Firefox DevTools](http://firefox-dev.tools/) - फ़ायरफ़ॉक्स ब्राउज़र में डेवलपर टूल के लिए दायर की गई बग्स को समर्पित एक साइट।
 - [What Can I Do For Mozilla](https://whatcanidoformozilla.org/) - अपने कौशल सेट और रुचियों के बारे में सवालों के एक समूह का उत्तर देकर पता लगा सकते हैं कि आप क्या काम कर सकते हैं।
 - [Start Mozilla](https://twitter.com/StartMozilla) - एक ट्विटर अकाउंट जो मुद्दों के बारे में ट्वीट करता है जो मोज़िला इकोसिस्टम के लिए योगदानकर्ताओं के लिए उपयुक्त है।
-## Useful articles for new Open Source contributors
+## नए ओपन सोर्स योगदानकर्ताओं के लिए उपयोगी लेख
 - [अपनी पहली ओपन सोर्स परियोजना को कैसे चुनें (और योगदान करें)](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
 - [कैसे ठीक करने के लिए अपना पहला ओपन सोर्स बग ढूंढें](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) by [@Shubheksha](https://github.com/Shubheksha)
 - [केवल पहले टाइमर](https://kentcdodds.com/blog/first-timers-only/) by [@kentcdodds](https://github.com/kentcdodds)
