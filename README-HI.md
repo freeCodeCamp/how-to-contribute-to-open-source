@@ -102,26 +102,26 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [ओपन सोर्स से कैसे शुरुआत करें- बाय सयान चौधरी](https://www.hackerearth.com/getstarted-opensource/)
 - [मुझे किस ओपन-सोर्स में योगदान देना चाहिए?](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) by Kent C. Dodds
 
-## Using Version Control
-- [Think Like (a) Git](http://think-like-a-git.net/) - Git introduction for "advanced beginners," but are still struggling, in order to give you a simple strategy to safely experiment with git.
-- [Try Git](https://try.github.io/) - Learn Git in 15 minutes from within your browser for free.
-- [Everyday Git](https://git-scm.com/docs/giteveryday) - A useful minimum set of commands for Everyday Git.
-- [Oh shit, git!](https://ohshitgit.com/) - how to get out of common `git` mistakes described in plain English; also see [Dangit, git!](https://dangitgit.com/) for the page without swears.
-- [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) - various tutorials on using `git`.
+## संस्करण नियंत्रण का उपयोग करना
+- [Think Like (a) Git](http://think-like-a-git.net/) - "उन्नत शुरुआती" के लिए Git परिचय, लेकिन अभी भी संघर्ष कर रहे हैं, ताकि आप सुरक्षित रूप से git के साथ प्रयोग करने के लिए एक सरल रणनीति दे सकें।
+- [Try Git](https://try.github.io/) - अपने ब्राउज़र में मुफ्त में 15 मिनट में Git सीखें।
+- [Everyday Git](https://git-scm.com/docs/giteveryday) - हर दिन Git के लिए कमांड का एक उपयोगी न्यूनतम सेट.
+- [Oh shit, git!](https://ohshitgit.com/) - सामान्य अंग्रेजी में वर्णित सामान्य `गिट` गलतियों से कैसे बाहर निकलें; पृष्ठ के लिए [शपथ, गिट!] (https://dangitgit.com/) को बिना शपथ ग्रहण के भी देखें।
+- [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) - `git` का उपयोग करने पर विभिन्न ट्यूटोरियल।
 - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
 - [freeCodeCamp's Wiki on Git Resources](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
-- [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - GitHub talk on how to make a pull request.
-- [GitHub Learning Resources](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/git-and-github-learning-resources) - Git and GitHub learning resources.
-- [Pro Git](https://git-scm.com/book/en/v2) - The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress.
-- [Git-it](https://github.com/jlord/git-it-electron) - Step by step Git tutorial desktop app.
-- [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - A guide about what to do when things go wrong.
-- [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - A complete guide of slides about git and GitHub explained in Spanish. Una guía completa de diapositivas sobre git y GitHub explicadas en Español.
-- [Git Kraken](https://www.gitkraken.com/git-client) - Visual, cross-platform, and interactive `git` desktop application for version control.
-- [Git Tips](https://github.com/git-tips/tips) - Collection of most commonly used git tips and tricks.
-- [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - Commit Often, Perfect Later, Publish Once: Git Best Practices.
-- [Git Interactive Tutorial](https://learngitbranching.js.org/) - Learn Git in the most visual and interactive way.
+- [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - GitHub पुल अनुरोध करने के तरीके पर बात करता है।
+- [GitHub Learning Resources](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/git-and-github-learning-resources) - Git और GitHub सीखने के संसाधन।
+- [Pro Git](https://git-scm.com/book/en/v2) - संपूर्ण प्रो गिट पुस्तक, स्कॉट चाकोन और बेन स्ट्राब द्वारा लिखित और एप्रेस द्वारा प्रकाशित।
+- [Git-it](https://github.com/jlord/git-it-electron) - स्टेप बाय स्टेप गिट ट्यूटोरियल डेस्कटॉप ऐप।
+- [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) -जब चीजें गलत हो जाती हैं तो क्या करना है इसके बारे में एक गाइड।
+- [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - Git और GitHub के बारे में स्लाइड्स का एक पूरा गाइड स्पेनिश में समझाया गया है। ऊना गुइया कम्पला दे दीपोसाइटिवस सोब्रे गिट वाई गिथहब एक्सपिकाडास एन Español।
+- [Git Kraken](https://www.gitkraken.com/git-client) - संस्करण नियंत्रण के लिए विज़ुअल, क्रॉस-प्लेटफ़ॉर्म, और इंटरैक्टिव `गिट` डेस्कटॉप एप्लिकेशन।
+- [Git Tips](https://github.com/git-tips/tips) - सबसे अधिक इस्तेमाल किए जाने वाले गिट टिप्स और ट्रिक्स का संग्रह।
+- [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - कमिट अदर, परफेक्ट बाद, पब्लिश वन्स: बेस्ट प्रैक्टिस।
+- [Git Interactive Tutorial](https://learngitbranching.js.org/) - सबसे दृश्य और इंटरैक्टिव तरीके से Git सीखें।
 
-## Open Source books
+## स्रोत पुस्तकें खोलें
 - [Producing Open Source Software](https://producingoss.com/) - Producing Open Source Software is a book about the human side of Open Source development. It describes how successful projects operate, the expectations of users and developers, and the culture of free software.
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - Learn more about Open Source and the growing Open Source movement with a comprehensive list of free eBooks from https://opensource.com.
 - [Software Release Practice HOWTO](https://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - This HOWTO describes good release practices for Linux and other Open-Source projects. By following these practices, you will make it as easy as possible for users to build your code and use it, and for other developers to understand your code and cooperate with you to improve it.
