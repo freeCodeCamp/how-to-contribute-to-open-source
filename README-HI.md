@@ -16,6 +16,7 @@
         <li><a href="./README-FR.md"> Français </a></li>
         <li><a href="./README-KO.md"> 한국어 </a></li>
         <li><a href="./README-JA.md"> 日本語 </a></li>
+        <li><a href="./README-HI.md"> हिंदी </a></li>
     </ul>
 </details>
 <!-- Do not translate this -->
@@ -122,19 +123,19 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [Git Interactive Tutorial](https://learngitbranching.js.org/) - सबसे दृश्य और इंटरैक्टिव तरीके से Git सीखें।
 
 ## स्रोत पुस्तकें खोलें
-- [Producing Open Source Software](https://producingoss.com/) - Producing Open Source Software is a book about the human side of Open Source development. It describes how successful projects operate, the expectations of users and developers, and the culture of free software.
-- [Open Source Book Series](https://opensource.com/resources/ebooks) - Learn more about Open Source and the growing Open Source movement with a comprehensive list of free eBooks from https://opensource.com.
-- [Software Release Practice HOWTO](https://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - This HOWTO describes good release practices for Linux and other Open-Source projects. By following these practices, you will make it as easy as possible for users to build your code and use it, and for other developers to understand your code and cooperate with you to improve it.
-- [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 is a collection of insightful and thought-provoking essays from today's technology leaders that continues painting the evolutionary picture that developed in the 1999 book, Open Sources: Voices from the Revolution.
-- [The Architecture of Open Source Applications](http://www.aosabook.org/en/git.html) - Show how various aspects of Git work under the covers to enable distributed workflows, and how it differs from other version control systems (VCSs).
-- [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - Essays from open-source pioneers such as Linus Torvalds (Linux), Larry Wall (Perl), and Richard Stallman (GNU).
+- [Producing Open Source Software](https://producingoss.com/) - ओपन सोर्स सॉफ्टवेयर का निर्माण ओपन सोर्स डेवलपमेंट के मानवीय पक्ष के बारे में एक किताब है। यह वर्णन करता है कि सफल परियोजनाएं कैसे संचालित होती हैं, उपयोगकर्ताओं और डेवलपर्स की अपेक्षाएं, और मुफ्त सॉफ्टवेयर की संस्कृति।
+- [Open Source Book Series](https://opensource.com/resources/ebooks) - मुक्त स्रोत और बढ़ते ओपन सोर्स आंदोलन के बारे में अधिक जानकारी के लिए https://opensource.com से मुफ्त ई-बुक्स की एक व्यापक सूची के साथ जानें।
+- [Software Release Practice HOWTO](https://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - यह HOWTO लिनक्स और अन्य ओपन-सोर्स परियोजनाओं के लिए अच्छी रिलीज प्रथाओं का वर्णन करता है। इन प्रथाओं का पालन करके, आप उपयोगकर्ताओं को अपना कोड बनाने और इसका उपयोग करने के लिए जितना संभव हो उतना आसान बना देंगे, और अन्य डेवलपर्स आपके कोड को समझने के लिए और इसे बेहतर बनाने के लिए आपके साथ सहयोग करेंगे।
+- [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - ओपन सोर्स २.० आज के प्रौद्योगिकी नेताओं के व्यावहारिक और विचारोत्तेजक निबंधों का एक संग्रह है, जो १ ९९९ की पुस्तक, ओपन सोर्स: द रिव्यूज़ इन द रिवोल्यूशनरी में विकसित हुई विकासवादी तस्वीर को जारी रखता है।
+- [The Architecture of Open Source Applications](http://www.aosabook.org/en/git.html) - वितरित वर्कफ़्लोज़ को सक्षम करने के लिए कवर के तहत Git के विभिन्न पहलू काम करते हैं, और यह कैसे अन्य संस्करण नियंत्रण प्रणालियों (VCS) से भिन्न होता है।
+- [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - लिनस टॉर्वाल्ड्स (लिनक्स), लैरी वॉल (पर्ल), और रिचर्ड स्टेलमैन (जीएनयू) जैसे ओपन-सोर्स अग्रदूतों से निबंध।
 
-## Open Source contribution initiatives
-- [Up For Grabs](https://up-for-grabs.net/) - Contains projects with beginner-friendly issues
-- [First Timers Only](https://www.firsttimersonly.com/) - A list of bugs that are labelled "first-timers-only".
-- [First Contributions](https://firstcontributions.github.io/) - Make your first Open Source contribution in 5 minutes. A tool and tutorial to help beginners get started with contributions. [Here](https://github.com/firstcontributions/first-contributions) is the GitHub source code for the site and opportunity to make a contribution to the repository itself.
-- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - A program to encourage Open Source contributions. Earn gifts like t-shirts and stickers by making at least 4 pull requests in the month of October.
-- [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests is a project to promote Open Source collaboration during the month of December.
+## ओपन सोर्स योगदान पहल
+- [Up For Grabs](https://up-for-grabs.net/) - शुरुआत के अनुकूल मुद्दों के साथ परियोजनाएं शामिल हैं
+- [First Timers Only](https://www.firsttimersonly.com/) - कीड़े की एक सूची जिसे "पहले-टाइमर-केवल" लेबल किया जाता है।
+- [First Contributions](https://firstcontributions.github.io/) - 5 मिनट में अपना पहला ओपन सोर्स योगदान दें। एक उपकरण और ट्यूटोरियल शुरुआती योगदान करने में मदद करने के लिए। [यहाँ] (https://github.com/firstcontributions/first-contributions) साइट के लिए GitHub स्रोत कोड है और स्वयं भंडार में योगदान करने का अवसर है।
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - ओपन सोर्स योगदान को प्रोत्साहित करने के लिए एक कार्यक्रम। अक्टूबर के महीने में कम से कम 4 पुल अनुरोध करके टी-शर्ट और स्टिकर जैसे उपहार अर्जित करें।
+- [24 Pull Requests](https://24pullrequests.com) -24 पुल अनुरोध दिसंबर महीने के दौरान ओपन सोर्स सहयोग को बढ़ावा देने के लिए एक परियोजना है।
 
-## License
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+## लाइसेंस
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />इस काम के तहत लाइसेंस प्राप्त है<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">क्रिएटिव कॉमन्स एट्रिब्यूशन-शेयरअलाइल 4.0 इंटरनेशनल लाइसेंस</a>.
