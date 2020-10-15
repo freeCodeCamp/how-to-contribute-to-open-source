@@ -30,14 +30,14 @@ Jika Anda ada pertanyaan atau kommen, silahkan membuat issue baru.
 
 **Konten**
 
-- [Berkontribusi Open Source pada Umumnya](#contributing-to-open-source-in-general)
-- [Pencarian GitHub secara Langsung](#direct-github-searches)
-- [Ekosistem Kontributor Mozilla](#mozillas-contributor-ecosystem)
-- [Artikel Berguna untuk Kontributor Open Source Pemula](#useful-articles-for-new-open-source-contributors)
-- [Menggunakan Kendali Versi](#using-version-control)
-- [Buku Tentang Open Source](#open-source-books)
-- [Inisiatif untuk Kontribusi Open Source](#open-source-contribution-initiatives)
-- [Lisensi](#license)
+- [Berkontribusi Open Source pada Umumnya](#berkontribusi-open-source-pada-umumnya)
+- [Pencarian GitHub secara Langsung](#pencarian-github-secara-langsung)
+- [Ekosistem Kontributor Mozilla](#ekosistem-kontributor-mozilla)
+- [Artikel Berguna untuk Kontributor Open Source Pemula](#artikel-berguna-untuk-kontributor-open-source-pemula)
+- [Menggunakan Kendali Versi](#menggunakan-kendali-versi)
+- [Buku Tentang Open Source](#buku-tentang-open-source)
+- [Inisiatif untuk Kontribusi Open Source](#inisiatif-untuk-kontribusi-open-source)
+- [Lisensi](#lisensi)
 
 ## Berkontribusi Open Source pada Umumnya
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) ditulis oleh [@DoomHammerNG](https://twitter.com/DoomHammerNG)
