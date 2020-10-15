@@ -40,7 +40,7 @@ Jika Anda ada pertanyaan atau kommen, silahkan membuat issue baru.
 - [Lisensi](#license)
 
 ## Berkontribusi Open Source pada Umumnya
-- [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
+- [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) ditulis oleh [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorial yang ditulis oleh DigitalOcean untuk memandu Anda menuju kontribusi sukses di GitHub.
 - [Issuehub.io](http://issuehub.io/) - alat untuk mencari GitHub issue berdasarkan label dan bahasa.
 - [Code Triage](https://www.codetriage.com/) - alat lain yang sangat berguna untuk mencari repositori dan issue populer berdasarkan bahasa.
@@ -53,14 +53,14 @@ Jika Anda ada pertanyaan atau kommen, silahkan membuat issue baru.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - Sebuah buku pengantar etiket Open Source, ditulis oleh Kent C. Dodds dan Sarah Drasner.
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Daftar sumber dan peluang untuk para mahasiswa mempelajari bahasa pengkodean baru.
 - [Pull Request Roulette](http://www.pullrequestroulette.com/) - Situs ini memiliki daftar pull request yang dikirim untuk ditinjau dari proyek Open Source yang di-host di Github.
-- ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - A step-by-step video guide of how to start contributing to Open Source projects on GitHub.
-- [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - This walkthrough of an open source contribution covers everything from picking a suitable project, working on an issue, to getting the PR merged in.
-- ["How to Contribute to Open Source Project by" Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - They are focusing on the nitty-gritty of contributing a pull request (PR) to someone else’s project on GitHub.
+- ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - Panduan video bertahap tentang cara mulai berkontribusi pada proyek Open Source di GitHub.
+- [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - Panduan tentang kontribusi open source ini mencakup segala hal mulai dari memilih proyek yang sesuai, mengerjakan suatu issue, hingga menggabungkan PR.
+- ["How to Contribute to Open Source Project by" Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - Mereka berfokus pada intisari kontribusi pull request (PR) ke proyek orang lain di GitHub.
 - ["How to get started with Open Source by" Sayan Chowdhury](https://www.hackerearth.com:443/getstarted-opensource/) - Artikel ini membahas sumber untuk berkontribusi ke Open Source bagi para pemula berdasarkan minat bahasa favorit mereka.
 - ["Browse good first issues to start contributing to open source"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) - GitHub sekarang membantu Anda menemukan issue pertama yang baik untuk mulai berkontribusi ke Open Source.
-- ["How to Contribute to Open Source Project" by Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - This comprehensive article is directed towards businesses (but still useful for individual contributors) where it talks about why, how, and what open-source projects to contribute to.
+- ["How to Contribute to Open Source Project" by Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - Artikel komprehensif ini ditujukan untuk perusahaan (tetapi masih berguna untuk kontributor individu) yang membahas tentang mengapa, bagaimana, dan proyek Open Source apa yang dapat dikontribusi.
 - ["start-here-guidelines" by Andrei](https://github.com/zero-to-mastery/start-here-guidelines) -
-Lets Git started in the world of opensource, starting in the opensource playground. Especially designed for education and practical experience purposes.
+Mari mulai menggunakan Git dalam dunia Open Source, mulai dari  Opensource Playground. Dirancang khusus untuk tujuan edukasi and pengalaman praktis.
 
 
 ## Pencarian GitHub secara Langsung
@@ -78,7 +78,7 @@ Link pencarian yang mengarah langsung ke issue yang sesuai untuk berkontribusi d
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bug yang memiliki mentor yang akan ada di IRC untuk membantu Anda ketika Anda mengalami kebuntuan saat mengerjakan perbaikan.
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - situs halaman yang didedikasikan untuk mencari bug di Bugzilla.
 - [Firefox DevTools](http://firefox-dev.tools/) - situs yang didedikasikan untuk bug yang diajukan untuk alat developer di browser Firefox.
-- [What Can I Do For Mozilla](https://whatcanidoformozilla.org/) - cari tahu apa yang dapat Anda kerjakan dengan menjawab banyak pertanyaan tentang keahlian dan minat Anda.
+- [What Can I Do For Mozilla](https://whatcanidoformozilla.org/) - cari tahu apa yang dapat Anda kerjakan dengan menjawab banyak pertanyaan tentang keahlian dan minat Anda.
 - [Start Mozilla](https://twitter.com/StartMozilla) - akun Twitter yang meng-tweet tentang berbagai issue yang cocok bagi kontributor baru di ekosistem Mozilla.
 
 ## Artikel Berguna untuk Kontributor Open Source Pemula
@@ -97,7 +97,7 @@ Link pencarian yang mengarah langsung ke issue yang sesuai untuk berkontribusi d
 - [A junior developer’s step-by-step guide to contributing to Open Source for the first time](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) ditulis oleh [@LetaKeane](https://hackernoon.com/u/letakeane)
 - [Learn Git and GitHub Step By Step (on Windows)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) ditulis oleh [@ows-ali](https://medium.com/@ows_ali)
 - [Why Open Source and How?](https://careerkarma.com/blog/open-source-projects-for-beginners/) ditulis oleh [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
-- [How to get started with Open Source - By Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/)
+- [How to get started with Open Source - Ditulis oleh Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/)
 - [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) ditulis oleh Kent C. Dodds
 
 ## Menggunakan Kendali Versi
