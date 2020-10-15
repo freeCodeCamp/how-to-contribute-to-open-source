@@ -101,7 +101,7 @@ Link pencarian yang mengarah langsung ke issue yang sesuai untuk berkontribusi d
 - [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) ditulis oleh Kent C. Dodds
 
 ## Menggunakan Kendali Versi
-- [Think Like (a) Git](http://think-like-a-git.net/) - Git introduction for "advanced beginners," but are still struggling, in order to give you a simple strategy to safely experiment with git.
+- [Think Like (a) Git](http://think-like-a-git.net/) - Pengantar Git untuk para "pemula tingkat lanjut", tetapi masih kesulitan, bacaan ini dapat memberi Anda strategi sederhana untuk bereksperimen dengan aman mengunakan git.
 - [Try Git](https://try.github.io/) - Belajar Git dalam 15 menit dari Browser secara gratis.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Kumpulan perintah yang berguna untuk pemakaian Git dalam sehari-hari.
 - [Oh shit, git!](https://ohshitgit.com/) - bagaimana cara menghindari kesalahan umum saat mengunakan `git` dideskripsikan dalam Bahasa Inggris; juga baca [Dangit, git!](https://dangitgit.com/) untuk situs halaman tanpa kata kasar.
@@ -110,29 +110,29 @@ Link pencarian yang mengarah langsung ke issue yang sesuai untuk berkontribusi d
 - [freeCodeCamp's Wiki on Git Resources](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
 - [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - percakapan GitHub tentang cara membuat sebuah pull request.
 - [GitHub Learning Resources](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/git-and-github-learning-resources) - Sumber pembelajaran Git dan GitHub.
-- [Pro Git](https://git-scm.com/book/en/v2) - The entire Pro Git book, ditulis oleh Scott Chacon dan Ben Straub dan dipubliskasikan oleh Apress.
-- [Git-it](https://github.com/jlord/git-it-electron) - Step by step Git tutorial desktop app.
+- [Pro Git](https://git-scm.com/book/en/v2) - Sejilid buku Pro Git lengkap, ditulis oleh Scott Chacon dan Ben Straub dan dipubliskasikan oleh Apress.
+- [Git-it](https://github.com/jlord/git-it-electron) - Applikasi Desktop untuk tutorial bertahap mempelajari Git.
 - [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - Panduan tentang apa yang harus dilakukan saat terjadi kesalahan.
 - [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - Panduan lengkap berupa slides tentang git dan GitHub dijelaskan dalam bahasa Spanyol. Una guía completa de diapositivas sobre git y GitHub explicadas en Español.
-- [Git Kraken](https://www.gitkraken.com/git-client) - Visual, cross-platform, and interactive `git` desktop application for version control.
+- [Git Kraken](https://www.gitkraken.com/git-client) - Applikasi desktop `git` yang visual, lintas platform, dan interaktif untuk kendali versi.
 - [Git Tips](https://github.com/git-tips/tips) - Kumpulan tips dan trik git yang paling sering digunakan.
-- [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - Commit Often, Perfect Later, Publish Once: Git Best Practices.
+- [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - Sering meng-commit, Sempurnakan Nanti, Publikasikan Sekali: Praktik Terbaik Mengunakan Git.
 - [Git Interactive Tutorial](https://learngitbranching.js.org/) - Pelajari Git dengan cara yang paling visual dan interaktif.
 
 ## Buku Tentang Open Source
-- [Producing Open Source Software](https://producingoss.com/) - Producing Open Source Software is a book about the human side of Open Source development. It describes how successful projects operate, the expectations of users and developers, and the culture of free software.
-- [Open Source Book Series](https://opensource.com/resources/ebooks) - Learn more about Open Source and the growing Open Source movement with a comprehensive list of free eBooks from https://opensource.com.
-- [Software Release Practice HOWTO](https://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - This HOWTO describes good release practices for Linux and other Open-Source projects. By following these practices, you will make it as easy as possible for users to build your code and use it, and for other developers to understand your code and cooperate with you to improve it.
-- [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 is a collection of insightful and thought-provoking essays from today's technology leaders that continues painting the evolutionary picture that developed in the 1999 book, Open Sources: Voices from the Revolution.
-- [The Architecture of Open Source Applications](http://www.aosabook.org/en/git.html) - Show how various aspects of Git work under the covers to enable distributed workflows, and how it differs from other version control systems (VCSs).
+- [Producing Open Source Software](https://producingoss.com/) - Producing Open Source Software adalah sebuah buku tentang sisi manusia dari pengembangan Open Source. Buku ini menjelaskan bagaimana proyek yang sukses beroperasi, ekspektasi pengguna dan para developers, dan budaya perangkat lunak gratis.
+- [Open Source Book Series](https://opensource.com/resources/ebooks) - Pelajari lebih lanjut tentang Open Source dan gerakan Open Source yang bertumbuh dengan daftar lengkap eBook gratis dari https://opensource.com.
+- [Software Release Practice HOWTO](https://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - HOWTO ini menjelaskan praktik rilis yang baik untuk Linux dan proyek Open Source lainnya. Dengan mengikuti praktik ini, Anda akan membuatnya semudah mungkin bagi pengguna untuk mem-built kode Anda dan menggunakannya, dan bagi pengembang lain untuk memahami kode Anda dan bekerja sama dengan Anda untuk memperbaikinya.
+- [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 adalah kumpulan esai berwawasan dan menggugah pemikiran dari para pemimpin teknologi saat ini yang terus melukiskan gambaran evolusi yang dikembangkan dalam buku 1999, Open Sources: Voices from the Revolution.
+- [The Architecture of Open Source Applications](http://www.aosabook.org/en/git.html) - Menunjukkan bagaimana berbagai aspek Git bekerja di balik layar untuk mengaktifkan alur kerja terdistribusi, dan perbedaannya dari sistem kendali versi lain (VCSs).
 - [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - Esai yang ditulis oleh pelopor Open Source seperti Linus Torvalds (Linux), Larry Wall (Perl), and Richard Stallman (GNU).
 
 ## Inisiatif untuk Kontribusi Open Source
 - [Up For Grabs](https://up-for-grabs.net/) - Berisi proyek dengan issue ramah untuk pemula.
 - [First Timers Only](https://www.firsttimersonly.com/) - Sekumpulan bug yang berlabel "first-timers-only".
-- [First Contributions](https://firstcontributions.github.io/) - Membuat kontribusi Open Source pertama dalam 5 menit. Sebuah alat dan tutorial yang membantu para pemula untuk mulai berkontribusi. [Here](https://github.com/firstcontributions/first-contributions) is the GitHub source code for the site and opportunity to make a contribution to the repository itself.
+- [First Contributions](https://firstcontributions.github.io/) - Membuat kontribusi Open Source pertama dalam 5 menit. Sebuah alat dan tutorial yang membantu para pemula untuk mulai berkontribusi. [Berikut](https://github.com/firstcontributions/first-contributions) adalah source code GitHub untuk situs tersebut dan kesempatan untuk memberikan kontribusi ke repositori itu sendiri.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Sebuah program yang mendorong kontribusi Open Source. Dapatkan hadiah seperti kaos dan stiker dengan membuat setidaknya 4 pull request di bulan Oktober.
-- [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests adalah sebuah proyek untuk mempromosikan Open kolaborasi Source collaboration menjelang bulan Desember.
+- [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests adalah sebuah proyek untuk mempromosikan kolaborasi Open Source menjelang bulan Desember.
 
 ## Lisensi
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />Karya ini berlisensi di bawah <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
