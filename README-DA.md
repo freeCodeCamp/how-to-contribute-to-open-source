@@ -49,7 +49,7 @@ Hvis du har sporgsmåler eller kommentater, vær sød at lave en *issue*.
 - [En introduktion til open source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorialer af DigitalOcean til at vis dig vej på open source bidragyering succes
 - [Issuehub.io](http://issuehub.io/) - Hjælpsom for at søge GitHub issuer med navn og sprog.
 - [Code Triage](https://www.codetriage.com/) - another, really nice, tool for finding popular repositories and issues filtered by language.
-- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - a GitHub repo that amasses projects with good bugs for new contributors, and applies labels to describe them.
+- [Fed-for-begyndere](https://github.com/MunGell/awesome-for-beginners) - a GitHub repo that amasses projects with good bugs for new contributors, and applies labels to describe them.
 - [Open Source Guides](https://opensource.guide/) - Collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an Open Source project.
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Do's and Don'ts on GitHub.
 - [GitHub Guides](https://guides.github.com/) - basic guides on how to use GitHub effectively.
