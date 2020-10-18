@@ -51,11 +51,11 @@ Hvis du har sporgsmåler eller kommentater, vær sød at lave en *issue*.
 - [Code Triage](https://www.codetriage.com/) - another, really nice, tool for finding popular repositories and issues filtered by language.
 - [Fed-for-begyndere](https://github.com/MunGell/awesome-for-beginners) - a GitHub repo that amasses projects with good bugs for new contributors, and applies labels to describe them.
 - [Open Source Guides](https://opensource.guide/) - Collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an Open Source project.
-- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Do's and Don'ts on GitHub.
+- [45 Github Issuer - Hvad man skal gør og ikke gør](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Do's and Don'ts on GitHub.
 - [GitHub Guides](https://guides.github.com/) - basic guides on how to use GitHub effectively.
-- [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Learn the GitHub workflow by contributing code to a simulation project.
-- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - The Linux Foundation's guides to Open Source projects.
-- [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - An Open Source Etiquette Guidebook, written by Kent C. Dodds And Sarah Drasner.
+- [Bidragyere til Open Source](https://github.com/danthareja/contribute-to-open-source) - Learn the GitHub workflow by contributing code to a simulation project.
+- [Linux Foundations Open Source Guides for Enterprisen](https://www.linuxfoundation.org/resources/open-source-guides/) - The Linux Foundation's guides to Open Source projects.
+- [CSS Tricks - En Open Source Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - An Open Source Etiquette Guidebook, written by Kent C. Dodds And Sarah Drasner.
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Curated list of resources and opportunities for college students to learn a new coding language.
 - [Pull Request Roulette](http://www.pullrequestroulette.com/) - This site has a list of pull requests submitted for review belonging to Open Source projects hosted on Github.
 - ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - A step-by-step video guide of how to start contributing to Open Source projects on GitHub.
