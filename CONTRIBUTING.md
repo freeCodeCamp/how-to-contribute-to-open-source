@@ -14,7 +14,7 @@ Issues can be submitted by anyone - seasoned developers or newbies.
 - [Adding to the Project File](#adding-to-the-project-file)
 - [Helpful Resources](#helpful-resources)
 
-### Getting Started
+### Getting Started with Git and Github
 
 1.  If you are new to Git and GitHub, it is advisable that you go through
     [GitHub For Beginners](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
