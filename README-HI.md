@@ -97,10 +97,10 @@
 - [पहला मिशन: योगदानकर्ता पृष्ठ] (https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) [@forCrowd] (https://github.com/forCrowd) द्वारा
 - [सिर्फ 5 मिनट में अपना पहला ओपन सोर्स योगदान कैसे करें] (https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5- मिनट्स-एआद 1fc59c9a /) [@roshanjossey] (https://github.com/Roshanjossey/) द्वारा
 - [हैकटॉर्फफेस्ट 2019: आप अपनी मुफ्त शर्ट कैसे प्राप्त कर सकते हैं - भले ही आप कोडिंग में नए हों] (https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free -शर्ट-सम-इफ-न्यू-टू-कोडिंग-96080dd0b01b /) [@quincylarson] (https://www.freecodecamp.org/news/author/quincylarson) द्वारा
-- [ए कड़वी गाइड टू ओपन सोर्स] (https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) [@ken_wheerer] (https://medium.com/@ken_wheeler) द्वारा )
+- [ए कड़वी गाइड टू ओपन सोर्स] (https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) [द्वारा @ken_wheerer] (https://medium.com/@ken_wheeler)
 - [एक कनिष्ठ विकासकर्ता का चरण-दर-चरण मार्गदर्शिका पहली बार ओपन सोर्स में योगदान करने के लिए] (https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshnect-47e22db1ab86) [द्वारा @LetaKeane] (https://hackernoon.com/u/letakeane)
 - [सीखें Git और GitHub स्टेप बाय स्टेप (विंडोज पर)] (https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) [@kows-ali] (https: / /medium.com/@ows_ali)
-- [क्यों ओपन सोर्स और कैसे?] (Https://careerkarma.com/blog/open-source-projects-for-beginners/) द्वारा [@james-gallagher] (https://careerkarma.com/blog-author) / jamesgallagher /)
+- [क्यों ओपन सोर्स और कैसे?] (Https://careerkarma.com/blog/open-source-projects-for-beginners/) द्वारा [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
 - [ओपन सोर्स से कैसे शुरू करें - सायन चौधरी द्वारा] (https://www.hackerearth.com/getstarted-opensource/)
 - [किस ओपन-सोर्स को मुझे योगदान देना चाहिए] केंट सी। डोड्स द्वारा (https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/)
 
@@ -115,11 +115,11 @@
 - [GitHub Flow] (https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - GitHub एक पुल अनुरोध करने के तरीके पर बात करता है।
 - [GitHub Learning Resources] (https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/git-and-github-learning-resources) - Git और GitHub सीखने के संसाधन।
 - [प्रो गिट] (https://git-scm.com/book/en/v2) - स्कॉट चकोन और बेन स्ट्राब द्वारा लिखित और एप्रेस द्वारा प्रकाशित संपूर्ण प्रो गिट पुस्तक।
-- [Git-it] (https://github.com/jlord/git-it-electron) - स्टेप बाय स्टेप Git Tutorial Desktop ऐप।
-- (Git के लिए उड़ान नियम] (https://github.com/k88hudson/git-flight-rules) - चीजों के गलत होने पर क्या करना चाहिए, इसके बारे में एक गाइड।
-- [स्पैनिश में शुरुआती के लिए एक Git गाइड] (https://platzi.github.io/git-slides/#/) - git और GitHub के बारे में स्लाइड का एक पूरा गाइड स्पेनिश में बताया गया है। ऊना गुआ कम्पाटा डी डायपोसाइटिवस सोबरे गिट वाई गिटहब एक्सपिकाडास एन Español।
+- [गिट-यह] (https://github.com/jlord/git-it-electron) - स्टेप बाय स्टेप Git Tutorial Desktop ऐप।
+- [गिट के लिए उड़ान नियम] (https://github.com/k88hudson/git-flight-rules) - चीजों के गलत होने पर क्या करना चाहिए, इसके बारे में एक गाइड।
+- [स्पैनिश में शुरुआती के लिए एक गिट गाइड] (https://platzi.github.io/git-slides/#/) - गिट और GitHub के बारे में स्लाइड का एक पूरा गाइड स्पेनिश में बताया गया है। ऊना गुआ कम्पाटा डी डायपोसाइटिवस सोबरे गिट वाई गिटहब एक्सपिकाडास एन Español।
 - [गिट Kraken] (https://www.gitkraken.com/git-client) - संस्करण नियंत्रण के लिए विज़ुअल, क्रॉस-प्लेटफ़ॉर्म और इंटरैक्टिव `गिट` डेस्कटॉप अनुप्रयोग।
-- [गिट Tips] (https://github.com/git-tips/tips) - सबसे अधिक उपयोग किए जाने वाले गिट टिप्स और ट्रिक्स का संग्रह।
+- [गिट टिप्स] (https://github.com/git-tips/tips) - सबसे अधिक उपयोग किए जाने वाले गिट टिप्स और ट्रिक्स का संग्रह।
 - [गिट बेस्ट प्रैक्टिसेस] (https://sethrobertson.github.io/GitBestPractices/) - कमिट अक्‍सर, परफेक्ट बाद में, पब्लिश वंस: बेस्ट प्रैक्टिस करें।
 - [एक गिट इंटरएक्टिव ट्यूटोरियल] (https://learngitbranching.js.org/) - सबसे दृश्य और इंटरैक्टिव तरीके से जानें।
 
