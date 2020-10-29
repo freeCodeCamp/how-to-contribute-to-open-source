@@ -94,7 +94,7 @@
 </p>
 </div>
 <div dir="rtl" style="direction:rtl;text-align:right;">
-<p align="right">
+<p>
 
 ## مقالات مفید برای مشارکت کنندگان جدید منبع-باز
 - [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
