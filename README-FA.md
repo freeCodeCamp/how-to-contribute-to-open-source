@@ -22,6 +22,7 @@
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 [![Build Status](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
+
 این فهرستی از منابع برای افرادی است که در زمینه مشارکت منبع-باز تازه وارد هستند.
 
 اگر منابع اضافی پیدا کردید، لطفا از طریق پول-ریکوئست مشارکت کنید.
