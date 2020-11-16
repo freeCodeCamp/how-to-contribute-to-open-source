@@ -26,20 +26,21 @@ Ini adalah daftar sumber untuk orang-orang yang baru berkontribusi pada Open Sou
 
 Jika Anda menemukan sumber tambahan, silahkan berkontribusi dengan membuat pull request baru.
 
-Jika Anda ada pertanyaan atau kommen, silahkan membuat issue baru.
+Jika Anda memiliki pertanyaan atau kommen, silahkan membuat issue baru.
 
-**Konten**
+**Daftar Isi**
 
 - [Berkontribusi Open Source pada Umumnya](#berkontribusi-open-source-pada-umumnya)
 - [Pencarian GitHub secara Langsung](#pencarian-github-secara-langsung)
 - [Ekosistem Kontributor Mozilla](#ekosistem-kontributor-mozilla)
 - [Artikel Berguna untuk Kontributor Open Source Pemula](#artikel-berguna-untuk-kontributor-open-source-pemula)
 - [Menggunakan Kendali Versi](#menggunakan-kendali-versi)
-- [Buku Tentang Open Source](#buku-tentang-open-source)
+- [Buku-buku tentang Open Source](#buku-tentang-open-source)
 - [Inisiatif untuk Kontribusi Open Source](#inisiatif-untuk-kontribusi-open-source)
 - [Lisensi](#lisensi)
 
 ## Berkontribusi Open Source pada Umumnya
+
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) ditulis oleh [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorial yang ditulis oleh DigitalOcean untuk memandu Anda menuju kontribusi sukses di GitHub.
 - [Issuehub.io](http://issuehub.io/) - alat untuk mencari GitHub issue berdasarkan label dan bahasa.
@@ -57,14 +58,15 @@ Jika Anda ada pertanyaan atau kommen, silahkan membuat issue baru.
 - [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - Panduan tentang kontribusi open source ini mencakup segala hal mulai dari memilih proyek yang sesuai, mengerjakan suatu issue, hingga menggabungkan PR.
 - ["How to Contribute to Open Source Project by" Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - Mereka berfokus pada intisari kontribusi pull request (PR) ke proyek orang lain di GitHub.
 - ["How to get started with Open Source by" Sayan Chowdhury](https://www.hackerearth.com:443/getstarted-opensource/) - Artikel ini membahas sumber untuk berkontribusi ke Open Source bagi para pemula berdasarkan minat bahasa favorit mereka.
-- ["Browse good first issues to start contributing to open source"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) - GitHub sekarang membantu Anda menemukan issue pertama yang baik untuk mulai berkontribusi ke Open Source.
+- ["Browse good first issues to start contributing to open source"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) - GitHub sekarang dapat membantu Anda menemukan issue pertama yang baik untuk mulai berkontribusi ke Open Source.
 - ["How to Contribute to Open Source Project" by Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - Artikel komprehensif ini ditujukan untuk perusahaan (tetapi masih berguna untuk kontributor individu) yang membahas tentang mengapa, bagaimana, dan proyek Open Source apa yang dapat dikontribusi.
 - ["start-here-guidelines" by Andrei](https://github.com/zero-to-mastery/start-here-guidelines) -
-Mari mulai menggunakan Git dalam dunia Open Source, mulai dari  Opensource Playground. Dirancang khusus untuk tujuan edukasi and pengalaman praktis.
-
+  Mari mulai menggunakan Git dalam dunia Open Source, mulai dari Opensource Playground. Dirancang khusus untuk tujuan edukasi and pengalaman praktis.
 
 ## Pencarian GitHub secara Langsung
+
 Link pencarian yang mengarah langsung ke issue yang sesuai untuk berkontribusi di GitHub.
+
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
 - [is:issue is:open label:first-timers-only](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
@@ -74,14 +76,16 @@ Link pencarian yang mengarah langsung ke issue yang sesuai untuk berkontribusi d
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
 ## Ekosistem Kontributor Mozilla
+
 - [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - bug yang telah diidentifikasi oleh para developer sebagai pengantar yang baik untuk proyek yang telah ditujukan.
-- [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bug yang memiliki mentor yang akan ada di IRC untuk membantu Anda ketika Anda mengalami kebuntuan saat mengerjakan perbaikan.
+- [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bug dengan mentor yang akan ada di IRC untuk membantu Anda ketika Anda mengalami kebuntuan saat mengerjakan perbaikan.
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - situs halaman yang didedikasikan untuk mencari bug di Bugzilla.
 - [Firefox DevTools](http://firefox-dev.tools/) - situs yang didedikasikan untuk bug yang diajukan untuk alat developer di browser Firefox.
 - [What Can I Do For Mozilla](https://whatcanidoformozilla.org/) - cari tahu apa yang dapat Anda kerjakan dengan menjawab banyak pertanyaan tentang keahlian dan minat Anda.
 - [Start Mozilla](https://twitter.com/StartMozilla) - akun Twitter yang meng-tweet tentang berbagai issue yang cocok bagi kontributor baru di ekosistem Mozilla.
 
 ## Artikel Berguna untuk Kontributor Open Source Pemula
+
 - [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) ditulis oleh [@GitHub](https://github.com/github)
 - [How to find your first Open Source bug to fix](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) ditulis oleh [@Shubheksha](https://github.com/Shubheksha)
 - [First Timers Only](https://kentcdodds.com/blog/first-timers-only/) ditulis oleh [@kentcdodds](https://github.com/kentcdodds)
@@ -101,6 +105,7 @@ Link pencarian yang mengarah langsung ke issue yang sesuai untuk berkontribusi d
 - [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) ditulis oleh Kent C. Dodds
 
 ## Menggunakan Kendali Versi
+
 - [Think Like (a) Git](http://think-like-a-git.net/) - Pengantar Git untuk para "pemula tingkat lanjut", tetapi masih kesulitan, bacaan ini dapat memberi Anda strategi sederhana untuk bereksperimen dengan aman mengunakan git.
 - [Try Git](https://try.github.io/) - Belajar Git dalam 15 menit dari Browser secara gratis.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Kumpulan perintah yang berguna untuk pemakaian Git dalam sehari-hari.
@@ -119,7 +124,8 @@ Link pencarian yang mengarah langsung ke issue yang sesuai untuk berkontribusi d
 - [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - Sering meng-commit, Sempurnakan Nanti, Publikasikan Sekali: Praktik Terbaik Mengunakan Git.
 - [Git Interactive Tutorial](https://learngitbranching.js.org/) - Pelajari Git dengan cara yang paling visual dan interaktif.
 
-## Buku Tentang Open Source
+## Buku-buku tentang Open Source
+
 - [Producing Open Source Software](https://producingoss.com/) - Producing Open Source Software adalah sebuah buku tentang sisi manusia dari pengembangan Open Source. Buku ini menjelaskan bagaimana proyek yang sukses beroperasi, ekspektasi pengguna dan para developers, dan budaya perangkat lunak gratis.
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - Pelajari lebih lanjut tentang Open Source dan gerakan Open Source yang bertumbuh dengan daftar lengkap eBook gratis dari https://opensource.com.
 - [Software Release Practice HOWTO](https://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - HOWTO ini menjelaskan praktik rilis yang baik untuk Linux dan proyek Open Source lainnya. Dengan mengikuti praktik ini, Anda akan membuatnya semudah mungkin bagi pengguna untuk mem-built kode Anda dan menggunakannya, dan bagi pengembang lain untuk memahami kode Anda dan bekerja sama dengan Anda untuk memperbaikinya.
@@ -128,6 +134,7 @@ Link pencarian yang mengarah langsung ke issue yang sesuai untuk berkontribusi d
 - [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - Esai yang ditulis oleh pelopor Open Source seperti Linus Torvalds (Linux), Larry Wall (Perl), and Richard Stallman (GNU).
 
 ## Inisiatif untuk Kontribusi Open Source
+
 - [Up For Grabs](https://up-for-grabs.net/) - Berisi proyek dengan issue ramah untuk pemula.
 - [First Timers Only](https://www.firsttimersonly.com/) - Sekumpulan bug yang berlabel "first-timers-only".
 - [First Contributions](https://firstcontributions.github.io/) - Membuat kontribusi Open Source pertama dalam 5 menit. Sebuah alat dan tutorial yang membantu para pemula untuk mulai berkontribusi. [Berikut](https://github.com/firstcontributions/first-contributions) adalah source code GitHub untuk situs tersebut dan kesempatan untuk memberikan kontribusi ke repositori itu sendiri.
@@ -135,4 +142,5 @@ Link pencarian yang mengarah langsung ke issue yang sesuai untuk berkontribusi d
 - [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests adalah sebuah proyek untuk mempromosikan kolaborasi Open Source menjelang bulan Desember.
 
 ## Lisensi
+
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />Karya ini berlisensi di bawah <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
