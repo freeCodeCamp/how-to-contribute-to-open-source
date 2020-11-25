@@ -28,7 +28,7 @@
 
 Ini adalah senarai sumber untuk orang yang baru dan ingin melibatkan diri dalam menyumbang kepada Sumber Terbuka.
 
-Jika anda jumpa sumber tambahan, sila menyumbang dengan membuat satu 'pull request'.
+Jika anda jumpa sumber tambahan, sila menyumbang dengan membuat satu permintaan tarik('pull request').
 
 Jika anda mempunyai soalan atau komen, sila membuat satu isu tentang soalan atau komen tersebut.
 
