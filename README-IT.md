@@ -107,7 +107,7 @@ Se hai domande o commenti, crea un problema/issue.
 - [Open Sources 2.0: L'Evoluzione della Contribuzione](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 è una raccolta di saggi penetranti e stimolanti dei leader tecnologici di oggi che continua a dipingere quadro evolutivo sviluppato nel libro del 1999, Open Sources: Le voci della revoluzione.
 
 ## Iniziative per contribuire all'Open Source
-- [In palio](https://up-for-grabs.net/) - un elenco di progetti con problemi per i principianti.
+- [Disponibli](https://up-for-grabs.net/) - un elenco di progetti con problemi per i principianti.
 - [Solo per principianti](https://www.firsttimersonly.com/) - Lista di bug etichettati come "first-timers-only".
 - [Primi contributi](https://firstcontributions.github.io/) - Fai il tuo primo contributo Open Source in 5 minuti. Uno strumento e tutorial per aiutare i principianti ad iniziare a contribuire. [Qui](https://github.com/firstcontributions/first-contributions) si trova il codice sorgente Github per il sito e l'opportunità per contribuire al repository stesso.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Un evento per incoraggiare i contributi Open Source. Guadagna regali come magliette e adesivi facendo almento 4 pull request nel mese di ottobre.
