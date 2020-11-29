@@ -107,7 +107,7 @@
 ## 开源书籍
 - [Producing Open Source Software](http://producingoss.com/) - Producing Open Source Software是一本关于开源开发人性化方面的书。它描述了成功的项目如何运作，用户和开发人员的期望，以及自由软件的文化。
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - 通过 https://opensource.com 提供的免费电子书的全面列表，进一步了解开源和不断增长的开源运动。
-- [Software Release Practice HOWTO](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - HOWTO介绍了Linux和其他开源项目的良好发布实践。通过遵循这些实践，您将使用户尽可能容易地构建和使用您的代码，并使其他开发人员能够理解您的代码并与您合作改进它。
+- [Software Release Practice HOWTO](http://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - HOWTO介绍了Linux和其他开源项目的良好发布实践。通过遵循这些实践，您将使用户尽可能容易地构建和使用您的代码，并使其他开发人员能够理解您的代码并与您合作改进它。
 - [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) -《开放源代码2.0》是当今技术领导者富有洞察力和启发性的论文集，这些论文继续描绘了1999年出版的《开放源代码：革命之声》一书中的进化图景。
 
 ## 开源贡献初步

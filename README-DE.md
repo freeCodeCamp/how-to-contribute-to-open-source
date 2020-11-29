@@ -133,7 +133,7 @@ Suchbegriffe, die direkt auf für Einsteiger\*innen geeignete Issues auf GitHub 
   Projekte agieren, die Erwartungen der Nutzer\*innen und Entwickler\*innen und die Kultur freier Software.
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - lerne mehr über Freie Software und die Freie-Software-Bewegung durch eine Reihe von
   verständlichen EBooks von https://opensource.com.
-- [Software Release Practice HOWTO](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - dieses How-To beschreibt gute Veröffentlichungspraxis für Linux
+- [Software Release Practice HOWTO](http://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - dieses How-To beschreibt gute Veröffentlichungspraxis für Linux
   und andere Freie-Software-Projekte. Wenn du dich an diese Praxis hältst, machst du es anderen Nutzer\*innen einfacher, deinen Code zu nutzen, zu verstehen und
   mit ihm zu arbeiten.
 - [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - "Open Sources 2.0" ist eine Essaysammlung
