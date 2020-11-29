@@ -120,7 +120,7 @@ GitHub에서 기여할 만한 적절한 이슈를 직접적으로 가리키는 �
 ## 오픈 소스 서적
 - [Producing Open Source Software](http://producingoss.com/) - Producing Open Source Software 는 오픈 소스 개발의 인간적인 측면에 대한 책입니다. 이 책에서는 프로젝트의 성공적인 운영 방식, 사용자와 개발자의 기대, 자유 소프트웨어 문화에 대해 다룹니다.
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - https://opensource.com 에서 무료 eBook 리스트를 통해 오픈 소스와 성장하는 오픈 소스 운동에 대해 배워보세요.
-- [Software Release Practice HOWTO](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - HOWTO 에서는 리눅스와 다른 오픈 소스 프로젝트의 좋은 배포 방법을 설명합니다. 이러한 방법을 따름으로서, 당신은 사용자가 쉽게 당신의 코드를 작성하고 사용할 수 있게 할 수 있으며, 다른 개발자가 당신의 코드를 쉽게 이해하고 개선하기 위해 협력할 수 있습니다.
+- [Software Release Practice HOWTO](http://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - HOWTO 에서는 리눅스와 다른 오픈 소스 프로젝트의 좋은 배포 방법을 설명합니다. 이러한 방법을 따름으로서, 당신은 사용자가 쉽게 당신의 코드를 작성하고 사용할 수 있게 할 수 있으며, 다른 개발자가 당신의 코드를 쉽게 이해하고 개선하기 위해 협력할 수 있습니다.
 - [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0은 1999년의 책인 오픈 소스 : 혁명의 목소리에서 발전된 진화적인 그림을 이어 그리는 오늘날의 기술 리더들의 통찰력과 생각을 자극하는 에세이들의 모음집입니다.
 - [The Architecture of Open Source Applications](http://www.aosabook.org/en/git.html) - 분산 워크플로우를 가능하게 하기 위해서 Git의 다양한 측면이 어떻게 작동하는지, 그리고 다른 버전 관리 시스템(VCSs)들과 어떻게 다른지 보여줍니다.
 
