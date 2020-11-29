@@ -110,7 +110,7 @@ Se hai domande o commenti, crea un problema/issue.
 - [In palio](https://up-for-grabs.net/) - un elenco di progetti con problemi per i principianti.
 - [Solo per principianti](https://www.firsttimersonly.com/) - Lista di bug etichettati come "first-timers-only".
 - [Primi contributi](https://firstcontributions.github.io/) - Fai il tuo primo contributo Open Source in 5 minuti. Uno strumento e tutorial per aiutare i principianti ad iniziare a contribuire. [Qui](https://github.com/firstcontributions/first-contributions) si trova il codice sorgente Github per il sito e l'opportunità per contribuire al repository stesso.
-- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Un programma per incoraggiare i contributi Open Source. Guadagna regali come t-shirts e adesivi facendo almento 4 pull requests nel mese di ottobre.
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Un evento per incoraggiare i contributi Open Source. Guadagna regali come magliette e adesivi facendo almento 4 pull request nel mese di ottobre.
 - [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests è un progetto per promuovere la collaborazione Open Source durante il mese di dicembre.
 
 ## Licenza
