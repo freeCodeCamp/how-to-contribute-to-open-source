@@ -36,7 +36,7 @@
 **সূচীপত্র**
 
 - [সাধারণভাবে ওপেন সোর্স-এ অবদান](#সাধারণভাবে-ওপেন-সোর্স-এ-অবদান)
-- [ডাইরেক্ট গিটহাব অনুসন্ধান](#ডাইরেক্ট-গিটহাব-অনুসন্ধান)
+- [সরাসরি গিটহাব অনুসন্ধান](#সরাসরি-গিটহাব-অনুসন্ধান)
 - [মজিলার অবদানকারী ইকোসিস্টেম](#মজিলার-অবদানকারী-ইকোসিস্টেম)
 - [নতুন ওপেন সোর্স অবদানকারীদের জন্য দরকারী নিবন্ধ](#নতুন-ওপেন-সোর্স-অবদানকারীদের-জন্য-দরকারী-নিবন্ধ)
 - [ভার্সন কন্ট্রোলের ব্যবহার](#ভার্সন-কন্ট্রোলের-ব্যবহার)
@@ -46,18 +46,18 @@
 
 ## সাধারণভাবে ওপেন সোর্স-এ অবদান
 - [ওপেন সোর্সে অবদান রাখার সংজ্ঞা নির্দেশিকা](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
-- [ওপেন সোর্স সম্পর্কে বিবরণ](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials by DigitalOcean to guide you on your way to contribution success here on GitHub.
-- [Issuehub.io](http://issuehub.io/) - a tool for searching GitHub issues by label and language.
-- [Code Triage](https://www.codetriage.com/) - another, really nice, tool for finding popular repositories and issues filtered by language.
-- [নতুনদের জন্য দুর্দান্ত](https://github.com/MunGell/awesome-for-beginners) - a GitHub repo that amasses projects with good bugs for new contributors, and applies labels to describe them.
-- [ওপেন সোর্স নির্দেশিকা](https://opensource.guide/) - Collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an Open Source project.
-- [৪৫ গিটহাব ইস্যু : কি করবেন এবং কি করবেন না](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Do's and Don'ts on GitHub.
-- [গিটহাব নির্দেশিকা](https://guides.github.com/) - basic guides on how to use GitHub effectively.
-- [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Learn the GitHub workflow by contributing code to a simulation project.
-- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - The Linux Foundation's guides to Open Source projects.
-- [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - An Open Source Etiquette Guidebook, written by Kent C. Dodds And Sarah Drasner.
-- [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Curated list of resources and opportunities for college students to learn a new coding language.
-- [Pull Request Roulette](http://www.pullrequestroulette.com/) - This site has a list of pull requests submitted for review belonging to Open Source projects hosted on Github.
+- [ওপেন সোর্স সম্পর্কে বিবরণ](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - DigitalOcean-এর টিউটোরিয়াল যা আপনাকে গিটহাবের অবদান সাফল্যের পথে গাইড করবে।
+- [Issuehub.io](http://issuehub.io/) - লেবেল এবং ভাষাগুলি দ্বারা গিটহাব ইস্যু অনুসন্ধানের জন্য একটি সরঞ্জাম।
+- [Code Triage](https://www.codetriage.com/) - আরেকটি, সত্যিই দুর্দান্ত, জনপ্রিয় রিপোসিটোরি এবং ভাষার দ্বারা ফিল্টার করা সমস্যাগুলি অনুসন্ধান করার সরঞ্জাম।
+- [নতুনদের জন্য দুর্দান্ত](https://github.com/MunGell/awesome-for-beginners) - একটি গিটহাব রিপোসিটোরি যা নতুন অবদানকারীদের জন্য ভাল বাগ সহ প্রকল্পগুলিকে সংগ্রহ করে এবং সেগুলি বর্ণনা করার জন্য লেবেল প্রয়োগ করে।
+- [ওপেন সোর্স নির্দেশিকা](https://opensource.guide/) - কোনও ওপেন সোর্স প্রকল্প কীভাবে চালনা এবং প্রকল্পগুলোতে অবদান রাখতে হয় তা শিখতে চায় এমন ব্যক্তি, সম্প্রদায় এবং সংস্থাগুলির জন্য সংস্থান সংগ্রহ।
+- [৪৫ গিটহাব ইস্যু : কি করবেন এবং কি করবেন না](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - গিটহাবে কি করবেন এবং কি করবেন না।
+- [গিটহাব নির্দেশিকা](https://guides.github.com/) - কীভাবে গিটহাবকে কার্যকরভাবে ব্যবহার করতে হবে তার প্রাথমিক নির্দেশিকা। 
+- [ওপেন সোর্সে অবদান](https://github.com/danthareja/contribute-to-open-source) - সিমুলেশন প্রকল্পে কোড অবদানের মাধ্যমে গিটহাব ওয়ার্কফ্লো শিখুন।
+- [লিনাক্স ফাউন্ডেশন কর্তৃক এন্টারপ্রাইজের ওপেন সোর্স নির্দেশিকা ](https://www.linuxfoundation.org/resources/open-source-guides/) - লিনাক্স ফাউন্ডেশনের ওপেন সোর্স প্রকল্পগুলির নির্দেশিকা।
+- [CSS Tricks: একটি ওপেন সোর্স শিষ্টাচার শেখার গাইড বই](https://css-tricks.com/open-source-etiquette-guidebook/) - ক্যান্ট সি ডড্ডস এবং সারাহ ড্র্যাসনারের লিখিত একটি ওপেন সোর্স শিষ্টাচার গাইডবুক।
+- [শিক্ষার্থীদের জন্য A টু Z রিসোর্স](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - কলেজ ছাত্রদের একটি নতুন কোডিং ভাষা শেখার জন্য সংস্থানসমূহ এবং সুযোগগুলির একটি তালিকা।
+- [Pull Request Roulette](http://www.pullrequestroulette.com/) - এই সাইটে গিটহাব হোস্ট ওপেন সোর্স প্রকল্পগুলির অন্তর্গত পর্যালোচনার জন্য জমা দেওয়া পুল রিকুয়েস্টগুলির একটি তালিকা রয়েছে।
 - ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - A step-by-step video guide of how to start contributing to Open Source projects on GitHub.
 - [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - This walkthrough of an open source contribution covers everything from picking a suitable project, working on an issue, to getting the PR merged in.
 - ["How to Contribute to Open Source Project by" Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - They are focusing on the nitty-gritty of contributing a pull request (PR) to someone else’s project on GitHub.
@@ -68,8 +68,8 @@
 Lets Git started in the world of opensource, starting in the opensource playground. Especially designed for education and practical experience purposes.
 
 
-## Direct GitHub searches
-Search links that point directly to suitable issues to contribute to on GitHub.
+## সরাসরি গিটহাব অনুসন্ধান
+গিটহাবের অবদানের জন্য উপযুক্ত বিষয়গুলিতে সরাসরি নির্দেশিত লিঙ্কগুলি অনুসন্ধান করুন।
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
 - [is:issue is:open label:first-timers-only](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
@@ -78,7 +78,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [is:issue is:open label:starter](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Astarter)
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
-## Mozilla's contributor ecosystem
+## মজিলার অবদানকারী ইকোসিস্টেম
 - [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - bugs that developers have identified as a good introduction to the project.
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs that have a mentor assigned who will be there on IRC to help you when you get stuck while working on a fix.
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - a site dedicated to finding bugs on Bugzilla.
@@ -86,7 +86,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [What Can I Do For Mozilla](https://whatcanidoformozilla.org/) - figure out what you can work on by answering a bunch of questions about your skill set and interests.
 - [Start Mozilla](https://twitter.com/StartMozilla) - a Twitter account that tweets about issues fit for contributors new to the Mozilla ecosystem.
 
-## Useful articles for new Open Source contributors
+## নতুন ওপেন সোর্স অবদানকারীদের জন্য দরকারী নিবন্ধ
 - [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
 - [How to find your first Open Source bug to fix](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) by [@Shubheksha](https://github.com/Shubheksha)
 - [First Timers Only](https://kentcdodds.com/blog/first-timers-only/) by [@kentcdodds](https://github.com/kentcdodds)
@@ -105,7 +105,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [How to get started with Open Source - By Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/)
 - [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) by Kent C. Dodds
 
-## Using Version Control
+## ভার্সন কন্ট্রোলের ব্যবহার
 - [Think Like (a) Git](http://think-like-a-git.net/) - Git introduction for "advanced beginners," but are still struggling, in order to give you a simple strategy to safely experiment with git.
 - [Try Git](https://try.github.io/) - Learn Git in 15 minutes from within your browser for free.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - A useful minimum set of commands for Everyday Git.
@@ -124,7 +124,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - Commit Often, Perfect Later, Publish Once: Git Best Practices.
 - [Git Interactive Tutorial](https://learngitbranching.js.org/) - Learn Git in the most visual and interactive way.
 
-## Open Source books
+## ওপেন সোর্স বইসমূহ
 - [Producing Open Source Software](https://producingoss.com/) - Producing Open Source Software is a book about the human side of Open Source development. It describes how successful projects operate, the expectations of users and developers, and the culture of free software.
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - Learn more about Open Source and the growing Open Source movement with a comprehensive list of free eBooks from https://opensource.com.
 - [Software Release Practice HOWTO](https://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - This HOWTO describes good release practices for Linux and other Open-Source projects. By following these practices, you will make it as easy as possible for users to build your code and use it, and for other developers to understand your code and cooperate with you to improve it.
