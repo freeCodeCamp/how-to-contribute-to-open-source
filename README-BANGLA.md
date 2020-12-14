@@ -58,14 +58,14 @@
 - [CSS Tricks: একটি ওপেন সোর্স শিষ্টাচার শেখার গাইড বই](https://css-tricks.com/open-source-etiquette-guidebook/) - ক্যান্ট সি ডড্ডস এবং সারাহ ড্র্যাসনারের লিখিত একটি ওপেন সোর্স শিষ্টাচার গাইডবুক।
 - [শিক্ষার্থীদের জন্য A টু Z রিসোর্স](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - কলেজ ছাত্রদের একটি নতুন কোডিং ভাষা শেখার জন্য সংস্থানসমূহ এবং সুযোগগুলির একটি তালিকা।
 - [Pull Request Roulette](http://www.pullrequestroulette.com/) - এই সাইটে গিটহাব হোস্ট ওপেন সোর্স প্রকল্পগুলির অন্তর্গত পর্যালোচনার জন্য জমা দেওয়া পুল রিকুয়েস্টগুলির একটি তালিকা রয়েছে।
-- ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - A step-by-step video guide of how to start contributing to Open Source projects on GitHub.
-- [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - This walkthrough of an open source contribution covers everything from picking a suitable project, working on an issue, to getting the PR merged in.
-- ["How to Contribute to Open Source Project by" Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - They are focusing on the nitty-gritty of contributing a pull request (PR) to someone else’s project on GitHub.
-- ["How to get started with Open Source by" Sayan Chowdhury](https://www.hackerearth.com:443/getstarted-opensource/) - This article covers the resources for contributing to open source for beginners based on their favorite language interest.
-- ["Browse good first issues to start contributing to open source"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) - GitHub now helps you find good first issues to start contributing to open source.
-- ["How to Contribute to Open Source Project" by Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - This comprehensive article is directed towards businesses (but still useful for individual contributors) where it talks about why, how, and what open-source projects to contribute to.
-- ["start-here-guidelines" by Andrei](https://github.com/zero-to-mastery/start-here-guidelines) -
-Lets Git started in the world of opensource, starting in the opensource playground. Especially designed for education and practical experience purposes.
+- ["গিটহাবের ওপেন সোর্স প্রকল্পে কীভাবে অবদান রাখবেন" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - গিটহাবের ওপেন সোর্স প্রকল্পগুলিতে কীভাবে অবদান শুরু করা যায় তার একটি ধাপে ধাপে ভিডিও গাইড।
+- [ওপেন সোর্স-এ অবদান: শুরু থেকে শেষ পর্যন্ত একটি লাইভ পর্যালোচনা।](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - ওপেন সোর্স অবদানের এই নির্দেশিকাটি উপযুক্ত প্রকল্প বাছাই করা, কোনও ইস্যুতে কাজ করা, PR-কে একীভূত করা থেকে শুরু করে সবকিছু অন্তর্ভুক্ত করে।
+- ["ওপেন সোর্স প্রকল্পে কীভাবে অবদান রাখবেন" by Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - তারা গিটহাবের অন্য কারও প্রকল্পে একটি পুল রিকুয়েস্ট (PR) অবদানের নব্যতা-সাহসের উপরে মনোনিবেশ করছে।
+- ["কীভাবে ওপেন সোর্স দিয়ে শুরু করবেন" Sayan Chowdhury](https://www.hackerearth.com:443/getstarted-opensource/) - এই নিবন্ধটি তাদের পছন্দের ভাষার আগ্রহের উপর ভিত্তি করে নতুনদের জন্য ওপেন সোর্সটিতে অবদান রাখার সংস্থানগুলি বর্ণনা করে।
+- ["ওপেন সোর্সটিতে অবদান রাখতে শুরু করার জন্য প্রথম ভাল সমস্যাগুলি অনুসন্ধান করুন"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) - গিটহাব এখন আপনাকে ওপেন সোর্সটিতে অবদান রাখতে শুরু করার জন্য প্রথম ভাল সমস্যাগুলি খুঁজে পেতে সহায়তা করে।
+- ["ওপেন সোর্স প্রকল্পে কীভাবে অবদান রাখতে হয়" by Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - এই বিস্তৃত নিবন্ধটি ব্যবসায়ের দিকে পরিচালিত হয়েছে (তবে স্বতন্ত্র অবদানকারীদের পক্ষে এখনও কার্যকর) যেখানে এটি কেন, কীভাবে, এবং কী ওপেন-সোর্স প্রকল্পগুলিতে অবদান রাখতে হবে সে সম্পর্কে আলোচনা করে।
+- ["এখানে-শুরু-করুন-নির্দেশিকা" by Andrei](https://github.com/zero-to-mastery/start-here-guidelines) -
+আসুন ওপেনসোর্স বিশ্বে শুরু করা যাক। বিশেষত শিক্ষা এবং ব্যবহারিক অভিজ্ঞতার উদ্দেশ্যে ডিজাইন করা।
 
 
 ## সরাসরি গিটহাব অনুসন্ধান
@@ -79,19 +79,19 @@ Lets Git started in the world of opensource, starting in the opensource playgrou
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
 ## মজিলার অবদানকারী ইকোসিস্টেম
-- [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - bugs that developers have identified as a good introduction to the project.
-- [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs that have a mentor assigned who will be there on IRC to help you when you get stuck while working on a fix.
-- [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - a site dedicated to finding bugs on Bugzilla.
-- [Firefox DevTools](http://firefox-dev.tools/) - a site dedicated to bugs filed for the developer tools in the Firefox browser.
-- [What Can I Do For Mozilla](https://whatcanidoformozilla.org/) - figure out what you can work on by answering a bunch of questions about your skill set and interests.
-- [Start Mozilla](https://twitter.com/StartMozilla) - a Twitter account that tweets about issues fit for contributors new to the Mozilla ecosystem.
+- [ভাল প্রথম বাগ](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - কিছু বাগ যা বিকাশকারীরা প্রকল্পের জন্য একটি ভাল ভূমিকা হিসাবে চিহ্নিত করেছেন।
+- [মেন্টরড বাগ](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - কিছু বাগ যাদের জন্য একজন পরামর্শদাতা নিয়োগ পেয়েছেন যিনি IRC-তে থাকবেন এবং যখন আপনি কোনও কাজ করার সময় আটকে পড়লে আপনাকে তিনি সহায়তা করবেন।
+- [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - Bugzilla-তে বাগ অনুসন্ধান করার জন্য উত্সর্গীকৃত একটি সাইট।
+- [ফায়ারফক্স ডেভটুলস](http://firefox-dev.tools/) - ফায়ারফক্স ব্রাউজারে বিকাশকারী সরঞ্জামগুলির জন্য দায়ের করা বাগগুলির জন্য উত্সর্গীকৃত একটি সাইট।
+- [আমি মজিলার জন্য কি করতে পারি](https://whatcanidoformozilla.org/) - আপনার দক্ষতা সেট এবং আগ্রহগুলি সম্পর্কে একগুচ্ছ প্রশ্নের উত্তর দিয়ে আপনি কী কাজ করতে পারবেন তা নির্ধারণ করুন।
+- [মজিলা শুরু করুন](https://twitter.com/StartMozilla) - একটি টুইটার অ্যাকাউন্ট যা মজিলা ইকোসিস্টেমে নতুন অবদানকারীদের জন্য ইস্যুগুলি সম্পর্কে টুইট করে।
 
 ## নতুন ওপেন সোর্স অবদানকারীদের জন্য দরকারী নিবন্ধ
-- [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
-- [How to find your first Open Source bug to fix](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) by [@Shubheksha](https://github.com/Shubheksha)
-- [First Timers Only](https://kentcdodds.com/blog/first-timers-only/) by [@kentcdodds](https://github.com/kentcdodds)
-- [Bring Kindness Back to Open Source](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) by [@shanselman](https://github.com/shanselman)
-- [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
+- [আপনার প্রথম ওপেন সোর্স প্রকল্পটি কীভাবে নির্বাচন করবেন (এবং এতে অবদান রাখবেন)](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
+- [ঠিক করার জন্য আপনার প্রথম ওপেন সোর্স বাগটি কীভাবে খুঁজে পাবেন](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) by [@Shubheksha](https://github.com/Shubheksha)
+- [শুধুমাত্র প্রথম Timers](https://kentcdodds.com/blog/first-timers-only/) by [@kentcdodds](https://github.com/kentcdodds)
+- [ আপনার উদারতাটিকে ওপেন সোর্সে ফিরিয়ে আনুন](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) by [@shanselman](https://github.com/shanselman)
+- [প্রথমবারের জন্য ওপেন সোর্সে প্রবেশ করা](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
 - [How to Find a Bug in Your Code](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) by [@GitHub](https://github.com/github)
@@ -132,13 +132,13 @@ Lets Git started in the world of opensource, starting in the opensource playgrou
 - [The Architecture of Open Source Applications](http://www.aosabook.org/en/git.html) - Show how various aspects of Git work under the covers to enable distributed workflows, and how it differs from other version control systems (VCSs).
 - [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - Essays from open-source pioneers such as Linus Torvalds (Linux), Larry Wall (Perl), and Richard Stallman (GNU).
 
-## Open Source contribution initiatives
-- [Up For Grabs](https://up-for-grabs.net/) - Contains projects with beginner-friendly issues
-- [First Timers Only](https://www.firsttimersonly.com/) - A list of bugs that are labelled "first-timers-only".
-- [First Contributions](https://firstcontributions.github.io/) - Make your first Open Source contribution in 5 minutes. A tool and tutorial to help beginners get started with contributions. [Here](https://github.com/firstcontributions/first-contributions) is the GitHub source code for the site and opportunity to make a contribution to the repository itself.
-- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - A program to encourage Open Source contributions. Earn gifts like t-shirts and stickers by making at least 4 pull requests in the month of October.
-- [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests is a project to promote Open Source collaboration during the month of December.
-- [Ovio](https://ovio.org) - A platform with a curated selection of contributor-friendly projects. It has a [powerful issue search tool](https://ovio.org/issues) and let's you save projects and issues for later.
+## ওপেন সোর্স অবদানের উদ্যোগ
+- [Up For Grabs](https://up-for-grabs.net/) - প্রারম্ভিক-বন্ধুত্বপূর্ণ সমস্যাগুলির সাথে প্রকল্পগুলি ধারণ করে।
+- [First Timers Only](https://www.firsttimersonly.com/) - "কেবলমাত্র প্রথমবারের জন্য" লেবেলযুক্ত বাগগুলির একটি তালিকা।
+- [First Contributions](https://firstcontributions.github.io/) - ৫মিনিটের মধ্যে আপনার প্রথম ওপেন সোর্স অবদান রাখুন। অবদানের মাধ্যমে নতুনদের শুরু করতে সহায়তা করার জন্য একটি সরঞ্জাম এবং টিউটোরিয়াল। [এখানে](https://github.com/firstcontributes/first-contributes) সাইটের গিটহাব উৎস কোড রয়েছেএবং এই রিপোসিটোরিতে নিজেই অবদান রাখার সুযোগ নিন।
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - ওপেন সোর্স অবদানকে উত্সাহিত করার জন্য একটি প্রোগ্রাম অক্টোবর মাসে কমপক্ষে ৪টি পুল রিকুয়েস্ট করে টি-শার্ট এবং স্টিকারের মতো উপহারগুলি উপার্জন করুন।
+- [24 Pull Requests](https://24pullrequests.com) - ২৪ পুল রিকুয়েস্ট ডিসেম্বরের মাসে ওপেন সোর্স সহযোগিতার প্রচারের জন্য একটি প্রকল্প।
+- [Ovio](https://ovio.org) - অবদানকারী-বান্ধব প্রকল্পগুলির একটি সংযুক্ত নির্বাচনসহ প্ল্যাটফর্ম। এটির একটি [শক্তিশালী সমস্যা অনুসন্ধানের সরঞ্জাম](https://ovio.org/issues) রয়েছে এবং এখানে আপনি পরবর্তী প্রকল্পগুলি এবং সমস্যাগুলি সংরক্ষণ করতে পারবেন।
 
 ## লাইসেন্স
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />এই কাজটি <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>  এর অধীনে লাইসেন্স প্রাপ্ত।
