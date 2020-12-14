@@ -1,4 +1,4 @@
-<!-- Do not translate this -->
+<!-- Do not translate this! -->
 
 <details>
   <summary>
