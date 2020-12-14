@@ -89,40 +89,40 @@
 ## নতুন ওপেন সোর্স অবদানকারীদের জন্য দরকারী নিবন্ধ
 - [আপনার প্রথম ওপেন সোর্স প্রকল্পটি কীভাবে নির্বাচন করবেন (এবং এতে অবদান রাখবেন)](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
 - [ঠিক করার জন্য আপনার প্রথম ওপেন সোর্স বাগটি কীভাবে খুঁজে পাবেন](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) by [@Shubheksha](https://github.com/Shubheksha)
-- [শুধুমাত্র প্রথম Timers](https://kentcdodds.com/blog/first-timers-only/) by [@kentcdodds](https://github.com/kentcdodds)
+- [শুধুমাত্র প্রথম Timers-দের জন্য](https://kentcdodds.com/blog/first-timers-only/) by [@kentcdodds](https://github.com/kentcdodds)
 - [ আপনার উদারতাটিকে ওপেন সোর্সে ফিরিয়ে আনুন](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) by [@shanselman](https://github.com/shanselman)
 - [প্রথমবারের জন্য ওপেন সোর্সে প্রবেশ করা](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
-- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
-- [How to Find a Bug in Your Code](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
-- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) by [@GitHub](https://github.com/github)
-- [First mission: Contributors page](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
-- [How to make your first Open Source contribution in just 5 minutes](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) by [@roshanjossey](https://github.com/Roshanjossey/)
-- [Hacktoberfest 2019: How you can get your free shirt — even if you’re new to coding](https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b/) by [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
-- [A Bitter Guide To Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
-- [A junior developer’s step-by-step guide to contributing to Open Source for the first time](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) by [@LetaKeane](https://hackernoon.com/u/letakeane)
-- [Learn Git and GitHub Step By Step (on Windows)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) by [@ows-ali](https://medium.com/@ows_ali)
-- [Why Open Source and How?](https://careerkarma.com/blog/open-source-projects-for-beginners/) by [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
-- [How to get started with Open Source - By Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/)
-- [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) by Kent C. Dodds
+- [ওপেন সোর্সে কীভাবে অবদান রাখবেন](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
+- [আপনার কোডে কীভাবে কোনও বাগ খুঁজে পাবেন](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
+- [মার্কডাউন প্রভুত্ব করুন](https://guides.github.com/features/mastering-markdown/) by [@GitHub](https://github.com/github)
+- [প্রথম মিশন: অবদানকারীদের পৃষ্ঠা](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
+- [মাত্র ৫ মিনিটে কীভাবে আপনার প্রথম ওপেন সোর্স অবদান রাখবেন](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) by [@roshanjossey](https://github.com/Roshanjossey/)
+- [Hacktoberfest 2019: আপনি কীভাবে আপনার ফ্রি শার্টটি পেতে পারেন - আপনি কোডিংয়ে নতুন হয়ে থাকলেও](https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b/) by [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
+- [ওপেন সোর্সের জন্য তিক্ত গাইড](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
+- [প্রথমবারের মতো ওপেন সোর্সে অবদান রাখার জন্য একজন জুনিয়র বিকাশকারীদের জন্য ধাপে ধাপে নির্দেশিকা](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) by [@LetaKeane](https://hackernoon.com/u/letakeane)
+- [গিট এবং গিটহাব ধাপে ধাপে শিখুন (উইন্ডোজে)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) by [@ows-ali](https://medium.com/@ows_ali)
+- [কেন ওপেন সোর্স এবং কিভাবে?](https://careerkarma.com/blog/open-source-projects-for-beginners/) by [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
+- [ওপেন সোর্স দিয়ে কীভাবে শুরু করবেন - By Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/)
+- [কোন ওপেন সোর্সে আমার অবদান রাখা উচিৎ](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) by Kent C. Dodds
 
 ## ভার্সন কন্ট্রোলের ব্যবহার
-- [Think Like (a) Git](http://think-like-a-git.net/) - Git introduction for "advanced beginners," but are still struggling, in order to give you a simple strategy to safely experiment with git.
-- [Try Git](https://try.github.io/) - Learn Git in 15 minutes from within your browser for free.
-- [Everyday Git](https://git-scm.com/docs/giteveryday) - A useful minimum set of commands for Everyday Git.
-- [Oh shit, git!](https://ohshitgit.com/) - how to get out of common `git` mistakes described in plain English; also see [Dangit, git!](https://dangitgit.com/) for the page without swears.
-- [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) - various tutorials on using `git`.
+- [Think Like (a) Git](http://think-like-a-git.net/) - গিটের সাথে নিরাপদে পরীক্ষা করার জন্য আপনাকে একটি সহজ কৌশল দেওয়ার জন্য "উন্নত সূচনাপ্রাপ্তদের" জন্য গিট-এর পরিচিতি।
+- [Try Git](https://try.github.io/) - আপনার ব্রাউজারের মধ্যে থেকে 15 মিনিটের মধ্যে বিনামূল্যে গিট শিখুন।
+- [Everyday Git](https://git-scm.com/docs/giteveryday) - প্রতিদিনের গিটের জন্য একটি কার্যকর সর্বনিম্ন কমান্ডের সেট।
+- [Oh shit, git!](https://ohshitgit.com/) - কীভাবে সরল ইংরেজিতে বর্ণিত সাধারণ `গিট` ভুল থেকে বেরিয়ে আসবেন; শপথ ছাড়াই পৃষ্ঠার জন্য [Dangit, git!] (https://dangitgit.com/) দেখুন।
+- [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) - `গিট` ব্যবহার করার জন্য বিভিন্ন টিউটোরিয়াল।
 - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
 - [freeCodeCamp's Wiki on Git Resources](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
-- [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - GitHub talk on how to make a pull request.
-- [GitHub Learning Resources](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/git-and-github-learning-resources) - Git and GitHub learning resources.
-- [Pro Git](https://git-scm.com/book/en/v2) - The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress.
-- [Git-it](https://github.com/jlord/git-it-electron) - Step by step Git tutorial desktop app.
-- [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - A guide about what to do when things go wrong.
-- [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - A complete guide of slides about git and GitHub explained in Spanish. Una guía completa de diapositivas sobre git y GitHub explicadas en Español.
-- [Git Kraken](https://www.gitkraken.com/git-client) - Visual, cross-platform, and interactive `git` desktop application for version control.
-- [Git Tips](https://github.com/git-tips/tips) - Collection of most commonly used git tips and tricks.
-- [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - Commit Often, Perfect Later, Publish Once: Git Best Practices.
-- [Git Interactive Tutorial](https://learngitbranching.js.org/) - Learn Git in the most visual and interactive way.
+- [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - গিটহাব কীভাবে পুল রিকুয়েস্ট করবেন তা সম্পর্কে কিছু কথা।
+- [গিটহাব শেখার সংস্থানসমূহ](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/git-and-github-learning-resources) - গিট এবং গিটহাব শেখার সংস্থানসমূহ।
+- [Pro Git](https://git-scm.com/book/en/v2) - স্কট চকন এবং বেন স্ট্রাব দ্বারা রচিত এবং অ্যাপ্রেস দ্বারা প্রকাশিত পুরো প্রো গিট বই।
+- [Git-it](https://github.com/jlord/git-it-electron) - ধাপে ধাপে গিট টিউটোরিয়াল ডেস্কটপ অ্যাপ্লিকেশন।
+- [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - যখন জিনিসগুলি ভুল হয়ে যায় তখন কী করা উচিত সে সম্পর্কে একটি নির্দেশিকা।
+- [নতুনদের জন্য স্প্যানিশ ভাষায় রচিত গিট নির্দেশিকা](https://platzi.github.io/git-slides/#/) - গিট এবং গিটহাব সম্পর্কে স্লাইডসমূহের একটি সম্পূর্ণ নির্দেশিকা স্প্যানিশ ভাষায় ব্যাখ্যা করা হয়েছে। Una guía completa de diapositivas sobre git y GitHub explicadas en Español.
+- [Git Kraken](https://www.gitkraken.com/git-client) - সংস্করণ নিয়ন্ত্রণের জন্য ভিজ্যুয়াল, ক্রস-প্ল্যাটফর্ম এবং ইন্টারেক্টিভ `গিট` ডেস্কটপ অ্যাপ্লিকেশন।
+- [Git Tips](https://github.com/git-tips/tips) - সর্বাধিক ব্যবহৃত গিট টিপস এবং কৌশলগুলির সংগ্রহ।
+- [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - প্রায়শই কমিট করুন, পরে নিখুঁত করুন, একবার প্রকাশ করুন: গিট সম্পর্কিত সেরা অভ্যাস।
+- [Git Interactive Tutorial](https://learngitbranching.js.org/) - গিটকে সবচেয়ে ভিজ্যুয়াল এবং ইন্টারেক্টিভ উপায়ে শিখুন।
 
 ## ওপেন সোর্স বইসমূহ
 - [Producing Open Source Software](https://producingoss.com/) - Producing Open Source Software is a book about the human side of Open Source development. It describes how successful projects operate, the expectations of users and developers, and the culture of free software.
