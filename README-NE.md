@@ -2,6 +2,7 @@
     <tr>
         <!-- Do not translate this table -->
         <td><a href="./README.md"> English </a></td>
+        <td><a href="./README-BANGLA.md"> বাংলা </a></td>
         <td><a href="./README-CN.md"> 中文 </a></td>
         <td><a href="./README-RU.md"> русский </a></td>
         <td><a href="./README-RO.md"> Română </a></td>
