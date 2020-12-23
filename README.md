@@ -66,7 +66,6 @@ If you have questions or comments, please create an issue.
 - ["start-here-guidelines" by Andrei](https://github.com/zero-to-mastery/start-here-guidelines) -
 Lets Git started in the world of opensource, starting in the opensource playground. Especially designed for education and practical experience purposes.
 
-
 ## Direct GitHub searches
 Search links that point directly to suitable issues to contribute to on GitHub.
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
