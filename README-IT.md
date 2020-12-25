@@ -35,6 +35,7 @@ Se hai domande o commenti, crea un problema/issue.
 - [Articoli utili per i nuovi contributori all'open source](#articoli-utili-per-i-nuovi-contributori-allopen-source)
 - [L'uso della versione di controllo/version control](#luso-della-versione-di-controlloversion-control)
 - [Libri sull'Open Source](#libri-sullopen-source)
+- [Iniziative per contribuire all'Open Source](#iniziative-open-source)
 - [Licenza](#licenza)
 
 ## Contribuire all'open source in generale
@@ -106,6 +107,12 @@ Se hai domande o commenti, crea un problema/issue.
 - [Le Pratiche sul COME/HOWTO rilasciare lo Software](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - Questo COME/HOWTO descrive le buone pratiche di rilascio per Linux e altri progetti open-source. Seguendo queste pratiche, renderete il più semplice possibile per gli utenti a svillupare/creare il vostro codice e usarlo, e per gli altri sviluppatori capire il vostro codice e collaborare con voi per migliorarlo.
 - [Open Sources 2.0: L'Evoluzione della Contribuzione](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 è una raccolta di saggi penetranti e stimolanti dei leader tecnologici di oggi che continua a dipingere quadro evolutivo sviluppato nel libro del 1999, Open Sources: Le voci della revoluzione.
 
+## Iniziative per contribuire all'Open Source
+- [Disponibli](https://up-for-grabs.net/) - un elenco di progetti con problemi per i principianti.
+- [Solo per principianti](https://www.firsttimersonly.com/) - Lista di bug etichettati come "first-timers-only".
+- [Primi contributi](https://firstcontributions.github.io/) - Fai il tuo primo contributo Open Source in 5 minuti. Uno strumento e tutorial per aiutare i principianti ad iniziare a contribuire. [Qui](https://github.com/firstcontributions/first-contributions) si trova il codice sorgente Github per il sito e l'opportunità per contribuire al repository stesso.
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Un evento per incoraggiare i contributi Open Source. Guadagna regali come magliette e adesivi facendo almento 4 pull request nel mese di ottobre.
+- [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests è un progetto per promuovere la collaborazione Open Source durante il mese di dicembre.
 
 ## Licenza
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Questo lavoro è concesso in licenza con una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
