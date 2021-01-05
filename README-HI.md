@@ -77,3 +77,6 @@
 - [is:issue is:open label:"good first issue"](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A"good+first+issue")
 - [is:issue is:open label:starter](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Astarter)
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
+
+## लाइसेंस
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />यह कार्य एक <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Cक्रिएटिव कॉमन्स एट्रिब्यूशन-शेयरएलाइड 4.0 इंटरनेशनल लाइसेंस</a> के तहत लाइसेंस प्राप्त है।.
