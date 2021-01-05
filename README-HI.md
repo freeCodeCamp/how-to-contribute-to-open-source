@@ -67,3 +67,13 @@
 - [मैरीना जेड द्वारा "ओपन सोर्स प्रोजेक्ट में योगदान कैसे करें"](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - यह व्यापक लेख व्यवसायों की ओर निर्देशित है (लेकिन अभी भी व्यक्तिगत योगदानकर्ताओं के लिए उपयोगी है) जहां यह बात करता है कि क्यों, कैसे, और किस ओपन-सोर्स प्रोजेक्ट में योगदान करने के लिए।
 - [आंद्रेई द्वारा "स्टार्ट-हियर-गाइडेंस"](https://github.com/zero-to-mastery/start-here-guidelines) -
 ओपनसोर्स के खेल के मैदान में शुरू होने वाले ओपनसोर्स की दुनिया में शुरुआत करते हैं। विशेष रूप से शिक्षा और व्यावहारिक अनुभव उद्देश्यों के लिए डिज़ाइन किया गया।
+
+## डायरेक्ट गिटहब खोजता है
+ऐसे लिंक खोजें जो सीधे GitHub पर योगदान करने के लिए उपयुक्त मुद्दों की ओर इशारा करते हैं।
+- [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
+- [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
+- [is:issue is:open label:first-timers-only](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
+- [is:issue is:open label:good-first-bug](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Agood-first-bug)
+- [is:issue is:open label:"good first issue"](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A"good+first+issue")
+- [is:issue is:open label:starter](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Astarter)
+- [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
