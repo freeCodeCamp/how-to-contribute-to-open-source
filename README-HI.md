@@ -78,5 +78,13 @@
 - [is:issue is:open label:starter](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Astarter)
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
+## मोज़िला का योगदानकर्ता पारिस्थितिकी तंत्र
+- [गुड फर्स्ट बग्स](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - बग जो डेवलपर्स ने प्रोजेक्ट के लिए एक अच्छे परिचय के रूप में पहचाने हैं।
+- [मेंटेड बग्स](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - बग जो एक संरक्षक को सौंपा गया है जो आईआरसी पर आपकी मदद करेगा जब आप एक फिक्स पर काम करते समय फंस जाते हैं।
+- [बग्स अहोय](https://www.joshmatthews.net/bugsahoy/) - एक ऐसी साइट है जो बगज़िला में बग ढूंढने के लिए समर्पित है।
+- [फ़ायरफ़ॉक्स DevTools](http://firefox-dev.tools/) - फ़ायरफ़ॉक्स ब्राउज़र में डेवलपर टूल के लिए दायर किए गए बग के लिए समर्पित एक साइट है।
+- [मोज़िला के लिए मैं क्या कर सकता हूं](https://whatcanidoformozilla.org/) - अपने कौशल सेट और रुचियों के बारे में सवालों के एक गुच्छा का जवाब देकर आप क्या काम कर सकते हैं।
+- [मोज़िला शुरू करें](https://twitter.com/StartMozilla) - एक ट्विटर खाता जो मुद्दों के बारे में ट्वीट करता है जो मोज़िला पारिस्थितिकी तंत्र के लिए योगदानकर्ताओं के लिए उपयुक्त है।
+
 ## लाइसेंस
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />यह कार्य एक <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">क्रिएटिव कॉमन्स एट्रिब्यूशन-शेयरएलाइड 4.0 इंटरनेशनल लाइसेंस</a> के तहत लाइसेंस प्राप्त है।.
