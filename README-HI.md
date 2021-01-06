@@ -86,5 +86,24 @@
 - [मोज़िला के लिए मैं क्या कर सकता हूं](https://whatcanidoformozilla.org/) - अपने कौशल सेट और रुचियों के बारे में सवालों के एक गुच्छा का जवाब देकर आप क्या काम कर सकते हैं।
 - [मोज़िला शुरू करें](https://twitter.com/StartMozilla) - एक ट्विटर खाता जो मुद्दों के बारे में ट्वीट करता है जो मोज़िला पारिस्थितिकी तंत्र के लिए योगदानकर्ताओं के लिए उपयुक्त है।
 
+## नए ओपन सोर्स योगदानकर्ताओं के लिए उपयोगी लेख
+- [अपनी पहली ओपन सोर्स परियोजना को कैसे चुनें (और योगदान करें)](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
+- [फिक्स करने के लिए अपना पहला ओपन सोर्स बग कैसे खोजें](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) by [@Shubheksha](https://github.com/Shubheksha)
+- [पहले टाइमर केवल](https://kentcdodds.com/blog/first-timers-only/) by [@kentcdodds](https://github.com/kentcdodds)
+- [ओपन सोर्स पर दया लाएं](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) by [@shanselman](https://github.com/shanselman)
+- [पहली बार के लिए ओपन सोर्स में हो रही है](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
+- [ओपन सोर्स में योगदान कैसे करें](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
+- [अपने कोड में एक बग का पता कैसे लगाएं](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
+- [मास्टरींग मार्कडाउन](https://guides.github.com/features/mastering-markdown/) by [@GitHub](https://github.com/github)
+- [पहला मिशन: योगदानकर्ता पृष्ठ](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
+- [सिर्फ 5 मिनट में कैसे करें अपना पहला ओपन सोर्स योगदान](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) by [@roshanjossey](https://github.com/Roshanjossey/)
+- [Hacktoberfest 2019: आप अपनी मुफ्त शर्ट कैसे प्राप्त कर सकते हैं - भले ही आप कोडिंग में नए हों](https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b/) by [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
+- [स्रोत को खोलने के लिए एक कड़वा गाइड](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
+- [पहली बार ओपन सोर्स में योगदान देने के लिए एक जूनियर डेवलपर का चरण-दर-चरण गाइड](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) by [@LetaKeane](https://hackernoon.com/u/letakeane)
+- [Git और GitHub स्टेप बाय स्टेप (विंडोज पर) सीखें(https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) by [@ows-ali](https://medium.com/@ows_ali)
+- [ओपन सोर्स और क्यों?](https://careerkarma.com/blog/open-source-projects-for-beginners/) by [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
+- [ओपन सोर्स से कैसे शुरुआत करें - By Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/)
+- [मुझे किस ओपन-सोर्स में योगदान देना चाहिए](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) by Kent C. Dodds
+
 ## लाइसेंस
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />यह कार्य एक <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">क्रिएटिव कॉमन्स एट्रिब्यूशन-शेयरएलाइड 4.0 इंटरनेशनल लाइसेंस</a> के तहत लाइसेंस प्राप्त है।.
