@@ -105,5 +105,25 @@
 - [ओपन सोर्स से कैसे शुरुआत करें - By Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/)
 - [मुझे किस ओपन-सोर्स में योगदान देना चाहिए](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) by Kent C. Dodds
 
+## संस्करण नियंत्रण का उपयोग करना
+- [थिंक लाइक (ए) गिट](http://think-like-a-git.net/) - Git introduction for "advanced beginners," but are still struggling, in order to give you a simple strategy to safely experiment with git.
+- [गिट]( आज़माएं](https://try.github.io/) - अपने ब्राउज़र के भीतर से 15 मिनट में निःशुल्क सीखें।
+- [एवरीडे गिट](https://git-scm.com/docs/giteveryday) - एवरीडे गिट के लिए कमांड का एक उपयोगी न्यूनतम सेट।
+- [ओह शिट, गिट!](https://ohshitgit.com/) - सादा अंग्रेजी में वर्णित सामान्य गिट गलतियों से कैसे निकला जाए; यह भी देखें डंगिट, गिट! शपथ के बिना पृष्ठ के लिए।
+- [एटलसियन गिट ट्यूटोरियल](https://www.atlassian.com/git/tutorials) - गिट का उपयोग करने पर विभिन्न ट्यूटोरियल।
+- [GitHub Git धोखा शीट](https://education.github.com/git-cheat-sheet-education.pdf) (पीडीएफ)
+- [फ्रीककोडकम्प की विकिट रिसोर्स पर विकी](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
+- [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - GitHub एक पुल अनुरोध बनाने के बारे में बात करता है।
+- [GitHub लर्निंग रिसोर्स](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/git-and-github-learning-resources) - Git और GitHub लर्निंग रिसोर्स।
+- [Pro Git](https://git-scm.com/book/en/v2) - The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress.
+- [Git-it](https://github.com/jlord/git-it-electron) - Step by step Git tutorial desktop app.
+- [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - A guide about what to do when things go wrong.
+- [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - A complete guide of slides about git and GitHub explained in Spanish. Una guía completa de diapositivas sobre git y GitHub explicadas en Español.
+- [Git Kraken](https://www.gitkraken.com/git-client) - Visual, cross-platform, and interactive `git` desktop application for version control.
+- [Git Tips](https://github.com/git-tips/tips) - Collection of most commonly used git tips and tricks.
+- [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - Commit Often, Perfect Later, Publish Once: Git Best Practices.
+- [Git Interactive Tutorial](https://learngitbranching.js.org/) - Learn Git in the most visual and interactive way.
+
+
 ## लाइसेंस
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />यह कार्य एक <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">क्रिएटिव कॉमन्स एट्रिब्यूशन-शेयरएलाइड 4.0 इंटरनेशनल लाइसेंस</a> के तहत लाइसेंस प्राप्त है।.
