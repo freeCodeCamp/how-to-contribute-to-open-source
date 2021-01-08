@@ -115,14 +115,14 @@
 - [फ्रीककोडकम्प की विकिट रिसोर्स पर विकी](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
 - [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - GitHub एक पुल अनुरोध बनाने के बारे में बात करता है।
 - [GitHub लर्निंग रिसोर्स](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/git-and-github-learning-resources) - Git और GitHub लर्निंग रिसोर्स।
-- [Pro Git](https://git-scm.com/book/en/v2) - The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress.
-- [Git-it](https://github.com/jlord/git-it-electron) - Step by step Git tutorial desktop app.
-- [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - A guide about what to do when things go wrong.
-- [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - A complete guide of slides about git and GitHub explained in Spanish. Una guía completa de diapositivas sobre git y GitHub explicadas en Español.
-- [Git Kraken](https://www.gitkraken.com/git-client) - Visual, cross-platform, and interactive `git` desktop application for version control.
-- [Git Tips](https://github.com/git-tips/tips) - Collection of most commonly used git tips and tricks.
-- [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - Commit Often, Perfect Later, Publish Once: Git Best Practices.
-- [Git Interactive Tutorial](https://learngitbranching.js.org/) - Learn Git in the most visual and interactive way.
+- [प्रो गिट](https://git-scm.com/book/en/v2) - पूरी प्रो गिट पुस्तक, स्कॉट चाकोन और बेन स्ट्राब द्वारा लिखित और एप्रेस द्वारा प्रकाशित।
+- [Git-it](https://github.com/jlord/git-it-electron) - स्टेप बाय स्टेप Git tutorial desktop app।
+- [उड़ान नियमों के लिए नियम](https://github.com/k88hudson/git-flight-rules) - जब गलत हो जाए तो क्या करना है इसके बारे में एक गाइड।
+- [स्पेनिश में शुरुआती के लिए Git गाइड](https://platzi.github.io/git-slides/#/) - git और GitHub के बारे में स्लाइड का एक पूरा गाइड स्पेनिश में बताया गया है। ऊना गुइया कम्पला दे दीपोसाइटिवस सोब्रे गिट वाई गिथहब एक्सपिकाडास एन Español।
+- [Git Kraken](https://www.gitkraken.com/git-client) - संस्करण नियंत्रण के लिए विज़ुअल, क्रॉस-प्लेटफ़ॉर्म और इंटरएक्टिव गिट डेस्कटॉप एप्लिकेशन।
+- [Git Tips](https://github.com/git-tips/tips) - सबसे अधिक उपयोग किए जाने वाले git टिप्स और ट्रिक्स का संग्रह।
+- [बेस्ट प्रैक्टिस करें](https://sethrobertson.github.io/GitBestPractices/) - कमिट अदर, परफेक्ट बाद में, एक बार पब्लिश करें: बेस्ट प्रैक्टिस करें।
+- [गेट इंटरएक्टिव ट्यूटोरियल](https://learngitbranching.js.org/) - सबसे दृश्य और इंटरैक्टिव तरीके से जानें।
 
 
 ## लाइसेंस
