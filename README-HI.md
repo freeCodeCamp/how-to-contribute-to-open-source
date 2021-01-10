@@ -124,6 +124,13 @@
 - [बेस्ट प्रैक्टिस करें](https://sethrobertson.github.io/GitBestPractices/) - कमिट अदर, परफेक्ट बाद में, एक बार पब्लिश करें: बेस्ट प्रैक्टिस करें।
 - [गेट इंटरएक्टिव ट्यूटोरियल](https://learngitbranching.js.org/) - सबसे दृश्य और इंटरैक्टिव तरीके से जानें।
 
+## ओपन सोर्स पुस्तकें
+- [ओपन सोर्स सॉफ्टवेयर का निर्माण](https://producingoss.com/) - ओपन सोर्स सॉफ्टवेयर का निर्माण ओपन सोर्स डेवलपमेंट के मानवीय पक्ष के बारे में एक किताब है। यह वर्णन करता है कि सफल परियोजनाएं कैसे संचालित होती हैं, उपयोगकर्ताओं और डेवलपर्स की अपेक्षाएं, और मुफ्त सॉफ्टवेयर की संस्कृति।
+- [ओपन सोर्स बुक सीरीज़](https://opensource.com/resources/ebooks) - ओपन सोर्स और बढ़ते ओपन सोर्स मूवमेंट के बारे में अधिक जानें https://opensource.com से मुफ्त ई-बुक्स की व्यापक सूची के साथ।
+- [Software Release Practice HOWTO](https://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - This HOWTO describes good release practices for Linux and other Open-Source projects. By following these practices, you will make it as easy as possible for users to build your code and use it, and for other developers to understand your code and cooperate with you to improve it.
+- [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 is a collection of insightful and thought-provoking essays from today's technology leaders that continues painting the evolutionary picture that developed in the 1999 book, Open Sources: Voices from the Revolution.
+- [The Architecture of Open Source Applications](http://www.aosabook.org/en/git.html) - Show how various aspects of Git work under the covers to enable distributed workflows, and how it differs from other version control systems (VCSs).
+- [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - Essays from open-source pioneers such as Linus Torvalds (Linux), Larry Wall (Perl), and Richard Stallman (GNU).
 
 ## लाइसेंस
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />यह कार्य एक <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">क्रिएटिव कॉमन्स एट्रिब्यूशन-शेयरएलाइड 4.0 इंटरनेशनल लाइसेंस</a> के तहत लाइसेंस प्राप्त है।.
