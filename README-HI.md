@@ -137,8 +137,8 @@
 - [पहले टाइमर केवल](https://www.firsttimersonly.com/) - कीड़े की एक सूची है कि "पहले टाइमर केवल" लेबल कर रहे हैं।
 - [पहला योगदान](https://firstcontributions.github.io/) - 5 मिनट में अपना पहला ओपन सोर्स योगदान दें। एक उपकरण और ट्यूटोरियल शुरुआती योगदान करने में मदद करने के लिए। यहाँ साइट और अवसर के लिए GitHub स्रोत कोड है जो स्वयं भंडार में योगदान करने के लिए है।
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - ओपन सोर्स योगदान को प्रोत्साहित करने के लिए एक कार्यक्रम। अक्टूबर के महीने में कम से कम 4 पुल अनुरोध करके टी-शर्ट और स्टिकर जैसे उपहार अर्जित करें।
-- [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests is a project to promote Open Source collaboration during the month of December.
-- [Ovio](https://ovio.org) - A platform with a curated selection of contributor-friendly projects. It has a [powerful issue search tool](https://ovio.org/issues) and let's you save projects and issues for later.
+- [24 पुल अनुरोध](https://24pullrequests.com) - 24 पुल अनुरोध दिसंबर महीने के दौरान ओपन सोर्स सहयोग को बढ़ावा देने के लिए एक परियोजना है।
+- [ओवियो](https://ovio.org) - एक प्लेटफॉर्म जिसमें योगदानकर्ता के अनुकूल परियोजनाओं का क्यूरेट किया गया है। इसमें एक शक्तिशाली मुद्दा खोज उपकरण है और चलो बाद में आप परियोजनाओं और मुद्दों को बचाते हैं।
 
 ## लाइसेंस
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />यह कार्य एक <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">क्रिएटिव कॉमन्स एट्रिब्यूशन-शेयरएलाइड 4.0 इंटरनेशनल लाइसेंस</a> के तहत लाइसेंस प्राप्त है।.
