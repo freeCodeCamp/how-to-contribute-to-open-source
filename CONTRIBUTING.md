@@ -139,6 +139,8 @@ If your language does not exist yet, feel free to start it yourself. If you deci
 [create an issue](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/issues/new/choose)
 to crowdsource help.
 
+This repository is about contributing to open source and generally, translation is important to reaching diverse audiences. It is recommended that you provide language specific resources links instead of the Engligh resource links.
+
 ### Adding to the Project File
 
 We have a
