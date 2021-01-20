@@ -27,11 +27,11 @@
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
 [![Build Status](https://api.travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
 
-ওপেন সোর্সে অবদান রাখতে নতুন যারা এই লোকদের জন্য এটি সংস্থানগুলির একটি তালিকা।
+যারা ওপেন সোর্স এ যোগদান করতে চান, তাদের জন্য এটি মূল্যবান একটি তালিকা।
 
-আপনি যদি অতিরিক্ত সংস্থানগুলি সন্ধান করেন তবে দয়া করে একটি পুল রিকুয়েস্ট তৈরি করুন।
+আপনি যদি অতিরিক্ত তালিকা সন্ধান করেন তবে দয়া করে একটি পুল রিকুয়েস্ট তৈরি করুন।
 
-আপনার যদি প্রশ্ন বা মন্তব্য থাকে তবে দয়া করে একটি প্রবলেম তৈরি করুন।
+আপনার যদি কোনো প্রশ্ন বা মন্তব্য থাকে তবে দয়া করে একটি এসু তৈরি করুন।
 
 **সূচীপত্র**
 
