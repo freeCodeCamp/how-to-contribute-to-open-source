@@ -1,2 +1,3 @@
-node_modules
+# while running npm-install,the node-modules folder is downloaded which is not needed to be uploaded,so we keep this in gitignore file to avoid this being uploaded
+node_modules 
 ab-results-*.json
