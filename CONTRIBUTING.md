@@ -129,6 +129,8 @@ When adding your contribution to the list, please add your link to the most appr
 
 The main `README.md` file is written in English. That file will be the template for all the other languages.
 
+This repository is about contributing to open source and generally, translation is important to reaching diverse audiences. It is recommended that you provide language specific resources links instead of the Engligh resource links.
+
 The non-English README files are named `README-XX.md`, where `xx` is the
 [two letter language code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 for the language.
