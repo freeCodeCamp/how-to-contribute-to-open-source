@@ -19,6 +19,7 @@ jobs:
 
       - name: Setup gems
         run: |
+          gem install bundler
           gem install awesome_bot
           gem install danger
 
