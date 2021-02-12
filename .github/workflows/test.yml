@@ -27,6 +27,12 @@ jobs:
         run: |
           awesome_bot -f README.md --allow-ssl --allow 302,429 --white-list firsttimersonly.com,github.com/github,creativecommons.org/licenses/by-sa/4.0
 
+  communicate:
+    runs-on: ubuntu-latest
+    if: always()
+    needs: [validate]
+
+    steps:
       - name: Run Danger
         uses: MeilCli/danger-action@v5
         with:
