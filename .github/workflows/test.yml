@@ -24,11 +24,10 @@ jobs:
           gem install danger
 
       - name: Run checks
-      #  shell: bash +e +o pipefail {0}
-        run: |
-          awesome_bot -f README.md --allow-ssl --allow 302,429 --white-list firsttimersonly.com,github.com/github,creativecommons.org/licenses/by-sa/4.0
-
-      - name: Run Danger
+        shell: bash +e +o pipefail {0}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: bundle exec danger
+        run: |
+          awesome_bot -f README.md --allow-ssl --allow 302,429 --white-list firsttimersonly.com,github.com/github,creativecommons.org/licenses/by-sa/4.0
+          bundle exec danger
+
