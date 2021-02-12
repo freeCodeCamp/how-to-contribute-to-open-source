@@ -20,33 +20,13 @@ jobs:
       - name: Setup gems
         run: |
           gem install bundler
-          gem install awesome_bot
-          gem install danger
 
       - name: Run checks
+        id: checks
         shell: bash +e +o pipefail {0}
+        continue-on-error: true
         run: |
           awesome_bot -f README.md --allow-ssl --allow 302,429 --white-list firsttimersonly.com,github.com/github,creativecommons.org/licenses/by-sa/4.0
-
-  communicate:
-    runs-on: ubuntu-latest
-    if: always()
-    needs: [validate]
-
-    steps:
-      - name: Checkout Source Files
-        uses: actions/checkout@v2
-        with:
-          fetch-depth: 0
-
-      - name: Set up Ruby 2.6
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: 2.6
-
-      - name: Setup gems
-        run: |
-          gem install bundler
 
       - name: Run Danger
         uses: MeilCli/danger-action@v5
