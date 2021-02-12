@@ -25,12 +25,10 @@ jobs:
 
       - name: Run checks
       #  shell: bash +e +o pipefail {0}
-        env:
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN }}
         run: |
           awesome_bot -f README.md --allow-ssl --allow 302,429 --white-list firsttimersonly.com,github.com/github,creativecommons.org/licenses/by-sa/4.0
-          bundle exec danger
-      # - name: Run Danger
-      #   env:
-      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      #   uses: danger/danger@master
+
+      - name: Run Danger
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: bundle exec danger
