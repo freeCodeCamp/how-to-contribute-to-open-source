@@ -20,19 +20,20 @@ jobs:
 
       - name: Run checks
         id: checks
-        shell: bash +e +o pipefail {0}
-        continue-on-error: true
+        # shell: bash +e +o pipefail {0}
+        # continue-on-error: true
         run: |
           gem install awesome_bot
           awesome_bot -f README.md --allow-ssl --allow 302,429 --white-list firsttimersonly.com,github.com/github,creativecommons.org/licenses/by-sa/4.0
 
-      - name: Run Danger
-        uses: MeilCli/danger-action@v5
-        with:
-          plugins_file: 'Gemfile'
-          install_path: 'vendor/bundle'
-          danger_file: 'Dangerfile'
-          danger_id: 'danger-ci'
-        env:
-          DANGER_GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#      - name: Run Danger
+#        uses: MeilCli/danger-action@v5
+#        with:
+#          plugins_file: 'Gemfile'
+#          install_path: 'vendor/bundle'
+#          danger_file: 'Dangerfile'
+#          danger_id: 'danger-ci'
+#        env:
+#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#          DANGER_GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
