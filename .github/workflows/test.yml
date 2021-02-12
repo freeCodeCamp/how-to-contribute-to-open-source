@@ -34,9 +34,24 @@ jobs:
     needs: [validate]
 
     steps:
+      - name: Checkout Source Files
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Set up Ruby 2.6
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.6
+
+      - name: Setup gems
+        run: |
+          gem install bundler
+
       - name: Run Danger
         uses: MeilCli/danger-action@v5
         with:
+          plugins_file: 'Gemfile'
           danger_file: 'Dangerfile'
           danger_id: 'danger-ci'
         env:
