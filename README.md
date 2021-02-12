@@ -106,7 +106,6 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [An immersive introductory guide to Open-source](https://developeraspire.hashnode.dev/an-immersive-introductory-guide-to-open-source) by [Franklin Okolie](https://twitter.com/DeveloperAspire)
 - [Getting started with contributing to open source](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/) by [Zara Cooper](https://stackoverflow.blog/author/zara-cooper/)
 - [Beginner's guide to open-source contribution](https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj) by [Sudipto Ghosh](https://github.com/pydevsg)
-- [Open source projects on GitHub that need your help.](https://www.codetriage.com/) by [codetriage](https://www.codetriage.com/)
 - [8 non-code ways to contribute to open source](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code) by [OpenSource](https://twitter.com/OpenSourceWay)
 
 ## Using Version Control
