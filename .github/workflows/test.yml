@@ -17,6 +17,14 @@ jobs:
         with:
           ruby-version: 2.6
 
+      - name: Cache packages
+        uses: actions/cache@v1
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('Gemfile') }}
+          restore-keys: |
+            ${{ runner.os }} gems 
+
       - name: Setup gems
         run: |
           gem install bundler
