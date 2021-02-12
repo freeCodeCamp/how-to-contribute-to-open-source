@@ -19,7 +19,6 @@ jobs:
 
       - name: Setup gems
         run: |
-          gem install bundler
           gem install awesome_bot
           gem install danger
 
@@ -29,5 +28,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           awesome_bot -f README.md --allow-ssl --allow 302,429 --white-list firsttimersonly.com,github.com/github,creativecommons.org/licenses/by-sa/4.0
-          bundle exec danger
+          danger
 
