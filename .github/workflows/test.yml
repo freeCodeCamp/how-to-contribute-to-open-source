@@ -20,6 +20,7 @@ jobs:
       - name: Setup gems
         run: |
           gem install bundler
+          gem install awesome_bot
 
       - name: Run checks
         id: checks
