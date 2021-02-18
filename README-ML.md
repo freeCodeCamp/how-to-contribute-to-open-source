@@ -47,13 +47,13 @@
 ## പൊതുവേ ഓപ്പൺ സോഴ്‌സിലേക്ക് സംഭാവന ചെയ്യുന്നു
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - GitHub- ലെ സംഭാവന വിജയത്തിലേക്കുള്ള വഴിയിലേക്ക് നിങ്ങളെ നയിക്കാൻ ഡിജിറ്റൽ ഓഷ്യന്റെ ട്യൂട്ടോറിയലുകൾ.
-- [Issuehub.io](http://issuehub.io/) -ലേബലും ഭാഷയും ഉപയോഗിച്ച് GitHub പ്രശ്നങ്ങൾ തിരയുന്നതിനുള്ള ഒരു ഉപകരണം.
+- [Issuehub.io](http://issuehub.io/) -ലേബലും ഭാഷയും ഉപയോഗിച്ച്  ഗിറ്റ്ഹബ് പ്രശ്നങ്ങൾ തിരയുന്നതിനുള്ള ഒരു ഉപകരണം.
 - [Code Triage](https://www.codetriage.com/) - ജനപ്രിയ ശേഖരണങ്ങളും ഭാഷ ഫിൽ‌റ്റർ‌ ചെയ്‌ത പ്രശ്നങ്ങളും കണ്ടെത്തുന്നതിനുള്ള മറ്റൊരു ഉപകരണം.
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - പുതിയ സംഭാവകർക്കായി നല്ല ബഗുകളുള്ള പ്രോജക്റ്റുകൾ ശേഖരിക്കുകയും അവ വിവരിക്കുന്നതിന് ലേബലുകൾ പ്രയോഗിക്കുകയും ചെയ്യുന്ന ഒരു GitHub റിപ്പോ.
 - [Open Source Guides](https://opensource.guide/) - ഒരു ഓപ്പൺ സോഴ്‌സ് പ്രോജക്റ്റ് എങ്ങനെ പ്രവർത്തിപ്പിക്കാമെന്നും സംഭാവന ചെയ്യാമെന്നും അറിയാൻ ആഗ്രഹിക്കുന്ന വ്യക്തികൾ, കമ്മ്യൂണിറ്റികൾ, കമ്പനികൾ എന്നിവയ്‌ക്കായുള്ള വിഭവങ്ങളുടെ ശേഖരണം.
-- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) -GitHub- ൽ ചെയ്യേണ്ടതും ചെയ്യരുതാത്തതും
+- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - ഗിറ്റ്ഹബിൽ ചെയ്യേണ്ടതും ചെയ്യരുതാത്തതും
 - [GitHub Guides](https://guides.github.com/) - GitHub എങ്ങനെ ഫലപ്രദമായി ഉപയോഗിക്കാം എന്നതിനെക്കുറിച്ചുള്ള അടിസ്ഥാന സഹായികൾ.
-- [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - ഒരു സിമുലേഷൻ പ്രോജക്റ്റിലേക്ക് കോഡ് സംഭാവന ചെയ്തുകൊണ്ട് GitHub വർക്ക്ഫ്ലോ മനസിലാക്കുക.
+- [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - ഒരു സിമുലേഷൻ പ്രോജക്റ്റിലേക്ക് കോഡ് സംഭാവന ചെയ്തുകൊണ്ട്  ഗിറ്റ്ഹബ് വർക്ക്ഫ്ലോ മനസിലാക്കുക.
 - [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - ഓപ്പൺ സോഴ്‌സ് പ്രോജക്റ്റുകളിലേക്കുള്ള ലിനക്സ് ഫൗണ്ടേഷന്റെ സഹായികൾ.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - കെന്റ് സി. ഡോഡ്സും സാറാ ഡ്രാസ്നറും എഴുതിയ ഒരു ഓപ്പൺ സോഴ്‌സ് മര്യാദ  പഠന സഹായി.
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - കോളേജ് വിദ്യാർത്ഥികൾക്ക് ഒരു പുതിയ കോഡിംഗ് ഭാഷ പഠിക്കാനുള്ള വിഭവങ്ങളുടെയും അവസരങ്ങളുടെയും ക്യൂറേറ്റുചെയ്‌ത പട്ടിക.
@@ -108,23 +108,23 @@
 - [8 non-code ways to contribute to open source](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code) by [OpenSource](https://twitter.com/OpenSourceWay)
 
 ## പതിപ്പ് നിയന്ത്രണം ഉപയോഗിച്ച്
-- [Think Like (a) Git](http://think-like-a-git.net/) - Git introduction for "advanced beginners," but are still struggling, in order to give you a simple strategy to safely experiment with git.
-- [Try Git](https://try.github.io/) - Learn Git in 15 minutes from within your browser for free.
-- [Everyday Git](https://git-scm.com/docs/giteveryday) - A useful minimum set of commands for Everyday Git.
-- [Oh shit, git!](https://ohshitgit.com/) - how to get out of common `git` mistakes described in plain English; also see [Dangit, git!](https://dangitgit.com/) for the page without swears.
-- [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) - various tutorials on using `git`.
+- [Think Like (a) Git](http://think-like-a-git.net/) - "വിപുലമായ തുടക്കക്കാർ" എന്നതിനായുള്ള ജിറ്റ് ആമുഖം, പക്ഷേ ജിറ്റിനൊപ്പം സുരക്ഷിതമായി പരീക്ഷിക്കുന്നതിനുള്ള ലളിതമായ ഒരു തന്ത്രം നൽകുന്നതിന് ഇപ്പോഴും ബുദ്ധിമുട്ടുകയാണ്.
+- [Try Git](https://try.github.io/) - നിങ്ങളുടെ ബ്രസറിനുള്ളിൽ നിന്ന് 15 മിനിറ്റിനുള്ളിൽ ഗിറ്റ് മനസിലാക്കുക.
+- [Everyday Git](https://git-scm.com/docs/giteveryday) - ദൈനംദിന ഗിറ്റിനായി ഉപയോഗപ്രദമായ ഏറ്റവും കുറഞ്ഞ കമാൻഡുകൾ.
+- [Oh shit, git!](https://ohshitgit.com/) - ഇംഗ്ലീഷിൽ‌ വിവരിച്ചിരിക്കുന്ന പൊതുവായ `git` തെറ്റുകളിൽ‌ നിന്നും എങ്ങനെ രക്ഷപ്പെടാം; ഇതും കാണുക [Dangit, git!](https://dangitgit.com/) for the page without swears.
+- [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) -`git` ഉപയോഗിക്കുന്നതിനുള്ള വിവിധ ട്യൂട്ടോറിയലുകൾ.
 - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
 - [freeCodeCamp's Wiki on Git Resources](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
-- [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - GitHub talk on how to make a pull request.
-- [GitHub Learning Resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) - Git and GitHub learning resources.
-- [Pro Git](https://git-scm.com/book/en/v2) - The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress.
-- [Git-it](https://github.com/jlord/git-it-electron) - Step by step Git tutorial desktop app.
-- [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - A guide about what to do when things go wrong.
-- [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - A complete guide of slides about git and GitHub explained in Spanish. Una guía completa de diapositivas sobre git y GitHub explicadas en Español.
-- [Git Kraken](https://www.gitkraken.com/git-client) - Visual, cross-platform, and interactive `git` desktop application for version control.
-- [Git Tips](https://github.com/git-tips/tips) - Collection of most commonly used git tips and tricks.
-- [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - Commit Often, Perfect Later, Publish Once: Git Best Practices.
-- [Git Interactive Tutorial](https://learngitbranching.js.org/) - Learn Git in the most visual and interactive way.
+- [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - ഒരു പുൾ അഭ്യർത്ഥന എങ്ങനെ നടത്താമെന്നതിനെക്കുറിച്ച് ഗിറ്റ്ഹബ് സംവാദം.
+- [GitHub Learning Resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) -ഗിറ്റ്,ഗിറ്റ്ഹബ് പഠന ഉറവിടങ്ങൾ.
+- [Pro Git](https://git-scm.com/book/en/v2) - സ്കോട്ട് ചാക്കോനും ബെൻ സ്ട്രോബും എഴുതിയതും ആപ്രസ് പ്രസിദ്ധീകരിച്ചതുമായ പ്രോ ജിറ്റ് പുസ്തകം.
+- [Git-it](https://github.com/jlord/git-it-electron) - ഘട്ടം ഘട്ടമായി ഗിറ്റ് ട്യൂട്ടോറിയൽ ഡെസ്ക്ടോപ്പ് അപ്ലിക്കേഷൻ.
+- [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) -കാര്യങ്ങൾ തെറ്റുമ്പോൾ എന്തുചെയ്യണമെന്നതിനെക്കുറിച്ചുള്ള ഒരു സഹായി .
+- [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - ഗിറ്റ്, ഗിറ്റ്ഹബ് എന്നിവയെക്കുറിച്ചുള്ള സ്ലൈഡുകളുടെ പൂർണ്ണ ഗൈഡ് സ്പാനിഷിൽ . Una guía completa de diapositivas sobre git y GitHub explicadas en Español.
+- [Git Kraken](https://www.gitkraken.com/git-client) - പതിപ്പ് നിയന്ത്രണത്തിനായി വിഷ്വൽ, ക്രോസ്-പ്ലാറ്റ്ഫോം, സംവേദനാത്മക `git` ഡെസ്ക്ടോപ്പ് അപ്ലിക്കേഷൻ.
+- [Git Tips](https://github.com/git-tips/tips) - സാധാരണയായി ഉപയോഗിക്കുന്ന ഗിറ്റ് ടിപ്പുകളുടെയും തന്ത്രങ്ങളുടെയും ശേഖരം.
+- [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - പലപ്പോഴും പ്രതിജ്ഞാബദ്ധമാക്കുക, പിന്നീട് തികഞ്ഞത്, ഒരിക്കൽ പ്രസിദ്ധീകരിക്കുക: മികച്ച പരിശീലനങ്ങൾ നേടുക.
+- [Git Interactive Tutorial](https://learngitbranching.js.org/) - ഏറ്റവും ദൃശ്യവും സംവേദനാത്മകവുമായ രീതിയിൽ ഗിറ്റ്  പഠിക്കുക.
 
 ## സ്വതന്ത്ര സോഫ്റ്റ്‌വെയറിനെകുറിച്ചുള്ള  പുസ്തകങ്ങൾ 
 - [Producing Open Source Software](https://producingoss.com/) - Producing Open Source Software is a book about the human side of Open Source development. It describes how successful projects operate, the expectations of users and developers, and the culture of free software.
