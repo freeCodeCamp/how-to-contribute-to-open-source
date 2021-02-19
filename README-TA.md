@@ -35,7 +35,7 @@
 
 - [Contributing to Open Source in general](#contributing-to-open-source-in-general)
 - [Direct GitHub searches](#direct-github-searches)
-- [மொஸில்லாவின் பங்களிப்பாளர் சுற்றுச்சூழல் அமைப்பு](#மொஸில்லாவின்-பங்களிப்பாளர்-சுற்றுச்சூழல்-அமைப்பு)
+- [மொஸில்லாவின் பங்களிப்பாளர் சுற்றுச்சூழல் அமைப்பு](#mozilla's-contributor-ecosystem)
 - [Useful articles for new Open Source contributors](#useful-articles-for-new-open-source-contributors)
 - [Using Version Control](#using-version-control)
 - [Open Source books](#open-source-books)
