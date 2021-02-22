@@ -45,7 +45,7 @@
 - [라이선스](#라이선스)
 
 ## 일반적으로 오픈 소스에 기여하기
-- [오픈소스란 무엇인가요?](https://hamonikr.org/oss/51202)
+- [오픈소스란 무엇인가요?](https://hamonikr.org/oss/51202) - 국내 오픈소스 
 - [The Definitive Guide to Contributing to Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - DigitalOcean의 GitHub에서 기여를 성공할 수 있는 방법을 안내하는 튜토리얼
 - [SourceSort](https://www.sourcesort.com) - 도움을 필요로 하는 검색가능한 오픈 소스 프로젝트들의 모음집, 새로운 컨트리뷰터들에게 중요한 첫번째 PR 승인률과 반응 시간과 같은 수치들을 갖추고 있음
