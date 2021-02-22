@@ -52,6 +52,7 @@ Dacă aveți întrebări sau comentarii, vă rugăm să creați o problemă (iss
 - [Contribuiți la Open Source](https://github.com/danthareja/contribute-to-open-source) - Aflați fluxul de lucru GitHub contribuind la codul unui proiect de simulare.
 - [Ghidul open source al Fundației Linux pentru întreprinderi](https://www.linuxfoundation.org/resources/open-source-guides/) - Ghidul Fundației Linux pentru proiecte cu sursă deschisă (open source).
 - [CSS Tricks Un Ghid al Etichetei Open Source](https://css-tricks.com/open-source-etiquette-guidebook/) - Ghid de Etichetei Open Source, scris de Kent C. Dodds și Sarah Drasner.
+- [Ovio](https://ovio.org/) - O platforma cu o selectie organizata de proiecte la care puteti contribuii. Are un [instrument de cautare](https://ovio.org/issues) a problemelor si va permite sa salvati proiecte si probleme pentru mai tarziu.
 
 ## Căutări directe pe GitHub
 Căutați linkuri care indică direct problemele potrivite pentru a contribui la GitHub.
