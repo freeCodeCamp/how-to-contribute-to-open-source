@@ -1,7 +1,7 @@
 <!-- Do not translate this -->
 <details>
 <summary>
-<strong>  </strong>
+<strong> 언어 </strong>
 </summary>
     <ul>
         <li><a href="./README.md"> English </a></li>
