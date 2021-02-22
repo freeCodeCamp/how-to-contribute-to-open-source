@@ -13,7 +13,7 @@
         <td><a href="./README-GR.md"> Ελληνικά </a></td>
         <td><a href="./README-FR.md"> Français </a></td>
         <td><a href="./README-TR.md"> Turkish </a></td>
-        <td><a href="./README-TR.md"> 한국어 </a></td>
+        <td><a href="./README-KO.md"> 한국어 </a></td>
     </tr>
 </table>
 # Benvenuti contributori principianti all'open source!
