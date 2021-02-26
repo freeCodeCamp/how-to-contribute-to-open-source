@@ -40,7 +40,7 @@ Dacă aveți întrebări sau comentarii, vă rugăm să creați o problemă (iss
 ## Contribuția la open source în general
 - [Introducere la Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutoriale de la DigitalOcean pentru a vă ghida pe drumul spre succesul contribuției aici pe GitHub.
 - [Disponibile](http://up-for-grabs.net/#/) - o listă de proiecte cu probleme pentru începători.
-- [Issuehub.io](http://issuehub.io/) - un instrument de căutare a problemelor GitHub după etichetă și limbă.
+- [Issuehub.io](http://issuehub.pro/) - un instrument de căutare a problemelor GitHub după etichetă și limbă.
 - [Cod Triage](https://www.codetriage.com/) - un alt instrument, foarte frumos, pentru găsirea depozitelor (repositories) și a problemelor populare filtrate după limbă.
 - [Numai pentru începători](http://www.firsttimersonly.com/) - o listă de erori (bugs) care sunt etichetate "numai pentru prima dată (first-timers-only)".
 - [Prima ta cerere de adaugare (Pull Request)](https://twitter.com/yourfirstpr) - probleme de pornire pe GitHub care pot fi abordate cu ușurință de noii contribuitori.

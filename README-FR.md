@@ -42,7 +42,7 @@ Si vous avez des questions ou commentaires, veuillez créer un ticket.
 ## Contribuer à l'Open Source en général
 - [Le Guide Définitif pour Contribuer à l'Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) de [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [Une Intro à l'Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - tutoriels de DigitalOcean pour vous mettre sur la bonne voie pour contribuer avec succès dans GitHub.
-- [Issuehub.io](http://issuehub.io/) - un outil pour chercher les `issues` dans GitHub en les filtrant par label et langage.
+- [Issuehub.io](http://issuehub.pro/) - un outil pour chercher les `issues` dans GitHub en les filtrant par label et langage.
 - [Code Triage](https://www.codetriage.com/) - un autre outil pratique pour chercher les dépôts populaires et `issues` filtrés par langage.
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - un dépôt GitHub regroupant des projets avec des bugs faciles pour les contributeurs novices, et avec des labels pour les décrire.
 - [Guides de l'Open Source](https://opensource.guide/) - collection de ressources pour les particuliers, communautés et sociétés qui désirent apprendre à gérer et contribuer à un projet Open Source.

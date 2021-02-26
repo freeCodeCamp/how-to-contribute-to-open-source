@@ -59,7 +59,7 @@
 ## תרומה לקוד פתוח באופן כללי
 - [המדריך המלא לתרומה לקוד פתוח](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) על ידי [DoomHammerNG@](https://twitter.com/DoomHammerNG)
 - [מבוא לקוד פתוח](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - מדריכים על ידי Digital Ocean לתרומה כאן בגיטהאב.
-- [Issuehub.io](http://issuehub.io/) - כלי לחיפוש issues בגיטהאב לפי תווית ושפה.
+- [Issuehub.io](http://issuehub.pro/) - כלי לחיפוש issues בגיטהאב לפי תווית ושפה.
 - [Code Triage](https://www.codetriage.com/) - כלי נוסף למציאת repositories ו-issues מסוננים לפי שפה.
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - גיטהאב repo מצויין האוגר פרוייקטים עם באגים מתאימים לתורמים חדשים. הבאגים מתוייגים עם תוויות מתאימות.
 - [מדריכי קוד פתוח](https://opensource.guide/) - אוסף של מקורות לאנשים, קהילות וחברות הרוצים ללמוד כיצד להפעיל ולתרום לפרוייקט קוד פתוח.

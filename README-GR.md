@@ -41,7 +41,7 @@
 ## Γενικά για τη συνεισφορά Ανοικτού Κώδικα
 - [The Definitive Guide to Contributing to Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [Εισαγωγή στον Ανοικτό Κώδικα](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Μαθήματα από την DigitalOcean για συνεισφορά Ανοικτού Κώδικα με επιτυχία, στο GitHub.
-- [Issuehub.io](http://issuehub.io/) - Ένα εργαλείο που επιτρέπει την αναζήτηση των issues του GitHub για συγκεκριμένες ετικέτες (labels) και γλώσσες προγραμματισμού.
+- [Issuehub.io](http://issuehub.pro/) - Ένα εργαλείο που επιτρέπει την αναζήτηση των issues του GitHub για συγκεκριμένες ετικέτες (labels) και γλώσσες προγραμματισμού.
 - [Code Triage](https://www.codetriage.com/) - Άλλο ένα, πολύ καλό, εργαλείο για να βρίσκουμε δημοφιλή repositories και issues διαχωρισμένα ώς προς την γλώσσα προγραμματισμού.
 - [Φοβερό-για-αρχάριους](https://github.com/MunGell/awesome-for-beginners) - Ένα GitHub repository που συγκεντρώνει projects με bugs εύκολα για αρχάριους, εφαρμόζωντας ετικέτες (labels) για να τα περιγράψει.
 - [Οδηγοί για τον Ανοικτό Κώδικα](https://opensource.guide/) - Συλλογή από υλικό για άτομα, κοινότητες και εταιρίες που θέλουν να μάθουν πως να τρέξουν και να συνεισφέρουν σε ένα project Ανοικτού Κώδικα.
