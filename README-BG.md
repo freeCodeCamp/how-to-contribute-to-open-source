@@ -50,15 +50,13 @@
 
 - [SourceSort](https://www.sourcesort.com) - Колекция от проекти open source, които се нуждаят от помощ. Има възможност за търсене. Колекцията включва също и данни за неща, като например каква е процентната вероятност вашата заявка за сливане (pull request) да бъде одобрена и колко време са чака за отговор. Такива статистики биха били много полезни за начинаещи в open source приноса.
 
-- [Issuehub.io](http://issuehub.io/) - Инструмент за търсене по етикет (label) или език на issue-та(ишута) в GitHub.
+
 
 - [Code Triage](https://www.codetriage.com/) - Друг инструмент за намиране на популярни хранилища (repositories) и issue-та. Предоставя възможност за филтриране по език и като цяло е много приятен за ползване.
 
 - [(Страхотно за начинаещи) Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - GitHub хранилище (repository), в което се събитат проекти с бъгове, подходящи за начинаещи. Всеки бъг има подходящи етикети за по-ясно описание.
 
 - [Open Source ръководства](https://opensource.guide/) - Колекция от ресурси за ентусиасти, общности и компании, които искат да научат как да стартитат свой или как да допринесат към Open Source проект.
-
-- [Github issue - 45 добри и лоши практики](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Какво да правим и какво не в GitHub.
 
 - [GitHub ръководства](https://guides.github.com/) - Кратки ръководства как да използваме ефективно GitHub.
 
@@ -118,7 +116,6 @@
 - [Хактобър фест 2019: Как да получите безплатна тениска -- дори и да сте нови в програмирането](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) by [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
 - [Наръчник на горчивия опит в Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
 - [Наръчник на начинаещия разрабочик в първия му принос към Open Source - стъпка по стъпка](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) by [@LetaKeane](http://www.letakeane.com/)
-- [Как да научим Git и GitHub в лесни стъпки (само за Windows)](https://medium.com/@ows_ali/be93518e06dc) by [@ows-ali](https://medium.com/@ows_ali)
 
 _Ресурси на български_
 
