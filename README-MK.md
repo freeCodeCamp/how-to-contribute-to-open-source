@@ -1,6 +1,6 @@
 <details>
 <summary>
-<strong> Read this guide in other languages </strong>
+<strong> Прочитај ја оваа страна на друг јазик </strong>
 </summary>
     <ul>
         <li><a href="./README.md"> English </a></li>
