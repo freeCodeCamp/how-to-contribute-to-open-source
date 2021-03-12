@@ -132,10 +132,10 @@
 ## Иницијатива за придонес кон Open Source
 - [Up For Grabs](https://up-for-grabs.net/) - Contains projects with beginner-friendly issues. Содржи проекти што вклучуваат issues погодни за почетници.
 - [First Timers Only](https://www.firsttimersonly.com/) - A list of bugs that are labelled "first-timers-only". Листа од грешки тагирани како "само за почетници".
-- [First Contributions](https://firstcontributions.github.io/) - Придонеси во отворен код за 5 минути. [Here](https://github.com/firstcontributions/first-contributions) is the GitHub source code for the site and opportunity to make a contribution to the repository itself. е ГитХаб кодот за сајтот и шансата  за да придонесеш во неа.
+- [First Contributions](https://firstcontributions.github.io/) - Придонеси во отворен код за 5 минути. [Here](https://github.com/firstcontributions/first-contributions) е ГитХаб кодот за сајтот и шансa за да придонесеш во неа.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Програма за поттик на луѓето да се придружат во Отворен Код. Добиј награди, мајци и стикери со правење на најмалку 4 pull requests во месец Октомври.
 - [24 Pull Requests](https://24pullrequests.com) - проект за промоција на Отворен Код во месец Декември.
-- [Ovio](https://ovio.org) - A platform with a curated selection of contributor-friendly projects. Платформа со селектирани проекти за почетници. Содржи [powerful issue search tool](https://ovio.org/issues) и овозможува проектите да бидат зачувани за подоцна
+- [Ovio](https://ovio.org) - A platform with a curated selection of contributor-friendly projects. Платформа со селектирани проекти за почетници. Содржи [powerful issue search tool](https://ovio.org/issues) и овозможува проектите да бидат зачувани за подоцна.
 
 ## Лиценца
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />Лиценцирано преку <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
