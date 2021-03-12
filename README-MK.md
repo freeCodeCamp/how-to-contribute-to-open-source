@@ -46,7 +46,7 @@
 
 - [Водич за придонесување кон Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) од [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [Вовед во Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Туторијали од DigitalOcean кои ќе те одведат до успех во отворен код на GitHub
-- [Issuehub.io](http://issuehub.io/) - алатка за пребарување на GitHub issues по таг и јазик.
+- Issuehub.io - алатка за пребарување на GitHub issues по таг и јазик.
 - [Code Triage](https://www.codetriage.com/) - уште една корисна алатка за пронаоѓање репозитории и issues филтрирани по јазик.
 - [Одлично-за-почетници](https://github.com/MunGell/awesome-for-beginners) - репозиторија што содржи проекти со грешки кои се добра шанса за почетници.
 - [Open Source водичи](https://opensource.guide/) - колекција од ресурси за индивидуалци, општества и компании кои сакат да научат и придонесат во отворен код.
