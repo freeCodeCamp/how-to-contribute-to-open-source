@@ -44,29 +44,27 @@ Als je vragen of opmerkingen hebt, kan je een issue aanmaken.
 - [Licenties](#license)
 
 ## Bijdragen aan een Open Source project in het algemeen
-- [De definitieve gids om bij te dragen aan open source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
-- [Een inleiding tot Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials by DigitalOcean to guide you on your way to contribution success here on GitHub.
-- [Issuehub.io](http://issuehub.io/) - a tool for searching GitHub issues by label and language.
-- [Code Triage](https://www.codetriage.com/) - another, really nice, tool for finding popular repositories and issues filtered by language.
-- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - a GitHub repo that amasses projects with good bugs for new contributors, and applies labels to describe them.
-- [Open source-handleidingen](https://opensource.guide/) - Collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an Open Source project.
-- [45 Github-problemen: wel en niet](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Do's and Don'ts on GitHub.
-- [GitHub-handleidingen](https://guides.github.com/) - basic guides on how to use GitHub effectively.
-- [Draag bij aan Open Source](https://github.com/danthareja/contribute-to-open-source) - Learn the GitHub workflow by contributing code to a simulation project.
-- [Linux Foundation's open source-handleidingen voor de onderneming](https://www.linuxfoundation.org/resources/open-source-guides/) - The Linux Foundation's guides to Open Source projects.
-- [CSS-trucs Een open source-etiquettegids](https://css-tricks.com/open-source-etiquette-guidebook/) - An Open Source Etiquette Guidebook, written by Kent C. Dodds And Sarah Drasner.
-- [A tot Z bronnen voor studenten](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Curated list of resources and opportunities for college students to learn a new coding language.
-- [Pull Request Roulette](http://www.pullrequestroulette.com/) - This site has a list of pull requests submitted for review belonging to Open Source projects hosted on Github.
-- ["Hoe u kunt bijdragen aan een open source-project op GitHub" door Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - A step-by-step video guide of how to start contributing to Open Source projects on GitHub.
-- [Bijdragen aan open source: een live walkthrough van begin tot eind](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - This walkthrough of an open source contribution covers everything from picking a suitable project, working on an issue, to getting the PR merged in.
-- ["Hoe u kunt bijdragen aan een open source-project door" Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - They are focusing on the nitty-gritty of contributing a pull request (PR) to someone else’s project on GitHub.
-- ["Aan de slag met Open Source door" Sayan Chowdhury](https://www.hackerearth.com:443/getstarted-opensource/) - This article covers the resources for contributing to open source for beginners based on their favorite language interest.
-- ["Blader door goede eerste nummers om bij te dragen aan open source"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) - GitHub now helps you find good first issues to start contributing to open source.
-- ["Hoe u kunt bijdragen aan een open source-project" door Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - This comprehensive article is directed towards businesses (but still useful for individual contributors) where it talks about why, how, and what open-source projects to contribute to.
-- ["start-hier-richtlijnen" door Andrei](https://github.com/zero-to-mastery/start-here-guidelines) -
-Lets Git started in the world of opensource, starting in the opensource playground. Especially designed for education and practical experience purposes.
-- ["Aan de slag met Open Source" door NumFocus](https://github.com/numfocus/getting-started-with-open-source) - a GitHub repo that helps contributors overcome barriers to entry in open-source.
-
+- [De definitieve gids om bij te dragen aan open source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) door [@DoomHammerNG](https://twitter.com/DoomHammerNG)
+- [Een inleiding tot Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials van DigitalOcean om u te begeleiden op weg naar succes bij uw bijdragen hier op GitHub.
+- [Issuehub.io](http://issuehub.io/) - een tool voor het zoeken naar GitHub-problemen op label en taal.
+- [Code Triage](https://www.codetriage.com/) -een andere, erg leuke tool voor het vinden van populaire repositories en problemen gefilterd op taal.
+- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - een GitHub-repo die projecten verzamelt met goede bugs voor nieuwe bijdragers, en labels toepast om ze te beschrijven.
+- [Open source-handleidingen](https://opensource.guide/) - Verzameling van bronnen voor individuen, gemeenschappen en bedrijven die willen leren hoe ze een Open Source-project kunnen runnen en eraan kunnen bijdragen.
+- [45 Github-problemen: wel en niet](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) -Do's en Don'ts op GitHub.
+- [GitHub-handleidingen](https://guides.github.com/) -basisgidsen voor het effectief gebruiken van GitHub.
+- [Draag bij aan Open Source](https://github.com/danthareja/contribute-to-open-source) - Leer de GitHub-workflow door code bij te dragen aan een simulatieproject.
+- [Linux Foundation's open source-handleidingen voor de onderneming](https://www.linuxfoundation.org/resources/open-source-guides/) - De handleidingen van de Linux Foundation voor Open Source-projecten.
+- [CSS-trucs Een open source-etiquettegids](https://css-tricks.com/open-source-etiquette-guidebook/) -An Open Source Etiquette Guidebook, geschreven door Kent C. Dodds en Sarah Drasner.
+- [A tot Z bronnen voor studenten](https://github.com/dipakkr/A-to-Z-Resources-for-Students) -An Open Source Etiquette Guidebook, geschreven door Kent C. Dodds en Sarah Drasner.An Open Source Etiquette Guidebook, geschreven door Kent C. Dodds en Sarah Drasner.
+- [Pull Request Roulette](http://www.pullrequestroulette.com/) - Deze site heeft een lijst met pull-aanvragen die ter beoordeling zijn ingediend en behoren tot Open Source-projecten die op Github worden gehost.
+- ["Hoe u kunt bijdragen aan een open source-project op GitHub" door Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - Een stapsgewijze videogids over hoe u kunt beginnen met bijdragen aan Open Source-projecten op GitHub.
+- [Bijdragen aan open source: een live walkthrough van begin tot eind](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - Deze walkthrough van een open source-bijdrage omvat alles, van het kiezen van een geschikt project, het werken aan een probleem, tot het samenvoegen van de PR.
+- ["Hoe u kunt bijdragen aan een open source-project door" Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - Ze concentreren zich op de essentie van het bijdragen van een pull request (PR) aan het project van iemand anders op GitHub.
+- ["Aan de slag met Open Source door" Sayan Chowdhury](https://www.hackerearth.com:443/getstarted-opensource/) -Dit artikel behandelt de bronnen om bij te dragen aan open source voor beginners op basis van hun favoriete taalinteresse.
+- ["Blader door goede eerste nummers om bij te dragen aan open source"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) -GitHub helpt je nu bij het vinden van goede eerste problemen om bij te dragen aan open source.
+- ["Hoe u kunt bijdragen aan een open source-project" door Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - Dit uitgebreide artikel is gericht op bedrijven (maar nog steeds nuttig voor individuele bijdragers) waar het gaat over waarom, hoe en aan welke open-sourceprojecten een bijdrage kan worden geleverd.
+- ["start-hier-richtlijnen" door Andrei](https://github.com/zero-to-mastery/start-here-guidelines) - Laten we beginnen met Git in de wereld van opensource, beginnend in de opensource-speeltuin. Speciaal ontworpen voor onderwijs en praktijkervaring.
+- ["Aan de slag met Open Source" door NumFocus](https://github.com/numfocus/getting-started-with-open-source) - een GitHub-opslagplaats die bijdragers helpt om toegangsdrempels in open source te overwinnen.
 ## GitHub doorzoeken
 
 Zoek links die rechtstreeks verwijzen naar geschikte problemen om aan bij te dragen.
