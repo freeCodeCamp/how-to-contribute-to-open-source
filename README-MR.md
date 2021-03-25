@@ -30,7 +30,7 @@
 
 ओपन सोर्समध्ये सहयोग देण्यासाठी नवीन असलेल्या लोकांच्या संसाधनांची ही सूची आहे.
 
-आपल्याला अतिरिक्त संसाधने आढळल्यास, कृपया पुल विनंतीस सहयोग द्या.
+आपल्याला अतिरिक्त संसाधने आढळल्यास, कृपया pull requestनी सहयोग द्या.
 
 आपल्याकडे प्रश्न किंवा टिप्पण्या असल्यास कृपया एक समस्या तयार करा.
 
@@ -51,14 +51,14 @@
 - [Issuehub.io](http://issuehub.io/) - लेबल आणि भाषेद्वारे गीटहब समस्या शोधण्याचे एक साधन.
 - [Code Triage](https://www.codetriage.com/) - आणखी एक, खरोखर छान, लोकप्रिय भांडार शोधण्याचे साधन आणि भाषेद्वारे फिल्टर केलेले प्रश्न.
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - नवीन योगदानकर्त्यांसाठी चांगल्या बगसह प्रोजेक्ट्स एकत्रित करणारे आणि त्यांचे वर्णन करण्यासाठी लेबले लागू करणारे एक गीटहब रेपो.
-- [Open Source Guides](https://opensource.guide/) - लोक, समुदाय आणि कंपन्यांना ओपन सोर्स प्रोजेक्टमध्ये कसे चालवायचे आणि योगदान कसे द्यायचे हे शिकू इच्छितात अशा स्त्रोतांचे संग्रह.
+- [Open Source Guides](https://opensource.guide/) - लोक, समुदाय आणि कंपन्यांना ओपन सोर्स प्रोजेक्टमध्ये कसे वापरायचे आणि योगदान कसे द्यायचे हे शिकू इच्छिणाऱ्यांसाठी स्त्रोतांचे संग्रह.
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - गिटहब वर करा आणि काय करू नका.
-- [GitHub Guides](https://guides.github.com/) - GitHub प्रभावीपणे कसे वापरावे याबद्दल मूलभूत मार्गदर्शक.
+- [GitHub Guides](https://guides.github.com/) - गिटहब प्रभावीपणे कसे वापरावे याबद्दल मूलभूत मार्गदर्शक.
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - सिम्युलेशन प्रोजेक्टमध्ये कोडचे योगदान देऊन गिटहब वर्कफ्लो जाणून घ्या.
 - [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - लिनक्स फाऊंडेशनचे ओपन सोर्स प्रकल्पांसाठी मार्गदर्शक.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - केंट सी. डॉड्स आणि सारा ड्रॅसनर यांनी लिहिलेले ओपन सोर्स शिष्टाचार मार्गदर्शक पुस्तिका.
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - नवीन कोडींग भाषा शिकण्यासाठी महाविद्यालयीन विद्यार्थ्यांसाठी स्त्रोत आणि संधींची क्युरेटेड यादी.
-- [Pull Request Roulette](http://www.pullrequestroulette.com/) - या साइटवर गीथबवर होस्ट केलेल्या ओपन सोर्स प्रकल्पांच्या पुनरावलोकनासाठी सबमिट केलेल्या पुल विनंत्यांची यादी आहे.
+- [Pull Request Roulette](http://www.pullrequestroulette.com/) - या साइटवर गिटहब वर होस्ट केलेल्या ओपन सोर्स प्रकल्पांच्या पुनरावलोकनासाठी सबमिट केलेल्या पुल विनंत्यांची यादी आहे.
 - ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - गिटहबवरील ओपन सोर्स प्रोजेक्टमध्ये सहयोग देणे कसे सुरू करावे याचे चरण-चरण-चरण व्हिडिओ मार्गदर्शक.
 - [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - मुक्त स्त्रोताच्या योगदानाची ही वाक थर योग्य प्रकल्प निवडणे, एखाद्या समस्येवर काम करणे, पीआर मध्ये विलीन होण्यापर्यंत सर्वकाही व्यापते.
 - ["How to Contribute to Open Source Project by" Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - ते गिटहबवरील कोणाच्यातरी प्रकल्पात पुल रिक्वेस्ट (पीआर) देण्याच्या योगदानावर भर देत आहेत.
@@ -68,8 +68,8 @@
 - ["start-here-guidelines" by Andrei](https://github.com/zero-to-mastery/start-here-guidelines) -
 ओपनसोर्सच्या खेळाच्या मैदानापासून सुरू होण्यास ओपनसोर्सच्या जगात जाऊ दे. विशेषतः शिक्षण आणि व्यावहारिक अनुभवाच्या उद्देशाने डिझाइन केलेले.
 
-## डायरेक्ट गीथब सर्च
-GitHub वर सहयोग देण्यासाठी थेट योग्य मुद्द्यांकडे निर्देश करणारे दुवे शोधा.
+## डायरेक्ट गिटहब सर्च
+गिटहब वर सहयोग देण्यासाठी थेट योग्य मुद्द्यांकडे निर्देश करणारे दुवे शोधा.
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
 - [is:issue is:open label:first-timers-only](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
@@ -114,7 +114,7 @@ GitHub वर सहयोग देण्यासाठी थेट योग
 - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
 - [freeCodeCamp's Wiki on Git Resources](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
 - [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - पुल विनंती कशी करावी याबद्दल गिटहब चर्चा.
-- [GitHub Learning Resources](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/git-and-github-learning-resources) - Git आणि GitHub शिक्षण संसाधने
+- [GitHub Learning Resources](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/git-and-github-learning-resources) - गिट आणि गिटहब शिक्षण संसाधने
 - [Pro Git](https://git-scm.com/book/en/v2) - स्कॉट चाकॉन आणि बेन स्ट्रॉब यांनी लिहिलेले आणि Apress यांनी प्रकाशित केलेले संपूर्ण प्रो गिट पुस्तक.
 - [Git-it](https://github.com/jlord/git-it-electron) - स्टेप बाय स्टे गिट ट्यूटोरियल डेस्कटॉप अॅप.
 - [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - जेव्हा गोष्टी चुकतात तेव्हा काय करावे याबद्दल मार्गदर्शक.
