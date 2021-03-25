@@ -43,7 +43,7 @@ Jeżeli masz jakiekolwiek pytania bądź komentarz stwórz kwestię *(ang. issue
 - [Poradnik Open Source](http://opensource.guide/pl/how-to-contribute/) **[PL]** - Strona w języku polskim poświęcona projektom otwartego oprogramowania.
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Poradnik stworzony przez DigitalOcean by poprowadzić cię do sukcesu w kontrybuowaniu na GitHubie.
-- [Issuehub.io](http://issuehub.io/) - narzędzie do wyszukiwania kwestii *(ang. Issue)* na podstawie etykiet *(ang. Labels)* i języków programowania.
+- [Issuehub.io](http://issuehub.pro/) - narzędzie do wyszukiwania kwestii *(ang. Issue)* na podstawie etykiet *(ang. Labels)* i języków programowania.
 - [Code Triage](https://www.codetriage.com/) - kolejne ciekawe narzędzie do znajdowania popularnych repozytoriów i filtrowania kwestii na podstawie języka programowania.
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - repozytorium na GitHubie, które gromadzi projekty z dobrymi bugami dla początkujących kontrybutorów i stosuje etykiety do ich opisywania.
 - [Open Source Guides](https://opensource.guide/) - Zbiór poradników dla wszystkich, którzy chcą się nauczyć, jak kontrybuować do projektów otwartego oprogramowania.

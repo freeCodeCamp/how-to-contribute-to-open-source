@@ -1,7 +1,7 @@
 <!-- Do not translate this -->
 <details>
 <summary>
-<strong> Read this guide in other languages </strong>
+<strong> 언어 변경 </strong>
 </summary>
     <ul>
         <li><a href="./README.md"> English </a></li>
@@ -45,10 +45,11 @@
 - [라이선스](#라이선스)
 
 ## 일반적으로 오픈 소스에 기여하기
+- [오픈소스란 무엇인가요?](https://hamonikr.org/oss/51202) - 국내 오픈소스 
 - [The Definitive Guide to Contributing to Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - DigitalOcean의 GitHub에서 기여를 성공할 수 있는 방법을 안내하는 튜토리얼
 - [SourceSort](https://www.sourcesort.com) - 도움을 필요로 하는 검색가능한 오픈 소스 프로젝트들의 모음집, 새로운 컨트리뷰터들에게 중요한 첫번째 PR 승인률과 반응 시간과 같은 수치들을 갖추고 있음
-- [Issuehub.io](http://issuehub.io/) - 라벨과 언어로 GitHub 이슈들을 찾는 도구
+- [Issuehub.io](http://issuehub.pro/) - 라벨과 언어로 GitHub 이슈들을 찾는 도구
 - [Code Triage](https://www.codetriage.com/) - 언어별로 필터링된 인기있는 레파지토리와 이슈들을 찾는 또 다른 좋은 도구
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - 새로운 컨트리뷰터를 위한 좋은 버그와 해당 버그를 설명하는 라벨을 모아둔 GitHub 레포지토리 
 - [Open Source Guides](https://opensource.guide/) - 오픈소스 프로젝트를 운영하고 기여하는 방법을 배우고 싶어하는 개인, 커뮤니티, 회사를 위한 리소스들의 모음집

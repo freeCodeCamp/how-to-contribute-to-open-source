@@ -45,7 +45,7 @@
 ## பொதுவாக திறமூலத்திற்கு பங்களிப்பு
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - கிட்ஹப்பில் வெற்றிப் பங்களிப்புகான வழியை உங்களுக்கு வழிகாட்ட டிஜிட்டல் ஓஷனின் பயிற்சிகள்.
-- [Issuehub.io](http://issuehub.io/) - GitHub சிக்கல்களை லேபிள் மற்றும் மொழி மூலம் தேடுவதற்கான ஒரு கருவி.
+- [Issuehub.io](http://issuehub.pro/) - GitHub சிக்கல்களை லேபிள் மற்றும் மொழி மூலம் தேடுவதற்கான ஒரு கருவி.
 - [Code Triage](https://www.codetriage.com/) - another, really nice, tool for finding popular repositories and issues filtered by language.
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - புதிய பங்களிப்பாளர்களுக்கு நல்ல பிழைகள் கொண்ட திட்டங்களை சேகரிக்கும் ஒரு கிட்ஹப் ரெப்போ, அவற்றை விவரிக்க லேபிள்களைப் பயன்படுத்துகிறது.
 - [Open Source Guides](https://opensource.guide/) - திறந்த மூல திட்டத்திற்கு எவ்வாறு இயங்குவது மற்றும் பங்களிப்பது என்பதை அறிய விரும்பும் தனிநபர்கள், சமூகங்கள் மற்றும் நிறுவனங்களுக்கான ஆதாரங்களின் சேகரிப்பு.

@@ -39,7 +39,7 @@
 ## सामान्यमा खुला स्रोतमा योगदान
 - [@DoomHammerNG](https://twitter.com/DoomHammerNG)[ द्वारा The Definitive Guide to Contributing to Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282)
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - GITHub मा योगदान  को लागी तपाइँको मार्ग मा मार्गदर्शन गर्न DigitalOcean द्वारा Tutorials
-- [Issuehub.io](http://issuehub.io/) - लेबल र भाषा द्वारा GitHub मुद्दाहरूको खोजीको लागि एक उपकरण
+- [Issuehub.io](http://issuehub.pro/) - लेबल र भाषा द्वारा GitHub मुद्दाहरूको खोजीको लागि एक उपकरण
 - [Code Triage](https://www.codetriage.com/) - अर्को, वास्तवमा राम्रो, लोकप्रिय भण्डारहरू र भाषा द्वारा फिल्टर गरिएको मुद्दाहरू फेला पार्न उपकरण।
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - एक GitHub repo जसले नयाँ योगदानकर्ताहरूको लागि राम्रो Bug को साथ परियोजनाहरू प्रवर्धन गर्दछ, र तिनीहरूलाई वर्णन गर्न लेबलहरू लागू गर्दछ।
 - [Open Source Guides](https://opensource.guide/) - व्यक्ति, समुदाय, र कम्पनीहरूका लागि स्रोतहरूको  Collection जसले ओपन सोर्स प्रोजेक्ट कसरी चलाउने र कसरी योगदान दिने भनेर जान्न चाहान्छ।

@@ -41,7 +41,7 @@
 ## 通常のオープンソースへの貢献
 - [信頼性の高いオープンソース貢献のガイド](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [オープンソース入門](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - DigitalOceanによるGithubの貢献で成功するためのチュートリアル
-- [Issuehub.io](http://issuehub.io/) - ラベルと言語でGithubのIssuesを検索するためのツール
+- [Issuehub.io](http://issuehub.pro/) - ラベルと言語でGithubのIssuesを検索するためのツール
 - [Code Triage](https://www.codetriage.com/) - その他の言語フィルターによって人気のレポジトリーを探すための良いツール、
 - [初心者向けの素晴らしいもの](https://github.com/MunGell/awesome-for-beginners) - オープンソース貢献初心者のために良いバクを蓄えていおり、説明のラベルが付いているレポジトリー
 - [オープンソースガイド](https://opensource.guide/) - オープンソースに貢献の仕方を覚えたい個人、コミュニティ、企業向けのレポジトリーまとめ

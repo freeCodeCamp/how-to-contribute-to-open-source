@@ -13,9 +13,9 @@
         <td><a href="./README-GR.md"> Ελληνικά </a></td>
         <td><a href="./README-FR.md"> Français </a></td>
         <td><a href="./README-TR.md"> Turkish </a></td>
+        <td><a href="./README-KO.md"> 한국어 </a></td>
     </tr>
 </table>
-
 # Benvenuti contributori principianti all'open source!
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
@@ -41,7 +41,7 @@ Se hai domande o commenti, crea un problema/issue.
 ## Contribuire all'open source in generale
 - [Un'introduzione all'open source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorial di DigitalOcean per guidarti nel tuo modo di contribuire con successo qui su GitHub.
 - [In palio](http://up-for-grabs.net/#/) - un elenco di progetti con problemi per i principianti.
-- [Issuehub.io](http://issuehub.io/) - uno strumento per cercare i problemi di GitHub per etichetta e lingua.
+- [Issuehub.io](http://issuehub.pro/) - uno strumento per cercare i problemi di GitHub per etichetta e lingua.
 - [Code Triage](https://www.codetriage.com/) - un altro, davvero bello, strumento per trovare depositi di code/repositories e problemi popolari filtrati per lingua.
 - [Solo per i principianti](http://www.firsttimersonly.com/) - un elenco di bug/errore di codice etichettati come "first-timer-only(Solo per i principianti)".
 - [La tua prima richiesta di aggiunta (Pull Request)](https://twitter.com/yourfirstpr) - problemi di avviamento su GitHub che possono essere facilmente affrontati dai nuovi contributori.

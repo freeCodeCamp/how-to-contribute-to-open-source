@@ -5,7 +5,7 @@
         <td><a href="./README-BN.md"> বাংলা </a></td>
         <td><a href="./README-CN.md"> 中文 </a></td>
         <td><a href="./README-RU.md"> русский </a></td>
-        <td><a href="./README-RO.md"> Română </a></td>
+        <td><a href="./README-RO.md"> Românesc </a></td>
         <td><a href="./README-IT.md"> Italiano </a></td>
         <td><a href="./README-ES.md"> Español </a></td>
         <td><a href="./README-pt-BR.md"> Português (BR) </a></td>
@@ -13,6 +13,7 @@
         <td><a href="./README-GR.md"> Ελληνικά </a></td>
         <td><a href="./README-FR.md"> Français </a></td>
         <td><a href="./README-TR.md"> Turkish </a></td>
+        <td><a href="./README-KO.md"> 한국어 </a></td>
     </tr>
 </table>
 
@@ -40,7 +41,7 @@ Dacă aveți întrebări sau comentarii, vă rugăm să creați o problemă (iss
 ## Contribuția la open source în general
 - [Introducere la Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutoriale de la DigitalOcean pentru a vă ghida pe drumul spre succesul contribuției aici pe GitHub.
 - [Disponibile](http://up-for-grabs.net/#/) - o listă de proiecte cu probleme pentru începători.
-- [Issuehub.io](http://issuehub.io/) - un instrument de căutare a problemelor GitHub după etichetă și limbă.
+- [Issuehub.io](http://issuehub.pro/) - un instrument de căutare a problemelor GitHub după etichetă și limbă.
 - [Cod Triage](https://www.codetriage.com/) - un alt instrument, foarte frumos, pentru găsirea depozitelor (repositories) și a problemelor populare filtrate după limbă.
 - [Numai pentru începători](http://www.firsttimersonly.com/) - o listă de erori (bugs) care sunt etichetate "numai pentru prima dată (first-timers-only)".
 - [Prima ta cerere de adaugare (Pull Request)](https://twitter.com/yourfirstpr) - probleme de pornire pe GitHub care pot fi abordate cu ușurință de noii contribuitori.
@@ -52,6 +53,7 @@ Dacă aveți întrebări sau comentarii, vă rugăm să creați o problemă (iss
 - [Contribuiți la Open Source](https://github.com/danthareja/contribute-to-open-source) - Aflați fluxul de lucru GitHub contribuind la codul unui proiect de simulare.
 - [Ghidul open source al Fundației Linux pentru întreprinderi](https://www.linuxfoundation.org/resources/open-source-guides/) - Ghidul Fundației Linux pentru proiecte cu sursă deschisă (open source).
 - [CSS Tricks Un Ghid al Etichetei Open Source](https://css-tricks.com/open-source-etiquette-guidebook/) - Ghid de Etichetei Open Source, scris de Kent C. Dodds și Sarah Drasner.
+- [Ovio](https://ovio.org/) - O platforma cu o selectie organizata de proiecte la care puteti contribuii. Are un [instrument de cautare](https://ovio.org/issues) a problemelor si va permite sa salvati proiecte si probleme pentru mai tarziu.
 
 ## Căutări directe pe GitHub
 Căutați linkuri care indică direct problemele potrivite pentru a contribui la GitHub.

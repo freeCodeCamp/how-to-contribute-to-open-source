@@ -13,6 +13,7 @@
         <td><a href="./README-GR.md"> Ελληνικά </a></td>
         <td><a href="./README-FR.md"> Français </a></td>
         <td><a href="./README-TR.md"> Turkish </a></td>
+        <td><a href="./README-KO.md"> 한국어 </a></td>
     </tr>
 </table>
 
@@ -41,7 +42,7 @@
 - [Полное руководство по содействию открытому исходному коду](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) от [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [Введение в открытый исходный код](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Мастер классы от DigitalOcean, которые помогут вам успешно участвовать в open source проектах на GitHub.
 - [SourceSort](https://www.sourcesort.com) - Коллекция проектов с открытым исходным кодом, нуждающихся в помощи, с возможностью поиска и такими метриками как уровень принятия первых PR и время отклика, которые могут сыграть решающую роль для новых участников.
-- [Issuehub.io](http://issuehub.io/) - Инструмент поиска GitHub issues по ярлыку и языку программирования.
+- [Issuehub.io](http://issuehub.pro/) - Инструмент поиска GitHub issues по ярлыку и языку программирования.
 - [Code Triage](https://www.codetriage.com/) - Еще один хороший инструмент для поиска популярных репозиториев и issues, отфильтрованных по языку программирования.
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - Репозиторий GitHub, который собирает проекты с хорошими багами для новичков и применяет ярлыки для их описания.
 - [Подборка ресурсов open source](https://opensource.guide/) - Подборка ресурсов для людей, сообществ и компаний, которые хотят научиться вносить вклад в проекты с открытым исходным кодом.
