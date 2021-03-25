@@ -56,7 +56,7 @@ Eğer bir sorunuz veya yorumunuz varsa lütfen "issue" oluşturun.
 ## Genel olarak Açık Kaynağa katkı sağlamak
 - [Açık Kaynağa katkı sağlamak hakkında açıklayıcı kılavuz](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [Açık Kaynağa Giriş](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - DigitalOcean tarafından hazırlanan GitHub'da başarılı katkı için yolunda kılavuz olacak dersler 
-- [Issuehub.io](http://issuehub.io/) - GitHub issuelarını etiket ve dile göre aramak için araç
+- [Issuehub.io](http://issuehub.pro/) - GitHub issuelarını etiket ve dile göre aramak için araç
 - [Code Triage](https://www.codetriage.com/) - Dil bazlı filtrelenmiş popüler repoları ve issueları bulmak için gayet hoş başka bir araç 
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - Uygun bugları etiketler uygulayarak repoları toplamış olan faydalı bir repo 
 - [Open Source Guides](https://opensource.guide/) - Bireyler, topluluklar ve şirketler için Açık Kaynağa nasıl katkı sağlayacakları konusunda yardımcı kaynakların toplandığı koleksiyon

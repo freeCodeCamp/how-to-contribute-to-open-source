@@ -41,7 +41,7 @@
 
 ## 一般开源贡献
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - DigitalOcean提供的指导你通过你的方式在GitHub上成功进行贡献的指南。
-- [Issuehub.io](http://issuehub.io/) - 一个通过标签和语言来搜索GitHub issue的工具。
+- [Issuehub.io](http://issuehub.pro/) - 一个通过标签和语言来搜索GitHub issue的工具。
 - [Code Triage](https://www.codetriage.com/) - 另一个，确实不错的，通过语言过滤来查找流行的开源库和issue的工具。
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - 一个GitHub开源库，收集一些对新的贡献来说有不错的Bug进行贡献的工程，并且通过标签来进行描述。
 - [Open Source Guides](https://opensource.guide/) - 为希望学习怎样对开源项目进行贡献的个人，组织和公司收集的资源。

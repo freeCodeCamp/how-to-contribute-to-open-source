@@ -44,7 +44,7 @@ Jika Anda memiliki pertanyaan atau kommen, silahkan membuat issue baru.
 
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) ditulis oleh [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorial yang ditulis oleh DigitalOcean untuk memandu Anda menuju kontribusi sukses di GitHub.
-- [Issuehub.io](http://issuehub.io/) - alat untuk mencari GitHub issue berdasarkan label dan bahasa.
+- [Issuehub.io](http://issuehub.pro/) - alat untuk mencari GitHub issue berdasarkan label dan bahasa.
 - [Code Triage](https://www.codetriage.com/) - alat lain yang sangat berguna untuk mencari repositori dan issue populer berdasarkan bahasa.
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - sebuah repo GitHub yang mengumpulkan proyek dengan bug yang baik untuk para kontributor baru, dan menerapkan label untuk mendeskripsikannya.
 - [Open Source Guides](https://opensource.guide/) - Kumpulan sumber untuk individu, komunitas, dan perusahaan yang ingin mempelajari cara menjalankan dan berkontribusi pada proyek Sumber Terbuka.
