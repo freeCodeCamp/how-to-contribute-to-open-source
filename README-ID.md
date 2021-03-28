@@ -98,7 +98,7 @@ Link pencarian yang mengacu ke isu yang cocok untuk kontributor pemula di github
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) oleh [@GitHub](https://github.com/github)
 - [How to Find a Bug in Your Code](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) oleh [@dougbradbury](https://twitter.com/dougbradbury)
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) oleh [@GitHub](https://github.com/github)
-- [First mission: Contributors page](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) oleh [@forCrowd](https://github.com/forCrowd)
+- [First mission: Contributors page](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e707052v2g0no29) oleh [@forCrowd](https://github.com/forCrowd)
 - [How to make your first Open Source contribution in just 5 minutes](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) oleh [@roshanjossey](https://github.com/Roshanjossey/)
 - [Hacktoberfest 2019: How you can get your free shirt — even if you’re new to coding](https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b/) oleh [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
 - [A Bitter Guide To Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) oleh [@ken_wheeler](https://medium.com/@ken_wheeler)
