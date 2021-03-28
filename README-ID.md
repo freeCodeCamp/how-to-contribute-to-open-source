@@ -48,8 +48,8 @@ Jika terdapat pertanyaan atau komentar, silahkan buat issue.
 ## Berkontribusi ke Open Source secara umum
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) oleh [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Pedoman dari DigitalOcean sebagai panduan untuk menggapai keberhasilan dalam berkontribusi di Github.
-- [Issuehub.pro](http://issuehub.pro/) - Web untuk melakukan pencarian issue di Github melalui label dan bahasa pemrograman yang dikehendaki.
-- [Code Triage](https://www.codetriage.com/) - Web yang baik untuk mencari issue dan repositori populer lewat penyaring bahasa pemrograman.
+- [Issuehub.pro](http://issuehub.pro/) - Situs web untuk melakukan pencarian issue di Github melalui label dan bahasa pemrograman yang dikehendaki.
+- [Code Triage](https://www.codetriage.com/) - Situs web yang baik untuk mencari issue dan repositori populer lewat penyaring bahasa pemrograman.
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - Sebuah repositori GitHub yang berisi proyek dengan bug ringan untuk para kontributor baru, dan menggunakan label sebagai penjelasannya.
 - [Open Source Guides](https://opensource.guide/) - Koleksi sumber daya untuk individu, komunitas, dan perusahaan yang berniat untuk mempelajari bagaimana menjalankan dan berkontribusi pada proyek Open Source.
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Anjuran dan Larangan di GitHub.
