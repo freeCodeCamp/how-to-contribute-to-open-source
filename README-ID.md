@@ -28,7 +28,7 @@
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
 [![Build Status](https://api.travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
 
-Berikut ini adalah list sumberdaya untuk para pemula yang baru pertama kali berkontribusi untuk proyek Open Source.
+Berikut ini adalah list sumber daya untuk para pemula yang baru pertama kali berkontribusi untuk proyek Open Source.
 
 Jika anda menemukan sumber daya lain yang bermanfaat, mohon berikan kontribusi anda dengan membuat pull request.
 
@@ -36,17 +36,17 @@ Jika terdapat pertanyaan atau komentar, silahkan buat issue.
 
 **Konten**
 
-- [Berkontribusi ke Open Source secara umum](#contributing-to-open-source-in-general)
-- [Pencarian Proyek Open Source Di Github Secara Langsung](#direct-github-searches)
-- [Ekosistem Kontribusi Mozilla](#mozillas-contributor-ecosystem)
-- [Artikel bermanfaat untuk para kontributor Proyek Open Source](#useful-articles-for-new-open-source-contributors)
-- [Menggunakan Version Control](#using-version-control)
-- [Buku-buku Open Source](#open-source-books)
-- [Kontribusi inisiatif Open Source](#open-source-contribution-initiatives)
-- [Lisensi](#license)
+- [Berkontribusi Ke Open Source Secara Umum](#berkontribusi-ke-open-source-secara-umum)
+- [Pencarian Proyek Open Source Di Github Secara Langsung](#pencarian-proyek-open-source-di-github-secara-langsung)
+- [Ekosistem Kontribusi Mozilla](#ekosistem-kontribusi-mozilla)
+- [Artikel Bermanfaat Untuk Para Kontributor Proyek Open Source](#artikel-bermanfaat-untuk-para-kontributor-proyek-open-source)
+- [Menggunakan Version Control](#menggunakan-version-control)
+- [Buku-buku Open Source](#buku-buku-open-source)
+- [Kontribusi Inisiatif Open Source](#kontribusi-inisiatif-open-source)
+- [Lisensi](#lisensi)
 
-## Berkontribusi ke Open Source secara umum
-- [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) oleh [@DoomHammerNG](https://twitter.com/DoomHammerNG)
+## Berkontribusi Ke Open Source Secara Umum
+- [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) oleh [@DoomHammerNG](https://twitter.com/DoomHammerNG).
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Pedoman dari DigitalOcean sebagai panduan untuk menggapai keberhasilan dalam berkontribusi di Github.
 - [Issuehub.pro](http://issuehub.pro/) - Situs web untuk melakukan pencarian issue di Github melalui label dan bahasa pemrograman yang dikehendaki.
 - [Code Triage](https://www.codetriage.com/) - Situs web yang baik untuk mencari issue dan repositori populer lewat penyaring bahasa pemrograman.
@@ -70,7 +70,6 @@ Mari berkontribusi pada dunia Open Source, dimulai dengan opensource playground 
 - ["Getting Started with Open Source" by NumFocus](https://github.com/numfocus/getting-started-with-open-source) - Sebuah repo GitHub yang membantu kontributor untuk mengatasi kendala masuk ke dalam proyek Open Source.
 - ["Opensoure-4-everyone" by Chryz-hub ](https://github.com/chryz-hub/opensource-4-everyone) - Sebuah repositori mengenai seluruh hal yang berkaitan dengan proyek Open Source. Repositori ini membahas transparansi keanggotaan Github, belajar perintah-perintah Git dari level pemula dan mahir, memulai proyek Open Source, dan lain sebagainya.
 
-
 ## Pencarian Proyek Open Source Di Github Secara Langsung
 Link pencarian yang mengacu ke isu yang cocok untuk kontributor pemula di github.
 - [is:issue is:open label:beginner](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Abeginner&type=issues)
@@ -90,7 +89,7 @@ Link pencarian yang mengacu ke isu yang cocok untuk kontributor pemula di github
 - [What Can I Do For Mozilla](https://whatcanidoformozilla.org/) - Cari tahu apa yang bisa anda kontribusikan dengan menjawab pertanyaan tentang kemampuan dan minat anda.
 - [Start Mozilla](https://twitter.com/StartMozilla) - Akun twitter yang membuat tweet tentang issue yang muncul dan cocok untuk kontibutor baru di ekosistem Mozilla.
 
-## Artikel bermanfaat untuk para kontributor Proyek Open Source
+## Artikel Bermanfaat Untuk Para Kontributor Proyek Open Source
 - [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) oleh [@GitHub](https://github.com/github)
 - [How to find your first Open Source bug to fix](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) oleh [@Shubheksha](https://github.com/Shubheksha)
 - [First Timers Only](https://kentcdodds.com/blog/first-timers-only/) oleh [@kentcdodds](https://github.com/kentcdodds)
@@ -106,7 +105,7 @@ Link pencarian yang mengacu ke isu yang cocok untuk kontributor pemula di github
 - [A junior developer’s step-by-step guide to contributing to Open Source for the first time](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) oleh [@LetaKeane](https://hackernoon.com/u/letakeane)
 - [Learn Git and GitHub Step By Step (on Windows)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) oleh [@ows-ali](https://ows-ali.medium.com/)
 - [Why Open Source and How?](https://careerkarma.com/blog/open-source-projects-for-beginners/) oleh [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
-- [How to get started with Open Source - By Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/)
+- [How to get started with Open Source](https://www.hackerearth.com/getstarted-opensource/) oleh Sayan Chowdhury
 - [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) oleh Kent C. Dodds
 - [An immersive introductory guide to Open-source](https://developeraspire.hashnode.dev/an-immersive-introductory-guide-to-open-source) oleh [Franklin Okolie](https://twitter.com/DeveloperAspire)
 - [Getting started with contributing to open source](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/) oleh [Zara Cooper](https://stackoverflow.blog/author/zara-cooper/)
@@ -140,7 +139,7 @@ Link pencarian yang mengacu ke isu yang cocok untuk kontributor pemula di github
 - [The Architecture of Open Source Applications](http://www.aosabook.org/en/git.html) - Menunjukkan bagaimana aspek Git bekerja untuk memahami prinsip kerja, dan bagaimana perbedaan Git dengan version control systems (VCSs) lainnya.
 - [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - Esai dari pionir open-source seperti Linus Torvalds (Linux), Larry Wall (Perl), dan Richard Stallman (GNU).
 
-## Kontribusi inisiatif Open Source
+## Kontribusi Inisiatif Open Source
 - [Up For Grabs](https://up-for-grabs.net/) - Berisi proyek dengan issue yang baik untuk pemula.
 - [First Timers Only](https://www.firsttimersonly.com/) - Daftar bug yang diberi label "first-timers-only".
 - [First Contributions](https://firstcontributions.github.io/) - Buat kontribusi Open Source pertama anda dalam 5 menit. Sebuah alat dan panduang yang membantu pemula untuk memulai kontribusi. [Ini](https://github.com/firstcontributions/first-contributions) adalah sumber kode dari GitHub, anda juga berkesempatan untuk berkontribusi pada repositori itu sendiri.
@@ -148,6 +147,6 @@ Link pencarian yang mengacu ke isu yang cocok untuk kontributor pemula di github
 - [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests adalah proyek untuk mempromosikan kolaborasi proyek-proyek Open Source pada bulan Desember.
 - [Ovio](https://ovio.org) - Sebuah platform yang berisi proyek bersifat contributor-friendly. Platform ini memiliki [mesin pencarian issue](https://ovio.org/issues) dan dapat menyimpan issue untuk ditandai serta diselesaikan nantinya.
 
-## License
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />Artikel ini berada dibawah lisensi<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+## Lisensi
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />Artikel ini berada dibawah lisensi <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
