@@ -26,7 +26,7 @@
 
 Berikut ini adalah list sumber daya untuk para pemula yang baru pertama kali berkontribusi untuk proyek Open Source.
 
-Jika Anda menemukan sumber tambahan yang bermanfaat, silahkan berkontribusi dengan membuat pull request baru.
+Jika Anda menemukan sumber tambahan lain yang bermanfaat, silahkan berkontribusi dengan membuat pull request baru.
 
 Jika Anda memiliki pertanyaan atau komentar, silahkan membuat issue baru.
 
@@ -43,8 +43,8 @@ Jika Anda memiliki pertanyaan atau komentar, silahkan membuat issue baru.
 
 ## Berkontribusi Ke Open Source Secara Umum
 
-- [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) ditulis oleh [@DoomHammerNG](https://twitter.com/DoomHammerNG)
-- [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Pedoman dari DigitalOcean sebagai panduan untuk menggapai keberhasilan dalam berkontribusi di Github.
+- [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) ditulis oleh [@DoomHammerNG](https://twitter.com/DoomHammerNG).
+- [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Pedoman dari DigitalOcean sebagai panduan untuk menggapai keberhasilan dalam berkontribusi di GitHub.
 - [Issuehub.io](http://issuehub.pro/) - Situs web untuk melakukan pencarian GitHub issue berdasarkan label dan bahasa.
 - [Code Triage](https://www.codetriage.com/) - Situs web yang baik untuk mencari issue dan repositori populer lewat penyaring bahasa pemrograman.
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - Sebuah repositori GitHub yang berisi proyek dengan bug ringan untuk para kontributor baru, dan menggunakan label sebagai penjelasannya.
@@ -54,16 +54,19 @@ Jika Anda memiliki pertanyaan atau komentar, silahkan membuat issue baru.
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Pelajari alur kerja GitHub dengan berkontribusi ke proyek simulasi.
 - [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Pengantar yang dibuat oleh Linux Foundation mengenai proyek Open Source.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - Sebuah buku pengantar etiket dalam berkontribusi ke Open Source, ditulis oleh Kent C. Dodds dan Sarah Drasner.
-- [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Daftar sumber daya dan peluang untuk para mahasiswa mempelajari bahasa pemrograman baru.
+- [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Daftar sumber daya dan peluang untuk para mahasiswa untuk mempelajari bahasa pemrograman baru.
 - [Pull Request Roulette](http://www.pullrequestroulette.com/) - Situs web ini memiliki daftar proyek Open Source pada GitHub, berisi pull request yang membutuhkan review.
 - ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - Panduan video bertahap tentang cara mulai berkontribusi pada proyek Open Source di GitHub.
 - [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - Artikel ini berisi pembahasan mengenai aktifitas yang dapat dilakukan di proyek Open Source, dimulai dari memilih proyek mana yang cocok untuk anda, memperbaiki issue, atau membuat PR hingga berhasil digabungkan (merge).
 - ["How to Contribute to Open Source Project by" Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - Pembahasan ini terfokus pada seluk-beluk berkontribusi dengan pull request (PR) ke suatu proyek di Github.
 - ["How to get started with Open Source by" Sayan Chowdhury](https://www.hackerearth.com:443/getstarted-opensource/) - Artikel ini membahas sumber daya untuk berkontribusi ke Open Source bagi para pemula berdasarkan minat bahasa favorit mereka.
 - ["Browse good first issues to start contributing to open source"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) - GitHub sekarang dapat membantu Anda menemukan issue pertama yang baik untuk mulai berkontribusi ke Open Source.
-- ["How to Contribute to Open Source Project" by Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - Artikel komprehensif ini ditujukan untuk perusahaan (tetapi masih berguna untuk kontributor individu) yang membahas tentang mengapa, bagaimana, dan proyek Open Source apa yang dapat dikontribusi.
+- ["How to Contribute to Open Source Project" by Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - Artikel ini membahas tentang mengapa, bagaimana, dan apa saja proyek Open Source yang bisa anda berikan kontribusi. Artikel ini secara luas ditujukan untuk organisasi bisnis (yang juga berguna untuk para individual).
 - ["start-here-guidelines" by Andrei](https://github.com/zero-to-mastery/start-here-guidelines) -
   Mari mulai menggunakan Git dalam dunia Open Source, mulai dari Opensource Playground. Dirancang khusus untuk tujuan edukasi and pengalaman praktis.
+ - ["Getting Started with Open Source" by NumFocus](https://github.com/numfocus/getting-started-with-open-source) - Sebuah repo GitHub yang membantu kontributor untuk mengatasi kendala masuk ke dalam proyek Open Source.
+- ["Opensoure-4-everyone" by Chryz-hub ](https://github.com/chryz-hub/opensource-4-everyone) - Sebuah repositori mengenai seluruh hal yang berkaitan dengan proyek Open Source. Repositori ini membahas transparansi keanggotaan Github, belajar perintah-perintah Git dari level pemula dan mahir, memulai proyek Open Source, dan lain sebagainya.
+
 
 ## Pencarian Proyek Open Source Di Github Secara Langsung
 
@@ -106,10 +109,10 @@ Link pencarian yang mengarah langsung ke issue yang sesuai untuk berkontribusi d
 - [Why Open Source and How?](https://careerkarma.com/blog/open-source-projects-for-beginners/) ditulis oleh [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
 - [How to get started with Open Source - Ditulis oleh Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/)
 - [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) ditulis oleh Kent C. Dodds
-- [An immersive introductory guide to Open-source](https://developeraspire.hashnode.dev/an-immersive-introductory-guide-to-open-source) oleh [Franklin Okolie](https://twitter.com/DeveloperAspire)
-- [Getting started with contributing to open source](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/) oleh [Zara Cooper](https://stackoverflow.blog/author/zara-cooper/)
-- [Beginner's guide to open-source contribution](https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj) oleh [Sudipto Ghosh](https://github.com/pydevsg)
-- [8 non-code ways to contribute to open source](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code) oleh [OpenSource](https://twitter.com/OpenSourceWay)
+- [An immersive introductory guide to Open-source](https://developeraspire.hashnode.dev/an-immersive-introductory-guide-to-open-source) ditulis oleh [Franklin Okolie](https://twitter.com/DeveloperAspire)
+- [Getting started with contributing to open source](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/) ditulis oleh [Zara Cooper](https://stackoverflow.blog/author/zara-cooper/)
+- [Beginner's guide to open-source contribution](https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj) ditulis oleh [Sudipto Ghosh](https://github.com/pydevsg)
+- [8 non-code ways to contribute to open source](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code) ditulus oleh [OpenSource](https://twitter.com/OpenSourceWay)
 
 ## Menggunakan Version Control
 
@@ -131,7 +134,7 @@ Link pencarian yang mengarah langsung ke issue yang sesuai untuk berkontribusi d
 - [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - Sering meng-commit, Sempurnakan Nanti, Publikasikan Sekali: Praktik Terbaik Mengunakan Git.
 - [Git Interactive Tutorial](https://learngitbranching.js.org/) - Pelajari Git dengan cara yang paling visual dan interaktif.
 
-## Buku-buku tentang Open Source
+## Buku-buku Tentang Open Source
 
 - [Producing Open Source Software](https://producingoss.com/) - Producing Open Source Software merupakan sebuah buku tentang sisi manusia dalam pengelolaan proyek Open Source. Buku ini mendeskripsikan bagaimana sebuah proyek dengan sukses beroperasi, ekspektasi pengguna dan pengelola proyek, dan kultur dari perangkat lunak gratis.
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - Pelajari lebih lanjut tentang Open Source dan mengembangkan kampanye Open Source dengan daftar susunan eBook gratis dari https://opensource.com.
@@ -147,6 +150,7 @@ Link pencarian yang mengarah langsung ke issue yang sesuai untuk berkontribusi d
 - [First Contributions](https://firstcontributions.github.io/) - Buat kontribusi Open Source pertama anda dalam 5 menit. Sebuah alat dan panduan yang membantu para pemula untuk mulai berkontribusi. [Berikut](https://github.com/firstcontributions/first-contributions) adalah source code dari GitHub, anda juga berkesempatan untuk berkontribusi ke repositori itu sendiri.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Sebuah program yang mendorong kontribusi Open Source. Dapatkan hadiah seperti kaos dan stiker dengan membuat setidaknya 4 pull request di bulan Oktober.
 - [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests adalah sebuah proyek untuk mempromosikan kolaborasi Open Source menjelang bulan Desember.
+- [Ovio](https://ovio.org) - Sebuah platform berisi proyek yang bersifat contributor-friendly. Platform ini memiliki [mesin pencarian issue](https://ovio.org/issues) dan dapat menyimpan issue untuk ditandai serta diselesaikan nantinya.
 
 ## Lisensi
 
