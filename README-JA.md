@@ -28,16 +28,16 @@
 
 ## 目次
 
-- [オープンソース貢献初心者のみなさんようこそ!](#welcome-newbie-open-source-contributors)
-  - [目次](#table-of-contents)
-  - [通常のオープンソースへの貢献](#contributing-to-open-source-in-general)
-  - [Github上で直接検索](#direct-github-searches)
-  - [Mozillaの貢献者エコシステム](#mozillas-contributor-ecosystem)
-  - [オープンソース貢献初心者に有益な情報](#useful-articles-for-new-open-source-contributors)
-  - [バージョン管理の使用](#using-version-control)
-  - [オープンソースの本](#open-source-books)
-  - [オープンソース貢献の取り組み](#open-source-contribution-initiatives)
-  - [ライセンス](#license)
+- [オープンソース貢献初心者のみなさんようこそ!](#オープンソース貢献初心者のみなさんようこそ!)
+  - [目次](#目次)
+  - [通常のオープンソースへの貢献](#通常のオープンソースへの貢献)
+  - [Github上で直接検索](#Github上で直接検索)
+  - [Mozillaの貢献者エコシステム](#Mozillaの貢献者エコシステム)
+  - [オープンソース貢献初心者に有益な情報](#オープンソース貢献初心者に有益な情報)
+  - [バージョン管理の使用](#バージョン管理の使用)
+  - [オープンソースの本](#オープンソースの本)
+  - [オープンソース貢献の取り組み](#オープンソース貢献の取り組み)
+  - [ライセンス](#ライセンス)
 
 ## 通常のオープンソースへの貢献
 - [信頼性の高いオープンソース貢献のガイド](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
