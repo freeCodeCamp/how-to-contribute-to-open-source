@@ -34,11 +34,11 @@
 - [Γενικά για τη συνεισφορά Ανοικτού Κώδικα](#Γενικά-για-τη-συνεισφορά-Ανοικτού-Κώδικα)
 - [Direct GitHub searches](#direct-github-searches)
 - [Mozilla's contributor ecosystem](#mozillas-contributor-ecosystem)
-- [Χρήσιμα άρθρα για αρχάριους στη συνεισφορά Ανοικτού Κώδικα](#Χρήσιμα άρθρα για αρχάριους στη συνεισφορά Ανοικτού Κώδικα)
-- [Χρήση Version Control](#Χρήση Version Control)
-- [Βιβλία σχετικά με Ανοικτό κώδικα](#Βιβλία σχετικά με Ανοικτό κώδικα)
-- [Open Source contribution initiatives](#Open Source contribution initiatives)
-- [Άδεια χρήσης](#Άδεια χρήσης)
+- [Χρήσιμα άρθρα για αρχάριους στη συνεισφορά Ανοικτού Κώδικα](#Χρήσιμα-άρθρα-για-αρχάριους-στη-συνεισφορά-Ανοικτού-Κώδικα)
+- [Χρήση Version Control](#Χρήση-Version-Control)
+- [Βιβλία σχετικά με Ανοικτό κώδικα](#Βιβλία-σχετικά-με-Ανοικτό-κώδικα)
+- [Open Source contribution initiatives](#Open-Source-contribution-initiatives)
+- [Άδεια χρήσης](#Άδεια-χρήσης)
 
 ## Γενικά για τη συνεισφορά Ανοικτού Κώδικα
 - [The Definitive Guide to Contributing to Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
