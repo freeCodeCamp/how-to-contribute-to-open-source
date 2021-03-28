@@ -36,7 +36,7 @@ Se hai domande o commenti, crea un problema/issue.
 - [Articoli utili per i nuovi contributori all'open source](#articoli-utili-per-i-nuovi-contributori-allopen-source)
 - [L'uso della versione di controllo/version control](#luso-della-versione-di-controlloversion-control)
 - [Libri sull'Open Source](#libri-sullopen-source)
-- [Iniziative per contribuire all'Open Source](#iniziative-open-source)
+- [Iniziative per contribuire all'Open Source](#Iniziative-per-contribuire-all'Open-Source)
 - [Licenza](#licenza)
 
 ## Contribuire all'open source in generale
