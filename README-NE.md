@@ -28,14 +28,14 @@
 
 **सामग्रीहरू**
 
-- [Open Sourceमा सामान्य योगदान](#contributing-to-open-source-in-general)
-- [प्रत्यक्ष GitHub खोजीहरू](#direct-github-searches)
-- [मोजिला योगदानकर्ता को ईकोसिस्टम](#mozillas-contributor-ecosystem)
-- [नयाँ Open Source योगदानकर्ताहरूको लागि उपयोगी लेखहरू](#useful-articles-for-new-open-source-contributors)
-- [Version Control प्रयोग गर्दै](#using-version-control)
-- [Open Source पुस्तकहरू](#open-source-books)
-- [Open Source योगदान पहल](#open-source-contribution-initiatives)
-- [लाइसेन्स](#license)
+- [Open Sourceमा सामान्य योगदान](#Open-Sourceमा-सामान्य-योगदान)
+- [प्रत्यक्ष GitHub खोजीहरू](#[प्रत्यक्ष-GitHub-खोजीहरू)
+- [मोजिला योगदानकर्ता को ईकोसिस्टम](#[मोजिला-योगदानकर्ता-को-ईकोसिस्टम)
+- [नयाँ Open Source योगदानकर्ताहरूको लागि उपयोगी लेखहरू](#नयाँ-Open-Source-योगदानकर्ताहरूको-लागि-उपयोगी-लेखहरू)
+- [Version Control प्रयोग गर्दै](#Version-Control-प्रयोग-गर्दै)
+- [Open Source पुस्तकहरू](#Open-Source-पुस्तकहरू)
+- [Open Source योगदान पहल](#Open-Source-योगदान-पहल)
+- [लाइसेन्स](#ाइसेन्स)
 
 ## सामान्यमा खुला स्रोतमा योगदान
 - [@DoomHammerNG](https://twitter.com/DoomHammerNG)[ द्वारा The Definitive Guide to Contributing to Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282)
