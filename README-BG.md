@@ -34,14 +34,14 @@
 
 **Съдържание**
 
-- [Основи на допринасянето към отворения код(Open Source)](#contributing-to-open-source-in-general)
-- [Директно търсене в GitHub](#direct-github-searches)
-- [Еко системата на Mozilla за доброволен принос](#mozillas-contributor-ecosystem)
-- [Полезни статии за начинаещи Open Source доброволци](#useful-articles-for-new-open-source-contributors)
-- [Как да използваме контрол на версиите (Version Control)](#using-version-control)
-- [Книги за отворения код](#open-source-books)
-- [Инициативи за принос към Open Source](#open-source-contribution-initiatives)
-- [Лицензи](#license)
+- [Основи на допринасянето към отворения код(Open Source)](#Основи-на-допринасянето-към-отворения-код(Open-Source))
+- [Директно търсене в GitHub](#Директно-търсене-в-GitHub)
+- [Еко системата на Mozilla за доброволен принос](#Еко-системата-на-Mozilla-за-доброволен-принос)
+- [Полезни статии за начинаещи Open Source доброволци](#Полезни-статии-за-начинаещи-Open-Source-доброволци)
+- [Как да използваме контрол на версиите (Version Control)](#Как-да-използваме-контрол-на-версиите-(Version-Control)
+- [Книги за отворения код](#Книги-за-отворения-код])
+- [Инициативи за принос към Open Source](#Инициативи-за-принос-към-Open-Source)
+- [Лицензи](#Лицензи)
 
 ## Основи на допринасянето към отворения код(Open Source)
 
