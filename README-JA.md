@@ -36,7 +36,7 @@
   - [オープンソース貢献初心者に有益な情報](#オープンソース貢献初心者に有益な情報)
   - [バージョン管理の使用](#バージョン管理の使用)
   - [オープンソースの本](#オープンソースの本)
-  - [オープンソース貢献の取り組み](#オープンソース貢献の取り組み)
+  - [オープンソース貢献取り組み](#オープンソース貢献取り組み)
   - [ライセンス](#ライセンス)
 
 ## 通常のオープンソースへの貢献
@@ -66,7 +66,7 @@ Github上での貢献に適切な問題を表示しているリンクを直接�
 - [is:issue is:open label:starter](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Astarter)
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
-## Mozilla'の貢献エコシステム
+## Mozillaの貢献エコシステム
 - [初心者向けバグ](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - 開発者がプロジェクトに良い導入だと認識しているバグ
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs that have a mentor assigned who will be there on IRC to help you when you get stuck while working on fix.
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - Bugzillaでバグをさがすための献身的なサイト
