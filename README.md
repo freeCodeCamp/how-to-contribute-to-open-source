@@ -70,6 +70,7 @@ Lets Git started in the world of opensource, starting in the opensource playgrou
 - ["Getting Started with Open Source" by NumFocus](https://github.com/numfocus/getting-started-with-open-source) - a GitHub repo that helps contributors overcome barriers to entry in open-source.
 - ["Opensoure-4-everyone" by Chryz-hub ](https://github.com/chryz-hub/opensource-4-everyone) - A repository on everything related to open source. This is a project to help with GitHub membership visibility, practice with basic and advance git commands, getting started with open source, and more.
 - ["Open Advice"](http://open-advice.org/) - Knowledge collection from a wide variety of Free Software projects. It answers the question what 42 prominent contributors would have liked to know when they started so you can get a head-start no matter how and where you contribute.
+- ["GitHub Learning Lab"](https://lab.github.com/) - Level up your skills with GitHub Learning Lab. Our friendly bot will take you through a series of fun, practical projects to learn the skills you need in no time—and share helpful feedback along the way.
 
 
 ## Direct GitHub searches
