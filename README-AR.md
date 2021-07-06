@@ -120,37 +120,35 @@
 - [فكر مثل Git](http://think-like-a-git.net/) - مقدمة Git لـ "المبتدئين المتقدمين" ، لكنهم ما زالوا يعانون ، من أجل إعطائك إستراتيجية بسيطة لتجربة git بأمان.
 - [جرب Git](https://try.github.io/) - تعلم Git في 15 دقيقة من داخل متصفحك مجانًا.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - الحد الأدنى من مجموعة الأوامر المفيدة لـ Git اليومية.
-- [Oh shit, git!](https://ohshitgit.com/) - how to get out of common `git` mistakes described in plain English; also see [Dangit, git!](https://dangitgit.com/) for the page without swears.
-- [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) - various tutorials on using `git`.
+- [Oh shit, git!](https://ohshitgit.com/) - كيفية الخروج من أخطاء "git" الشائعة الموضحة في اللغة الإنجليزية ؛ انظر أيضا[Dangit, git!](https://dangitgit.com/) 
+- [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) - دروس متنوعة حول استخدام "git".
 - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
 - [freeCodeCamp's Wiki on Git Resources](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
-- [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - GitHub talk on how to make a pull request.
-- [GitHub Learning Resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) - Git and GitHub learning resources.
-- [Pro Git](https://git-scm.com/book/en/v2) - The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress.
-- [Git-it](https://github.com/jlord/git-it-electron) - Step by step Git tutorial desktop app.
-- [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - A guide about what to do when things go wrong.
-- [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - A complete guide of slides about git and GitHub explained in Spanish. Una guía completa de diapositivas sobre git y GitHub explicadas en Español.
-- [Git Kraken](https://www.gitkraken.com/git-client) - Visual, cross-platform, and interactive `git` desktop application for version control.
-- [Git Tips](https://github.com/git-tips/tips) - Collection of most commonly used git tips and tricks.
-- [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - Commit Often, Perfect Later, Publish Once: Git Best Practices.
-- [Git Interactive Tutorial](https://learngitbranching.js.org/) - Learn Git in the most visual and interactive way.
+- [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - يتحدث GitHub عن كيفية تقديم طلب سحب.
+- [GitHub Learning Resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) - موارد التعلم Git و GitHub.
+- [Pro Git](https://git-scm.com/book/en/v2) - كتاب Pro Git بأكمله ، كتبه سكوت تشاكون وبن ستراوب ونشرته أبرس.
+- [Git-it](https://github.com/jlord/git-it-electron) - خطوة بخطوة تطبيق Git التعليمي لسطح المكتب.
+- [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - دليل حول ما يجب القيام به عندما تسوء الأمور.
+- [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - دليل كامل للشرائح حول git و GitHub موضح باللغة الإسبانية.
+- [Git Kraken](https://www.gitkraken.com/git-client) - تطبيق سطح المكتب `git` المرئي وعبر الأنظمة الأساسية والتفاعلية للتحكم في الإصدار.
+- [Git Tips](https://github.com/git-tips/tips) -مجموعة من النصائح والحيل الأكثر شيوعًا حول git.
+- [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - الالتزام غالبًا ، تمامًا لاحقًا ، انشر أفضل ممارسات Git مرة واحدة.
+- [Git Interactive Tutorial](https://learngitbranching.js.org/) - تعلم Git بالطريقة الأكثر بصرية وتفاعلية.
+## كتب مفتوحة المصدر
+- [Producing Open Source Software](https://producingoss.com/) - إنتاج برمجيات مفتوحة المصدر هو كتاب عن الجانب الإنساني لتطوير البرمجيات مفتوحة المصدر. يصف كيف تعمل المشاريع الناجحة ، وتوقعات المستخدمين والمطورين ، وثقافة البرمجيات الحرة.
+- [Open Source Book Series](https://opensource.com/resources/ebooks) - تعرف على المزيد حول Open Source وحركة Open Source المتنامية مع قائمة شاملة من الكتب الإلكترونية المجانية منhttps://opensource.com.
+- [Software Release Practice HOWTO](https://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) -يصف هذا HOWTO ممارسات الإصدار الجيدة لنظام Linux ومشاريع أخرى مفتوحة المصدر. باتباع هذه الممارسات ، ستجعل من السهل على المستخدمين إنشاء التعليمات البرمجية الخاصة بك واستخدامها قدر الإمكان ، وعلى المطورين الآخرين فهم التعليمات البرمجية الخاصة بك والتعاون معك لتحسينها.
+- [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 هي مجموعة من المقالات الثاقبة والمثيرة للتفكير من قادة التكنولوجيا اليوم والتي تستمر في رسم الصورة التطورية التي تطورت في كتاب 1999 Open Sources: Voices from the Revolution.
+- [The Architecture of Open Source Applications](http://www.aosabook.org/en/git.html) - أظهر كيف تعمل الجوانب المختلفة لـ Git تحت الأغطية لتمكين مهام سير العمل الموزعة ، وكيف تختلف عن أنظمة التحكم في الإصدارات الأخرى (VCS).
+- [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - مقالات من رواد المصادر المفتوحة مثل Linus Torvalds (Linux) و Larry Wall (Perl) و Richard Stallman (GNU).
+## مبادرات مساهمة المصادر المفتوحة
+- [Up For Grabs](https://up-for-grabs.net/) - يحتوي على مشاريع ذات مواضيع صديقة للمبتدئين
+- [First Timers Only](https://www.firsttimersonly.com/) - قائمة بالأخطاء التي تم تصنيفها "لأول مرة فقط".
+- [First Contributions](https://firstcontributions.github.io/) - قدم أول مساهمة مفتوحة المصدر لك في 5 دقائق. أداة وبرنامج تعليمي لمساعدة المبتدئين على البدء في المساهمات. [Here](https://github.com/firstcontributions/first-contributions) هو رمز مصدر GitHub للموقع والفرصة لتقديم مساهمة في المستودع نفسه.
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - برنامج لتشجيع المساهمات مفتوحة المصدر. اربح هدايا مثل القمصان والملصقات عن طريق تقديم 4 طلبات سحب على الأقل في شهر أكتوبر.
+- [24 Pull Requests](https://24pullrequests.com) -24 طلبات السحب هو مشروع لتعزيز التعاون مفتوح المصدر خلال شهر ديسمبر.
+- [Ovio](https://ovio.org) - منصة مع مجموعة منتقاة من المشاريع الصديقة للمساهمين. يحتوي على [أداة بحث قوية عن المشكلات](https://ovio.org/issues) ويتيح لك حفظ المشروعات والمشكلات لوقت لاحق.
 
-## Open Source books
-- [Producing Open Source Software](https://producingoss.com/) - Producing Open Source Software is a book about the human side of Open Source development. It describes how successful projects operate, the expectations of users and developers, and the culture of free software.
-- [Open Source Book Series](https://opensource.com/resources/ebooks) - Learn more about Open Source and the growing Open Source movement with a comprehensive list of free eBooks from https://opensource.com.
-- [Software Release Practice HOWTO](https://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - This HOWTO describes good release practices for Linux and other Open-Source projects. By following these practices, you will make it as easy as possible for users to build your code and use it, and for other developers to understand your code and cooperate with you to improve it.
-- [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 is a collection of insightful and thought-provoking essays from today's technology leaders that continues painting the evolutionary picture that developed in the 1999 book, Open Sources: Voices from the Revolution.
-- [The Architecture of Open Source Applications](http://www.aosabook.org/en/git.html) - Show how various aspects of Git work under the covers to enable distributed workflows, and how it differs from other version control systems (VCSs).
-- [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - Essays from open-source pioneers such as Linus Torvalds (Linux), Larry Wall (Perl), and Richard Stallman (GNU).
-
-## Open Source contribution initiatives
-- [Up For Grabs](https://up-for-grabs.net/) - Contains projects with beginner-friendly issues
-- [First Timers Only](https://www.firsttimersonly.com/) - A list of bugs that are labelled "first-timers-only".
-- [First Contributions](https://firstcontributions.github.io/) - Make your first Open Source contribution in 5 minutes. A tool and tutorial to help beginners get started with contributions. [Here](https://github.com/firstcontributions/first-contributions) is the GitHub source code for the site and opportunity to make a contribution to the repository itself.
-- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - A program to encourage Open Source contributions. Earn gifts like t-shirts and stickers by making at least 4 pull requests in the month of October.
-- [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests is a project to promote Open Source collaboration during the month of December.
-- [Ovio](https://ovio.org) - A platform with a curated selection of contributor-friendly projects. It has a [powerful issue search tool](https://ovio.org/issues) and let's you save projects and issues for later.
-
-## License
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+##رخصة
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />هذا العمل مرخص بموجب <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 الرخصة الدولية</a>.
 
