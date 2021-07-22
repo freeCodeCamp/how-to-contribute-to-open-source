@@ -3,7 +3,7 @@
 <details>
   <summary>
   <strong> Прочетете това ръководство и на други езици </strong>
-</summary>
+</summary> 
   <ul>
   <li><a href="./README.md"> English </a></li>
   <li><a href="./README-MR.md"> मराठी </a></li>
@@ -63,9 +63,9 @@
 
 - [GitHub ръководства](https://guides.github.com/) - Кратки ръководства как да използваме ефективно GitHub.
 
-- [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Научете начина на работа в GitHub чрез добавяне на код към проект-симулация.
+- [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Научете начина на работа в GitHub чрез добавяне на код към проект-симулация. 
 
-- [Ръководства от Линукс фондацията за Open Source в бизнеса](https://www.linuxfoundation.org/resources/open-source-guides/) - Ръководства от Линукс фондацията за Open Source проекти в бизнеса
+- [Ръководства от Линукс фондацията за Open Source в бизнеса](https://www.linuxfoundation.org/resources/open-source-guides/) - Ръководства от Линукс фондацията за Open Source проекти в бизнеса.
 
 - [CSS трикове - Пътеводител в Open Source етикета](https://css-tricks.com/open-source-etiquette-guidebook/) - Ръководство за Open Source етикета, написано от Kent C. Dodds и Sarah Drasner.
 
