@@ -43,6 +43,7 @@ If you have questions or comments, please create an issue.
 - [Using Version Control](#using-version-control)
 - [Open Source books](#open-source-books)
 - [Open Source contribution initiatives](#open-source-contribution-initiatives)
+- [Open Source Programs to participate in](#Open-Source-Programs-to-participate-in)
 - [License](#license)
 
 ## Contributing to Open Source in general
@@ -150,6 +151,15 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - A program to encourage Open Source contributions. Earn gifts like t-shirts and stickers by making at least 4 pull requests in the month of October.
 - [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests is a project to promote Open Source collaboration during the month of December.
 - [Ovio](https://ovio.org) - A platform with a curated selection of contributor-friendly projects. It has a [powerful issue search tool](https://ovio.org/issues) and let's you save projects and issues for later.
+
+## Open Source Programs to participate in
+- [Google Summer of Code](https://summerofcode.withgoogle.com)
+- [FossAsia](https://fossasia.org)
+- [MLH Fellowship](https://fellowship.mlh.io)
+- [Outreachy](https://www.outreachy.org)
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com)
+- [CNCF](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/?utm_source=Google&utm_medium=Search&utm_campaign=KubeConNA2021&gclid=CjwKCAjwuvmHBhAxEiwAWAYj-MoSRZaa6NnEWFdOSnq1TbhQJrun5zmjsMs721YBESyT9QJJ20qtThoC8UcQAvD_BwE)
+- [Microsoft Reinforcement learning](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
 
 ## License
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
