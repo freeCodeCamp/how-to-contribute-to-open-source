@@ -43,7 +43,7 @@ If you have questions or comments, please create an issue.
 - [Using Version Control](#using-version-control)
 - [Open Source books](#open-source-books)
 - [Open Source contribution initiatives](#open-source-contribution-initiatives)
-- [Open Source Programs to participate in](#Open-Source-Programs-to-participate-in)
+- [Open Source programs to participate in](#open-source-programs-to-participate-in)
 - [License](#license)
 
 ## Contributing to Open Source in general
@@ -152,7 +152,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests is a project to promote Open Source collaboration during the month of December.
 - [Ovio](https://ovio.org) - A platform with a curated selection of contributor-friendly projects. It has a [powerful issue search tool](https://ovio.org/issues) and let's you save projects and issues for later.
 
-## Open Source Programs to participate in
+## Open Source programs to participate in
 - [Google Summer of Code](https://summerofcode.withgoogle.com)
 - [FossAsia](https://fossasia.org)
 - [MLH Fellowship](https://fellowship.mlh.io)
