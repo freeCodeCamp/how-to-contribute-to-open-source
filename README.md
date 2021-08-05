@@ -158,7 +158,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [MLH Fellowship](https://fellowship.mlh.io)
 - [Outreachy](https://www.outreachy.org)
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com)
-- [CNCF](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/?utm_source=Google&utm_medium=Search&utm_campaign=KubeConNA2021&gclid=CjwKCAjwuvmHBhAxEiwAWAYj-MoSRZaa6NnEWFdOSnq1TbhQJrun5zmjsMs721YBESyT9QJJ20qtThoC8UcQAvD_BwE)
+- [CNCF](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
 - [Microsoft Reinforcement learning](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
 
 ## License
