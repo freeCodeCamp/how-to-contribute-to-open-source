@@ -1,10 +1,11 @@
 <!-- Do not translate this -->
 <details>
 <summary>
-<strong> Read this guide in other languages </strong>
+<strong> இந்த Read.md மித மொழிகளில் உள்ளன  </strong>
 </summary>
     <ul>
         <li><a href="./README.md"> English </a></li>
+        <li><a href="./README-TM.md">தமிழ் </a></li>
         <li><a href="./README-MR.md"> मराठी </a></li>
         <li><a href="./README-BN.md"> বাংলা </a></li>
         <li><a href="./README-CN.md"> 中文 </a></li>
@@ -18,41 +19,42 @@
         <li><a href="./README-FR.md"> Français </a></li>
         <li><a href="./README-KO.md"> 한국어 </a></li>
         <li><a href="./README-JA.md"> 日本語 </a></li>
+        
     </ul>
 </details>
 <!-- Do not translate this -->
 
-# Welcome newbie Open Source contributors!
+#ஓபன் சௌர்ஸ் கான்ட்ரிபியூஷன் செய்யும் நபரை வரவேற்கிறோம் !
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
 [![Build Status](https://api.travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
 
-This is a list of resources for people who are new to contributing to Open Source.
+இது ஓபன் சௌர்ஸ் காண்ட்ரிபூட் செய்ய விருப்பம் உள்ள வருக்குக்கான பட்டியல் ஆகும் 
 
-If you find additional resources, please contribute a pull request.
+நீங்கள் எதனை ஆவது கண்டுபிடித்தால், தயவைசெய்து  pull request  கொடுக்கவும்.
 
-If you have questions or comments, please create an issue.
+கேள்விகள் இருந்தால் அல்லது ஏதேனும் சொல்ல விரும்பினால், தயவைசெய்து issue உருவாக்கவும் .
 
 **Contents**
 
-- [Contributing to Open Source in general](#contributing-to-open-source-in-general)
-- [Direct GitHub searches](#direct-github-searches)
-- [Mozilla's contributor ecosystem](#mozillas-contributor-ecosystem)
-- [Useful articles for new Open Source contributors](#useful-articles-for-new-open-source-contributors)
+- [ஓபன் சௌர்ஸ் கு காண்ட்ரிபூட் செய்வது ](#contributing-to-open-source-in-general)
+- [GitHub நேராக தேடுவது](#direct-github-searches)
+- [Mozilla வின் கான்ட்ரிபியூட்டர் எக்கோஸிஸ்டெம் ](#mozillas-contributor-ecosystem)
+- [ஓபன் சௌர்ஸ் காண உதவி சேயும் நூல்கள் ](#useful-articles-for-new-open-source-contributors)
 - [Using Version Control](#using-version-control)
-- [Open Source books](#open-source-books)
-- [Open Source contribution initiatives](#open-source-contribution-initiatives)
-- [Open Source programs to participate in](#open-source-programs-to-participate-in)
-- [License](#license)
+- [ஓபன் சௌர்ஸ் நூல்கள் ](#open-source-books)
+- [ஓபன் சௌர்ஸ முன்னோடிகள் ](#open-source-contribution-initiatives)
+- [ஓபன் சௌர்ஸ போட்டிகளில் பங்கு பெற ](#open-source-programs-to-participate-in)
+- [லைசென்ஸ் ](#license)
 
-## Contributing to Open Source in general
-- [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
-- [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials by DigitalOcean to guide you on your way to contribution success here on GitHub.
-- [Issuehub.pro](http://issuehub.pro/) - a tool for searching GitHub issues by label and language.
+## ஓபன் சௌர்ஸ் கான்ட்ரிபியூஷனுக்கு பொது அறிவிப்பு
+- [ஓபன் சௌர்ஸ் காண வழிகாட்டி ](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
+- [ஓபன் சௌரிஸ்கான முன்னுரை ](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) -  DigitalOcean ஆள் படைகள் நடத்த பட்டுள்ளன உங்களை சீரான வழியில் அழைத்து செல்ல.
+- [Issuehub.pro](http://issuehub.pro/) - GitHub இல் ஒரு கருவி  issues ஐ மொழி ஆளும் பெயராலும் கண்டுபிடிக்க .
 - [Code Triage](https://www.codetriage.com/) - another, really nice, tool for finding popular repositories and issues filtered by language.
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - a GitHub repo that amasses projects with good bugs for new contributors, and applies labels to describe them.
-- [Open Source Guides](https://opensource.guide/) - Collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an Open Source project.
+- [ஓபன் சௌரிஸ்கான வழிகாட்டி ](https://opensource.guide/) - Collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an Open Source project.
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Do's and Don'ts on GitHub.
 - [GitHub Guides](https://guides.github.com/) - basic guides on how to use GitHub effectively.
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Learn the GitHub workflow by contributing code to a simulation project.
