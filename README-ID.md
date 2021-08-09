@@ -18,7 +18,7 @@
     </tr>
 </table>
 
-# Selamat Datang Kontributor Open Source Pemula!
+# Selamat Datang Kontributor Open Source Untuk Pemula!
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
@@ -28,7 +28,7 @@ Ini adalah daftar sumber untuk orang-orang yang baru berkontribusi pada Open Sou
 
 Jika Anda menemukan sumber tambahan, silahkan berkontribusi dengan membuat pull request baru.
 
-Jika Anda memiliki pertanyaan atau kommen, silahkan membuat issue baru.
+Jika Anda memiliki pertanyaan atau komentar, silahkan membuat issue baru.
 
 **Daftar Isi**
 
