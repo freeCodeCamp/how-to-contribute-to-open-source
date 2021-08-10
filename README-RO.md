@@ -14,7 +14,8 @@
         <td><a href="./README-GR.md"> Ελληνικά </a></td>
         <td><a href="./README-FR.md"> Français </a></td>
         <td><a href="./README-TR.md"> Turkish </a></td>
-        <td><a href="./README-KO.md"> 한국어 </a></td>
+        <li><a href="./README-JA.md"> 日本語 </a></li>
+        <li><a href="./README-KA.md"> ಕನ್ನಡ </a></li>
     </tr>
 </table>
 
@@ -31,6 +32,7 @@ Dacă găsiți resurse suplimentare, vă rugăm să contribuiți cu o solicitare
 Dacă aveți întrebări sau comentarii, vă rugăm să creați o problemă (issue).
 
 **Cuprins**
+
 - [Contribuția la open source în general](#contribu%C8%9Bia-la-open-source-%C3%AEn-general)
 - [Căutări directe pe GitHub](#c%C4%83ut%C4%83ri-directe-pe-github)
 - [Ecosistemul contributorului Mozilla](#ecosistemul-contributorului-mozilla)
@@ -40,6 +42,7 @@ Dacă aveți întrebări sau comentarii, vă rugăm să creați o problemă (iss
 - [Licența](#licen%C8%9Ba)
 
 ## Contribuția la open source în general
+
 - [Introducere la Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutoriale de la DigitalOcean pentru a vă ghida pe drumul spre succesul contribuției aici pe GitHub.
 - [Disponibile](http://up-for-grabs.net/#/) - o listă de proiecte cu probleme pentru începători.
 - [Issuehub.io](http://issuehub.pro/) - un instrument de căutare a problemelor GitHub după etichetă și limbă.
@@ -57,7 +60,9 @@ Dacă aveți întrebări sau comentarii, vă rugăm să creați o problemă (iss
 - [Ovio](https://ovio.org/) - O platforma cu o selectie organizata de proiecte la care puteti contribuii. Are un [instrument de cautare](https://ovio.org/issues) a problemelor si va permite sa salvati proiecte si probleme pentru mai tarziu.
 
 ## Căutări directe pe GitHub
+
 Căutați linkuri care indică direct problemele potrivite pentru a contribui la GitHub.
+
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner) începător
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy) ușor
 - [is:issue is:open label:first-timers-only](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only) numai pentru începători
@@ -67,6 +72,7 @@ Căutați linkuri care indică direct problemele potrivite pentru a contribui la
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs) disponibile
 
 ## Ecosistemul contributorului Mozilla
+
 - [Erori/Bug-uri bune pentru început](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - bug-uri pe care programatorii le-au identificat ca o bună introducere în proiect.
 - [Bug-uri mentorate](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bug-uri care au un mentor desemnat care va fi acolo pe IRC pentru a vă ajuta atunci când rămâneți blocați în timp ce lucrați pentru al fixa.
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - un site dedicat găsirii de bug-uri pe Bugzilla.
@@ -75,6 +81,7 @@ Căutați linkuri care indică direct problemele potrivite pentru a contribui la
 - [Start Mozilla](https://twitter.com/StartMozilla) - un cont Twitter care postează tweet-uri despre probleme potrivite pentru contribuitori noi în ecosistemul Mozilla.
 
 ## Articole utile pentru noi contribuitori open source
+
 - ["Cum să alegeți (și să contribuiți la) primul dvs. proiect open source"](https://github.com/collections/choosing-projects) de către [@GitHub](https://github.com/github)
 - ["Cum să găsești prima eroare (bug) open source pentru a o rezolva"](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) de către [@Shubheksha](https://github.com/Shubheksha)
 - ["Numai pentru începători"](https://kentcdodds.com/blog/first-timers-only) de către [@kentcdodds](https://github.com/kentcdodds)
@@ -88,6 +95,7 @@ Căutați linkuri care indică direct problemele potrivite pentru a contribui la
 - ["Hacktoberfest 2018: Cum poți câștiga un tricou gratis - chiar dacă ești nou la programare"](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) de către [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
 
 ## Utilizarea controlului versiunii (version control)
+
 - [Gandește ca (un) stupid (Git)](http://think-like-a-git.net/) - Introducerea la Git pentru „începătorii avansați“, dar care încă mai au probleme, cu scopul de a vă oferi o strategie simplă pentru a experimenta în siguranță cu git.
 - [Încercați Git](https://try.github.io/) - Învață Git în 15 minute din browser-ul tău gratuit.
 - [Git zilmic](https://git-scm.com/docs/giteveryday) - Un set util de comenzi pentru Git zilnic.
@@ -100,13 +108,15 @@ Căutați linkuri care indică direct problemele potrivite pentru a contribui la
 - [Pro Git](https://git-scm.com/book/en/v2) - Întreaga carte Pro Git, scrisă de Scott Chacon și Ben Straub și publicată de Apress.
 - [Git-it](https://github.com/jlord/git-it-electron) - Git tutorial pas după pas aplicație desktop.
 - [Reguli de zbor pentru Git](https://github.com/k88hudson/git-flight-rules) - Un ghid despre ce trebuie făcut atunci când lucrurile nu merg bine.
-- [O introducere completă despre Git și GitHub](https://codeburst.io/git-good-part-a-e0d826286a2a) - Un ghid scris de Madhav Bahl, pe care ar trebui să  îl vedeți dacă sunteți nou la Git sau GitHub, acoperă GitHub ca un serviciu și concepte de control al versiunii Git în detaliu.
+- [O introducere completă despre Git și GitHub](https://codeburst.io/git-good-part-a-e0d826286a2a) - Un ghid scris de Madhav Bahl, pe care ar trebui să îl vedeți dacă sunteți nou la Git sau GitHub, acoperă GitHub ca un serviciu și concepte de control al versiunii Git în detaliu.
 
 ## Cărți Open Source
+
 - [Producerea de software open source](http://producingoss.com/) - Producerea de software open source este o carte despre partea umană a programării open source. Descrie modul în care funcționează proiectele de succes, așteptările utilizatorilor și programatorilor și cultura software-ului liber.
 - [Serie de Cărți despre Open Source](https://opensource.com/resources/ebooks) - Aflați mai multe despre open source și despre miscarea open source cu o listă completă de cărți electronice gratuite de la https://opensource.com.
 - [Practica lansării software-lui HOWTO](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - Acest HOWTO descrie practici bune de lansare pentru programatorii Linux și alte proiecte cu sursă deschisă (open-source). Urmând aceste practici, veți face cât mai ușor pentru utilizatori să vă construiască codul și să îl folosească, iar ceilalți dezvoltatori să înțeleagă codul dvs. și să coopereze cu dvs. pentru a-l îmbunătăți.
 - [Open Sources 2.0: Evoluția Continuă](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 este o colecție de eseuri inspirate și gândite de liderii tehnologiei de astăzi, care continuă să picteze evoluția care sa dezvoltat în cartea din 1999, Surse deschise: Voci ale Revoluției.
 
 ## Licența
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Această lucrare este licențiată sub o <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.

@@ -18,6 +18,7 @@
         <li><a href="./README-FR.md"> Français </a></li>
         <li><a href="./README-KO.md"> 한국어 </a></li>
         <li><a href="./README-JA.md"> 日本語 </a></li>
+        <li><a href="./README-KA.md"> ಕನ್ನಡ </a></li>
     </ul>
 </details>
 <!-- Do not translate this! -->
@@ -46,6 +47,7 @@
 - [লাইসেন্স](#লাইসেন্স)
 
 ## সাধারণভাবে ওপেন সোর্স-এ অবদান
+
 - [ওপেন সোর্সে অবদান রাখার সংজ্ঞা নির্দেশিকা](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [ওপেন সোর্স সম্পর্কে বিবরণ](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - DigitalOcean-এর টিউটোরিয়াল যা আপনাকে গিটহাবের অবদান সাফল্যের পথে গাইড করবে।
 - [Issuehub.io](http://issuehub.pro/) - লেবেল এবং ভাষাগুলি দ্বারা গিটহাব ইস্যু অনুসন্ধানের জন্য একটি সরঞ্জাম।
@@ -53,7 +55,7 @@
 - [নতুনদের জন্য দুর্দান্ত](https://github.com/MunGell/awesome-for-beginners) - একটি গিটহাব রিপোসিটোরি যা নতুন অবদানকারীদের জন্য ভাল বাগ সহ প্রকল্পগুলিকে সংগ্রহ করে এবং সেগুলি বর্ণনা করার জন্য লেবেল প্রয়োগ করে।
 - [ওপেন সোর্স নির্দেশিকা](https://opensource.guide/) - কোনও ওপেন সোর্স প্রকল্প কীভাবে চালনা এবং প্রকল্পগুলোতে অবদান রাখতে হয় তা শিখতে চায় এমন ব্যক্তি, সম্প্রদায় এবং সংস্থাগুলির জন্য সংস্থান সংগ্রহ।
 - [৪৫ গিটহাব ইস্যু : কি করবেন এবং কি করবেন না](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - গিটহাবে কি করবেন এবং কি করবেন না।
-- [গিটহাব নির্দেশিকা](https://guides.github.com/) - কীভাবে গিটহাবকে কার্যকরভাবে ব্যবহার করতে হবে তার প্রাথমিক নির্দেশিকা। 
+- [গিটহাব নির্দেশিকা](https://guides.github.com/) - কীভাবে গিটহাবকে কার্যকরভাবে ব্যবহার করতে হবে তার প্রাথমিক নির্দেশিকা।
 - [ওপেন সোর্সে অবদান](https://github.com/danthareja/contribute-to-open-source) - সিমুলেশন প্রকল্পে কোড অবদানের মাধ্যমে গিটহাব ওয়ার্কফ্লো শিখুন।
 - [লিনাক্স ফাউন্ডেশন কর্তৃক এন্টারপ্রাইজের ওপেন সোর্স নির্দেশিকা ](https://www.linuxfoundation.org/resources/open-source-guides/) - লিনাক্স ফাউন্ডেশনের ওপেন সোর্স প্রকল্পগুলির নির্দেশিকা।
 - [CSS Tricks: একটি ওপেন সোর্স শিষ্টাচার শেখার গাইড বই](https://css-tricks.com/open-source-etiquette-guidebook/) - ক্যান্ট সি ডড্ডস এবং সারাহ ড্র্যাসনারের লিখিত একটি ওপেন সোর্স শিষ্টাচার গাইডবুক।
@@ -66,11 +68,12 @@
 - ["ওপেন সোর্সটিতে অবদান রাখতে শুরু করার জন্য প্রথম ভাল সমস্যাগুলি অনুসন্ধান করুন"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) - গিটহাব এখন আপনাকে ওপেন সোর্সটিতে অবদান রাখতে শুরু করার জন্য প্রথম ভাল সমস্যাগুলি খুঁজে পেতে সহায়তা করে।
 - ["ওপেন সোর্স প্রকল্পে কীভাবে অবদান রাখতে হয়" by Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - এই বিস্তৃত নিবন্ধটি ব্যবসায়ের দিকে পরিচালিত হয়েছে (তবে স্বতন্ত্র অবদানকারীদের পক্ষে এখনও কার্যকর) যেখানে এটি কেন, কীভাবে, এবং কী ওপেন-সোর্স প্রকল্পগুলিতে অবদান রাখতে হবে সে সম্পর্কে আলোচনা করে।
 - ["এখানে-শুরু-করুন-নির্দেশিকা" by Andrei](https://github.com/zero-to-mastery/start-here-guidelines) -
-আসুন ওপেনসোর্স বিশ্বে শুরু করা যাক। বিশেষত শিক্ষা এবং ব্যবহারিক অভিজ্ঞতার উদ্দেশ্যে ডিজাইন করা।
-
+  আসুন ওপেনসোর্স বিশ্বে শুরু করা যাক। বিশেষত শিক্ষা এবং ব্যবহারিক অভিজ্ঞতার উদ্দেশ্যে ডিজাইন করা।
 
 ## সরাসরি গিটহাব অনুসন্ধান
+
 গিটহাবের অবদানের জন্য উপযুক্ত বিষয়গুলিতে সরাসরি নির্দেশিত লিঙ্কগুলি অনুসন্ধান করুন।
+
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
 - [is:issue is:open label:first-timers-only](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
@@ -80,6 +83,7 @@
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
 ## মজিলার অবদানকারী ইকোসিস্টেম
+
 - [ভাল প্রথম বাগ](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - কিছু বাগ যা বিকাশকারীরা প্রকল্পের জন্য একটি ভাল ভূমিকা হিসাবে চিহ্নিত করেছেন।
 - [মেন্টরড বাগ](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - কিছু বাগ যাদের জন্য একজন পরামর্শদাতা নিয়োগ পেয়েছেন যিনি IRC-তে থাকবেন এবং যখন আপনি কোনও কাজ করার সময় আটকে পড়লে আপনাকে তিনি সহায়তা করবেন।
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - Bugzilla-তে বাগ অনুসন্ধান করার জন্য উত্সর্গীকৃত একটি সাইট।
@@ -88,6 +92,7 @@
 - [মজিলা শুরু করুন](https://twitter.com/StartMozilla) - একটি টুইটার অ্যাকাউন্ট যা মজিলা ইকোসিস্টেমে নতুন অবদানকারীদের জন্য ইস্যুগুলি সম্পর্কে টুইট করে।
 
 ## নতুন ওপেন সোর্স অবদানকারীদের জন্য দরকারী নিবন্ধ
+
 - [আপনার প্রথম ওপেন সোর্স প্রকল্পটি কীভাবে নির্বাচন করবেন (এবং এতে অবদান রাখবেন)](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
 - [ঠিক করার জন্য আপনার প্রথম ওপেন সোর্স বাগটি কীভাবে খুঁজে পাবেন](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) by [@Shubheksha](https://github.com/Shubheksha)
 - [শুধুমাত্র প্রথম Timers-দের জন্য](https://kentcdodds.com/blog/first-timers-only/) by [@kentcdodds](https://github.com/kentcdodds)
@@ -107,6 +112,7 @@
 - [কোন ওপেন সোর্সে আমার অবদান রাখা উচিৎ](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) by Kent C. Dodds
 
 ## ভার্সন কন্ট্রোলের ব্যবহার
+
 - [Think Like (a) Git](http://think-like-a-git.net/) - গিটের সাথে নিরাপদে পরীক্ষা করার জন্য আপনাকে একটি সহজ কৌশল দেওয়ার জন্য "উন্নত সূচনাপ্রাপ্তদের" জন্য গিট-এর পরিচিতি।
 - [Try Git](https://try.github.io/) - আপনার ব্রাউজারের মধ্যে থেকে 15 মিনিটের মধ্যে বিনামূল্যে গিট শিখুন।
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - প্রতিদিনের গিটের জন্য একটি কার্যকর সর্বনিম্ন কমান্ডের সেট।
@@ -126,14 +132,16 @@
 - [Git Interactive Tutorial](https://learngitbranching.js.org/) - গিটকে সবচেয়ে ভিজ্যুয়াল এবং ইন্টারেক্টিভ উপায়ে শিখুন।
 
 ## ওপেন সোর্স বইসমূহ
-- [Producing Open Source Software](https://producingoss.com/) - ওপেন সোর্স সফ্টওয়্যার তৈরি করা এবং ওপেন সোর্স বিকাশের মানবিক দিক সম্পর্কে একটি বই। এটি সফল প্রকল্পগুলি কীভাবে পরিচালনা করে, ব্যবহারকারী এবং বিকাশকারীদের প্রত্যাশা এবং বিনামূল্যে সফ্টওয়্যার সংস্কৃতি বর্ণনা করে। 
+
+- [Producing Open Source Software](https://producingoss.com/) - ওপেন সোর্স সফ্টওয়্যার তৈরি করা এবং ওপেন সোর্স বিকাশের মানবিক দিক সম্পর্কে একটি বই। এটি সফল প্রকল্পগুলি কীভাবে পরিচালনা করে, ব্যবহারকারী এবং বিকাশকারীদের প্রত্যাশা এবং বিনামূল্যে সফ্টওয়্যার সংস্কৃতি বর্ণনা করে।
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - [https://opensource.com](https://opensource.com) থেকে ফ্রি ই-বুকের বিস্তৃত তালিকা সহ ওপেন সোর্স এবং ক্রমবর্ধমান ওপেন সোর্স আন্দোলন সম্পর্কে আরও জানুন।
 - [Software Release Practice HOWTO](https://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - এই HOWTO লিনাক্স এবং অন্যান্য ওপেন সোর্স প্রকল্পগুলির জন্য ভাল প্রকাশের অনুশীলনগুলি বর্ণনা করে। এই অনুশীলনগুলি অনুসরণ করে আপনি ব্যবহারকারীদের পক্ষে আপনার কোডটি তৈরি এবং এটি ব্যবহার করা এবং অন্যান্য বিকাশকারীদের আপনার কোড বুঝতে এবং এটি উন্নত করতে আপনাকে সহযোগিতা করার জন্য যথাসম্ভব সহজ করে তুলবে।
 - [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - ওপেন সোর্স ২.০ হ'ল আজকের প্রযুক্তি নেতাদের অন্তর্দৃষ্টি এবং চিন্তা-চেতনা প্রবন্ধের একটি সংকলন যা ১৯৯৯ বইয়ের মুক্ত বিকাশ থেকে প্রকাশিত বিপ্লবী ছবি আঁকার কাজ চালিয়ে যাচ্ছে।
 - [The Architecture of Open Source Applications](http://www.aosabook.org/en/git.html) - বিতরণকৃত ওয়ার্কফ্লোগুলি সক্ষম করতে গিটের বিভিন্ন দিক কীভাবে কভারগুলির অধীনে কাজ করে এবং এটি অন্যান্য সংস্করণ নিয়ন্ত্রণ সিস্টেমের (VCS ) থেকে কীভাবে আলাদা তা দেখানো হয়েছে।
-- [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - Linus Torvalds (Linux), Larry Wall (Perl), and Richard Stallman (GNU) এর মতো ওপেন সোর্স পথিকৃতদের প্রবন্ধ সংগ্রহ। 
+- [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - Linus Torvalds (Linux), Larry Wall (Perl), and Richard Stallman (GNU) এর মতো ওপেন সোর্স পথিকৃতদের প্রবন্ধ সংগ্রহ।
 
 ## ওপেন সোর্স অবদানের উদ্যোগ
+
 - [Up For Grabs](https://up-for-grabs.net/) - প্রারম্ভিক-বন্ধুত্বপূর্ণ সমস্যাগুলির সাথে প্রকল্পগুলি ধারণ করে।
 - [First Timers Only](https://www.firsttimersonly.com/) - "কেবলমাত্র প্রথমবারের জন্য" লেবেলযুক্ত বাগগুলির একটি তালিকা।
 - [First Contributions](https://firstcontributions.github.io/) - ৫মিনিটের মধ্যে আপনার প্রথম ওপেন সোর্স অবদান রাখুন। অবদানের মাধ্যমে নতুনদের শুরু করতে সহায়তা করার জন্য একটি সরঞ্জাম এবং টিউটোরিয়াল। [এখানে](https://github.com/firstcontributes/first-contributes) সাইটের গিটহাব উৎস কোড রয়েছেএবং এই রিপোসিটোরিতে নিজেই অবদান রাখার সুযোগ নিন।
@@ -142,4 +150,5 @@
 - [Ovio](https://ovio.org) - অবদানকারী-বান্ধব প্রকল্পগুলির একটি সংযুক্ত নির্বাচনসহ প্ল্যাটফর্ম। এটির একটি [শক্তিশালী সমস্যা অনুসন্ধানের সরঞ্জাম](https://ovio.org/issues) রয়েছে এবং এখানে আপনি পরবর্তী প্রকল্পগুলি এবং সমস্যাগুলি সংরক্ষণ করতে পারবেন।
 
 ## লাইসেন্স
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />এই কাজটি <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>  এর অধীনে লাইসেন্স প্রাপ্ত।
+
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />এই কাজটি <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a> এর অধীনে লাইসেন্স প্রাপ্ত।

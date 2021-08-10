@@ -14,7 +14,8 @@
         <td><a href="./README-GR.md"> Ελληνικά </a></td>
         <td><a href="./README-FR.md"> Français </a></td>
         <td><a href="./README-TR.md"> Turkish </a></td>
-        <td><a href="./README-KO.md"> 한국어 </a></td>
+        <li><a href="./README-JA.md"> 日本語 </a></li>
+        <li><a href="./README-KA.md"> ಕನ್ನಡ </a></li>
     </tr>
 </table>
 
@@ -31,6 +32,7 @@
 Αν έχετε ερωτήσεις ή σχόλια, δημιουργήστε ένα issue.
 
 **Περιεχόμενα**
+
 - [Γενικά για τη συνεισφορά Ανοικτού Κώδικα](#contributing-to-open-source-in-general)
 - [Direct GitHub searches](#direct-github-searches)
 - [Mozilla's contributor ecosystem](#mozillas-contributor-ecosystem)
@@ -41,6 +43,7 @@
 - [Άδεια χρήσης](#license)
 
 ## Γενικά για τη συνεισφορά Ανοικτού Κώδικα
+
 - [The Definitive Guide to Contributing to Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [Εισαγωγή στον Ανοικτό Κώδικα](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Μαθήματα από την DigitalOcean για συνεισφορά Ανοικτού Κώδικα με επιτυχία, στο GitHub.
 - [Issuehub.io](http://issuehub.pro/) - Ένα εργαλείο που επιτρέπει την αναζήτηση των issues του GitHub για συγκεκριμένες ετικέτες (labels) και γλώσσες προγραμματισμού.
@@ -58,7 +61,9 @@
 - ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - Ένας βήμα-προς-βήμα βίντεο οδηγός σχετικά με το πως να ξεκινήσει κάποιος να συνεισφέρει σε projects Ανοικτού Κώδικα στο GitHub.
 
 ## Direct GitHub searches
+
 Συνδέσμοι που μας πάνε απευθείας σε issues του GitHub, που είναι κατάλληλα για να συνεισφέρουμε.
+
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
 - [is:issue is:open label:first-timers-only](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
@@ -68,6 +73,7 @@
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
 ## Mozilla's contributor ecosystem
+
 - [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - Bugs που έχουν μαρκαριστεί από προγραμματιστές ως καταλληλα για αρχάριους στο project.
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - Bugs στα οποία έχει καθοριστεί ένας μέντορας που θα βρίσκεται στο IRC για να σε καθοδηγήσει όταν θα χρειαστείς βοήθεια.
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - Μία ιστοσελίδα ειδική στο να βρίσκει κάποιος bugs στο Bugzilla.
@@ -76,6 +82,7 @@
 - [Start Mozilla](https://twitter.com/StartMozilla) - Ένας λογαριασμός στο Twitter που δημοσιεύει issues κατάλληλα για αρχάριους στη συνεισφορά Ανοικτού Κώδικα στο Mozilla ecosystem.
 
 ## Χρήσιμα άρθρα για αρχάριους στη συνεισφορά Ανοικτού Κώδικα
+
 - [Πως να διαλέξεις (και να συνεισφέρεις) το πρώτο σου project Ανοικτού Κώδικα](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
 - [Πως να βρεις το πρώτο σου bug για να διορθώσεις](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) by [@Shubheksha](https://github.com/Shubheksha)
 - [Μόνο για αρχάριους](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
@@ -92,6 +99,7 @@
 - [Μάθε βήμα-προς-βήμα το Git και το GitHub (σε Windows)](https://medium.com/@ows_ali/be93518e06dc) by [@ows-ali](https://medium.com/@ows_ali)
 
 ## Χρήση Version Control
+
 - [Think Like (a) Git](http://think-like-a-git.net/) - Εισαγωγή στο Git για "έμπειρους πρωτάρηδες", με σκοπό να τους δώσει μία απλή στρατηγική για να πειραματιστούν με το Git.
 - [Try Git](https://try.github.io/) - Μάθε το Git σε 15 λεπτά από τον browser σου, δωρεάν.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Χρήσιμες εντολές για την καθημερινή χρήση του Git.
@@ -109,12 +117,14 @@
 - [Git Kraken](https://www.gitkraken.com/git-client) - Visual, cross-platform, και διαδραστική `git` desktop εφαρμογή για version control.
 
 ## Βιβλία σχετικά με Ανοικτό κώδικα
+
 - [Producing Open Source Software](http://producingoss.com/) - Το "Producing Open Source Software" είναι ένα βιβλίο σχετικά με την ανθρώπινη πλευρά της ανάπτυξης Ανοικτού Κώδικα. Περιγράφει πως λειτουργούν τα επιτυχημένα projects, τις προσδοκίες των χρηστών και των προγραμματιστών, και την κουλτουρα του ελεύθερου λογισμικού.
 - [Σειρά βιβλίων Ανοικτού Κώδικα](https://opensource.com/resources/ebooks) - Μάθε περισσότερα για τον Ανοικτό Κώδικα και το αναπτυσσόμενο κίνημα του, μέσα από μια περιεκτική λίστα δωρεάν ηλεκτρονικών βιβλίων στο https://opensource.com.
 - [Software Release Practice HOWTO](http://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - Αυτός ο οδηγός περιγράφει κάποιες καλές πρακτικές για έκδοση λογισμικού του Linux και άλλα projects Ανοικτού Κώδικα. Ακολουθώντας αυτές τις πρακτικές, κάνετε όσο το δυνατόν ευκολότερο για τους χρήστες να χρησιμοποιήσουν τον κώδικα σας, και για τους προγραμματιστές να τον καταλάβουν και να συνεργαστούν μαζί σας, με σκοπό να τον βελτιώσουν.
 - [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - Το "Open Sources 2.0" είναι μία συλλογή από εύστοχες και παραγωγικές προσπάθειες από τους ηγέτες της σημερινής τεχνολογίας. Συνεχίζει το έργο που ξεκίνησε στο βιβλίο του 1999, "Open Sources: Voices from the Revolution".
 
 ## Open Source contribution initiatives
+
 - [Up For Grabs](http://up-for-grabs.net/#/) - Περιέχει projects με φιλικά-για-αρχάριους issues.
 - [First Timers Only](http://www.firsttimersonly.com/) - Μία λίστα από bugs μαρκαρισμένα ως "first-timers-only".
 - [First Contributions](https://firstcontributions.github.io/) - Κάνε την πρώτη σου συνεισφορά Ανοικτού Κώδικα σε 5 λεπτά. Ένα εργαλείο και οδηγός που βοηθάει τους νέους στον Ανοικτό Κώδικα να ξεκινήσουν.
@@ -122,4 +132,5 @@
 - [24 Pull Requests](https://24pullrequests.com) - Το "24 Pull Requests" είναι ένα προγραμμα που προωθεί τη συνεισφορά Ανοικτού Κώδικα για το μήνα Δεκέμβριο.
 
 ## Άδεια χρήσης
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Αυτό το έργο διανέμεται σύμφωνα με την <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International άδεια χρήσης</a>.

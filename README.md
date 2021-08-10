@@ -18,6 +18,7 @@
         <li><a href="./README-FR.md"> Français </a></li>
         <li><a href="./README-KO.md"> 한국어 </a></li>
         <li><a href="./README-JA.md"> 日本語 </a></li>
+        <li><a href="./README-KA.md"> ಕನ್ನಡ </a></li>
     </ul>
 </details>
 <!-- Do not translate this -->
@@ -46,6 +47,7 @@ If you have questions or comments, please create an issue.
 - [License](#license)
 
 ## Contributing to Open Source in general
+
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials by DigitalOcean to guide you on your way to contribution success here on GitHub.
 - [Issuehub.pro](http://issuehub.pro/) - a tool for searching GitHub issues by label and language.
@@ -66,16 +68,17 @@ If you have questions or comments, please create an issue.
 - ["Browse good first issues to start contributing to open source"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) - GitHub now helps you find good first issues to start contributing to open source.
 - ["How to Contribute to Open Source Project" by Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - This comprehensive article is directed towards businesses (but still useful for individual contributors) where it talks about why, how, and what open-source projects to contribute to.
 - ["start-here-guidelines" by Andrei](https://github.com/zero-to-mastery/start-here-guidelines) -
-Lets Git started in the world of opensource, starting in the opensource playground. Especially designed for education and practical experience purposes.
+  Lets Git started in the world of opensource, starting in the opensource playground. Especially designed for education and practical experience purposes.
 - ["Getting Started with Open Source" by NumFocus](https://github.com/numfocus/getting-started-with-open-source) - a GitHub repo that helps contributors overcome barriers to entry in open-source.
 - ["Opensoure-4-everyone" by Chryz-hub ](https://github.com/chryz-hub/opensource-4-everyone) - A repository on everything related to open source. This is a project to help with GitHub membership visibility, practice with basic and advance git commands, getting started with open source, and more.
 - ["Open Advice"](http://open-advice.org/) - Knowledge collection from a wide variety of Free Software projects. It answers the question what 42 prominent contributors would have liked to know when they started so you can get a head-start no matter how and where you contribute.
 - ["GitHub Learning Lab"](https://lab.github.com/) - Level up your skills with GitHub Learning Lab. Our friendly bot will take you through a series of fun, practical projects to learn the skills you need in no time—and share helpful feedback along the way.
 - ["Ten simple rules for helping newcomers become contributors to open projects"](https://doi.org/10.1371/journal.pcbi.1007296) - This article covers rules based on studies of many communities and experiences of members, leaders, and observers.
 
-
 ## Direct GitHub searches
+
 Search links that point directly to suitable issues to contribute to on GitHub.
+
 - [is:issue is:open label:beginner](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Abeginner&type=issues)
 - [is:issue is:open label:easy](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy&type=issues)
 - [is:issue is:open label:first-timers-only](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only&type=issues)
@@ -85,6 +88,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [is:issue is:open label:up-for-grabs](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs&type=issues)
 
 ## Mozilla's contributor ecosystem
+
 - [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - bugs that developers have identified as a good introduction to the project.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/MDN/Contribute) - help the MDN Web Docs team in documenting the web platform by fixing content issues and platform bugs.
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs that have a mentor assigned who will be there on IRC to help you when you get stuck while working on a fix.
@@ -94,6 +98,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [Start Mozilla](https://twitter.com/StartMozilla) - a Twitter account that tweets about issues fit for contributors new to the Mozilla ecosystem.
 
 ## Useful articles for new Open Source contributors
+
 - [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
 - [How to find your first Open Source bug to fix](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) by [@Shubheksha](https://github.com/Shubheksha)
 - [First Timers Only](https://kentcdodds.com/blog/first-timers-only/) by [@kentcdodds](https://github.com/kentcdodds)
@@ -117,6 +122,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [8 non-code ways to contribute to open source](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code) by [OpenSource](https://twitter.com/OpenSourceWay)
 
 ## Using Version Control
+
 - [Think Like (a) Git](http://think-like-a-git.net/) - Git introduction for "advanced beginners," but are still struggling, in order to give you a simple strategy to safely experiment with git.
 - [Try Git](https://try.github.io/) - Learn Git in 15 minutes from within your browser for free.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - A useful minimum set of commands for Everyday Git.
@@ -136,6 +142,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [Git Interactive Tutorial](https://learngitbranching.js.org/) - Learn Git in the most visual and interactive way.
 
 ## Open Source books
+
 - [Producing Open Source Software](https://producingoss.com/) - Producing Open Source Software is a book about the human side of Open Source development. It describes how successful projects operate, the expectations of users and developers, and the culture of free software.
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - Learn more about Open Source and the growing Open Source movement with a comprehensive list of free eBooks from https://opensource.com.
 - [Software Release Practice HOWTO](https://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - This HOWTO describes good release practices for Linux and other Open-Source projects. By following these practices, you will make it as easy as possible for users to build your code and use it, and for other developers to understand your code and cooperate with you to improve it.
@@ -144,6 +151,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - Essays from open-source pioneers such as Linus Torvalds (Linux), Larry Wall (Perl), and Richard Stallman (GNU).
 
 ## Open Source contribution initiatives
+
 - [Up For Grabs](https://up-for-grabs.net/) - Contains projects with beginner-friendly issues
 - [First Timers Only](https://www.firsttimersonly.com/) - A list of bugs that are labelled "first-timers-only".
 - [First Contributions](https://firstcontributions.github.io/) - Make your first Open Source contribution in 5 minutes. A tool and tutorial to help beginners get started with contributions. [Here](https://github.com/firstcontributions/first-contributions) is the GitHub source code for the site and opportunity to make a contribution to the repository itself.
@@ -152,5 +160,5 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [Ovio](https://ovio.org) - A platform with a curated selection of contributor-friendly projects. It has a [powerful issue search tool](https://ovio.org/issues) and let's you save projects and issues for later.
 
 ## License
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.

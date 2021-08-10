@@ -17,6 +17,7 @@
         <li><a href="./README-GR.md"> Ελληνικά </a></li>
         <li><a href="./README-FR.md"> Français </a></li>
         <li><a href="./README-KO.md"> 한국어 </a></li>
+        <li><a href="./README-KA.md"> ಕನ್ನಡ </a></li>
     </ul>
 </details>
 <!-- Do not translate this -->
@@ -58,17 +59,18 @@ Zoek links die rechtstreeks verwijzen naar geschikte problemen om aan bij te dra
 - [is:issue is:open label:starter](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Astarter)
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
-## Het bijdragende ecosysteem van Mozilla**
+## Het bijdragende ecosysteem van Mozilla\*\*
 
-## Versie control gebruiken**
+## Versie control gebruiken\*\*
 
 - [Try Git](https://try.github.io/) - Leer gratis Git in 15 minuten vanuit je browser.
 
-## Open Source boeken**
+## Open Source boeken\*\*
 
 ## Open Source bijdrage-initiatieven
+
 - [Up For Grabs](https://up-for-grabs.net/) - Bevat projecten met beginnersvriendelijke problemen
-- [First Timers Only](https://www.firsttimersonly.com/) - Een lijst met bugs die zijn gelabeld als "first-timers-only". 
+- [First Timers Only](https://www.firsttimersonly.com/) - Een lijst met bugs die zijn gelabeld als "first-timers-only".
 - [First Contributions](https://firstcontributions.github.io/) - Lever jouw eerste Open Source-bijdrage in 5 minuten. Een tool en tutorial om beginners op weg te helpen met bijdragen. [Hier](https://github.com/firstcontributions/first-contributions) is de GitHub-broncode voor de site en de mogelijkheid om een bijdrage te leveren aan de repository zelf.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Een programma om Open Source-bijdragen aan te moedigen. Verdien cadeaus zoals t-shirts en stickers door ten minste vier pull requests in de maand oktober te doen.
 - [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests is een project om Open Source samenwerking te promoten in de maand december.
@@ -77,5 +79,3 @@ Zoek links die rechtstreeks verwijzen naar geschikte problemen om aan bij te dra
 ## Licenties
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-
-

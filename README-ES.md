@@ -14,7 +14,8 @@
         <td><a href="./README-GR.md"> Ελληνικά </a></td>
         <td><a href="./README-FR.md"> Français </a></td>
         <td><a href="./README-TR.md"> Turkish </a></td>
-        <td><a href="./README-KO.md"> 한국어 </a></td>
+        <li><a href="./README-JA.md"> 日本語 </a></li>
+        <li><a href="./README-KA.md"> ಕನ್ನಡ </a></li>
     </tr>
 </table>
 
@@ -31,6 +32,7 @@ Si encuentras recursos adicionales, por favor contribuye con un `pull request` a
 Si tienes alguna pregunta o comentario, por favor crea un `issue` en este repositorio.
 
 **Tabla de contenidos**
+
 - [Contribuyendo al código abierto en general](#contribuyendo-al-c%C3%B3digo-abierto-en-general)
 - [Búsquedas directas en GitHub](#busquedas-directas-en-github)
 - [Ecosistema de colaboradores de Mozilla](#ecosistema-de-colaboradores-de-mozilla)
@@ -41,6 +43,7 @@ Si tienes alguna pregunta o comentario, por favor crea un `issue` en este reposi
 - [Licencia](#licencia)
 
 ## Contribuyendo al código abierto en general
+
 - [Guía definitiva para contribuir al código abierto](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) por [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [Una introducción al código abierto](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutoriales hechos por DigitalOcean para guiarte de manera exitosa en tu camino cómo colaborador en GitHub.
 - [Issuehub.io](http://issuehub.pro/) - Buscador de `issues` en GitHub las cuáles puedes filtrar por tipo y lenguaje.
@@ -58,7 +61,9 @@ Si tienes alguna pregunta o comentario, por favor crea un `issue` en este reposi
 - ["Cómo contribuir a un proyecto de código abierto en GitHub" por Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - Una videoguía paso a paso de cómo empezar a contribuir en un proyecto de código abierto en GitHub.
 
 ## Búsquedas directas en GitHub
+
 Lista de enlaces convenientes para principiantes que apuntan a `issues` en GitHub.
+
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
 - [is:issue is:open label:first-timers-only](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
@@ -68,6 +73,7 @@ Lista de enlaces convenientes para principiantes que apuntan a `issues` en GitHu
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
 ## Ecosistema de colaboradores de Mozilla
+
 - [Issues perfectos por donde empezar a colaborar](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - `Issues` que desarrolladores han identificado cómo adecuadas para introducirse en el proyecto.
 - [Issues asistidas por un mentor](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - `Issues` que tienen un mentor asignado el cual estará disponible mediante IRC para ayudarte mientras trabajas en ellas.
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - Un sitio donde encontrar `issues` de Bugzilla.
@@ -76,6 +82,7 @@ Lista de enlaces convenientes para principiantes que apuntan a `issues` en GitHu
 - [StartMozilla](https://twitter.com/StartMozilla) - Una cuenta de Twitter sobre temas específicos para nuevos colaboradores en el ecosistema de Mozilla.
 
 ## Artículos útiles para nuevos colaboradores de código abierto
+
 - [Cómo elegir (y contribuir en ) tu primer proyecto de código abierto](https://github.com/collections/choosing-projects) por [@GitHub](https://github.com/github)
 - [Cómo encontrar tu primer error de código abierto para solucionar](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) por [@Shubheksha](https://github.com/Shubheksha)
 - [Solo para principiantes](https://kentcdodds.com/blog/first-timers-only) por [@kentcdodds](https://github.com/kentcdodds)
@@ -91,6 +98,7 @@ Lista de enlaces convenientes para principiantes que apuntan a `issues` en GitHu
 - [Aprende Git y GitHub paso a paso (en Windows)](https://medium.com/@ows_ali/be93518e06dc) por [@ows-ali](https://medium.com/@ows_ali)
 
 ## Usando control de versiones
+
 - [Piensa como (un) Git](http://think-like-a-git.net/) - Introducción de Git para "principiantes avanzados" pero aún esforzándose, con el fin de darte una estrategía simple para experimentar con git de manera fiable.
 - [Try Git](https://try.github.io/) - Aprender Git en 15 minutos desde tu navegador.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Un pequeño conjunto de comandos útiles para tu día a día.
@@ -108,12 +116,14 @@ Lista de enlaces convenientes para principiantes que apuntan a `issues` en GitHu
 - [Git Kraken](https://www.gitkraken.com/git-client) - Aplicación de escritorio visual, multiplataforma e interactiva de git para el control de versiones.
 
 ## Libros de código abierto
+
 - [Desarrollando software de código abierto](http://producingoss.com/) - Desarrollando software de código abierto es un libro sobre el lado humano del desarrollo de código abierto. Este describre cómo funcionan los proyectos exitosos, las expectativas de los usuarios y desarrolladores, y la cultura del software libre.
 - [Serie de libros sobre código abierto](https://opensource.com/resources/ebooks) - Aprender más acerca del código abierto y el creciente movimiento de código abierto con una lista exhaustiva de libros gratuitos provenientes de https://opensource.com.
 - [Prácticas sobre cómo lanzar un software](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - Este guía describe buenas prácticas de lanzamiento para Linux y otros proyectos de código abierto. Siguiendo estas prácticas, facilitarás a otros usuarios tanto a preparar y usar tu código, y a otros desarrolladores a entenderlo y cooperar contigo para mejorarlo.
 - [Código abierto 2.0: Evolución continua](https://archive.org/details/opensources2.000diborich) (2005) - Código abierto 2.0 es una colección de ensayos perspicaces y estimulantes sobre las tecnologías líderes hoy en día que continúan pintando el cuadro evolutivo que se desarrolló en el libro de 1999, Código abierto: Voces de la revolución.
 
 ## Iniciativas de contribución de Código abierto
+
 - [Up For Grabs](http://up-for-grabs.net/#/) - Contiene proyectos con cuestiones accesibles para principiantes.
 - [First Timers Only](http://www.firsttimersonly.com/) - Una lista de errores etiquetados cómo 'first-timers-only' (solo para primerizos).
 - [First Contributions](https://firstcontributions.github.io/) - Haz tu primera contribución al código abierto en 5 minutos.
@@ -121,4 +131,5 @@ Lista de enlaces convenientes para principiantes que apuntan a `issues` en GitHu
 - [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests es un proyecto que promueve la colaboración de código abierto durante el mes de Diciembre.
 
 ## Licencia
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Este proyecto tiene una licencia <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.

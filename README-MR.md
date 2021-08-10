@@ -18,6 +18,7 @@
         <li><a href="./README-FR.md"> Français </a></li>
         <li><a href="./README-KO.md"> 한국어 </a></li>
         <li><a href="./README-JA.md"> 日本語 </a></li>
+        <li><a href="./README-KA.md"> ಕನ್ನಡ </a></li>
     </ul>
 </details>
 <!-- Do not translate this -->
@@ -46,6 +47,7 @@
 - [परवाना](#परवाना)
 
 ## सर्वसाधारणपणे ओपन सोर्स स्त्रोत योगदान देणे
+
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) द्वारा [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - येथे गिटहबवर योगदानाच्या यशासाठी आपल्या मार्गदर्शकासाठी डिजिटलऑशन मधील शिकवण्या.
 - [Issuehub.io](http://issuehub.io/) - लेबल आणि भाषेद्वारे गीटहब समस्या शोधण्याचे एक साधन.
@@ -66,10 +68,12 @@
 - ["Browse good first issues to start contributing to open source"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) - ओपन सोर्समध्ये योगदान देणे सुरू करण्यासाठी आता गिटहब आपल्याला प्रथम चांगले अंक शोधण्यात मदत करते.
 - ["How to Contribute to Open Source Project" by Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - हा विस्तृत लेख व्यवसायाकडे निर्देशित आहे (परंतु वैयक्तिक योगदानकर्त्यांसाठी अद्याप उपयुक्त आहे) जिथे ते कशासाठी, कसे आणि कोणत्या मुक्त-स्त्रोत प्रकल्पांमध्ये योगदान द्यावे याबद्दल चर्चा केली आहे.
 - ["start-here-guidelines" by Andrei](https://github.com/zero-to-mastery/start-here-guidelines) -
-ओपनसोर्सच्या खेळाच्या मैदानापासून सुरू होण्यास ओपनसोर्सच्या जगात जाऊ दे. विशेषतः शिक्षण आणि व्यावहारिक अनुभवाच्या उद्देशाने डिझाइन केलेले.
+  ओपनसोर्सच्या खेळाच्या मैदानापासून सुरू होण्यास ओपनसोर्सच्या जगात जाऊ दे. विशेषतः शिक्षण आणि व्यावहारिक अनुभवाच्या उद्देशाने डिझाइन केलेले.
 
 ## डायरेक्ट गिटहब सर्च
+
 गिटहब वर सहयोग देण्यासाठी थेट योग्य मुद्द्यांकडे निर्देश करणारे दुवे शोधा.
+
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
 - [is:issue is:open label:first-timers-only](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
@@ -79,6 +83,7 @@
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
 ## मोज़िला योगदानकर्ता इकोसिस्टम
+
 - [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - विकसकांनी प्रकल्पाची चांगली ओळख म्हणून ओळखले आहे.
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - जेव्हा आपण फिक्सवर काम करत असताना अडखळलात तेव्हा आपल्याला मदत करण्यासाठी आयआरसी वर तेथे कोण सल्लागार असा नियुक्त केलेला दोष.
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - बगझिला वर बग शोधण्यासाठी समर्पित साइट.
@@ -87,6 +92,7 @@
 - [Start Mozilla](https://twitter.com/StartMozilla) - एक ट्विटर अकाऊंट जे मोझिला इकोसिस्टममध्ये नवीन योगदानकर्त्यांसाठी समस्यांसाठी ट्वीट करते.
 
 ## नवीन मुक्त स्त्रोत योगदानकर्त्यांसाठी उपयुक्त लेख
+
 - [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) द्वारा [@GitHub](https://github.com/github)
 - [How to find your first Open Source bug to fix](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) द्वारा [@Shubheksha](https://github.com/Shubheksha)
 - [First Timers Only](https://kentcdodds.com/blog/first-timers-only/) द्वारा [@kentcdodds](https://github.com/kentcdodds)
@@ -103,9 +109,10 @@
 - [Learn Git and GitHub Step By Step (on Windows)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) द्वारा [@ows-ali](https://medium.com/@ows_ali)
 - [Why Open Source and How?](https://careerkarma.com/blog/open-source-projects-for-beginners/) द्वारा [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
 - [How to get started with Open Source - By Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/)
-- [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) द्वारा - केंट सी. डॉड्स 
+- [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) द्वारा - केंट सी. डॉड्स
 
 ## वापर आवृत्ती नियंत्रण
+
 - [Think Like (a) Git](http://think-like-a-git.net/) - "प्रगत नवशिक्यांसाठी" गिट परिचय, परंतु गिटचा सुरक्षितपणे प्रयोग करण्यासाठी आपल्याला एक सोपी रणनीती देण्यासाठी आपण अद्याप धडपडत आहात.
 - [Try Git](https://try.github.io/) - आपल्या ब्राउझरमधून 15 मिनिटांत गिट विनामूल्य वापरा.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - दररोज गिटसाठी उपयुक्त कमांड्सचा एक सेट.
@@ -125,6 +132,7 @@
 - [Git Interactive Tutorial](https://learngitbranching.js.org/) - सर्वात दृश्यास्पद आणि संवादी मार्गाने गिट जाणून घ्या.
 
 ## मुक्त स्त्रोत पुस्तके
+
 - [Producing Open Source Software](https://producingoss.com/) - मुक्त स्त्रोत सॉफ्टवेअर तयार करणे हे ओपन सोर्स डेव्हलपमेंटच्या मानवी बाजूचे एक पुस्तक आहे. हे यशस्वी प्रकल्प कसे चालवतात, वापरकर्त्यांची आणि विकसकांच्या अपेक्षा आणि विनामूल्य सॉफ्टवेअरची संस्कृती यांचे वर्णन करते.
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - https://opensource.com वरून विनामूल्य ईपुस्तकांच्या विस्तृत सूचीसह मुक्त स्त्रोत आणि वाढती मुक्त स्त्रोत चळवळ याबद्दल अधिक जाणून घ्या.
 - [Software Release Practice HOWTO](https://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - हे होटो लिनक्स आणि इतर मुक्त-स्रोत प्रकल्पांसाठी चांगल्या रीलिझ पद्धतींचे वर्णन करते. या पद्धतींचे अनुसरण करून, वापरकर्त्यांनी आपला कोड तयार करणे आणि त्याचा वापर करणे आणि अन्य विकसकांसाठी आपला कोड समजून घेणे आणि त्या सुधारण्यासाठी आपल्याला सहकार्य करणे शक्य तितके सोपे कराल.
@@ -133,6 +141,7 @@
 - [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - लिनस टोरवाल्ड्स (लिनक्स), लॅरी वॉल (पर्ल), आणि रिचर्ड स्टालमॅन (जीएनयू) सारख्या मुक्त-स्त्रोत प्रणेतांचे निबंध.
 
 ## मुक्त स्त्रोत योगदान उपक्रम
+
 - [Up For Grabs](https://up-for-grabs.net/) - नवशिक्या-अनुकूल समस्यांसह प्रकल्प आहेत
 - [First Timers Only](https://www.firsttimersonly.com/) - "first-timers-only" असे लेबल असलेल्या बगची सूची.
 - [First Contributions](https://firstcontributions.github.io/) - 5 मिनिटांत आपले प्रथम मुक्त स्त्रोत योगदान द्या. योगदानासह प्रारंभ करण्यास नवशिक्यांसाठी मदत करणारे एक साधन आणि ट्यूटोरियल [येथे](https://github.com/firstcontributions/first-contributions) साइटसाठी गीटहब स्त्रोत कोड आहे आणि रेपॉजिटरीमध्येच योगदान देण्याची संधी आहे.
@@ -141,4 +150,5 @@
 - [Ovio](https://ovio.org) - सहयोगी-अनुकूल प्रकल्पांची क्युरेटरीकृत निवड असलेले एक व्यासपीठ. हे एक [शक्तिशाली समस्या शोध साधन आहे](https://ovio.org/issues) आणि आपण नंतर प्रकल्प आणि समस्या जतन करूया.
 
 ## परवाना
+
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />हे काम अंतर्गत परवानाकृत आहे <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.

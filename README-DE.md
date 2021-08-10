@@ -14,7 +14,8 @@
         <td><a href="./README-GR.md"> Ελληνικά </a></td>
         <td><a href="./README-FR.md"> Français </a></td>
         <td><a href="./README-TR.md"> Turkish </a></td>
-        <td><a href="./README-KO.md"> 한국어 </a></td>
+        <li><a href="./README-JA.md"> 日本語 </a></li>
+        <li><a href="./README-KA.md"> ಕನ್ನಡ </a></li>
     </tr>
 </table>
 
