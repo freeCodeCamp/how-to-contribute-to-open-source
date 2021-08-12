@@ -68,21 +68,21 @@
 
 ## നേരിട്ടുള്ള ഗിറ്റ്ഹബ് തിരയലുകൾ
 ഗിറ്റ്ഹബ്- ലേക്ക് സംഭാവന ചെയ്യുന്നതിന് അനുയോജ്യമായ പ്രശ്നങ്ങളിലേക്ക് നേരിട്ട് പോയിന്റുചെയ്യുന്ന ലിങ്കുകൾ തിരയുക.
-- [is:issue is:open label:beginner](https://github.com/issues?q=is%3Aissue+is%3Aopen+label%3Abeginner)
-- [is:issue is:open label:easy](https://github.com/issues?q=is%3Aissue+is%3Aopen+label%3Aeasy)
-- [is:issue is:open label:first-timers-only](https://github.com/issues?q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
-- [is:issue is:open label:good-first-bug](https://github.com/issues?q=is%3Aissue+is%3Aopen+label%3Agood-first-bug)
-- [is:issue is:open label:"good first issue"](https://github.com/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
-- [is:issue is:open label:starter](https://github.com/issues?q=is%3Aissue+is%3Aopen+label%3Astarter)
-- [is:issue is:open label:up-for-grabs](https://github.com/issues?q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
+- [is:issue is:തുറന്ന ലേബൽ: തുടക്കക്കാരൻ](https://github.com/issues?q=is%3Aissue+is%3Aopen+label%3Abeginner)
+- [is:issue is:തുറന്ന ലേബൽ: എളുപ്പമാണ്](https://github.com/issues?q=is%3Aissue+is%3Aopen+label%3Aeasy)
+- [is:issue is:തുറന്ന ലേബൽ: ആദ്യ തവണ മാത്രം](https://github.com/issues?q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
+- [is:issue is:തുറന്ന ലേബൽ:ഗുഡ്-ഫസ്റ്റ്-ബഗ്](https://github.com/issues?q=is%3Aissue+is%3Aopen+label%3Agood-first-bug)
+- [is:issue is:തുറന്ന ലേബൽ:"നല്ല ആദ്യപ്രശ്നo"](https://github.com/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+- [is:issue is:തുറന്ന ലേബൽ:സ്റ്റാർട്ടർ](https://github.com/issues?q=is%3Aissue+is%3Aopen+label%3Astarter)
+- [is:issue is:തുറന്ന ലേബൽ:പിടിച്ചെടുക്കാൻ](https://github.com/issues?q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
 ## മോസില്ലയുടെ സംഭാവന ചെയ്യുന്ന ആവാസവ്യവസ്ഥ
-- [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - bugs that developers have identified as a good introduction to the project.
-- [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs that have a mentor assigned who will be there on IRC to help you when you get stuck while working on a fix.
-- [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - a site dedicated to finding bugs on Bugzilla.
-- [Firefox DevTools](http://firefox-dev.tools/) - a site dedicated to bugs filed for the developer tools in the Firefox browser.
-- [What Can I Do For Mozilla](https://whatcanidoformozilla.org/) - figure out what you can work on by answering a bunch of questions about your skill set and interests.
-- [Start Mozilla](https://twitter.com/StartMozilla) - a Twitter account that tweets about issues fit for contributors new to the Mozilla ecosystem.
+- [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - പദ്ധതിയുടെ ഒരു നല്ല ആമുഖമായി ഡെവലപ്പർമാർ തിരിച്ചറിഞ്ഞ ബഗുകൾ.
+- [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - ഒരു പരിഹാരത്തിൽ ജോലി ചെയ്യുമ്പോൾ നിങ്ങൾ കുടുങ്ങുമ്പോൾ നിങ്ങളെ സഹായിക്കാൻ IRC- ൽ ഉണ്ടായിരിക്കുന്ന ഒരു ഉപദേശകനെ നിയോഗിച്ചിട്ടുള്ള ബഗുകൾ.
+- [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - ബഗ്സില്ലയിൽ ബഗുകൾ കണ്ടെത്തുന്നതിനായി സമർപ്പിച്ചിരിക്കുന്ന ഒരു സൈറ്റ്.
+- [Firefox DevTools](http://firefox-dev.tools/) - ഫയർഫോക്സ് ബ്രൗസറിലെ ഡവലപ്പർ ടൂളുകൾക്കായി ഫയൽ ചെയ്ത ബഗുകൾക്കായി സമർപ്പിച്ചിരിക്കുന്ന ഒരു സൈറ്റ്.
+- [What Can I Do For Mozilla](https://whatcanidoformozilla.org/) - നിങ്ങളുടെ വൈദഗ്ധ്യത്തെക്കുറിച്ചും താൽപ്പര്യങ്ങളെക്കുറിച്ചും ഒരു കൂട്ടം ചോദ്യങ്ങൾക്ക് ഉത്തരം നൽകിക്കൊണ്ട് നിങ്ങൾക്ക് എന്താണ് പ്രവർത്തിക്കാൻ കഴിയുക എന്ന് കണ്ടെത്തുക.
+- [Start Mozilla](https://twitter.com/StartMozilla) - മോസില്ല ആവാസവ്യവസ്ഥയിൽ പുതുതായി സംഭാവന ചെയ്യുന്നവർക്ക് അനുയോജ്യമായ പ്രശ്നങ്ങളെക്കുറിച്ച് ട്വീറ്റ് ചെയ്യുന്ന ഒരു ട്വിറ്റർ അക്കൗണ്ട്.
 
 ## പുതിയ ഓപ്പൺ സോഴ്‌സ് സംഭാവകർക്കായി ഉപയോഗപ്രദമായ ലേഖനങ്ങൾ
 - [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
