@@ -35,14 +35,14 @@
 
 **ഉള്ളടക്കം**
 
-- [Contributing to Open Source in general](#contributing-to-open-source-in-general)
-- [Direct GitHub searches](#direct-github-searches)
-- [Mozilla's contributor ecosystem](#mozillas-contributor-ecosystem)
-- [Useful articles for new Open Source contributors](#useful-articles-for-new-open-source-contributors)
-- [Using Version Control](#using-version-control)
-- [Open Source books](#open-source-books)
-- [Open Source contribution initiatives](#open-source-contribution-initiatives)
-- [License](#license)
+- [പൊതുവേ ഓപ്പൺ സോഴ്‌സിലേക്ക് സംഭാവന ചെയ്യുന്നു](#contributing-to-open-source-in-general)
+- [നേരിട്ടുള്ള ഗിറ്റ്ഹബ് തിരയലുകൾ](#direct-github-searches)
+- [മോസില്ലയുടെ സംഭാവന ചെയ്യുന്ന ആവാസവ്യവസ്ഥ](#mozillas-contributor-ecosystem)
+- [പുതിയ ഓപ്പൺ സോഴ്‌സ് സംഭാവകർക്കായി ഉപയോഗപ്രദമായ ലേഖനങ്ങൾ](#useful-articles-for-new-open-source-contributors)
+- [പതിപ്പ് നിയന്ത്രണം ഉപയോഗിച്ച്](#using-version-control)
+- [സ്വതന്ത്ര സോഫ്റ്റ്‌വെയറിനെകുറിച്ചുള്ള  പുസ്തകങ്ങൾ ](#open-source-books)
+- [ഓപ്പൺ സോഴ്‌സ് സംഭാവന സംരംഭങ്ങൾ](#open-source-contribution-initiatives)
+- [അനുമതി](#license)
 
 ## പൊതുവേ ഓപ്പൺ സോഴ്‌സിലേക്ക് സംഭാവന ചെയ്യുന്നു
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
@@ -76,7 +76,7 @@
 - [is:issue is:open label:starter](https://github.com/issues?q=is%3Aissue+is%3Aopen+label%3Astarter)
 - [is:issue is:open label:up-for-grabs](https://github.com/issues?q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
-## മോസില്ലയുടെ കോൺട്രിബ്യൂട്ടർ ഇക്കോസിസ്റ്റം
+## മോസില്ലയുടെ സംഭാവന ചെയ്യുന്ന ആവാസവ്യവസ്ഥ
 - [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - bugs that developers have identified as a good introduction to the project.
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs that have a mentor assigned who will be there on IRC to help you when you get stuck while working on a fix.
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - a site dedicated to finding bugs on Bugzilla.
@@ -127,20 +127,20 @@
 - [Git Interactive Tutorial](https://learngitbranching.js.org/) - ഏറ്റവും ദൃശ്യവും സംവേദനാത്മകവുമായ രീതിയിൽ ഗിറ്റ്  പഠിക്കുക.
 
 ## സ്വതന്ത്ര സോഫ്റ്റ്‌വെയറിനെകുറിച്ചുള്ള  പുസ്തകങ്ങൾ 
-- [Producing Open Source Software](https://producingoss.com/) - Producing Open Source Software is a book about the human side of Open Source development. It describes how successful projects operate, the expectations of users and developers, and the culture of free software.
-- [Open Source Book Series](https://opensource.com/resources/ebooks) - Learn more about Open Source and the growing Open Source movement with a comprehensive list of free eBooks from https://opensource.com.
-- [Software Release Practice HOWTO](https://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - This HOWTO describes good release practices for Linux and other Open-Source projects. By following these practices, you will make it as easy as possible for users to build your code and use it, and for other developers to understand your code and cooperate with you to improve it.
-- [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 is a collection of insightful and thought-provoking essays from today's technology leaders that continues painting the evolutionary picture that developed in the 1999 book, Open Sources: Voices from the Revolution.
-- [The Architecture of Open Source Applications](http://www.aosabook.org/en/git.html) - Show how various aspects of Git work under the covers to enable distributed workflows, and how it differs from other version control systems (VCSs).
-- [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - Essays from open-source pioneers such as Linus Torvalds (Linux), Larry Wall (Perl), and Richard Stallman (GNU).
+- [Producing Open Source Software](https://producingoss.com/) -ഓപ്പൺ സോഴ്‌സ് സോഫ്റ്റ്‌വെയർ നിർമ്മിക്കുന്നത് ഓപ്പൺ സോഴ്‌സ് വികസനത്തിന്റെ മാനുഷിക വശത്തെക്കുറിച്ചുള്ള ഒരു പുസ്തകമാണ്. വിജയകരമായ പ്രോജക്ടുകൾ എങ്ങനെ പ്രവർത്തിക്കുന്നു, ഉപയോക്താക്കളുടെയും ഡവലപ്പർമാരുടെയും പ്രതീക്ഷകൾ, സ്വതന്ത്ര സോഫ്റ്റ്വെയറിന്റെ സംസ്കാരം എന്നിവ ഇത് വിവരിക്കുന്നു.
+- [Open Source Book Series](https://opensource.com/resources/ebooks) - ഓപ്പൺ സോഴ്‌സിനെക്കുറിച്ചും വളരുന്ന ഓപ്പൺ സോഴ്‌സ് പ്രസ്ഥാനത്തെക്കുറിച്ചും കൂടുതൽ സൗജന്യ ഇ -ബുക്കുകളുടെ സമഗ്രമായ ലിസ്റ്റ് ഉപയോഗിച്ച് കൂടുതലറിയുക https://opensource.com.
+- [Software Release Practice HOWTO](https://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - ഈ HOWTO ലിനക്സിനും മറ്റ് ഓപ്പൺ സോഴ്സ് പ്രോജക്റ്റുകൾക്കുമുള്ള നല്ല റിലീസ് രീതികൾ വിവരിക്കുന്നു. ഈ രീതികൾ പിന്തുടരുന്നതിലൂടെ, ഉപയോക്താക്കൾക്ക് നിങ്ങളുടെ കോഡ് നിർമ്മിക്കുന്നതിനും ഉപയോഗിക്കുന്നതിനും കഴിയുന്നത്ര എളുപ്പമാക്കും, കൂടാതെ മറ്റ് ഡവലപ്പർമാർക്ക് നിങ്ങളുടെ കോഡ് മനസ്സിലാക്കാനും അത് മെച്ചപ്പെടുത്തുന്നതിന് നിങ്ങളുമായി സഹകരിക്കാനും കഴിയും.
+- [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - 1999-ലെ പുസ്തകമായ ഓപ്പൺ സോഴ്‌സ്: വിപ്ളവത്തിൽ നിന്നുള്ള ശബ്ദങ്ങൾ വികസിപ്പിച്ചെടുത്ത പരിണാമ ചിത്രം വരച്ചുകൊണ്ടിരിക്കുന്ന ഇന്നത്തെ ടെക്നോളജി നേതാക്കളിൽ നിന്നുള്ള ഉൾക്കാഴ്ചയുള്ളതും ചിന്തോദ്ദീപകവുമായ ലേഖനങ്ങളുടെ സമാഹാരമാണ് ഓപ്പൺ സോഴ്സ് 2.0..
+- [The Architecture of Open Source Applications](http://www.aosabook.org/en/git.html) - വിതരണം ചെയ്ത വർക്ക്ഫ്ലോകൾ പ്രവർത്തനക്ഷമമാക്കുന്നതിന് കവറുകൾക്ക് കീഴിൽ ജിറ്റിന്റെ വിവിധ വശങ്ങൾ എങ്ങനെ പ്രവർത്തിക്കുന്നുവെന്നും അത് മറ്റുള്ളവയിൽ നിന്ന് എങ്ങനെ വ്യത്യാസപ്പെട്ടിരിക്കുന്നുവെന്നും കാണിക്കുക version control systems (VCSs).
+- [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - ഓപ്പൺ സോഴ്സ് പയനിയർമാരിൽ നിന്നുള്ള ഉപന്യാസങ്ങൾ Linus Torvalds (Linux), Larry Wall (Perl), and Richard Stallman (GNU).
 
 ## ഓപ്പൺ സോഴ്‌സ് സംഭാവന സംരംഭങ്ങൾ
-- [Up For Grabs](https://up-for-grabs.net/) - Contains projects with beginner-friendly issues
-- [First Timers Only](https://www.firsttimersonly.com/) - A list of bugs that are labelled "first-timers-only".
-- [First Contributions](https://firstcontributions.github.io/) - Make your first Open Source contribution in 5 minutes. A tool and tutorial to help beginners get started with contributions. [Here](https://github.com/firstcontributions/first-contributions) is the GitHub source code for the site and opportunity to make a contribution to the repository itself.
-- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - A program to encourage Open Source contributions. Earn gifts like t-shirts and stickers by making at least 4 pull requests in the month of October.
-- [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests is a project to promote Open Source collaboration during the month of December.
-- [Ovio](https://ovio.org) - A platform with a curated selection of contributor-friendly projects. It has a [powerful issue search tool](https://ovio.org/issues) and let's you save projects and issues for later.
+- [Up For Grabs](https://up-for-grabs.net/) - തുടക്കക്കാർക്ക് അനുയോജ്യമായ പ്രശ്നങ്ങളുള്ള പ്രോജക്ടുകൾ അടങ്ങിയിരിക്കുന്നു
+- [First Timers Only](https://www.firsttimersonly.com/) - "ആദ്യമായി വരുന്നവർക്ക് മാത്രം" എന്ന് ലേബൽ ചെയ്തിട്ടുള്ള ബഗുകളുടെ ഒരു ലിസ്റ്റ്.
+- [First Contributions](https://firstcontributions.github.io/) - 5 മിനിറ്റിനുള്ളിൽ നിങ്ങളുടെ ആദ്യത്തെ ഓപ്പൺ സോഴ്സ് സംഭാവന നൽകുക. തുടക്കക്കാർക്ക് സംഭാവനകളോടെ ആരംഭിക്കാൻ സഹായിക്കുന്ന ഒരു ഉപകരണവും ട്യൂട്ടോറിയലും. [Here](https://github.com/firstcontributions/first-contributions) സൈറ്റിനായുള്ള GitHub സോഴ്സ് കോഡും റിപ്പോസിറ്ററിയിൽ തന്നെ സംഭാവന നൽകാനുള്ള അവസരവുമാണ്.
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - ഓപ്പൺ സോഴ്സ് സംഭാവനകളെ പ്രോത്സാഹിപ്പിക്കുന്നതിനുള്ള ഒരു പ്രോഗ്രാം. ഒക്ടോബർ മാസത്തിൽ കുറഞ്ഞത് 4 പുൾ അഭ്യർത്ഥനകൾ നടത്തി ടി-ഷർട്ടുകളും സ്റ്റിക്കറുകളും പോലുള്ള സമ്മാനങ്ങൾ നേടുക.
+- [24 Pull Requests](https://24pullrequests.com) - 24 പുൾ അഭ്യർത്ഥനകൾ ഡിസംബർ മാസത്തിൽ ഓപ്പൺ സോഴ്സ് സഹകരണം പ്രോത്സാഹിപ്പിക്കുന്നതിനുള്ള ഒരു പദ്ധതിയാണ്.
+- [Ovio](https://ovio.org) - സംഭാവക-സൗഹൃദ പ്രോജക്ടുകളുടെ ക്യൂറേറ്റഡ് തിരഞ്ഞെടുപ്പുള്ള ഒരു പ്ലാറ്റ്ഫോം. It has a [powerful issue search tool](https://ovio.org/issues) and പ്രോജക്റ്റുകളും പ്രശ്നങ്ങളും നിങ്ങൾക്ക് പിന്നീട് സംരക്ഷിക്കാം.
 
 ## അനുമതി 
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />ഈ പ്രവൃത്തിക്ക് ലൈസൻസ് നൽകിയിരിക്കുന്നത്<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
