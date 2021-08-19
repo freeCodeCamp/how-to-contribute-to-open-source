@@ -1,0 +1,31 @@
+What Is Cloud Security?
+Cloud security is the protection of data stored online via cloud computing platforms from theft, leakage, and deletion. Methods of providing cloud security include firewalls, penetration testing, obfuscation, tokenization, virtual private networks (VPN), and avoiding public internet connections. Cloud security is a form of cybersecurity.
+LAWS & REGULATIONS  CYBERSECURITY
+Cloud Security
+By JAKE FRANKENFIELD  Updated Aug 12, 2021
+What Is Cloud Security?
+Cloud security is the protection of data stored online via cloud computing platforms from theft, leakage, and deletion. Methods of providing cloud security include firewalls, penetration testing, obfuscation, tokenization, virtual private networks (VPN), and avoiding public internet connections. Cloud security is a form of cybersecurity.
+
+
+KEY TAKEAWAYS
+Cloud security refers broadly to measures undertaken to protect digital assets and data stored online via cloud services providers.
+Cloud computing is the delivery of different services through the Internet, including data storage, servers, databases, networking, and software.
+Measures to protect this data include two-factor authorization (2FA), the use of VPNs, security tokens, data encryption, and firewall services, among others.
+Understanding Cloud Security
+Cloud computing is the delivery of different services through the Internet. These resources include tools and applications like data storage, servers, databases, networking, and software. Rather than keeping files on a proprietary hard drive or local storage device, cloud-based storage makes it possible to save them to a remote database. As long as an electronic device has access to the web, it has access to the data and the software programs to run it. Cloud computing is a popular option for people and businesses for a number of reasons including cost savings, increased productivity, speed and efficiency, performance, and security.
+
+
+Cloud security is essential for the many users who are concerned about the safety of the data they store in the cloud. They believe their data is safer on their own local servers where they feel they have more control over the data. But data stored in the cloud may be more secure because cloud service providers have superior security measures, and their employees are security experts. On-premise data can be more vulnerable to security breaches, depending on the type of attack. Social engineering and malware can make any data storage system vulnerable, but on-site data may be more vulnerable since its guardians are less experienced in detecting security threats.
+
+Security Concerns
+Cloud security is a key concern for cloud storage providers. They not only must satisfy their customers; they also must follow certain regulatory requirements for storing sensitive data such as credit card numbers and health information. Third-party audits of a cloud provider’s security systems and procedures help ensure that users’ data is safe.
+
+
+Major threats to cloud security include data breaches, data loss, account hijacking, service traffic hijacking, insecure application program interfaces (APIs), poor choice of cloud storage providers, and shared technology that can compromise cloud security.
+
+Distributed denial of service (DDoS) attacks are another threat to cloud security. These attacks shut down a service by overwhelming it with data so that users cannot access their accounts, such as bank accounts or email accounts.
+
+Other Considerations
+Maintaining the security of data in the cloud extends beyond securing the cloud itself. Cloud users must protect access to the cloud that can be gained from data stored on mobile devices or carelessness with login credentials. Another cloud security issue is that data stored on a cloud-hosted in another country may be subject to different regulations and privacy measures.
+
+When choosing a cloud provider, it is important to choose a company that tries to protect against malicious insiders through background checks and security clearances. Most people think outside hackers are the biggest threat to cloud security, but employees present just as large of a risk. These employees are not necessarily malicious insiders; they are often employees who unknowingly make mistakes such as using a personal smartphone to access sensitive company data without the security of the company’s own network.
