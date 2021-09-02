@@ -45,14 +45,14 @@ Eğer bir sorunuz veya yorumunuz varsa lütfen "issue" oluşturun.
 
 **İçerikler**
 
-- [Genel olarak Açık Kaynağa katkı sağlamak](#contributing-to-open-source-in-general)
-- [Doğrudan Github aramaları](#direct-github-searches)
-- [Mozilla'nın katkı sağlayıcıları ekosistemi](#mozillas-contributor-ecosystem)
-- [Yeni Açık Kaynak katkı sağlayıcıları için faydalı makaleler](#useful-articles-for-new-open-source-contributors)
-- [Versiyon Kontrol Kullanmak](#using-version-control)
-- [Açık Kaynak Kitapları](#open-source-books)
-- [Açık Kaynağa katkı girişimleri](#open-source-contribution-initiatives)
-- [Lisans](#license)
+- [Genel olarak Açık Kaynağa katkı sağlamak](#Genel-olarak-Açık-Kaynağa-katkı-sağlamak)
+- [Doğrudan Github aramaları](#Doğrudan-Github-aramalarıs)
+- [Mozilla'nın katkı sağlayıcıları ekosistemi](#Mozilla'nın-katkı-sağlayıcıları-ekosistemi)
+- [Yeni Açık Kaynak katkı sağlayıcıları için faydalı makaleler](#Yeni-Açık-Kaynak-katkı-sağlayıcıları-için-faydalı-makaleler)
+- [Versiyon Kontrol Kullanmak](#Versiyon-Kontrol-Kullanmak)
+- [Açık Kaynak Kitapları](#Açık-Kaynak-Kitapları)
+- [Açık Kaynağa katkı girişimleri](#Açık-Kaynağa-katkı-girişimleri)
+- [Lisans](#Lisans)
 
 ## Genel olarak Açık Kaynağa katkı sağlamak
 - [Açık Kaynağa katkı sağlamak hakkında açıklayıcı kılavuz](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)

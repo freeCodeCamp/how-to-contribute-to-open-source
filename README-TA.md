@@ -33,14 +33,14 @@
 
 **பொருளடக்கம்**
 
-- [Contributing to Open Source in general](#contributing-to-open-source-in-general)
-- [Direct GitHub searches](#direct-github-searches)
-- [Mozilla's contributor ecosystem](#mozillas-contributor-ecosystem)
-- [Useful articles for new Open Source contributors](#useful-articles-for-new-open-source-contributors)
-- [Using Version Control](#using-version-control)
-- [Open Source books](#open-source-books)
-- [Open Source contribution initiatives](#open-source-contribution-initiatives)
-- [License](#license)
+- [பொதுவாக திறமூலத்திற்கு பங்களிப்பு](#பொதுவாக-திறமூலத்திற்கு-பங்களிப்பு)
+- [நேரடி கிட்ஹப் தேடல்கள்](#நேரடி-கிட்ஹப்-தேடல்கள்)
+- [மொஸில்லாவின் பங்களிப்பாளர் சுற்றுச்சூழல் அமைப்பு](#மொஸில்லாவின்-பங்களிப்பாளர்-சுற்றுச்சூழல்-அமைப்பு)
+- [புதிய திறமூல பங்களிப்பாளர்களுக்கு பயனுள்ள கட்டுரைகள்](#புதிய-திறமூல-பங்களிப்பாளர்களுக்கு-பயனுள்ள-கட்டுரைகள்)
+- [Version Control பயன்படுத்துதல்](#Version-Control-பயன்படுத்துதல்)
+- [திறமூல புத்தகங்கள்](#திறமூல-புத்தகங்கள்)
+- [திறமூல பங்களிப்பு முயற்சிகள்](#திறமூல-பங்களிப்பு-முயற்சிகள்)
+- [உரிமம்](#உரிமம்)
 
 ## பொதுவாக திறமூலத்திற்கு பங்களிப்பு
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
