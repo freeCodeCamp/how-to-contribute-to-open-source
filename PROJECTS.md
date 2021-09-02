@@ -76,7 +76,7 @@ before contributing.
         - [Contributing Guide](https://reactjs.org/docs/how-to-contribute.html)
         - Issue labels:
             - [good first issue](https://github.com/facebook/react/issues?page=1&q=is%3Aissue+is%3Aopen)
-- `Read the Docs`(org)
+- `Read the Docs` (org)
     - [Read the Docs](http://docs.readthedocs.io/en/latest/index.html) (site)
         - Issue labels:
             - [Good First Bug](https://github.com/rtfd/readthedocs.org/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+First+Bug%22)
