@@ -19,12 +19,13 @@
   <li><a href="./README-GR.md"> Ελληνικά </a></li>
   <li><a href="./README-FR.md"> Français </a></li>
   <li><a href="./README-KO.md"> 한국어 </a></li>
+  <li><a href="./README-KA.md"> ಕನ್ನಡ </a></li>
 </ul>
 </details>
 
  <!-- Do not translate this --> <!-- Този превод се стреми да е по-скоро смислен, отколкото прецизно точен -->
 
- # Добре дошли, доброволци на отворения код!
+# Добре дошли, доброволци на отворения код!
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/) [![Build Status](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
 

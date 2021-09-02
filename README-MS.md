@@ -18,6 +18,7 @@
         <li><a href="./README-FR.md"> Français </a></li>
         <li><a href="./README-KO.md"> 한국어 </a></li>
         <li><a href="./README-JA.md"> 日本語 </a></li>
+        <li><a href="./README-KA.md"> ಕನ್ನಡ </a></li>
     </ul>
 </details>
 <!-- Do not translate this -->
@@ -35,6 +36,7 @@ Jika anda jumpa sumber tambahan, sila menyumbang dengan membuat satu permintaan 
 Jika anda mempunyai soalan atau komen, sila membuat satu isu tentang soalan atau komen tersebut.
 
 **Kandungan**
+
 - [Menyumbang kepada Sumber Terbuka secara umum](#contributing-to-open-source-in-general)
 - [Carian GitHub secara langsung](#direct-github-searches)
 - [Ekosistem penyumbang Mozilla](#mozillas-contributor-ecosystem)
@@ -45,16 +47,17 @@ Jika anda mempunyai soalan atau komen, sila membuat satu isu tentang soalan atau
 - [Lesen](#license)
 
 ## Menyumbang kepada Sumber Terbuka secara umum
+
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) karya [@DoomHammerNG](https://twitter.com/DoomHammerNG)
-- [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - 
-Tutorial oleh DigitalOcean untuk membantu anda menuju kejayaan dalam menyumbang di sini di GitHub.
+- [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) -
+  Tutorial oleh DigitalOcean untuk membantu anda menuju kejayaan dalam menyumbang di sini di GitHub.
 - [Issuehub.io](http://issuehub.pro/) - alat mencari isu di GitHub melalui label dan bahasa.
 - [Code Triage](https://www.codetriage.com/) - alat yang sangat bagus untuk mencari repositori popular dan isu yang disaring mengikut bahasa.
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - repo GitHub yang mengumpulkan projek dengan pepijat yang baik untuk penyumbang baru, dan menggunakan label untuk penjelasan.
 - [Open Source Guides](https://opensource.guide/) - Kumpulan sumber untuk individu, komuniti, dan syarikat yang ingin belajar bagaimana menjalankan dan menyumbang kepada projek Sumber Terbuka.
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Perkara yang patut dilakukan dan Perkara yang tidak patut dilakukan di Github.
 - [GitHub Guides](https://guides.github.com/) - panduan asas bagaimana menggunakan GitHub secara efektif.
-- [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Belajar aliran kerja GitHub dengan menyumbang kod  untuk projek simulasi.
+- [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Belajar aliran kerja GitHub dengan menyumbang kod untuk projek simulasi.
 - [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Panduan Linux Foundation untuk projek Sumber Terbuka.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - Buku Open Source Etiquette Guidebook, karya Kent C. Dodds dan Sarah Drasner.
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Senarai sumber dan peluang untuk pelajar kolej mempelajari bahasa pengekodan baru.
@@ -66,10 +69,12 @@ Tutorial oleh DigitalOcean untuk membantu anda menuju kejayaan dalam menyumbang 
 - ["Browse good first issues to start contributing to open source"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) - GitHub kini membantu anda mencari masalah pertama yang baik untuk mula menyumbang kepada sumber terbuka.
 - ["How to Contribute to Open Source Project" by Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - Artikel secara komprehensif ini ditujukan ke arah perniagaan (tetapi masih berguna untuk penyumbang individu) di mana ia membincangkan mengapa, bagaimana, dan projek sumber terbuka apa yang harus disumbangkan.
 - ["start-here-guidelines" by Andrei](https://github.com/zero-to-mastery/start-here-guidelines) -
-Mari bermula di dunia Sumber Terbuka, bermula di taman permainan Sumber Terbuka. Direka khas untuk tujuan pendidikan dan pengalaman praktikal.
+  Mari bermula di dunia Sumber Terbuka, bermula di taman permainan Sumber Terbuka. Direka khas untuk tujuan pendidikan dan pengalaman praktikal.
 
 ## Carian GitHub secara langsung
+
 Cari pautan yang mengarahkan secara langsung kepada masalah yang sesuai untuk disumbangkan dalam GitHub.
+
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
 - [is:issue is:open label:first-timers-only](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
@@ -79,6 +84,7 @@ Cari pautan yang mengarahkan secara langsung kepada masalah yang sesuai untuk di
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
 ## Ekosistem penyumbang Mozilla
+
 - [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - pepijat yang telah dikenal pasti oleh pemaju sebagai pengenalan yang baik untuk projek ini.
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - pepijat yang mempunyai mentor yang ditugaskan yang akan berada di IRC untuk membantu anda apabila anda rasa tidak produktif semasa menyelesaikan masalah.
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - laman web yang dikhaskan untuk mencari pepijat di Bugzilla.
@@ -87,6 +93,7 @@ Cari pautan yang mengarahkan secara langsung kepada masalah yang sesuai untuk di
 - [Start Mozilla](https://twitter.com/StartMozilla) - akaun Twitter yang tweet mengenai isu-isu yang sesuai untuk penyumbang baru dalam ekosistem Mozilla.
 
 ## Artikel bermanfaat untuk penyumbang baru dalam Sumber Terbuka
+
 - [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) karya [@GitHub](https://github.com/github)
 - [How to find your first Open Source bug to fix](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) karya [@Shubheksha](https://github.com/Shubheksha)
 - [First Timers Only](https://kentcdodds.com/blog/first-timers-only/) karya [@kentcdodds](https://github.com/kentcdodds)
@@ -106,6 +113,7 @@ Cari pautan yang mengarahkan secara langsung kepada masalah yang sesuai untuk di
 - [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) karya Kent C. Dodds
 
 ## Menggunakan Kawalan Versi
+
 - [Think Like (a) Git](http://think-like-a-git.net/) - Pengenalan Git untuk "pemula maju", tetapi masih bersusah-payah, untuk memberi anda strategi mudah untuk bereksperimen dengan selamat dengan git.
 - [Try Git](https://try.github.io/) - Belajar Git dalam 15 minit dalam penyemak imbas('browser') anda secara percuma.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Satu set perintah minimum yang berguna untuk Everyday Git.
@@ -125,6 +133,7 @@ Cari pautan yang mengarahkan secara langsung kepada masalah yang sesuai untuk di
 - [Git Interactive Tutorial](https://learngitbranching.js.org/) - Belajar Git dengan cara paling visual dan interaktif
 
 ## Buku untuk Sumber Terbuka
+
 - [Producing Open Source Software](https://producingoss.com/) - Menghasilkan Perisian Sumber Terbuka ialah buku mengenai sisi manusia dalam pembangunan Sumber Terbuka. Ini menggambarkan bagaimana projek yang berjaya beroperasi, harapan pengguna dan pembangun, dan budaya perisian percuma.
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - Belajar lebih mendalam mengenai Sumber Terbuka dan pergerakan Sumber Terbuka yang berkembang dengan senarai lengkap eBook percuma dari https://opensource.com.
 - [Software Release Practice HOWTO](https://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - Ini adalah bagaimana menerangkan amalan pelepasan yang baik untuk Linux dan projek Sumber Terbuka yang lain. Dengan mengikuti amalan ini, anda akan mempermudah pengguna membina kod anda dan menggunakannya, dan agar pembangun lain memahami kod anda dan bekerjasama dengan anda untuk memperbaikinya.
@@ -133,6 +142,7 @@ Cari pautan yang mengarahkan secara langsung kepada masalah yang sesuai untuk di
 - [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - Esei dari perintis sumber terbuka seperti Linus Torvalds (Linux), Larry Wall (Perl), dan Richard Stallman (GNU).
 
 ## Sumbangan inisiatif Sumber Terbuka
+
 - [Up For Grabs](https://up-for-grabs.net/) - Mengandungi isu projek yang mesra penyumbang baru.
 - [First Timers Only](https://www.firsttimersonly.com/) - Senarai pepijat yang dilabel "first-timer-only".
 - [First Contributions](https://firstcontributions.github.io/) - Buat sumbangan Sumber Terbuka pertama anda dalam 5 minit. Alat dan tutorial untuk membantu pemula memulakan dengan sumbangan. [Here](https://github.com/firstcontributions/first-contributions) adalah kod sumber GitHub untuk laman web dan peluang untuk memberikan sumbangan ke repositori itu sendiri.
@@ -140,5 +150,5 @@ Cari pautan yang mengarahkan secara langsung kepada masalah yang sesuai untuk di
 - [24 Pull Requests](https://24pullrequests.com) - 24 permintaan tarik('pull request') adalah projek untuk mempromosikan kolaborasi Sumber Terbuka pada bulan Disember.
 
 ## Lesen
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />Kerja ini dilesen dan dibawah hak cipta <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />Kerja ini dilesen dan dibawah hak cipta <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.

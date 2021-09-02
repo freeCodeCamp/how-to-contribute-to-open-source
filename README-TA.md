@@ -16,6 +16,7 @@
         <li><a href="./README-KO.md"> 한국어 </a></li>
         <li><a href="./README-JA.md"> 日本語 </a></li>
         <li><a href="./README-TA.md"> தமிழ் </a></li>
+        <li><a href="./README-KA.md"> ಕನ್ನಡ </a></li>
     </ul>
 </details>
 
@@ -43,6 +44,7 @@
 - [License](#license)
 
 ## பொதுவாக திறமூலத்திற்கு பங்களிப்பு
+
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - கிட்ஹப்பில் வெற்றிப் பங்களிப்புகான வழியை உங்களுக்கு வழிகாட்ட டிஜிட்டல் ஓஷனின் பயிற்சிகள்.
 - [Issuehub.io](http://issuehub.pro/) - GitHub சிக்கல்களை லேபிள் மற்றும் மொழி மூலம் தேடுவதற்கான ஒரு கருவி.
@@ -63,11 +65,12 @@
 - ["Browse good first issues to start contributing to open source"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) - GitHub now helps you find good first issues to start contributing to open source.
 - ["How to Contribute to Open Source Project" by Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - This comprehensive article is directed towards businesses (but still useful for individual contributors) where it talks about why, how, and what open-source projects to contribute to.
 - ["start-here-guidelines" by Andrei](https://github.com/zero-to-mastery/start-here-guidelines) -
-Lets Git started in the world of opensource, starting in the opensource playground. Especially designed for education and practical experience purposes.
-
+  Lets Git started in the world of opensource, starting in the opensource playground. Especially designed for education and practical experience purposes.
 
 ## நேரடி கிட்ஹப் தேடல்கள்
+
 GitHub இல் பங்களிக்க பொருத்தமான சிக்கல்களை நேரடியாக சுட்டிக்காட்டும் இணைப்புகளைத் தேடுங்கள்.
+
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
 - [is:issue is:open label:first-timers-only](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
@@ -77,6 +80,7 @@ GitHub இல் பங்களிக்க பொருத்தமான ச�
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
 ## மொஸில்லாவின் பங்களிப்பாளர் சுற்றுச்சூழல் அமைப்பு
+
 - [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - டெவலப்பர்கள், திட்டத்திற்கு ஒரு நல்ல அறிமுகமாக அடையாளம் கண்ட பிழைகள்.
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs that have a mentor assigned who will be there on IRC to help you when you get stuck while working on a fix.
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - பக்ஸில்லாவில் பிழைகள் கண்டுபிடிக்க அர்ப்பணிக்கப்பட்ட ஒரு தளம்.
@@ -85,6 +89,7 @@ GitHub இல் பங்களிக்க பொருத்தமான ச�
 - [Start Mozilla](https://twitter.com/StartMozilla) - a Twitter account that tweets about issues fit for contributors new to the Mozilla ecosystem.
 
 ## புதிய திறமூல பங்களிப்பாளர்களுக்கு பயனுள்ள கட்டுரைகள்
+
 - [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
 - [How to find your first Open Source bug to fix](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) by [@Shubheksha](https://github.com/Shubheksha)
 - [First Timers Only](https://kentcdodds.com/blog/first-timers-only/) by [@kentcdodds](https://github.com/kentcdodds)
@@ -104,6 +109,7 @@ GitHub இல் பங்களிக்க பொருத்தமான ச�
 - [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) by Kent C. Dodds
 
 ## Version Control பயன்படுத்துதல்
+
 - [Think Like (a) Git](http://think-like-a-git.net/) - Git introduction for "advanced beginners," but are still struggling, in order to give you a simple strategy to safely experiment with git.
 - [Try Git](https://try.github.io/) - Learn Git in 15 minutes from within your browser for free.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - A useful minimum set of commands for Everyday Git.
@@ -123,6 +129,7 @@ GitHub இல் பங்களிக்க பொருத்தமான ச�
 - [Git Interactive Tutorial](https://learngitbranching.js.org/) - Learn Git in the most visual and interactive way.
 
 ## திறமூல புத்தகங்கள்
+
 - [Producing Open Source Software](https://producingoss.com/) - Producing Open Source Software is a book about the human side of Open Source development. It describes how successful projects operate, the expectations of users and developers, and the culture of free software.
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - Learn more about Open Source and the growing Open Source movement with a comprehensive list of free eBooks from https://opensource.com.
 - [Software Release Practice HOWTO](https://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - This HOWTO describes good release practices for Linux and other Open-Source projects. By following these practices, you will make it as easy as possible for users to build your code and use it, and for other developers to understand your code and cooperate with you to improve it.
@@ -131,6 +138,7 @@ GitHub இல் பங்களிக்க பொருத்தமான ச�
 - [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - திறந்த மூல முன்னோடிகளான லினஸ் டொர்வால்ட்ஸ் (லினக்ஸ்), லாரி வால் (பெர்ல்) மற்றும் ரிச்சர்ட் ஸ்டால்மேன் (குனு) ஆகியோரின் கட்டுரைகள்.
 
 ## திறமூல பங்களிப்பு முயற்சிகள்
+
 - [Up For Grabs](https://up-for-grabs.net/) - Contains projects with beginner-friendly issues
 - [First Timers Only](https://www.firsttimersonly.com/) - A list of bugs that are labelled "first-timers-only".
 - [First Contributions](https://firstcontributions.github.io/) - உங்கள் முதல் திறமூல பங்களிப்பை 5 நிமிடங்களில் செய்யுங்கள். ஆரம்பகால பங்களிப்புகளுடன் தொடங்க உதவும் ஒரு கருவி மற்றும் பயிற்சி. [Here](https://github.com/firstcontributions/first-contributions) is the GitHub source code for the site and opportunity to make a contribution to the repository itself.
@@ -138,4 +146,5 @@ GitHub இல் பங்களிக்க பொருத்தமான ச�
 - [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests என்பது டிசம்பர் மாதத்தில் திறந்த மூல ஒத்துழைப்பை மேம்படுத்துவதற்கான ஒரு திட்டமாகும்.
 
 ## உரிமம்
+
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
