@@ -86,7 +86,7 @@ Sizga mos bo'lgan, hal qilishga oson bo'lgan, muammolarni topish uchun link (hav
 - [is:issue is:open label:up-for-grabs](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs&type=issues)
 
 ## Mozilla ning ekosistemasi
-- [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - dasturchilar tomonidan loyihaga moslashib olish uchun to'plangan muammolar. 
+- [Good First Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw%3A%22%5Bgood+first+bug%5D%22) - dasturchilar tomonidan loyihaga moslashib olish uchun to'plangan muammolar. 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/MDN/Contribute) - MDN Web Docs jamoasiga kontent muammolari va platformadagi xatoliklarni tuzatish orqali veb-platformani hujjatlashtirishda yordam bering. 
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - mentor (ustoz) biriktirilgan baglar (xatoliklar), tuzatish ustida ishlayotganingizda to'xtab qolsangiz yordam berishga doim tayyor.
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - Bugzilla-dagi baglarni topishga bag'ishlangan sayt.
@@ -103,7 +103,7 @@ Sizga mos bo'lgan, hal qilishga oson bo'lgan, muammolarni topish uchun link (hav
 - [Open Source-ga qanday hissa qo'shish kerak](https://opensource.guide/how-to-contribute/) muallif [@GitHub](https://github.com/github)
 - [Kodingizdagi xatolikni topish yo'li](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) muallif [@dougbradbury](https://twitter.com/dougbradbury)
 - [Markdown-da professional bo'lish](https://guides.github.com/features/mastering-markdown/) muallif [@GitHub](https://github.com/github)
-- [Birinchi missiya (vazifa): Contributors (Ishtirokchilar) sahifasi](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) muallif [@forCrowd](https://github.com/forCrowd)
+- [Birinchi missiya (vazifa): Contributors (Ishtirokchilar) sahifasi](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705) muallif [@forCrowd](https://github.com/forCrowd)
 - [Qanday qilib 5 daqiqada Open Source-ga birinchi hissangizni qo'shish yo'li](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) muallif [@roshanjossey](https://github.com/Roshanjossey/)
 - [Hacktoberfest 2019: Bepul ko'ylakni qanday olishingiz yo'li - hatto siz kodlashda boshlang'ich bo'lsangiz ham](https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b/) muallif [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
 - [Open Source-ni o'rganish uchun achchiq/qiyin qo'llanma](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) muallif [@ken_wheeler](https://medium.com/@ken_wheeler)
@@ -119,14 +119,14 @@ Sizga mos bo'lgan, hal qilishga oson bo'lgan, muammolarni topish uchun link (hav
 
 ## Version control-ni ishlatish
 - [Think Like (a) Git](http://think-like-a-git.net/) - Boshlang'ich ammo tajribali ishtirokchilar uchun qo'llanma, agar siz hali ham git bilan xavfsiz tajriba o'tkazishning oddiy strategiyasi o'ganmoqchi bo'lsangiz. 
-- [Try Git](https://try.github.io/) - Git-ni brauzer dan chiqmasdan turib 15 daqiqada bepul o'rganing.
+- [Try Git](https://docs.github.com/en/github/getting-started-with-github/set-up-git) - Git-ni brauzer dan chiqmasdan turib 15 daqiqada bepul o'rganing.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Kunlik Git-da ishlatiladigan minimum buyruqlar ro'yxati.
 - [Dangit, git!](https://dangitgit.com/) - juda ko'p uchraydigan `git`-dagi kelib muammolarni oldini olish
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) - `git`-ni ishlatish uchun turli qo'llanmalar.
 - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF) - `git`-dagi asosiy buyruqlar va ularning natijasi
 - [freeCodeCamp's Wiki on Git Resources](https://forum.freecodecamp.org/t/wiki-git-resources/13136) - Bizning `git` resurslari haqidagi Wiki-sahifamiz
 - [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - Qanday qilib Pull Request yuborish haqida GitHub talk (video qo'llanma) 
-- [GitHub Learning Resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) - Git va GitHub o'quv resurslari.
+- [GitHub Learning Resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources) - Git va GitHub o'quv resurslari.
 - [Pro Git](https://git-scm.com/book/en/v2) - Scott Chacon va Ben Straub tomonidan yozilgan va Apress tomonidan nashr etilgan Pro Git kitobi. 
 - [Git-it](https://github.com/jlord/git-it-electron) - Git ni bosqichma-bosqich o'rganishingiz uchun ish stoli dasturi/ilovasi (Mac, Windows, Linux)
 - [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - Git-da ishingiz o'ylaganingizdek ketmaganda nima qilish kerakligi haqida qo'llanma. 
