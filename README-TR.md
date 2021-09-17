@@ -73,7 +73,7 @@ Simülasyon prosine kod katkısı sağlayarak GitHub dinamiklerini öğren
 - [Pull Request Ruleti](http://www.pullrequestroulette.com/) - Açık Kaynak projelere ait gözden geçirilmesi için gönderilmiş pull requestler. 
 - ["GitHub'daki açık kaynak projelere nasıl katkı sağlanır." Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - "GitHub'daki açık kaynak projelere adım adım nasıl katkı sağlanır?" ile ilgili videolar.
 
-## Direkt GitHub arama sonuçları
+## Doğrudan GitHub arama sonuçları
 Direkt olarak uygun issuelara referans veren katkı sağlanabilecek arama bağlantıları 
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
