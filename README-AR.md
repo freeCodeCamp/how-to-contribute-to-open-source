@@ -1,4 +1,5 @@
 <!-- Do not translate this -->
+<div align="right" dir="rtl">
 <details>
 <summary>
 <strong> للقراءة بمزيد من اللغات اضغط انظر لهذه المراجع </strong>
@@ -98,6 +99,6 @@
 - - ارفع مستوى مهاراتك مع GitHub Learning Lab. سيأخذك برنامج الروبوت الودود الخاص بنا عبر سلسلة من المشاريع الممتعة والعملية لتعلم المهارات التي تحتاجها في وقت قصير - ومشاركة التعليقات المفيدة على طول الطريق.
 - ["عشر قواعد بسيطة لمساعدة الوافدين الجدد على أن يصبحوا مساهمين في فتح المشاريع"](https://doi.org/10.1371/journal.pcbi.1007296) 
 - - تتناول هذه المقالة القواعد المستندة إلى دراسات العديد من المجتمعات وخبرات الأعضاء والقادة والمراقبين.
-
+</div>
 ## License
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
