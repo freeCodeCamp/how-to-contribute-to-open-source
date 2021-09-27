@@ -124,7 +124,7 @@
 - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (पीडीएफ)
 - [freeCodeCamp's Wiki on Git Resources](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
 - [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (४२:०६) - पुल विनंती कशी करावी याबद्दल गिटहब चर्चा.
-- [GitHub Learning Resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources) - गिट आणि गिटहब शिक्षण संसाधने.
+- [GitHub Learning Resources](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/git-and-github-learning-resources) - गिट आणि गिटहब शिक्षण संसाधने.
 - [Pro Git](https://git-scm.com/book/en/v2) - स्कॉट चाकॉन आणि बेन स्ट्रॉब यांनी लिहिलेले आणि एप्रेस यांनी प्रकाशित केलेले संपूर्ण प्रो गिट पुस्तक.
 - [Git-it](https://github.com/jlord/git-it-electron) - क्रमाक्रमाने गिट शिक्षणासाठी डेस्कटॉप ॲप.
 - [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - जेव्हा गोष्टी चुकतात तेव्हा काय करावे याबद्दल मार्गदर्शक.
