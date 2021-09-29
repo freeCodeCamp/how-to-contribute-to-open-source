@@ -84,7 +84,7 @@
 - [is:issue is:open label:up-for-grabs](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs&type=issues)
 
 ## मोज़िला योगदानकर्ता पर्यावरणीय प्रणाली
-- [Good First Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:) - विकसकांनी प्रकल्पाची चांगली ओळख म्हणून ओळखले बग्स.
+- [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - विकसकांनी प्रकल्पाची चांगली ओळख म्हणून ओळखले बग्स.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/MDN/Contribute) - सामग्री समस्या आणि प्लॅटफॉर्म बगचे निराकरण करून वेब प्लॅटफॉर्मचे दस्तऐवजीकरण करण्यासाठी एमडीएन वेब डॉक्स संघाला मदत करा.
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - जेव्हा आपण फिक्सवर काम करत असताना अडखळलात तेव्हा आपल्याला मदत करण्यासाठी आयआरसी वरील सल्लागारांना नियुक्त केलेला असा बग.
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - बगज़िला वर बग शोधण्यासाठी समर्पित साइट.
@@ -101,7 +101,7 @@
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) द्वारा [@GitHub](https://github.com/github)
 - [How to Find a Bug in Your Code](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) द्वारा [@dougbradbury](https://twitter.com/dougbradbury)
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) द्वारा [@GitHub](https://github.com/github)
-- [First mission: Contributors page](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705) by [@forCrowd](https://github.com/forCrowd)
+- [First mission: Contributors page](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
 - [How to make your first Open Source contribution in just 5 minutes](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) द्वारा [@roshanjossey](https://github.com/Roshanjossey/)
 - [Hacktoberfest 2019: How you can get your free shirt — even if you’re new to coding](https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b/) द्वारा [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
 - [A Bitter Guide To Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) द्वारा [@ken_wheeler](https://medium.com/@ken_wheeler)
@@ -117,7 +117,7 @@
 
 ## आवृत्ती नियंत्रण वापरणे
 - [Think Like (a) Git](http://think-like-a-git.net/) - "प्रगत नवशिक्यांसाठी" गिट परिचय, परंतु गिटचा सुरक्षितपणे प्रयोग करण्यासाठी आपल्याला एक सोपी रणनीती देण्यासाठी आपण अद्याप धडपडत आहात.
-- [Try Git](https://docs.github.com/en/github/getting-started-with-github/set-up-git) - आपल्या ब्राउझरमधून १५ मिनिटांत गिट विनामूल्य शिका.
+- [Try Git](https://try.github.io/) - आपल्या ब्राउझरमधून १५ मिनिटांत गिट विनामूल्य शिका.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - दररोज गिटसाठी उपयुक्त कमांड्सचा एक सेट.
 - [Oh shit, git!](https://ohshitgit.com/) - साध्या इंग्रजीत वर्णन केलेल्या `git` सामान्य चुकांमधून कसे मुक्त व्हावे; देखील पहा [Dangit, git!](https://dangitgit.com/) शपथ न देता पृष्ठासाठी.
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) - `git` वापरण्यावरील विविध ट्यूटोरियल
