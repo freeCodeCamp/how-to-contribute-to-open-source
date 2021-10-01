@@ -10,7 +10,7 @@ Issues can be submitted by anyone - either seasoned developers or newbies.
 - [Getting Started](#getting-started)
 - [Submitting a Pull Request](#submitting-a-pull-request)
 - [Adding to the Main README](#adding-to-the-main-readme)
-- [Adding to Non-English README](#adding-to-non-English-readme)
+- [Adding to Non-English README](#adding-to-non-english-readme)
 - [Adding to the Project File](#adding-to-the-project-file)
 - [Helpful Resources](#helpful-resources)
 
@@ -52,7 +52,7 @@ Issues can be submitted by anyone - either seasoned developers or newbies.
         it's listed in alphabetical order.
     *   If you are adding a new organization, make sure you add an organization
         label to the organization name. This would help distinguish projects
-        from organisation ones.
+        from organizations.
 
 6.  Add your modified
     files to Git, [How to Add, Commit, Push, and Go](http://readwrite.com/2013/10/02/github-for-beginners-part-2/).
@@ -87,7 +87,7 @@ Issues can be submitted by anyone - either seasoned developers or newbies.
     Within GitHub, visit this main repository and you should see a banner
     suggesting that you make a pull request. While you're writing up the pull
     request, you can add `Closes #XXX` in the message body where `#XXX` is the
-    issue you're fixing. Therefore, an example would be `Closes #42` that would close the issue
+    issue you're fixing. Therefore, an example would be `Closes #42` would close issue
     `#42`.
 
 ### Submitting a Pull Request
@@ -98,7 +98,7 @@ If you decide to fix an issue, it's advisable to check the comment thread to see
 other people don't accidentally duplicate your effort.
 
 In a situation where somebody decides to fix an issue but doesn't follow up
-for a particular space in time, say 2-3 weeks, it's acceptable to still pick
+for a particular period of time, say 2-3 weeks, it's acceptable to still pick
 up the issue but make sure that you leave a comment.
 
 *Note*: Every open-source project has a **CONTRIBUTING.md** file, please make
@@ -163,7 +163,7 @@ So you have the project page itself at the top. This can be the front-facing web
 
 Next, we ask to link to the contributing page. This will give direction to people who want to contribute. This file is important to read so that you understand what is expected from contributors who have not contributed to their project before.
 
-Lastly, we want to link to beginner-friendly labels. These are typical `Good First Issue` or something similar.
+Lastly, we want to link to beginner-friendly labels. These are typically `Good First Issue` or something similar.
 
 ### Helpful Resources
 
