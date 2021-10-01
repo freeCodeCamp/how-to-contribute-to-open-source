@@ -10,7 +10,7 @@ Issues can be submitted by anyone - either seasoned developers or newbies.
 - [Getting Started](#getting-started)
 - [Submitting a Pull Request](#submitting-a-pull-request)
 - [Adding to the Main README](#adding-to-the-main-readme)
-- [Adding to Non-English README](#adding-to-non-english-readme)
+- [Adding to Non-English README](#adding-to-non-English-readme)
 - [Adding to the Project File](#adding-to-the-project-file)
 - [Helpful Resources](#helpful-resources)
 
@@ -113,23 +113,23 @@ The
 contains a list of useful resources for beginners who want to contribute to
 open source.
 
-You can contribute to this page by adding a Markdown formatted link.
+You can contribute to this page by adding a Markdown-formatted link.
 
 It should look similar to the one below.
 
 ```
-- [Title of the page](www.websitename.com/slug-name-here) - Add description of why I should look at this site
+- [Title of the page](www.websitename.com/slug-name-here) - Add a description of why I should look at this site
 ```
 
 When in doubt, take a look at the current list of items to get an idea of how you should format your contribution.
 
-When adding your contribution to the list, please add your link to the most appropriate section. If you are unsure, feel free to ask in your pull requst or comment in an issue asking for guidance.
+When adding your contribution to the list, please add your link to the most appropriate section. If you are unsure, feel free to ask in your pull request or comment in an issue asking for guidance.
 
 ### Adding to Non-English README
 
 The main `README.md` file is written in English. That file will be the template for all of the other languages.
 
-This repository is about contributing to open source and generally, translation is important to reach diverse audiences. It is recommended that you provide language-specific resources links instead of the Engligh-resource links.
+This repository is about contributing to open source and generally, translation is important to reach diverse audiences. It is recommended that you provide language-specific resources links instead of the English-resource links.
 
 The non-English README files are named `README-XX.md`, where `xx` is the
 [two letter language code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
@@ -163,7 +163,7 @@ So you have the project page itself at the top. This can be the front-facing web
 
 Next, we ask to link to the contributing page. This will give direction to people who want to contribute. This file is important to read so that you understand what is expected from contributors who have not contributed to their project before.
 
-Lastly, we want to link to beginner-friendly labels. These are typically `Good First Issue` or something similar.
+Lastly, we want to link to beginner-friendly labels. These are typical `Good First Issue` or something similar.
 
 ### Helpful Resources
 
