@@ -29,7 +29,7 @@ Open-Source-Welt sind und selbst etwas beitragen möchten.
 
 Wenn du weitere nützliche Materialien findest, starte bitte einen Pull Request.
 
-Wenn du Fragen oder Kommentare hast, eröffne bitte einen neuen Issue.
+Wenn du Fragen oder Kommentare hast, eröffne bitte ein neues Issue.
 
 **Inhaltsverzeichnis**
 
