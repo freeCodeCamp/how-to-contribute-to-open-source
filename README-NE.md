@@ -15,6 +15,7 @@
         <td><a href="./README-FR.md"> Français </a></td>
         <td><a href="./README-TR.md"> Turkish </a></td>
         <td><a href="./README-NE.md"> Nepali </a></td>
+        <li><a href="./README-SR.md"> Српски </a></li>
     </tr>
 </table>
 

@@ -13,6 +13,7 @@
         <td><a href="./README-DE.md"> Deutsch </a></td>
         <td><a href="./README-GR.md"> Ελληνικά </a></td>
         <td><a href="./README-FR.md"> Français </a></td>
+        <li><a href="./README-SR.md"> Српски </a></li>
     </tr>
 </table>
 
