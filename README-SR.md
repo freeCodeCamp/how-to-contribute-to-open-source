@@ -87,7 +87,7 @@
 - [is:issue is:open label:up-for-grabs](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs&type=issues)
 
 ## Mozilla екосистем за сараднике
-- [Грешке у апликацијама за почетнике](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - грешке које су програмери идентификовали као добар увод у пројекат. 
+- [Грешке у апликацијама за почетнике](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw%3Agood+first+bug) - грешке које су програмери идентификовали као добар увод у пројекат. 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/MDN/Contribute) - помозите тиму MDN Web Docs у документовању веб платформе тако што ћете решити проблеме са садржајем и програмске грешке.
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - грешке које имају додељеног ментора који ће бити ту да вам помогне када се заглавите док радите на поправци.
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - сајт посвећен проналажењу грешака на  Bugzilla.
@@ -104,7 +104,7 @@
 - [Како дати допринос Open Source-u](https://opensource.guide/how-to-contribute/) написао [@GitHub](https://github.com/github)
 - [Како пронаћи грешку у своме коду](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) написао [@dougbradbury](https://twitter.com/dougbradbury)
 - [Савладавање Markdown](https://guides.github.com/features/mastering-markdown/) написао [@GitHub](https://github.com/github)
-- [Прва мисија: Профилна уводна страница](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) написао [@forCrowd](https://github.com/forCrowd)
+- [Прва мисија: Профилна уводна страница](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705) написао [@forCrowd](https://github.com/forCrowd)
 - [Како допринети по први пут за само 5 минута](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) написао [@roshanjossey](https://github.com/Roshanjossey/)
 - [Hacktoberfest 2019: Како добити своју бесплатну мајцу — чак и ако сте нови у програмирању](https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b/) написао [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
 - [Горки Водич за Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) написао [@ken_wheeler](https://medium.com/@ken_wheeler)
@@ -120,14 +120,14 @@
 
 ## Коришћење контроле промена (Version Control)
 - [Размишљај као Git](http://think-like-a-git.net/) - Git увод за „напредне почетнике“, али се и даље боре, како би вам дали једноставну стратегију за безбедан експеримент са Git.
-- [Пробајте Git](https://try.github.io/) - Научите Гит за 15 минута из прегледача, бесплатно.
+- [Пробајте Git](https://docs.github.com/en/github/getting-started-with-github/set-up-git) - Научите Гит за 15 минута из прегледача, бесплатно.
 - [Свакодневни Git](https://git-scm.com/docs/giteveryday) - Корисни минимални скуп команди за свакодневни Git.
 - [Ох, срање, git!](https://ohshitgit.com/) - како изаћи из уобичајених грешака `git` описаних на обичном енглеском језику; такође видети [Проклетство, git!](https://dangitgit.com/) за страницу без псовки.
 - [Atlassian Git Туторијали](https://www.atlassian.com/git/tutorials) - разноврсни туторијали како користи `git`.
 - [GitHub Git Пушкице](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
 - [freeCodeCamp's Wiki за Git материјале](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
 - [Ток GitHub](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - GitHub прича како креирати pull request.
-- [GitHub Материјали за учење](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) - Git and GitHub материјал за учење.
+- [GitHub Материјали за учење](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources) - Git and GitHub материјал за учење.
 - [Pro Git](https://git-scm.com/book/en/v2) - Цела Pro Git књига, написана од стране Scott Chacon и Ben Straub и издата од стране Apress.
 - [Git-it](https://github.com/jlord/git-it-electron) - Корак по корак Git туторијал апликација за рачунар.
 - [Правила лета за Git](https://github.com/k88hudson/git-flight-rules) - Водич о томе шта треба учинити када ствари крену наопако.
