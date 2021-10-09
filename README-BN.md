@@ -28,11 +28,11 @@
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
 [![Build Status](https://api.travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
 
-ওপেন সোর্সে অবদান রাখতে নতুন যারা এই লোকদের জন্য এটি সংস্থানগুলির একটি তালিকা।
+নতুন যারা ওপেন সোর্সে অবদান রাখতে ইচ্ছুক তাদের জন্য নিচে একটি রিসোর্সের তালিকা দেওয়া হল।
 
-আপনি যদি অতিরিক্ত সংস্থানগুলি সন্ধান করেন তবে দয়া করে একটি পুল রিকুয়েস্ট তৈরি করুন।
+আপনার কাছে যদি আরও রিসোর্স থাকে, তবে একটি পুল রিকোয়েস্ট করার জন্য অনুরোধ করা হল।
 
-আপনার যদি প্রশ্ন বা মন্তব্য থাকে তবে দয়া করে একটি প্রবলেম তৈরি করুন।
+আপনার যদি কোন প্রশ্ন বা মন্তব্য থাকে, তবে দয়া করে একটি প্রবলেম তৈরি করুন।
 
 **সূচীপত্র**
 
@@ -47,9 +47,9 @@
 
 ## সাধারণভাবে ওপেন সোর্স-এ অবদান
 - [ওপেন সোর্সে অবদান রাখার সংজ্ঞা নির্দেশিকা](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
-- [ওপেন সোর্স সম্পর্কে বিবরণ](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - DigitalOcean-এর টিউটোরিয়াল যা আপনাকে গিটহাবের অবদান সাফল্যের পথে গাইড করবে।
-- [Issuehub.io](http://issuehub.pro/) - লেবেল এবং ভাষাগুলি দ্বারা গিটহাব ইস্যু অনুসন্ধানের জন্য একটি সরঞ্জাম।
-- [Code Triage](https://www.codetriage.com/) - আরেকটি, সত্যিই দুর্দান্ত, জনপ্রিয় রিপোসিটোরি এবং ভাষার দ্বারা ফিল্টার করা সমস্যাগুলি অনুসন্ধান করার সরঞ্জাম।
+- [ওপেন সোর্স সম্পর্কে বিবরণ](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - গিটহাবে একটি সাকসেসফুল কন্ট্রিবিউট করার জন্য DigitalOcean-এর টিউটোরিয়ালগুলো আপানকে যেভাবে গাইড করবে।
+- [Issuehub.io](http://issuehub.pro/) - গিটহাব ইস্যু লেবেল এবং ভাষা দিয়ে অনুসন্ধান করার একটি টুল।
+- [Code Triage](https://www.codetriage.com/) - Code Triage একটি টুল যার মাধ্মে জনপ্রিয় রিপোসিটোরি এবং বাগ গুলো ল্যাঙ্গুয়েজ দিয়ে খুঁজে পেতে সাহায্য করবে।
 - [নতুনদের জন্য দুর্দান্ত](https://github.com/MunGell/awesome-for-beginners) - একটি গিটহাব রিপোসিটোরি যা নতুন অবদানকারীদের জন্য ভাল বাগ সহ প্রকল্পগুলিকে সংগ্রহ করে এবং সেগুলি বর্ণনা করার জন্য লেবেল প্রয়োগ করে।
 - [ওপেন সোর্স নির্দেশিকা](https://opensource.guide/) - কোনও ওপেন সোর্স প্রকল্প কীভাবে চালনা এবং প্রকল্পগুলোতে অবদান রাখতে হয় তা শিখতে চায় এমন ব্যক্তি, সম্প্রদায় এবং সংস্থাগুলির জন্য সংস্থান সংগ্রহ।
 - [৪৫ গিটহাব ইস্যু : কি করবেন এবং কি করবেন না](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - গিটহাবে কি করবেন এবং কি করবেন না।
