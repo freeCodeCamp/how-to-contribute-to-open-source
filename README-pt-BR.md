@@ -120,6 +120,7 @@ Pesquise por links diretos para issues no GitHub.
 - [First Contributions](https://firstcontributions.github.io/) - Faça sua primeira contribuição Open Source em 5 minutos. Uma ferramenta e tutorial para ajudar iniciantes em suas contribuições.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Um programa para incentivar contribuições em Open Source. Ganhe brindes como camisas e adesivos ao abrir no mínimo 5 Pull Requests no mês de Outubro.
 - [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests é um projeto com intuito de promover colaborações em Open Source durante o mês de Dezembro.
+- [Django Girls](https://djangogirls.org/pt-br/) - Django Girls é uma organização sem fins lucrativos e uma comunidade que capacita e ajuda mulheres a organizar workshops de programação gratuitos de um dia, fornecendo ferramentas, recursos e suporte.
 
 ## Licença
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Este trabalho é licenciado sob a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licença Internacional Creative Commons Attribution-ShareAlike 4.0</a>.
