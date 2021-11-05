@@ -15,6 +15,7 @@
         <td><a href="./README-FR.md"> Français </a></td>
         <td><a href="./README-TR.md"> Turkish </a></td>
         <li><a href="./README-AR.md"> عربي </a></li>
+        <li><a href="./README-SO.md"> Soomaali </a></li>
     </tr>
 </table>
 
