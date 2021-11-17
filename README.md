@@ -73,6 +73,7 @@ Lets Git started in the world of opensource, starting in the opensource playgrou
 - ["Open Advice"](http://open-advice.org/) - Knowledge collection from a wide variety of Free Software projects. It answers the question what 42 prominent contributors would have liked to know when they started so you can get a head-start no matter how and where you contribute.
 - ["GitHub Learning Lab"](https://lab.github.com/) - Level up your skills with GitHub Learning Lab. Our friendly bot will take you through a series of fun, practical projects to learn the skills you need in no time—and share helpful feedback along the way.
 - ["Ten simple rules for helping newcomers become contributors to open projects"](https://doi.org/10.1371/journal.pcbi.1007296) - This article covers rules based on studies of many communities and experiences of members, leaders, and observers.
+- ["Step-by-Step guide to contributing on GitHub"](https://www.dataschool.io/how-to-contribute-on-github/) - a step-by-step guide with supporting visuals and links regarding the whole process of contributing to an open source project.
 
 
 ## Direct GitHub searches
@@ -84,6 +85,9 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [is:issue is:open label:"good first issue"](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&type=issues)
 - [is:issue is:open label:starter](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Astarter&type=issues)
 - [is:issue is:open label:up-for-grabs](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs&type=issues)
+- [is:issue is:open label:easy-fix](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy-fix&type=issues)
+- [is:issue is:open label:"beginner friendly"](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22beginner+friendly%22&type=issues)
+- [is:issue is:open label:your-first-pr](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Ayour-first-pr&type=issues)
 
 ## Mozilla's contributor ecosystem
 - [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - bugs that developers have identified as a good introduction to the project.
