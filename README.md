@@ -47,6 +47,7 @@ If you have questions or comments, please create an issue.
 - [License](#license)
 
 ## Contributing to Open Source in general
+
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials by DigitalOcean to guide you on your way to contribution success here on GitHub.
 - [Issuehub.pro](http://issuehub.pro/) - a tool for searching GitHub issues by label and language.
@@ -67,7 +68,7 @@ If you have questions or comments, please create an issue.
 - ["Browse good first issues to start contributing to open source"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) - GitHub now helps you find good first issues to start contributing to open source.
 - ["How to Contribute to Open Source Project" by Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - This comprehensive article is directed towards businesses (but still useful for individual contributors) where it talks about why, how, and what open-source projects to contribute to.
 - ["start-here-guidelines" by Andrei](https://github.com/zero-to-mastery/start-here-guidelines) -
-Lets Git started in the world of opensource, starting in the opensource playground. Especially designed for education and practical experience purposes.
+  Lets Git started in the world of opensource, starting in the opensource playground. Especially designed for education and practical experience purposes.
 - ["Getting Started with Open Source" by NumFocus](https://github.com/numfocus/getting-started-with-open-source) - a GitHub repo that helps contributors overcome barriers to entry in open-source.
 - ["Opensoure-4-everyone" by Chryz-hub ](https://github.com/chryz-hub/opensource-4-everyone) - A repository on everything related to open source. This is a project to help with GitHub membership visibility, practice with basic and advance git commands, getting started with open source, and more.
 - ["Open Advice"](http://open-advice.org/) - Knowledge collection from a wide variety of Free Software projects. It answers the question what 42 prominent contributors would have liked to know when they started so you can get a head-start no matter how and where you contribute.
@@ -75,9 +76,10 @@ Lets Git started in the world of opensource, starting in the opensource playgrou
 - ["Ten simple rules for helping newcomers become contributors to open projects"](https://doi.org/10.1371/journal.pcbi.1007296) - This article covers rules based on studies of many communities and experiences of members, leaders, and observers.
 - ["Step-by-Step guide to contributing on GitHub"](https://www.dataschool.io/how-to-contribute-on-github/) - a step-by-step guide with supporting visuals and links regarding the whole process of contributing to an open source project.
 
-
 ## Direct GitHub searches
+
 Search links that point directly to suitable issues to contribute to on GitHub.
+
 - [is:issue is:open label:beginner](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Abeginner&type=issues)
 - [is:issue is:open label:easy](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy&type=issues)
 - [is:issue is:open label:first-timers-only](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only&type=issues)
@@ -90,6 +92,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [is:issue is:open label:your-first-pr](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Ayour-first-pr&type=issues)
 
 ## Mozilla's contributor ecosystem
+
 - [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - bugs that developers have identified as a good introduction to the project.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/MDN/Contribute) - help the MDN Web Docs team in documenting the web platform by fixing content issues and platform bugs.
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs that have a mentor assigned who will be there on IRC to help you when you get stuck while working on a fix.
@@ -99,6 +102,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [Start Mozilla](https://twitter.com/StartMozilla) - a Twitter account that tweets about issues fit for contributors new to the Mozilla ecosystem.
 
 ## Useful articles for new Open Source contributors
+
 - [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
 - [How to find your first Open Source bug to fix](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) by [@Shubheksha](https://github.com/Shubheksha)
 - [First Timers Only](https://kentcdodds.com/blog/first-timers-only/) by [@kentcdodds](https://github.com/kentcdodds)
@@ -109,7 +113,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) by [@GitHub](https://github.com/github)
 - [First mission: Contributors page](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
 - [How to make your first Open Source contribution in just 5 minutes](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) by [@roshanjossey](https://github.com/Roshanjossey/)
-- [Hacktoberfest 2019: How you can get your free shirt — even if you’re new to coding](https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b/) by [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
+- [I just got my free Hacktoberfest shirt. Here’s a quick way you can get yours.](https://www.freecodecamp.org/news/i-just-got-my-free-hacktoberfest-shirt-heres-a-quick-way-you-can-get-yours-fa78d6e24307/) by [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
 - [A Bitter Guide To Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
 - [A junior developer’s step-by-step guide to contributing to Open Source for the first time](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) by [@LetaKeane](https://hackernoon.com/u/letakeane)
 - [Learn Git and GitHub Step By Step (on Windows)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) by [@ows-ali](https://ows-ali.medium.com/)
@@ -122,6 +126,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [8 non-code ways to contribute to open source](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code) by [OpenSource](https://twitter.com/OpenSourceWay)
 
 ## Using Version Control
+
 - [Think Like (a) Git](http://think-like-a-git.net/) - Git introduction for "advanced beginners," but are still struggling, in order to give you a simple strategy to safely experiment with git.
 - [Try Git](https://try.github.io/) - Learn Git in 15 minutes from within your browser for free.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - A useful minimum set of commands for Everyday Git.
@@ -142,6 +147,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics) (1:12:39) - Full Git and GitHub walkthrough by [Kunal Kushwaha](https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw).
 
 ## Open Source books
+
 - [Producing Open Source Software](https://producingoss.com/) - Producing Open Source Software is a book about the human side of Open Source development. It describes how successful projects operate, the expectations of users and developers, and the culture of free software.
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - Learn more about Open Source and the growing Open Source movement with a comprehensive list of free eBooks from https://opensource.com.
 - [Software Release Practice HOWTO](https://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - This HOWTO describes good release practices for Linux and other Open-Source projects. By following these practices, you will make it as easy as possible for users to build your code and use it, and for other developers to understand your code and cooperate with you to improve it.
@@ -150,6 +156,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - Essays from open-source pioneers such as Linus Torvalds (Linux), Larry Wall (Perl), and Richard Stallman (GNU).
 
 ## Open Source contribution initiatives
+
 - [Up For Grabs](https://up-for-grabs.net/) - Contains projects with beginner-friendly issues
 - [First Timers Only](https://www.firsttimersonly.com/) - A list of bugs that are labelled "first-timers-only".
 - [First Contributions](https://firstcontributions.github.io/) - Make your first Open Source contribution in 5 minutes. A tool and tutorial to help beginners get started with contributions. [Here](https://github.com/firstcontributions/first-contributions) is the GitHub source code for the site and opportunity to make a contribution to the repository itself.
@@ -161,6 +168,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [Major League Hacking Fellowship](https://fellowship.mlh.io/) - A remote internship alternative for aspiring technologists where they build, or contribute to open-source projects.
 
 ## Open Source programs to participate in
+
 - [Google Summer of Code](https://summerofcode.withgoogle.com)
 - [FossAsia](https://fossasia.org)
 - [MLH Fellowship](https://fellowship.mlh.io)
@@ -170,4 +178,5 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [Microsoft Reinforcement learning](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
 
 ## License
+
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
