@@ -8,7 +8,7 @@
         <li><a href="./README-BN.md"> বাংলা </a></li>
         <li><a href="./README-CN.md"> 中文 </a></li>
         <li><a href="./README-RU.md"> Русский </a></li>
-        <li><a href="./README-UA.md"> Українська </a></li>
+        <li><a href="./README-UK.md"> Українська </a></li>
         <li><a href="./README-RO.md"> Românesc </a></li>
         <li><a href="./README-IT.md"> Italiano </a></li>
         <li><a href="./README-ES.md"> Español </a></li>
