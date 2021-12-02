@@ -5,122 +5,123 @@ contributions, along with quick links to relevant documents you should reference
 before contributing.
 
 - `[Babel](https://github.com/babel/babel)` (project)
-    - [Contributing Guide](https://github.com/babel/babel/blob/master/CONTRIBUTING.md)
-    - Issue labels:
-        - [Good First Issue](https://github.com/babel/babel/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+  - [Contributing Guide](https://github.com/babel/babel/blob/master/CONTRIBUTING.md)
+  - Issue labels:
+    - [Good First Issue](https://github.com/babel/babel/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 - `[BeeWare](https://beeware.org/)` (org)
-    - [Contributing Guide](https://beeware.org/contributing/how/first-time/)
-    - [Batavia](https://github.com/beeware/batavia) (project)
-        - Issue labels:
-            - [first-timers-only](https://github.com/beeware/batavia/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
-    - [VOC](https://github.com/beeware/voc) (project)
-        - Issue labels:
-            - [first-timers-only](https://github.com/beeware/voc/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
+  - [Contributing Guide](https://beeware.org/contributing/how/first-time/)
+  - [Batavia](https://github.com/beeware/batavia) (project)
+    - Issue labels:
+      - [first-timers-only](https://github.com/beeware/batavia/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
+  - [VOC](https://github.com/beeware/voc) (project)
+    - Issue labels:
+      - [first-timers-only](https://github.com/beeware/voc/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
 - `[DITA Open Toolkit](https://www.dita-ot.org/)`
-    - [Contributing Guide](https://www.dita-ot.org/contributing)
-    - Issue label:
-        - [good first issue](https://github.com/dita-ot/dita-ot/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+  - [Contributing Guide](https://www.dita-ot.org/contributing)
+  - Issue label:
+    - [good first issue](https://github.com/dita-ot/dita-ot/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 - `[Docker](https://github.com/docker)` (project)
-    - [Contributing Guide](https://docs.docker.com/opensource/)
-    - Issue labels:
-        - [Open Issue](https://github.com/search?q=org%3Adocker+is%3Aissue+is%3Aopen)
-        - [exp/beginner](https://github.com/docker/docker/issues?q=is%3Aopen+is%3Aissue+label%3Aexp%2Fbeginner+sort%3Aupdated-desc)
+  - [Contributing Guide](https://docs.docker.com/opensource/)
+  - Issue labels:
+    - [Open Issue](https://github.com/search?q=org%3Adocker+is%3Aissue+is%3Aopen)
+    - [exp/beginner](https://github.com/docker/docker/issues?q=is%3Aopen+is%3Aissue+label%3Aexp%2Fbeginner+sort%3Aupdated-desc)
 - `[freeCodeCamp.org](https://www.freecodecamp.org/)` (org)
-    - [freeCodeCamp.org](https://github.com/freeCodeCamp/freeCodeCamp/) (project)
-        - [Contributing guide](https://contribute.freecodecamp.org)
-        - Issue labels:
-            - [first-timers-only](https://github.com/FreeCodeCamp/FreeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
-            - [help wanted](https://github.com/freeCodeCamp/freeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
+  - [freeCodeCamp.org](https://github.com/freeCodeCamp/freeCodeCamp/) (project)
+    - [Contributing guide](https://contribute.freecodecamp.org)
+    - Issue labels:
+      - [first-timers-only](https://github.com/FreeCodeCamp/FreeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
+      - [help wanted](https://github.com/freeCodeCamp/freeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
 - `[GitLab](https://gitlab.com/gitlab-org)` (org)
-    - [Contributing Guide](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md)
-    - [Development Guides](https://docs.gitlab.com/ce/development/README.html)
-    - [Development Kit](https://gitlab.com/gitlab-org/gitlab-development-kit)
-    - Issue labels:
-        - [1st contribution](https://gitlab.com/gitlab-org/gitlab-ce/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=1st%20contribution)
+  - [Contributing Guide](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md)
+  - [Development Guides](https://docs.gitlab.com/ce/development/README.html)
+  - [Development Kit](https://gitlab.com/gitlab-org/gitlab-development-kit)
+  - Issue labels:
+    - [1st contribution](https://gitlab.com/gitlab-org/gitlab-ce/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=1st%20contribution)
 - `[GNOME](https://www.gnome.org/)` (org)
-    - [Contributing Guide](https://wiki.gnome.org/Newcomers)
+  - [Contributing Guide](https://wiki.gnome.org/Newcomers)
 - Great big example application (org)
-    - [Great-big-example-application](https://github.com/dancancro/great-big-angular2-example) (project)
-    - [Contributing Guide](https://github.com/dancancro/great-big-example-application/projects/1)
+  - [Great-big-example-application](https://github.com/dancancro/great-big-angular2-example) (project)
+  - [Contributing Guide](https://github.com/dancancro/great-big-example-application/projects/1)
 - `[Hoa](https://hoa-project.net)` (project)
-    - [Contributing Guide](https://hoa-project.net/En/Literature/Contributor/Guide.html)
+  - [Contributing Guide](https://hoa-project.net/En/Literature/Contributor/Guide.html)
 - `[Hoodiehq](http://hood.ie/)` (org)
-    - [Camp](https://github.com/hoodiehq/camp) (project)
-        - Issue labels:
-            - [first-timers-only](https://github.com/hoodiehq/camp/labels/first-timers-only)
-            - [good first issue](https://github.com/hoodiehq/camp/labels/good%20first%20issue)
-    - [Hoodie](https://github.com/hoodiehq/hoodie) (project)
-        - [Contributing Guide](https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md)
-        - Issue labels:
-            - [first-timers-only](https://github.com/hoodiehq/hoodie/labels/first-timers-only)
-            - [help wanted](https://github.com/hoodiehq/hoodie/labels/help%20wanted)
-            - [starter](https://github.com/hoodiehq/hoodie/labels/starter)
+  - [Camp](https://github.com/hoodiehq/camp) (project)
+    - Issue labels:
+      - [first-timers-only](https://github.com/hoodiehq/camp/labels/first-timers-only)
+      - [good first issue](https://github.com/hoodiehq/camp/labels/good%20first%20issue)
+  - [Hoodie](https://github.com/hoodiehq/hoodie) (project)
+    - [Contributing Guide](https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md)
+    - Issue labels:
+      - [first-timers-only](https://github.com/hoodiehq/hoodie/labels/first-timers-only)
+      - [help wanted](https://github.com/hoodiehq/hoodie/labels/help%20wanted)
+      - [starter](https://github.com/hoodiehq/hoodie/labels/starter)
 - `[Metamaps](https://metamaps.cc/)` (org)
-    - [Metamaps](https://github.com/metamaps/metamaps) (project)
-        - [Contribution Guide](https://github.com/metamaps/metamaps/blob/develop/doc/CONTRIBUTING.md)
+  - [Metamaps](https://github.com/metamaps/metamaps) (project)
+    - [Contribution Guide](https://github.com/metamaps/metamaps/blob/develop/doc/CONTRIBUTING.md)
 - `nteract` (org)
-    - [nteract](https://github.com/nteract/nteract) (project)
-        - [Contributing Guide](https://github.com/nteract/nteract/blob/master/CONTRIBUTING.md)
-        - Issue labels:
-            - [new-contributor-friendly](https://github.com/nteract/nteract/issues?q=is%3Aissue+label%3Anew-contributor-friendly+is%3Aopen)
-            - [mentoring-available](https://github.com/nteract/nteract/issues?q=is%3Aissue+is%3Aopen+label%3Amentoring-available)
+  - [nteract](https://github.com/nteract/nteract) (project)
+    - [Contributing Guide](https://github.com/nteract/nteract/blob/master/CONTRIBUTING.md)
+    - Issue labels:
+      - [new-contributor-friendly](https://github.com/nteract/nteract/issues?q=is%3Aissue+label%3Anew-contributor-friendly+is%3Aopen)
+      - [mentoring-available](https://github.com/nteract/nteract/issues?q=is%3Aissue+is%3Aopen+label%3Amentoring-available)
 - `Public Lab` (org)
-    - [Plots2](https://github.com/publiclab/plots2) (project)
-        - [Contributing guide](https://github.com/publiclab/plots2/blob/master/CONTRIBUTING.md)
-        - Issue labels:
-            - [first-timers-only](https://github.com/publiclab/plots2/issues?q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
-            - [help-wanted](https://github.com/publiclab/plots2/issues?q=is%3Aissue+is%3Aopen+label%3Ahelp-wanted)
-            - [fto-candidate](https://github.com/publiclab/plots2/issues?q=is%3Aissue+is%3Aopen+label%3Afto-candidate)
+  - [Plots2](https://github.com/publiclab/plots2) (project)
+    - [Contributing guide](https://github.com/publiclab/plots2/blob/master/CONTRIBUTING.md)
+    - Issue labels:
+      - [first-timers-only](https://github.com/publiclab/plots2/issues?q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
+      - [help-wanted](https://github.com/publiclab/plots2/issues?q=is%3Aissue+is%3Aopen+label%3Ahelp-wanted)
+      - [fto-candidate](https://github.com/publiclab/plots2/issues?q=is%3Aissue+is%3Aopen+label%3Afto-candidate)
 - `React` (org)
-    - [React](https://github.com/facebook/react) (project)
-        - [Contributing Guide](https://reactjs.org/docs/how-to-contribute.html)
-        - Issue labels:
-            - [good first issue](https://github.com/facebook/react/issues?page=1&q=is%3Aissue+is%3Aopen)
+  - [React](https://github.com/facebook/react) (project)
+    - [Contributing Guide](https://reactjs.org/docs/how-to-contribute.html)
+    - Issue labels:
+      - [good first issue](https://github.com/facebook/react/issues?page=1&q=is%3Aissue+is%3Aopen)
 - `Read the Docs` (org)
-    - [Read the Docs](http://docs.readthedocs.io/en/latest/index.html) (site)
-        - Issue labels:
-            - [Good First Bug](https://github.com/rtfd/readthedocs.org/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+First+Bug%22)
+  - [Read the Docs](http://docs.readthedocs.io/en/latest/index.html) (site)
+    - Issue labels:
+      - [Good First Bug](https://github.com/rtfd/readthedocs.org/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+First+Bug%22)
 - `Redfin` (org)
-    - [react-server](https://github.com/redfin/react-server) (project)
-        - [Contributing Guide](https://github.com/redfin/react-server/blob/master/CONTRIBUTING.md)
-        - Issue labels:
-            - [good first contribution](https://github.com/redfin/react-server/labels/good%20first%20contribution)
+  - [react-server](https://github.com/redfin/react-server) (project)
+    - [Contributing Guide](https://github.com/redfin/react-server/blob/master/CONTRIBUTING.md)
+    - Issue labels:
+      - [good first contribution](https://github.com/redfin/react-server/labels/good%20first%20contribution)
 - `Servo` (org)
-    - [Servo](https://starters.servo.org/) (project)
-        - [Contributing guide](https://github.com/servo/servo/blob/master/CONTRIBUTING.md)
-        - Issue labels:
-            - [Easy](https://github.com/servo/servo/issues?q=is%3Aissue+is%3Aopen+label%3AE-easy)
+  - [Servo](https://starters.servo.org/) (project)
+    - [Contributing guide](https://github.com/servo/servo/blob/master/CONTRIBUTING.md)
+    - Issue labels:
+      - [Easy](https://github.com/servo/servo/issues?q=is%3Aissue+is%3Aopen+label%3AE-easy)
 - `[Sympy](https://github.com/sympy/sympy)` (project)
-    - [Dev Wiki](https://github.com/sympy/sympy/wiki#development)
-    - [Work Flow](https://github.com/sympy/sympy/wiki/Development-workflow)
-    - [Contributing Guide](https://github.com/sympy/sympy/wiki/Introduction-to-contributing)
-    - Issue labels:
-        - [Easy to fix](https://github.com/sympy/sympy/issues?q=is%3Aissue+is%3Aopen+label%3A%22Easy+to+Fix%22)
+  - [Dev Wiki](https://github.com/sympy/sympy/wiki#development)
+  - [Work Flow](https://github.com/sympy/sympy/wiki/Development-workflow)
+  - [Contributing Guide](https://github.com/sympy/sympy/wiki/Introduction-to-contributing)
+  - Issue labels:
+    - [Easy to fix](https://github.com/sympy/sympy/issues?q=is%3Aissue+is%3Aopen+label%3A%22Easy+to+Fix%22)
 - `TEAMMATES` (org)
-    - [TEAMMATES](https://github.com/TEAMMATES/teammates) (project)
-        - [Contributing Guide](https://github.com/TEAMMATES/teammates/blob/master/docs/CONTRIBUTING.md)
-        - Issue labels:
-            - [d.FirstTimers](https://github.com/TEAMMATES/teammates/issues?q=is%3Aopen+is%3Aissue+label%3Ad.FirstTimers)
-            - [d.Contributors](https://github.com/TEAMMATES/teammates/issues?q=is%3Aopen+is%3Aissue+label%3Ad.Contributors)
+  - [TEAMMATES](https://github.com/TEAMMATES/teammates) (project)
+    - [Contributing Guide](https://github.com/TEAMMATES/teammates/blob/master/docs/CONTRIBUTING.md)
+    - Issue labels:
+      - [d.FirstTimers](https://github.com/TEAMMATES/teammates/issues?q=is%3Aopen+is%3Aissue+label%3Ad.FirstTimers)
+      - [d.Contributors](https://github.com/TEAMMATES/teammates/issues?q=is%3Aopen+is%3Aissue+label%3Ad.Contributors)
 - `Zulip` (org)
-    - [Zulip](https://github.com/zulip) (project)
-    - [Contributing Guide](https://github.com/zulip/zulip/blob/master/CONTRIBUTING.md)
-    - Issue labels:
-       - [Good First Issue](https://github.com/zulip/zulip/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
-       - [Help Wanted](https://github.com/zulip/zulip/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
+  - [Zulip](https://github.com/zulip) (project)
+  - [Contributing Guide](https://github.com/zulip/zulip/blob/master/CONTRIBUTING.md)
+  - Issue labels:
+    - [Good First Issue](https://github.com/zulip/zulip/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+    - [Help Wanted](https://github.com/zulip/zulip/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 - `[Rust](https://github.com/rust-lang/rust)` (project)
-    - [Contributing Guide](https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md)
-    - Issue labels:
-       - [E-easy](https://github.com/rust-lang/rust/issues?q=is%3Aissue+is%3Aopen+label%3AE-easy)
+  - [Contributing Guide](https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md)
+  - Issue labels:
+    - [E-easy](https://github.com/rust-lang/rust/issues?q=is%3Aissue+is%3Aopen+label%3AE-easy)
 - `[Test Kitchen](https://github.com/test-kitchen/test-kitchen)` (project)
-    - [Contributing Guide](https://github.com/test-kitchen/test-kitchen/blob/master/CONTRIBUTING.md)
-    - Issue labels:
-       - [*](https://github.com/test-kitchen/test-kitchen/issues?q=is%3Aopen+is%3Aissue+label%3A%E2%AD%90%EF%B8%8F)
+  - [Contributing Guide](https://github.com/test-kitchen/test-kitchen/blob/master/CONTRIBUTING.md)
+  - Issue labels:
+    - [\*](https://github.com/test-kitchen/test-kitchen/issues?q=is%3Aopen+is%3Aissue+label%3A%E2%AD%90%EF%B8%8F)
 - `Django` (Framework)
-    - [Contributing Guide](https://github.com/django/django)
-    
+  - [Contributing Guide](https://github.com/django/django)
 - `[tsParticles](https://github.com/matteobruni/tsparticles)` (Library)
-    - [Contributing Guide](https://github.com/matteobruni/tsparticles/blob/master/CONTRIBUTING.md)
-    - Issue labels:
-       - [Good First Issue](https://github.com/matteobruni/tsparticles/labels/good%20first%20issue)
-       - [Help Wanted](https://github.com/matteobruni/tsparticles/labels/help%20wanted)
+  - [Contributing Guide](https://github.com/matteobruni/tsparticles/blob/master/CONTRIBUTING.md)
+  - Issue labels:
+    - [Good First Issue](https://github.com/matteobruni/tsparticles/labels/good%20first%20issue)
+    - [Help Wanted](https://github.com/matteobruni/tsparticles/labels/help%20wanted)
+    - `[sticktrik3181](https://github.com/sticktrick3181)`(project)
+  - [Contributing Guide](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
