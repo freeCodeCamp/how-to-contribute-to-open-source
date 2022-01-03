@@ -28,7 +28,7 @@
 [![स्थिति बनाएँ](https://api.travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
 
 
-यह उन लोगों के लिए संसाधनों की एक सूची है जो ओपन सोर्स में योगदान करने के लिए नए हैं।
+यह उन लोगों के लिए संसाधनों की एक सूची हैं जो ओपन सोर्स में योगदान करने के लिए नए हैं।
 
 यदि आपको अतिरिक्त संसाधन मिलते हैं, तो कृपया एक पुल अनुरोध में योगदान करें।
 
