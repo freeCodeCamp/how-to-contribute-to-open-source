@@ -64,7 +64,7 @@
 - ["How to Contribute to Open Source Project by" Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - वे गिटहब पर किसी और की परियोजना के लिए एक पुल अनुरोध (पीआर) का योगदान करने पर ध्यान केंद्रित कर रहे हैं।
 - ["How to get started with Open Source by" Sayan Chowdhury](https://www.hackerearth.com:443/getstarted-opensource/) - यह लेख अपनी पसंदीदा भाषा रुचि के आधार पर नौसिखियों के लिए ओपन सोर्स में योगदान करने के लिए संसाधनों को शामिल करता है।
 - ["Browse good first issues to start contributing to open source"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) - GitHub अब आपको ओपन सोर्स में योगदान देना शुरू करने के लिए पहले अच्छे मुद्दे खोजने में मदद करता है।
-- ["How to Contribute to Open Source Project" by Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - यह व्यापक लेख व्यवसायों की ओर निर्देशित है (लेकिन व्यक्तिगत योगदानकर्ताओं के लिए अभी भी उपयोगी है) जहां यह बात करता है कि क्यों, कैसे, और क्या-क्या ओपन-सोर्स प्रोजेक्ट्स में योगदान करना है।
+- ["How to Contribute to Open Source Project" by Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - यह व्यापक लेख व्यवसायों की ओर निर्देशित है (लेकिन व्यक्तिगत योगदानकर्ताओं के लिए भी उपयोगी है) जहां यह बात करता है कि क्यों, कैसे, और क्या-क्या ओपन-सोर्स प्रोजेक्ट्स में योगदान करना उचित है।
 - ["start-here-guidelines" by Andrei](https://github.com/zero-to-mastery/start-here-guidelines) - ओपनसैट खेल की दुनिया में शुरू होता है, ओपनसोर्स खेल के मैदान में शुरू होता है। विशेष रूप से शिक्षा और व्यावहारिक अनुभव उद्देश्यों के लिए डिज़ाइन किया गया।
 
 ## डायरेक्ट गिटहब खोजता है
