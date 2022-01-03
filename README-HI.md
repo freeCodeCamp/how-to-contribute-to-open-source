@@ -52,7 +52,7 @@
 - [Code Triage](https://www.codetriage.com/) - लोकप्रिय रिपॉजिटरी और भाषा द्वारा फ़िल्टर किए गए मुद्दों को खोजने के लिए उपकरण।
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - एक GitHub रेपो जो नए योगदानकर्ताओं के लिए अच्छे बग्स के साथ प्रोजेक्ट करता है, और उनका वर्णन करने के लिए लेबल लागू करता है।
 - [Open Source Guides](https://opensource.guide/) - उन व्यक्तियों, समुदायों और कंपनियों के लिए संसाधनों का संग्रह, जो ओपन सोर्स प्रोजेक्ट को चलाना और उसमें योगदान देना सीखना चाहते हैं।
-- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) -GitHub पर Do's और Don'ts।
+- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) -GitHub के Do's और Don'ts।
 - [GitHub Guides](https://guides.github.com/) - कैसे प्रभावी रूप से GitHub का उपयोग करने के बारे में बुनियादी गाइड।
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - एक सिमुलेशन परियोजना के लिए कोड का योगदान करके GitHub वर्कफ़्लो जानें।
 - [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - लिनक्स फाउंडेशन के स्रोत स्रोत खोलने के लिए गाइड।
