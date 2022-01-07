@@ -33,7 +33,7 @@
 **Оглавление**
 - [Внесение вклада в открытый исходный код (статьи на английском)](#contributing-to-open-source-in-general)
 - [Прямой поиск на GitHub](#direct-github-searches)
-- [экосистема вкладчика Mozilla](#mozillas-contributor-ecosystem)
+- [Экосистема контрибьюторов Mozilla](#mozillas-contributor-ecosystem)
 - [Полезные статьи для новых авторов с открытым исходным кодом](#useful-articles-for-new-open-source-contributors)
 - [Использование контроля версий](#using-version-control)
 - [Книги с открытым исходным кодом](#open-source-books)
@@ -67,13 +67,14 @@
 - [is:issue is:open label:starter](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Astarter)
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
-## Экосистема вкладчиц Mozilla
+## Экосистема контрибьюторов Mozilla
 - [Хорошие первые ошибки](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - ошибки, которые разработчики определили как хорошее введение в проект.
-- [Напуганные ошибки](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - ошибки, на которых назначен наставник, кто будет там в IRC, чтобы помочь вам, когда вы застряли во время работы над исправлением.
-- [Ошибки Ahoy](http://www.joshmatthews.net/bugsahoy/)- сайт, посвященный поиску ошибок в Bugzilla.
-- [Firefox DevTools](http://firefox-dev.tools/) - сайт, посвященный ошибкам, поданным для инструментов разработчика в браузере Firefox.
-- [Что я могу сделать для Mozilla](http://whatcanidoformozilla.org/) - выяснить, над чем вы можете работать, отвечая на кучу вопросов о ваших навыках и интересах.
-- [Запустить Mozilla](https://twitter.com/StartMozilla) - учетная запись Twitter, в которой сообщается о проблемах, подходящих для вкладчиков, новых для экосистемы Mozilla.
+- [MDN Web Docs](https://developer.mozilla.org/ru/docs/MDN/Contribute) - помогите команде веб-документации MDN в документировании веб-платформы, исправляя проблемы с контентом и ошибки платформы.
+- [Ошибки с наставником](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - ошибки, на которых назначен наставник, который поможет в IRC, если у вас появятся трудности во время работы над исправлением.
+- [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/)- сайт, посвященный поиску ошибок в Bugzilla.
+- [Firefox DevTools](http://firefox-dev.tools/) - сайт, посвященный ошибкам, найденным в инструментах разработчика в браузере Firefox.
+- [Что я могу сделать для Mozilla](http://whatcanidoformozilla.org/) - выясните, над чем вы можете работать, ответив на ряд вопросов о ваших навыках и интересах.
+- [Start Mozilla](https://twitter.com/StartMozilla) - аккаунт в Twitter, в котором сообщается о проблемах, подходящих для новых для экосистемы Mozilla контрибьюторов.
 
 ## Полезные статьи для новых авторов с открытым исходным кодом
 - ["Как выбрать (и внести свой вклад) в свой первый проект с открытым исходным кодом"](https://github.com/collections/choosing-projects) от [@GitHub](https://github.com/github)
