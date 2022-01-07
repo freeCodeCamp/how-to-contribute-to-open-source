@@ -18,17 +18,17 @@
     </tr>
 </table>
 
-# Selamat Datang Kontributor Open Source Untuk Pemula!
+# Selamat Datang Kontributor _Open Source_ Untuk Pemula!
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
 [![Build Status](https://api.travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
 
-Ini adalah daftar sumber untuk orang-orang yang baru berkontribusi pada Open Source.
+Ini adalah daftar sumber untuk orang-orang yang baru berkontribusi pada _Open Source_.
 
-Jika Anda menemukan sumber tambahan, silahkan berkontribusi dengan membuat pull request baru.
+Jika Anda menemukan sumber tambahan, silahkan berkontribusi dengan membuat _pull request_ baru.
 
-Jika Anda memiliki pertanyaan atau komentar, silahkan membuat issue baru.
+Jika Anda memiliki pertanyaan atau komentar, silahkan membuat _issue_ baru.
 
 **Daftar Isi**
 
@@ -41,33 +41,33 @@ Jika Anda memiliki pertanyaan atau komentar, silahkan membuat issue baru.
 - [Inisiatif untuk Kontribusi Open Source](#inisiatif-untuk-kontribusi-open-source)
 - [Lisensi](#lisensi)
 
-## Berkontribusi Open Source pada Umumnya
+## Berkontribusi _Open Source_ pada Umumnya
 
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) ditulis oleh [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorial yang ditulis oleh DigitalOcean untuk memandu Anda menuju kontribusi sukses di GitHub.
-- [Issuehub.io](http://issuehub.pro/) - alat untuk mencari GitHub issue berdasarkan label dan bahasa.
-- [Code Triage](https://www.codetriage.com/) - alat lain yang sangat berguna untuk mencari repositori dan issue populer berdasarkan bahasa.
-- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - sebuah repo GitHub yang mengumpulkan proyek dengan bug yang baik untuk para kontributor baru, dan menerapkan label untuk mendeskripsikannya.
+- [Issuehub.io](http://issuehub.pro/) - alat untuk mencari _issue_ GitHub berdasarkan label dan bahasa.
+- [Code Triage](https://www.codetriage.com/) - alat lain yang sangat berguna untuk mencari repositori dan _issue_ populer berdasarkan bahasa.
+- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - sebuah repo GitHub yang mengumpulkan proyek dengan _bug_ yang baik untuk para kontributor baru, dan menerapkan label untuk mendeskripsikannya.
 - [Open Source Guides](https://opensource.guide/) - Kumpulan sumber untuk individu, komunitas, dan perusahaan yang ingin mempelajari cara menjalankan dan berkontribusi pada proyek Sumber Terbuka.
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Hal yang diperbolehkan dan tidak diperbolehkan di GitHub.
 - [GitHub Guides](https://guides.github.com/) - pengantar dasar dalam pengunaan GitHub secara efektif.
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Pelajari alur kerja GitHub dengan berkontribusi kode ke proyek simulasi.
-- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Pengantar yang dibuat oleh Linux Foundation mengenai proyek Open Source.
-- [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - Sebuah buku pengantar etiket Open Source, ditulis oleh Kent C. Dodds dan Sarah Drasner.
+- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Pengantar yang dibuat oleh Linux Foundation mengenai proyek _Open Source_.
+- [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - Sebuah buku pengantar etiket "Open Source", ditulis oleh Kent C. Dodds dan Sarah Drasner.
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Daftar sumber dan peluang untuk para mahasiswa mempelajari bahasa pengkodean baru.
-- [Pull Request Roulette](http://www.pullrequestroulette.com/) - Situs ini memiliki daftar pull request yang dikirim untuk ditinjau dari proyek Open Source yang di-host di Github.
-- ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - Panduan video bertahap tentang cara mulai berkontribusi pada proyek Open Source di GitHub.
-- [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - Panduan tentang kontribusi open source ini mencakup segala hal mulai dari memilih proyek yang sesuai, mengerjakan suatu issue, hingga menggabungkan PR.
-- ["How to Contribute to Open Source Project by" Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - Mereka berfokus pada intisari kontribusi pull request (PR) ke proyek orang lain di GitHub.
-- ["How to get started with Open Source by" Sayan Chowdhury](https://www.hackerearth.com:443/getstarted-opensource/) - Artikel ini membahas sumber untuk berkontribusi ke Open Source bagi para pemula berdasarkan minat bahasa favorit mereka.
-- ["Browse good first issues to start contributing to open source"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) - GitHub sekarang dapat membantu Anda menemukan issue pertama yang baik untuk mulai berkontribusi ke Open Source.
-- ["How to Contribute to Open Source Project" by Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - Artikel komprehensif ini ditujukan untuk perusahaan (tetapi masih berguna untuk kontributor individu) yang membahas tentang mengapa, bagaimana, dan proyek Open Source apa yang dapat dikontribusi.
+- [Pull Request Roulette](http://www.pullrequestroulette.com/) - Situs ini memiliki daftar _pull request_ yang dikirim untuk ditinjau dari proyek _Open Source_ yang di-_host_ di Github.
+- ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - Panduan video bertahap tentang cara mulai berkontribusi pada proyek _Open Source_ di GitHub.
+- [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - Panduan tentang kontribusi _open source_ ini mencakup segala hal mulai dari memilih proyek yang sesuai, mengerjakan suatu _issue_, hingga menggabungkan PR.
+- ["How to Contribute to Open Source Project by" Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - Mereka berfokus pada intisari kontribusi _pull request_ (PR) ke proyek orang lain di GitHub.
+- ["How to get started with Open Source by" Sayan Chowdhury](https://www.hackerearth.com:443/getstarted-opensource/) - Artikel ini membahas sumber untuk berkontribusi ke _Open Source_ bagi para pemula berdasarkan minat bahasa favorit mereka.
+- ["Browse good first issues to start contributing to open source"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) - GitHub sekarang dapat membantu Anda menemukan _issue_ pertama yang baik untuk mulai berkontribusi ke _Open Source_.
+- ["How to Contribute to Open Source Project" by Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - Artikel komprehensif ini ditujukan untuk perusahaan (tetapi masih berguna untuk kontributor individu) yang membahas tentang mengapa, bagaimana, dan proyek _Open Source_ apa yang dapat dikontribusi.
 - ["start-here-guidelines" by Andrei](https://github.com/zero-to-mastery/start-here-guidelines) -
-  Mari mulai menggunakan Git dalam dunia Open Source, mulai dari Opensource Playground. Dirancang khusus untuk tujuan edukasi and pengalaman praktis.
+  Mari mulai menggunakan Git dalam dunia _Open Source_, mulai dari Opensource Playground. Dirancang khusus untuk tujuan edukasi and pengalaman praktis.
 
 ## Pencarian GitHub secara Langsung
 
-Link pencarian yang mengarah langsung ke issue yang sesuai untuk berkontribusi di GitHub.
+Link pencarian yang mengarah langsung ke _issue_ yang sesuai untuk berkontribusi di GitHub.
 
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
@@ -79,12 +79,12 @@ Link pencarian yang mengarah langsung ke issue yang sesuai untuk berkontribusi d
 
 ## Ekosistem Kontributor Mozilla
 
-- [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - bug yang telah diidentifikasi oleh para developer sebagai pengantar yang baik untuk proyek yang telah ditujukan.
-- [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bug dengan mentor yang akan ada di IRC untuk membantu Anda ketika Anda mengalami kebuntuan saat mengerjakan perbaikan.
-- [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - situs halaman yang didedikasikan untuk mencari bug di Bugzilla.
-- [Firefox DevTools](http://firefox-dev.tools/) - situs yang didedikasikan untuk bug yang diajukan untuk alat developer di browser Firefox.
+- [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - _bug_ yang telah diidentifikasi oleh para developer sebagai pengantar yang baik untuk proyek yang telah ditujukan.
+- [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - _bug_ dengan mentor yang akan ada di IRC untuk membantu Anda ketika Anda mengalami kebuntuan saat mengerjakan perbaikan.
+- [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - situs halaman yang didedikasikan untuk mencari _bug_ di Bugzilla.
+- [Firefox DevTools](http://firefox-dev.tools/) - situs yang didedikasikan untuk _bug_ yang diajukan untuk alat developer di _browser_ Firefox.
 - [What Can I Do For Mozilla](https://whatcanidoformozilla.org/) - cari tahu apa yang dapat Anda kerjakan dengan menjawab banyak pertanyaan tentang keahlian dan minat Anda.
-- [Start Mozilla](https://twitter.com/StartMozilla) - akun Twitter yang meng-tweet tentang berbagai issue yang cocok bagi kontributor baru di ekosistem Mozilla.
+- [Start Mozilla](https://twitter.com/StartMozilla) - akun Twitter yang meng-_tweet_ tentang berbagai _issue_ yang cocok bagi kontributor baru di ekosistem Mozilla.
 
 ## Artikel Berguna untuk Kontributor Open Source Pemula
 
@@ -109,39 +109,39 @@ Link pencarian yang mengarah langsung ke issue yang sesuai untuk berkontribusi d
 ## Menggunakan Kendali Versi
 
 - [Think Like (a) Git](http://think-like-a-git.net/) - Pengantar Git untuk para "pemula tingkat lanjut", tetapi masih kesulitan, bacaan ini dapat memberi Anda strategi sederhana untuk bereksperimen dengan aman mengunakan git.
-- [Try Git](https://try.github.io/) - Belajar Git dalam 15 menit dari Browser secara gratis.
+- [Try Git](https://try.github.io/) - Belajar Git dalam 15 menit dari _Browser_ secara gratis.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Kumpulan perintah yang berguna untuk pemakaian Git dalam sehari-hari.
 - [Oh shit, git!](https://ohshitgit.com/) - bagaimana cara menghindari kesalahan umum saat mengunakan `git` dideskripsikan dalam Bahasa Inggris; juga baca [Dangit, git!](https://dangitgit.com/) untuk situs halaman tanpa kata kasar.
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) - bermacam-macam tutorial tentang cara mengunakan `git`.
 - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
 - [freeCodeCamp's Wiki on Git Resources](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
-- [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - percakapan GitHub tentang cara membuat sebuah pull request.
+- [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - percakapan GitHub tentang cara membuat sebuah _pull request_.
 - [GitHub Learning Resources](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/git-and-github-learning-resources) - Sumber pembelajaran Git dan GitHub.
 - [Pro Git](https://git-scm.com/book/en/v2) - Sejilid buku Pro Git lengkap, ditulis oleh Scott Chacon dan Ben Straub dan dipubliskasikan oleh Apress.
-- [Git-it](https://github.com/jlord/git-it-electron) - Applikasi Desktop untuk tutorial bertahap mempelajari Git.
+- [Git-it](https://github.com/jlord/git-it-electron) - Aplikasi Desktop untuk tutorial bertahap mempelajari Git.
 - [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - Panduan tentang apa yang harus dilakukan saat terjadi kesalahan.
-- [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - Panduan lengkap berupa slides tentang git dan GitHub dijelaskan dalam bahasa Spanyol. Una guía completa de diapositivas sobre git y GitHub explicadas en Español.
-- [Git Kraken](https://www.gitkraken.com/git-client) - Applikasi desktop `git` yang visual, lintas platform, dan interaktif untuk kendali versi.
+- [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - Panduan lengkap berupa _slides_ tentang git dan GitHub dijelaskan dalam bahasa Spanyol.
+- [Git Kraken](https://www.gitkraken.com/git-client) - Aplikasi desktop `git` yang visual, lintas _platform_, dan interaktif untuk kendali versi.
 - [Git Tips](https://github.com/git-tips/tips) - Kumpulan tips dan trik git yang paling sering digunakan.
-- [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - Sering meng-commit, Sempurnakan Nanti, Publikasikan Sekali: Praktik Terbaik Mengunakan Git.
+- [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - Sering meng-_commit_, Sempurnakan Nanti, Publikasikan Sekali: Praktik Terbaik Mengunakan Git.
 - [Git Interactive Tutorial](https://learngitbranching.js.org/) - Pelajari Git dengan cara yang paling visual dan interaktif.
 
 ## Buku-buku tentang Open Source
 
-- [Producing Open Source Software](https://producingoss.com/) - Producing Open Source Software adalah sebuah buku tentang sisi manusia dari pengembangan Open Source. Buku ini menjelaskan bagaimana proyek yang sukses beroperasi, ekspektasi pengguna dan para developers, dan budaya perangkat lunak gratis.
-- [Open Source Book Series](https://opensource.com/resources/ebooks) - Pelajari lebih lanjut tentang Open Source dan gerakan Open Source yang bertumbuh dengan daftar lengkap eBook gratis dari https://opensource.com.
-- [Software Release Practice HOWTO](https://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - HOWTO ini menjelaskan praktik rilis yang baik untuk Linux dan proyek Open Source lainnya. Dengan mengikuti praktik ini, Anda akan membuatnya semudah mungkin bagi pengguna untuk mem-built kode Anda dan menggunakannya, dan bagi pengembang lain untuk memahami kode Anda dan bekerja sama dengan Anda untuk memperbaikinya.
+- [Producing Open Source Software](https://producingoss.com/) - Producing Open Source Software adalah sebuah buku tentang sisi manusia dari pengembangan _Open Source_. Buku ini menjelaskan bagaimana proyek yang sukses beroperasi, ekspektasi pengguna dan para developers, dan budaya perangkat lunak gratis.
+- [Open Source Book Series](https://opensource.com/resources/ebooks) - Pelajari lebih lanjut tentang _Open Source_ dan gerakan _Open Source_ yang bertumbuh dengan daftar lengkap eBook gratis dari https://opensource.com.
+- [Software Release Practice HOWTO](https://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - HOWTO ini menjelaskan praktik rilis yang baik untuk Linux dan proyek _Open Source_ lainnya. Dengan mengikuti praktik ini, Anda akan membuatnya semudah mungkin bagi pengguna untuk mem-_built_ kode Anda dan menggunakannya, dan bagi pengembang lain untuk memahami kode Anda dan bekerja sama dengan Anda untuk memperbaikinya.
 - [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 adalah kumpulan esai berwawasan dan menggugah pemikiran dari para pemimpin teknologi saat ini yang terus melukiskan gambaran evolusi yang dikembangkan dalam buku 1999, Open Sources: Voices from the Revolution.
 - [The Architecture of Open Source Applications](http://www.aosabook.org/en/git.html) - Menunjukkan bagaimana berbagai aspek Git bekerja di balik layar untuk mengaktifkan alur kerja terdistribusi, dan perbedaannya dari sistem kendali versi lain (VCSs).
-- [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - Esai yang ditulis oleh pelopor Open Source seperti Linus Torvalds (Linux), Larry Wall (Perl), and Richard Stallman (GNU).
+- [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - Esai yang ditulis oleh pelopor _Open Source_ seperti Linus Torvalds (Linux), Larry Wall (Perl), and Richard Stallman (GNU).
 
 ## Inisiatif untuk Kontribusi Open Source
 
-- [Up For Grabs](https://up-for-grabs.net/) - Berisi proyek dengan issue ramah untuk pemula.
-- [First Timers Only](https://www.firsttimersonly.com/) - Sekumpulan bug yang berlabel "first-timers-only".
-- [First Contributions](https://firstcontributions.github.io/) - Membuat kontribusi Open Source pertama dalam 5 menit. Sebuah alat dan tutorial yang membantu para pemula untuk mulai berkontribusi. [Berikut](https://github.com/firstcontributions/first-contributions) adalah source code GitHub untuk situs tersebut dan kesempatan untuk memberikan kontribusi ke repositori itu sendiri.
-- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Sebuah program yang mendorong kontribusi Open Source. Dapatkan hadiah seperti kaos dan stiker dengan membuat setidaknya 4 pull request di bulan Oktober.
-- [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests adalah sebuah proyek untuk mempromosikan kolaborasi Open Source menjelang bulan Desember.
+- [Up For Grabs](https://up-for-grabs.net/) - Berisi proyek dengan _issue_ ramah untuk pemula.
+- [First Timers Only](https://www.firsttimersonly.com/) - Sekumpulan _bug_ yang berlabel "first-timers-only".
+- [First Contributions](https://firstcontributions.github.io/) - Membuat kontribusi _Open Source_ pertama dalam 5 menit. Sebuah alat dan tutorial yang membantu para pemula untuk mulai berkontribusi. [Berikut](https://github.com/firstcontributions/first-contributions) adalah _source code_ GitHub untuk situs tersebut dan kesempatan untuk memberikan kontribusi ke repositori itu sendiri.
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Sebuah program yang mendorong kontribusi _Open Source_. Dapatkan hadiah seperti kaos dan stiker dengan membuat setidaknya 4 _pull request_ di bulan Oktober.
+- [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests adalah sebuah proyek untuk mempromosikan kolaborasi _Open Source_ menjelang bulan Desember.
 
 ## Lisensi
 
