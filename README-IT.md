@@ -17,7 +17,8 @@
         <td><a href="./README-KO.md"> 한국어 </a></td>
     </tr>
 </table>
-# Benvenuti contributori principianti all'open source!
+
+# Benvenuti contributori principianti all'open source!  
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
@@ -30,14 +31,15 @@ Se trovi risorse aggiuntive, si prega di contribuire con una richiesta di pull.
 Se hai domande o commenti, crea un problema/issue.
 
 **Sommario**
-- [Contribuire all'open source in generale](#contribuire-allopen-source-in-generale)
-- [Ricerche GitHub dirette](#ricerche-github-dirette)
-- [L'ecosistema del contributore di Mozilla](#lecosistema-del-contributore-di-mozilla)
-- [Articoli utili per i nuovi contributori all'open source](#articoli-utili-per-i-nuovi-contributori-allopen-source)
-- [L'uso della versione di controllo/version control](#luso-della-versione-di-controlloversion-control)
-- [Libri sull'Open Source](#libri-sullopen-source)
-- [Iniziative per contribuire all'Open Source](#iniziative-open-source)
-- [Licenza](#licenza)
+- [Benvenuti contributori principianti all'open source!](#benvenuti-contributori-principianti-allopen-source)
+  - [Contribuire all'open source in generale](#contribuire-allopen-source-in-generale)
+  - [Ricerche GitHub dirette](#ricerche-github-dirette)
+  - [L'ecosistema del contributore di Mozilla](#lecosistema-del-contributore-di-mozilla)
+  - [Articoli utili per i nuovi contributori all'open source](#articoli-utili-per-i-nuovi-contributori-allopen-source)
+  - [L'uso della versione di controllo/version control](#luso-della-versione-di-controlloversion-control)
+  - [Libri sull'Open Source](#libri-sullopen-source)
+  - [Iniziative per contribuire all'Open Source](#iniziative-per-contribuire-allopen-source)
+  - [Licenza](#licenza)
 
 ## Contribuire all'open source in generale
 - [Un'introduzione all'open source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorial di DigitalOcean per guidarti nel tuo modo di contribuire con successo qui su GitHub.
