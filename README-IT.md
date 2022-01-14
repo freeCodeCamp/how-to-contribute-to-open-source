@@ -24,11 +24,11 @@
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 [![Build Status](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
 
-Questa è una lista di risorse per le persone che sono nuove a contribuire all'open source.
+Questa è una lista di risorse per le persone che sono nuove a contribuire all'open source.  
 
-Se trovi risorse aggiuntive, si prega di contribuire con una richiesta di pull.
+Se trovi risorse aggiuntive, si prega di contribuire con una pull request.  
 
-Se hai domande o commenti, crea un problema/issue.
+Se hai domande o commenti, crea una issue.  
 
 **Sommario**
 - [Benvenuti contributori principianti all'open source!](#benvenuti-contributori-principianti-allopen-source)
@@ -36,19 +36,19 @@ Se hai domande o commenti, crea un problema/issue.
   - [Ricerche GitHub dirette](#ricerche-github-dirette)
   - [L'ecosistema del contributore di Mozilla](#lecosistema-del-contributore-di-mozilla)
   - [Articoli utili per i nuovi contributori all'open source](#articoli-utili-per-i-nuovi-contributori-allopen-source)
-  - [L'uso della versione di controllo/version control](#luso-della-versione-di-controlloversion-control)
+  - [L'uso del controllo di versione/version control](#luso-del-controllo-di-versioneversion-control)
   - [Libri sull'Open Source](#libri-sullopen-source)
   - [Iniziative per contribuire all'Open Source](#iniziative-per-contribuire-allopen-source)
   - [Licenza](#licenza)
 
 ## Contribuire all'open source in generale
 - [Un'introduzione all'open source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorial di DigitalOcean per guidarti nel tuo modo di contribuire con successo qui su GitHub.
-- [In palio](http://up-for-grabs.net/#/) - un elenco di progetti con problemi per i principianti.
-- [Issuehub.io](http://issuehub.pro/) - uno strumento per cercare i problemi di GitHub per etichetta e lingua.
-- [Code Triage](https://www.codetriage.com/) - un altro, davvero bello, strumento per trovare depositi di code/repositories e problemi popolari filtrati per lingua.
-- [Solo per i principianti](http://www.firsttimersonly.com/) - un elenco di bug/errore di codice etichettati come "first-timer-only(Solo per i principianti)".
+- [In palio](http://up-for-grabs.net/#/) - un elenco di progetti con issue per principianti.
+- [Issuehub.io](http://issuehub.pro/) - uno strumento per cercare issue di GitHub per etichetta e lingua.
+- [Code Triage](https://www.codetriage.com/) - un altro, davvero bello, strumento per trovare repository di codice e issue popolari filtrate per lingua.
+- [Solo per i principianti](http://www.firsttimersonly.com/) - un elenco di bug/errori di codice etichettati come "first-timer-only(Solo per i principianti)".
 - [La tua prima richiesta di aggiunta (Pull Request)](https://twitter.com/yourfirstpr) - problemi di avviamento su GitHub che possono essere facilmente affrontati dai nuovi contributori.
-- [Awesome-for-beginners(Meraviglioso-per-principianti)](https://github.com/MunGell/awesome-for-beginners) - un deposito/repository GitHub che raccoglie progetti con buoni bug/errori per i nuovi contributori e applica etichette per descriverli.
+- [Awesome-for-beginners(Meraviglioso-per-principianti)](https://github.com/MunGell/awesome-for-beginners) - un repository GitHub che raccoglie progetti con buoni bug/errori per i nuovi contributori e applica etichette per descriverli.
 - [Guide per l'Open Source Guides](https://opensource.guide/) - Raccolta di risorse per individui, comunità e aziende che desiderano imparare come eseguire e contribuire a un progetto open source.
 - [45 Github problemi i Pro e i Contro](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Cosa fare e cosa non fare su GitHub.
 - [Guide GitHub](https://guides.github.com/) - guide di base su come utilizzare GitHub in modo efficace.
@@ -89,7 +89,7 @@ Se hai domande o commenti, crea un problema/issue.
 - ["Come rendere il tuo primo contributo open source in soli 5 minuti"](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) di [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
 - ["Hacktoberfest 2018: Come puoi ottenere la tua maglietta gratis — anche se sei nuovo nella codifica/programazione"](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) di [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
 
-## L'uso della versione di controllo/version control
+## L'uso del controllo di versione/version control
 - [Pensa come (un) Git (stupido)](http://think-like-a-git.net/) - L'Introduzione a Git per i "principianti avanzati", ma hanno ancora difficoltà, al fine di darti una semplice strategia per sperimentare in sicurezza con git.
 - [Prova Git](https://try.github.io/) - Impara Git in 15 minuti dal tuo browser gratuitamente.
 - [Ogni giorno Git](https://git-scm.com/docs/giteveryday) - Un utile set minimo di comandi per Git da usare ogni giorno.
@@ -97,7 +97,7 @@ Se hai domande o commenti, crea un problema/issue.
 - [Atlassian Git Tutoriali](https://www.atlassian.com/git/tutorials/) - vari tutorial sull'uso di `git`.
 - [foglietto di imbroglio  di GitHub Git](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
 - [Wiki di freeCodeCamp sulle risorse di Git](https://www.freecodecamp.org/forum/t/wiki-git-resources/13136)
-- [Il flusso di GitHub](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - GitHub parla di come effettuare una richiesta di pull.
+- [Il flusso di GitHub](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - GitHub parla di come effettuare una richiesta di pull/pull request.
 - [Risorse per l'apprendimento di GitHub](https://help.github.com/articles/git-and-github-learning-resources/) - Risorse per l'apprendimento di Git e GitHub.
 - [Pro Git](https://git-scm.com/book/en/v2) - L'intero libro di Pro Git, scritto da Scott Chacon e Ben Straub e pubblicato da Apress.
 - [Git-it](https://github.com/jlord/git-it-electron) - Tutorial Git desktop app passo per passo.
