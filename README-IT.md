@@ -31,15 +31,14 @@ Se trovi risorse aggiuntive, si prega di contribuire con una pull request.
 Se hai domande o commenti, crea una issue.  
 
 **Sommario**
-- [Benvenuti contributori principianti all'open source!](#benvenuti-contributori-principianti-allopen-source)
-  - [Contribuire all'open source in generale](#contribuire-allopen-source-in-generale)
-  - [Ricerche GitHub dirette](#ricerche-github-dirette)
-  - [L'ecosistema del contributore di Mozilla](#lecosistema-del-contributore-di-mozilla)
-  - [Articoli utili per i nuovi contributori all'open source](#articoli-utili-per-i-nuovi-contributori-allopen-source)
-  - [L'uso del controllo di versione/version control](#luso-del-controllo-di-versioneversion-control)
-  - [Libri sull'Open Source](#libri-sullopen-source)
-  - [Iniziative per contribuire all'Open Source](#iniziative-per-contribuire-allopen-source)
-  - [Licenza](#licenza)
+- [Contribuire all'open source in generale](#contribuire-allopen-source-in-generale)
+- [Ricerche GitHub dirette](#ricerche-github-dirette)
+- [L'ecosistema del contributore di Mozilla](#lecosistema-del-contributore-di-mozilla)
+- [Articoli utili per i nuovi contributori all'open source](#articoli-utili-per-i-nuovi-contributori-allopen-source)
+- [L'uso del controllo di versione/version control](#luso-del-controllo-di-versioneversion-control)
+- [Libri sull'Open Source](#libri-sullopen-source)
+- [Iniziative per contribuire all'Open Source](#iniziative-per-contribuire-allopen-source)
+- [Licenza](#licenza)
 
 ## Contribuire all'open source in generale
 - [Un'introduzione all'open source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorial di DigitalOcean per guidarti nel tuo modo di contribuire con successo qui su GitHub.
