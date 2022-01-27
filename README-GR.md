@@ -87,7 +87,7 @@
 - [Πρώτο βήμα: Σελίδα με άτομα που συνεισφέρουν (contributors page)](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
 - [Πως να συνεισφέρεις σε Ανοικτό Κώδικα για πρώτη φορά, σε μόλις 5 λεπτά](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) by [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
 - [Hacktoberfest 2018: Πως μπορείς να πάρεις το δωρεάν μπλουζάκι - ακόμα κι αν είσαι νέος στο προγραμματισμό](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) by [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
-- [Ένας πικρόχολος οδηγός στον Ανοικτό Κώδικα](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
+- [Ένας οδηγός στον Ανοικτό Κώδικα](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
 - [Οδηγός βήμα-προς-βήμα πρώτης συνεισφοράς Ανοικτού Κώδικα για junior developers](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) by [@LetaKeane](http://www.letakeane.com/)
 - [Μάθε βήμα-προς-βήμα το Git και το GitHub (σε Windows)](https://medium.com/@ows_ali/be93518e06dc) by [@ows-ali](https://medium.com/@ows_ali)
 
