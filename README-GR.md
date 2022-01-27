@@ -22,7 +22,7 @@
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
-[![Build Status](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
+[![Build Status](https://travis-ci.org - /freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
 
 Αυτή είνα μία λίστα με υλικό για αρχάριους στη συνεισφορά Ανοικτού Κώδικα.
 
@@ -37,17 +37,17 @@
 - [Χρήσιμα άρθρα για αρχάριους στη συνεισφορά Ανοικτού Κώδικα](#useful-articles-for-new-open-source-contributors)
 - [Χρήση Version Control](#using-version-control)
 - [Βιβλία σχετικά με Ανοικτό κώδικα](#open-source-books)
-- [Open Source contribution initiatives](#open-source-contribution-initiatives)
+- [Πρωτοβουλίες στη συνεισφορά Ανοιχτού Κώδικα](#open-source-contribution-initiatives)
 - [Άδεια χρήσης](#license)
 
 ## Γενικά για τη συνεισφορά Ανοικτού Κώδικα
-- [The Definitive Guide to Contributing to Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
+- [The Definitive Guide to Contributing to Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG) - Ο πλήρης οδηγός για τη συνεισφορά Ανοιχτού Κώδικα από τον [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [Εισαγωγή στον Ανοικτό Κώδικα](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Μαθήματα από την DigitalOcean για συνεισφορά Ανοικτού Κώδικα με επιτυχία, στο GitHub.
-- [Issuehub.io](http://issuehub.pro/) - Ένα εργαλείο που επιτρέπει την αναζήτηση των issues του GitHub για συγκεκριμένες ετικέτες (labels) και γλώσσες προγραμματισμού.
+- [Issuehub.io](http://issuehub.pro/) - Ένα εργαλείο που επιτρέπει την αναζήτηση των ιssues του GitHub για συγκεκριμένες ετικέτες (labels) και γλώσσες προγραμματισμού.
 - [Code Triage](https://www.codetriage.com/) - Άλλο ένα, πολύ καλό, εργαλείο για να βρίσκουμε δημοφιλή repositories και issues διαχωρισμένα ώς προς την γλώσσα προγραμματισμού.
-- [Φοβερό-για-αρχάριους](https://github.com/MunGell/awesome-for-beginners) - Ένα GitHub repository που συγκεντρώνει projects με bugs εύκολα για αρχάριους, εφαρμόζωντας ετικέτες (labels) για να τα περιγράψει.
+- [awesome-for-beginners (τέλειο-για-αρχαρίους)](https://github.com/MunGell/awesome-for-beginners) - Ένα GitHub repository που συγκεντρώνει projects με bugs εύκολα για αρχάριους, εφαρμόζωντας ετικέτες (labels) για να τα περιγράψει.
 - [Οδηγοί για τον Ανοικτό Κώδικα](https://opensource.guide/) - Συλλογή από υλικό για άτομα, κοινότητες και εταιρίες που θέλουν να μάθουν πως να τρέξουν και να συνεισφέρουν σε ένα project Ανοικτού Κώδικα.
-- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Do's and Don'ts on GitHub.
+- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - 45 πράγματα που πρέπει ή δεν πρέπει να κάνετε στα GitHub Issues.
 - [Οδηγοί GitHub](https://guides.github.com/) - Βασικοί οδηγοί για την αποτελεσματική χρήση του GitHub.
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Μάθε τη ροή που πρέπει να ακολουθείται στο GitHub, μέσω της συνεισφοράς κώδικα σε ένα project προσομείωσης.
 - [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Οι οδηγοί του Linux Foundation για τα project Ανοικτού Κώδικα.
@@ -83,7 +83,7 @@
 - [Μπαίνοντας στον κόσμο του Ανοικτού Κώδικα για πρώτη φορά](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [Πως να συνεισφέρεις σε Ανοικτό Κώδικα](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
 - [Πως να βρεις bugs στον κώδικα σου](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
-- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) by [@GitHubGuides](https://guides.github.com/)
+- [Μάθε καλά Markdown](https://guides.github.com/features/mastering-markdown/) by [@GitHubGuides](https://guides.github.com/)
 - [Πρώτο βήμα: Σελίδα με άτομα που συνεισφέρουν (contributors page)](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
 - [Πως να συνεισφέρεις σε Ανοικτό Κώδικα για πρώτη φορά, σε μόλις 5 λεπτά](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) by [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
 - [Hacktoberfest 2018: Πως μπορείς να πάρεις το δωρεάν μπλουζάκι - ακόμα κι αν είσαι νέος στο προγραμματισμό](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) by [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
@@ -104,7 +104,7 @@
 - [Pro Git](https://git-scm.com/book/en/v2) - Ολόκληρο το βιβλίο "Pro Git", γραμμένο από τον Scott Chacon και τον Ben Straub που δημοσιεύθηκε από την Apress.
 - [Git-it](https://github.com/jlord/git-it-electron) - Βήμα-προς-βήμα οδηγός για τη Git desktop εφαρμογή.
 - [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - Ένας οδηγός σχετικά με το τι κάνω όταν τα πράγματα πάνε στραβά.
-- [A Comprehensive Introduction To Git and GitHub](https://codeburst.io/git-good-part-a-e0d826286a2a) - Ένας οδηγός γραμμένος από τον Madhav Bahl, που πρέπει να δεις αν είσαι νέος στο Git ή στο GitHub. Καλύπτει, με λεπτομέρειες, το GitHub σαν υπηρεσία και έννοιες του Git version control.
+- [A Comprehensive Introduction To Git and GitHub](https://codeburst.io/git-good-part-a-e0d826286a2a) - Ένας  οδηγός γραμμένος από τον Madhav Bahl, που πρέπει να δεις αν είσαι νέος στο Git ή στο GitHub. Καλύπτει, με λεπτομέρειες, το GitHub σαν υπηρεσία και έννοιες του Git version control.
 - [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - Ένας πλήρης οδηγός, στα Ισπανικά, με διαφάνειες σχετικές με το git και το GitHub.
 - [Git Kraken](https://www.gitkraken.com/git-client) - Visual, cross-platform, και διαδραστική `git` desktop εφαρμογή για version control.
 
