@@ -1,22 +1,28 @@
-<table>
-    <tr>
-        <!-- Do not translate this table -->
-        <td><a href="./README.md"> English </a></td>
-        <td><a href="./README-MR.md"> मराठी </a></td>
-        <td><a href="./README-BN.md"> বাংলা </a></td>
-        <td><a href="./README-CN.md"> 中文 </a></td>
-        <td><a href="./README-RU.md"> русский </a></td>
-        <td><a href="./README-RO.md"> Românesc </a></td>
-        <td><a href="./README-IT.md"> Italiano </a></td>
-        <td><a href="./README-ES.md"> Español </a></td>
-        <td><a href="./README-pt-BR.md"> Português (BR) </a></td>
-        <td><a href="./README-DE.md"> Deutsch </a></td>
-        <td><a href="./README-GR.md"> Ελληνικά </a></td>
-        <td><a href="./README-FR.md"> Français </a></td>
+<!-- Do not translate this -->
+<details>
+<summary>
+<strong> Read this guide in other languages </strong>
+</summary>
+    <ul>
+        <li><a href="./README.md"> English </a></li>
+        <li><a href="./README-MR.md"> मराठी </a></li>
+        <li><a href="./README-BN.md"> বাংলা </a></li>
+        <li><a href="./README-CN.md"> 中文 </a></li>
+        <li><a href="./README-RU.md"> русский </a></li>
+        <li><a href="./README-RO.md"> Românesc </a></li>
+        <li><a href="./README-IT.md"> Italiano </a></li>
+        <li><a href="./README-ES.md"> Español </a></li>
+        <li><a href="./README-pt-BR.md"> Português (BR) </a></li>
+        <li><a href="./README-DE.md"> Deutsch </a></li>
+        <li><a href="./README-GR.md"> Ελληνικά </a></li>
+        <li><a href="./README-FR.md"> Français </a></li>
         <td><a href="./README-TR.md"> Turkish </a></td>
-        <td><a href="./README-KO.md"> 한국어 </a></td>
-    </tr>
-</table>
+        <li><a href="./README-KO.md"> 한국어 </a></li>
+        <li><a href="./README-JA.md"> 日本語 </a></li>
+        <li><a href="./README-HI.md"> हिंदी </a></li>
+    </ul>
+</details>
+<!-- Do not translate this -->
 
 # Merhaba, Yeni Başlamış Açık Kaynak Katkı Sağlayıcıları!
 
@@ -104,8 +110,16 @@ Direkt olarak uygun issuelara referans veren katkı sağlanabilecek arama bağla
 - [5 Dakika İçerisinde Açık Kaynağa Nasıl Katkı Sağlarsın](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) yazan [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
 - [Hacktoberfest 2018: Nasıl ücretsiz t-shirt alırsın — Kodlama Yeni Olsan Dahi](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) yazan [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
 - [Açık Kaynak için Acı Kılavuz](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) yazan [@ken_wheeler](https://medium.com/@ken_wheeler)
-- [Yeni Developerlar İçin Adım Adım İlk Defa Açık Kaynağa Katkı Sağlama Kılavuzu](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) yazan [@LetaKeane](http://www.letakeane.com/)
+- [Yeni Geliştiriciler için Adım Adım İlk Defa Açık Kaynağa Katkı Sağlama Kılavuzu](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) yazan [@LetaKeane](http://www.letakeane.com/)
 - [Windows üzerinde Adım Adım Git ve GitHub Öğren)](https://medium.com/@ows_ali/be93518e06dc) yazan [@ows-ali](https://medium.com/@ows_ali)
+- [Neden Açık Kaynak ve Nasıl?](https://careerkarma.com/blog/open-source-projects-for-beginners/) by [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
+- [Açık Kaynağı kullanmaya nasıl başlanır? - By Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/)
+- [Hangi Açık Kaynağa Katkıda Bulunmalıyım?](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) by [@kentcdodds](https://github.com/kentcdodds)
+- [Açık Kaynak için Sürükleyici bir Giriş Klavuzu](https://developeraspire.hashnode.dev/an-immersive-introductory-guide-to-open-source) by [Franklin Okolie](https://twitter.com/DeveloperAspire)
+- [Açık Kaynağa Katkıda bulunmaya Başlamak](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/) by [Zara Cooper](https://stackoverflow.blog/author/zara-cooper/)
+- [Yeni başlayanlar için Açık Kaynağa katkıda bulunmak](https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj) by [Sudipto Ghosh](https://github.com/pydevsg)
+- [Açık Kaynağa Kod Yazmadan Katkıda Bulunmanın 8 Yolu](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code) by [OpenSource](https://twitter.com/OpenSourceWay)
+- [Açık Kaynaklı Yazılım Nedir? AKY(OSS) Sade Anlatım](https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/) by [Jessica Wilkins](https://www.freecodecamp.org/news/author/jessica-wilkins/)
 
 ## Versiyon Kontrol Kullanmak
 - [Git Gibi Düşünmek](http://think-like-a-git.net/) - İleri Seviye Yeni Başlayan olup bazı noktalarda zorlananlar için güvenli bir deneyim sağlamaları için basit stratejiler veren Git Tanıtımı
@@ -122,13 +136,19 @@ Direkt olarak uygun issuelara referans veren katkı sağlanabilecek arama bağla
 - [Git için Uçuş Kuralları](https://github.com/k88hudson/git-flight-rules) - İşler sarpa sardığında ne yapılması gerektiği ile ilgili kılavuz.
 - [Git and GitHub hakkında kapsamlı bir tanıtım](https://codeburst.io/git-good-part-a-e0d826286a2a) - Madhav Bahl tarafından yazılmış ki git ve GitHub'da yeniyseniz mutlaka görmelisiniz, Git Versiyon Kontrolünü detaylı olarak anlatan bir tanıtım.
 - [Başlangıç Seviyesi için İspanyolca Git Kılavuzu](https://platzi.github.io/git-slides/#/)git ve GitHub hakkında İspanyolca açıklanmış eksiksiz kılavuz slaytı. Una guía completa de diapositivas sobre git y GitHub explicadas en Español.
-- [Git Kraken](https://www.gitkraken.com/git-client) - Versiyon Kontrol için görsel, çapraz platform uyumlu ve interaktif git masaüstü uygulaması
+- [Git Kraken](https://www.gitkraken.com/git-client) - Versiyon Kontrol için görsel, çapraz platform uyumlu ve interaktif git masaüstü uygulaması.
+- [Git Tips](https://github.com/git-tips/tips) - En sık kullanılan git ipuçları ve püf noktaları.
+- [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - Sıklıkla commit oluşturun, Mükemmeleştirin, bir seferde Yayımlayın: En iyi git Pratikleri.
+- [Git Interactive Tutorial](https://learngitbranching.js.org/) - Git’i görsel içeriklerle ve interaktif bir şekilde öğrenin.
+- [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics) (1:12:39) - Tam bir Git ve GitHub Eğitimi by [Kunal Kushwaha](https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw).
 
 ## Açık Kaynak kitaplar
 - [Açık Kaynak Proje Üretmek](http://producingoss.com/) - "Producing Open Source Software"  kitabı Açık Kaynak Geliştirmenin İnsan tarafı hakkında bir kitaptır. Ücretsiz yazılım kültürünü, kullanıcı ve geliştiricilerden beklentileri ve başarı projelerin yönetimini anlatır. 
 - [Açık Kaynak Kitap Serisi](https://opensource.com/resources/ebooks) - Açık Kaynak ve büyüyen Açık Kaynak Hareketi hakkında hakkında daha fazla bilgiler öğrenebileceğiniz https://opensource.com sitesinden kapsamlı ücretsiz kitap listesi
 - [Yazılım Yayınlama Pratikleri: Nasıl Yapılır](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - Linux ve diğer Açık-Kaynak projeler için doğru yayınlama pratiklerini açıklar. Bu pratikleri takip ederek, kullanıcıların kodunuzu daha iyi derlemesini, kullanmasını ve diğer geliştiriclerin kodunuzu anlayarak sizin işbirliği içinde kodunuzu iyileştirmesini sağlayacaksınız.
 - [Açık Kaynak 2.0 : Süregelen Evrim](https://archive.org/details/opensources2.000diborich) (2005) - Açık Kaynak 2.0 Bugünün teknoloji liderlerinden, 1999 yılında yayınlanmış kitap olan "Açık Kaynak: Devrimden Sesler" kitabının, süregelen evrimsel resmini yüksek idrak kabiliyetiyle resmeden ve düşünmeye sevk edici kompozisyon dizisidir. 
+- [Açık Kaynaklı Uygulamalarının Mimarisi](http://www.aosabook.org/en/git.html) - Dağıtılmış iş akışlarını etkinleştirmek için Git’in çeşitli yönlerinin nasıl çalıştığını ve diğer sürüm kontrol sistemlerinden (VCS’ler) nasıl farklı olduğunu anlatır.
+- [Açık Kaynaklar: Açık Kaynak Devriminden Sesler](https://www.oreilly.com/openbook/opensources/book/) - Linus Torvalds (Linux), Larry Wall (Perl) ve Richard Stallman (GNU) gibi açık kaynak öncülerinden yazılar.
 
 ## Açık Kaynağa Katkı Sağlama Girişimleri
 - [Up For Grabs](http://up-for-grabs.net/#/) - Başlangıç seviyesi dostu issue'lar ile beraber projeleri içerir
@@ -136,6 +156,19 @@ Direkt olarak uygun issuelara referans veren katkı sağlanabilecek arama bağla
 - [İlk Katkılar](https://firstcontributions.github.io/) - 5 dakika içerisinde ilk Açık Kaynak Katkını yap. Katkı yapmaya başlamak için yardım eden araç ve ders 
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Açık Kaynağa Katkı sağlamayı teşvik eden bir program. Ay bazında en az 5 pull request yaparak t-shirt ve sticker gibi hediyeler kazan.
 - [24 Pull Requests](https://24pullrequests.com) - Aralık ayı boyunca Açık Kaynak işbirliğini destekleyen proje. 
+- [Ovio](https://ovio.org/) - Katılımcı dostu projeleri bir katalog olarak geliştiriciye sunan proje. [Güçlü bir sorun arama](https://ovio.org/issues) aracına sahiptir ve sorunları daha sonrası için kaydetmenize izin verir.
+- [Google Summer of Code](https://summerofcode.withgoogle.com/) - Google, daha fazla öğrenci geliştiriciyi açık kaynaklı yazılım geliştirmeye teşvik etmek için her yıl bu ücretli programı gerçekleştirir. 
+- [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) - Kadınlar ve ikilik dışı(ikili olmayan, nabinari, non-binary) yazılımcı bireyler için mevcut açık kaynaklı projeler üzerinde çalıştıkları ve becerilerini genişlettikleri küresel bir topluluk.
+- [Major League Hacking Fellowship](https://fellowship.mlh.io/) - Kalkınan teknoloji uzmanları için açık kaynaklı bir proje oluşturduğu veya katkı sağladığı için uzaktan bir staj alternatifi.
+
+## Katılabileceğiniz Açık kaynaklı programlar
+- [Google Summer of Code](https://summerofcode.withgoogle.com)
+- [FossAsia](https://fossasia.org)
+- [MLH Fellowship](https://fellowship.mlh.io)
+- [Outreachy](https://www.outreachy.org)
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com)
+- [CNCF](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
+- [Microsoft Reinforcement learning](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
 
 ## Lisans
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Lisans türü: <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
