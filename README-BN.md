@@ -104,7 +104,16 @@
 - [গিট এবং গিটহাব ধাপে ধাপে শিখুন (উইন্ডোজে)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) by [@ows-ali](https://medium.com/@ows_ali)
 - [কেন ওপেন সোর্স এবং কিভাবে?](https://careerkarma.com/blog/open-source-projects-for-beginners/) by [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
 - [ওপেন সোর্স দিয়ে কীভাবে শুরু করবেন - By Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/)
-- [কোন ওপেন সোর্সে আমার অবদান রাখা উচিৎ](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) by Kent C. Dodds
+- [কোন ওপেন সোর্সে আমার অবদান রাখা উচিৎ](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) by [@kentcdodds](https://github.com/kentcdodds)
+- [ওপেন সোর্সের জন্য একটি নিমজ্জিত পরিচায়ক নির্দেশিকা](https://developeraspire.hashnode.dev/an-immersive-introductory-guide-to-open-source) by [Franklin Okolie](https://twitter.com/DeveloperAspire)
+- [ওপেন সোর্সে অবদান রাখা শুরু করা](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/) by [Zara Cooper](https://stackoverflow.blog/author/zara-cooper/)
+- [ওপেন সোর্স অবদানের জন্য শিক্ষানবিস গাইড
+](https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj) by [Sudipto Ghosh](https://github.com/pydevsg)
+- [ওপেন সোর্সে অবদান রাখার ৮টি নন-কোড উপায়
+](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code) by [OpenSource](https://twitter.com/OpenSourceWay)
+- [ওপেন সোর্স সফটওয়্যার কি? ওএসএস প্লেইন ইংরেজিতে ব্যাখ্যা করা হয়েছে
+](https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/) by [Jessica Wilkins](https://www.freecodecamp.org/news/author/jessica-wilkins/)
+
 
 ## ভার্সন কন্ট্রোলের ব্যবহার
 - [Think Like (a) Git](http://think-like-a-git.net/) - গিটের সাথে নিরাপদে পরীক্ষা করার জন্য আপনাকে একটি সহজ কৌশল দেওয়ার জন্য "উন্নত সূচনাপ্রাপ্তদের" জন্য গিট-এর পরিচিতি।
@@ -124,6 +133,9 @@
 - [Git Tips](https://github.com/git-tips/tips) - সর্বাধিক ব্যবহৃত গিট টিপস এবং কৌশলগুলির সংগ্রহ।
 - [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - প্রায়শই কমিট করুন, পরে নিখুঁত করুন, একবার প্রকাশ করুন: গিট সম্পর্কিত সেরা অভ্যাস।
 - [Git Interactive Tutorial](https://learngitbranching.js.org/) - গিটকে সবচেয়ে ভিজ্যুয়াল এবং ইন্টারেক্টিভ উপায়ে শিখুন।
+- [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics) (1:12:39) - 
+[কুনাল কুশওয়াহা] (https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw)এর
+ সম্পূর্ণ গিট এবং গিটহাব ওয়াকথ্রু।
 
 ## ওপেন সোর্স বইসমূহ
 - [Producing Open Source Software](https://producingoss.com/) - ওপেন সোর্স সফ্টওয়্যার তৈরি করা এবং ওপেন সোর্স বিকাশের মানবিক দিক সম্পর্কে একটি বই। এটি সফল প্রকল্পগুলি কীভাবে পরিচালনা করে, ব্যবহারকারী এবং বিকাশকারীদের প্রত্যাশা এবং বিনামূল্যে সফ্টওয়্যার সংস্কৃতি বর্ণনা করে। 
