@@ -1,4 +1,4 @@
-<!-- Do not translate this -->
+﻿<!-- Do not translate this -->
 <details>
 <summary>
 <strong> অন্যান্য ভাষায় এই গাইডটি পড়ুন</strong>
@@ -140,6 +140,11 @@
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - ওপেন সোর্স অবদানকে উত্সাহিত করার জন্য একটি প্রোগ্রাম অক্টোবর মাসে কমপক্ষে ৪টি পুল রিকুয়েস্ট করে টি-শার্ট এবং স্টিকারের মতো উপহারগুলি উপার্জন করুন।
 - [24 Pull Requests](https://24pullrequests.com) - ২৪ পুল রিকুয়েস্ট ডিসেম্বরের মাসে ওপেন সোর্স সহযোগিতার প্রচারের জন্য একটি প্রকল্প।
 - [Ovio](https://ovio.org) - অবদানকারী-বান্ধব প্রকল্পগুলির একটি সংযুক্ত নির্বাচনসহ প্ল্যাটফর্ম। এটির একটি [শক্তিশালী সমস্যা অনুসন্ধানের সরঞ্জাম](https://ovio.org/issues) রয়েছে এবং এখানে আপনি পরবর্তী প্রকল্পগুলি এবং সমস্যাগুলি সংরক্ষণ করতে পারবেন।
+- [Google Summer of Code](https://summerofcode.withgoogle.com/) – 
+গুগল দ্বারা পরিচালিত একটি বার্ষিক অর্থ প্রদত্ত প্রোগ্রাম যা ওপেন-সোর্স সফ্টওয়্যার ডেভেলপমেন্টে আরও বেশি শিক্ষার্থী ডেভেলপার নিয়ে আসার উপর দৃষ্টি নিবদ্ধ করে।
+- [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) - মহিলাদের এবং নন-বাইনারী কোডারদের জন্য একটি বিশ্বব্যাপী ফেলোশিপ প্রোগ্রাম যেখানে তারা বিদ্যমান ওপেন-সোর্স প্রকল্পগুলিতে কাজ করে এবং তাদের দক্ষতা প্রসারিত করে।
+- [Major League Hacking Fellowship](https://fellowship.mlh.io/) - উচ্চাকাঙ্ক্ষী প্রযুক্তিবিদদের জন্য একটি বিকল্প রিমোট ইন্টার্নশিপ সুযোগ, যেখানে তারা ওপেন-সোর্স প্রকল্পগুলি তৈরি করে বা অবদান রাখে।
+
 
 ## লাইসেন্স
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />এই কাজটি <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>  এর অধীনে লাইসেন্স প্রাপ্ত।
