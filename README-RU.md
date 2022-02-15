@@ -79,30 +79,30 @@
 ## Полезные статьи для новых авторов с открытым исходным кодом
 - ["Как выбрать (и внести свой вклад) в свой первый проект с открытым исходным кодом"](https://github.com/collections/choosing-projects) от [@GitHub](https://github.com/github)
 - ["Как найти первую ошибку с открытым исходным кодом для исправления"](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) by [@Shubheksha](https://github.com/Shubheksha)
-- ["Только первые таймеры"](https://kentcdodds.com/blog/first-timers-only) OT [@kentcdodds](https://github.com/kentcdodds)
+- ["Только новички"](https://kentcdodds.com/blog/first-timers-only) OT [@kentcdodds](https://github.com/kentcdodds)
 - ["Принесите доброту в открытый исходный код"](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) by [@shanselman](https://github.com/shanselman)
 - ["Вступление в Open Source в первый раз"](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
 - ["Как внести вклад в открытый исходный код"](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
 - ["Как найти ошибку в коде"](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
 - ["Освоение Markdown"](https://guides.github.com/features/mastering-markdown/) by [@GitHubGuides](https://guides.github.com/)
-- ["Первая миссия: страница авторов"](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
+- ["Первая миссия: страница разработчиков"](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
 - ["Как сделать первый вклад с открытым исходным кодом всего за 5 минут"](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) by [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
-- ["Hacktoberfest 2018: Как вы можете получить свою бесплатную рубашку - даже если вы новичок в кодировании"](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) by [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
-- ["Руководство Bitter для открытого источника"](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
-- ["Пошаговое руководство младшего разработчика, чтобы вносить вклад в открытый исходный код в первый раз"](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) by [@LetaKeane](http://www.letakeane.com/)
+- ["Hacktoberfest 2018: Как можно получить бесплатную рубашку - даже если вы новичок"](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) by [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
+- ["Руководство Bitter по Open Source"](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
+- ["Пошаговое руководство junior разработчика, чтобы вносить вклад в открытый исходный код в первый раз"](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) by [@LetaKeane](http://www.letakeane.com/)
 
 ## Использование контроля версий
 - [Подумайте как (a) Git](http://think-like-a-git.net/) - Введение Git для «продвинутых новичков», но все еще борется, чтобы дать вам простую стратегию безопасного экспериментирования с git.
-- [Попробуйте Git](https://try.github.io/) - Узнайте Git за 15 минут в своем браузере бесплатно.
+- [Попробуйте Git](https://try.github.io/) - Бесплатно выучите Git за 15 минут через свой браузер.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Полезный минимальный набор команд для Everyday Git.
-- [О, дерьмо, гит!](http://ohshitgit.com/) - как выйти из обычных ошибок `git`, описанных на простом английском языке.
+- [Вот, дерьмо, гит!](http://ohshitgit.com/) - как выйти из обычных ошибок `git`, описанных на простом английском языке.
 - [Учебники Atlassian Git](https://www.atlassian.com/git/tutorials/) - различные руководства по использованию `git`.
 - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
-- [freeCodeCamp's Wiki для Git Resources]](https://www.freecodecamp.org/forum/t/wiki-git-resources/13136)
-- [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - GitHub расскажет о том, как сделать запрос на тяну.
+- [freeCodeCamp's Wiki для Git Resources](https://www.freecodecamp.org/forum/t/wiki-git-resources/13136)
+- [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - GitHub расскажет о том, как сделать pull request .
 - [Ресурсы обучения GitHub](https://help.github.com/articles/git-and-github-learning-resources/) - Ресурсы Git и GitHub.
-- [Pro Git](https://git-scm.com/book/en/v2) - Вся книга Pro Git, написанная Скоттом Чаконом и Бен Страубом и опубликованная Apress.
-- [Git-он](https://github.com/jlord/git-it-electron) - Пошаговое руководство для рабочего стола Git.
+- [Pro Git](https://git-scm.com/book/en/v2) - Вся книга Pro Git, написанная Scott Chacon и Ben Straub и опубликованная Apress.
+- [Git-он](https://github.com/jlord/git-it-electron) - Пошаговое руководство для работы с приложением для рабочего стола Git.
 - [Правила рейсов для Git](https://github.com/k88hudson/git-flight-rules) - Руководство о том, что делать, когда что-то идет не так.
 - [Всестороннее введение в Git и GitHub](https://codeburst.io/git-good-part-a-e0d826286a2a) - Руководство, написанное Madhav Bahl, которое вы должны увидеть, если вы новичок в Git или GitHub, оно подробно описывает GitHub как сервис и концепции управления версиями Git.
 - [Git Guide для начинающих на испанском языке](https://platzi.github.io/git-slides/#/) - Полное руководство по слайдам о git и GitHub объяснено на испанском языке. Una guía completa de diapositivas sobre git y GitHub explicadas en Español.
@@ -110,7 +110,7 @@
 ## Книги с открытым исходным кодом
 - [Создание программного обеспечения с открытым исходным кодом](http://producingoss.com/) - Создание программного обеспечения с открытым исходным кодом - это книга о человеческой стороне разработки с открытым исходным кодом. В нем описывается, как работают успешные проекты, ожидания пользователей и разработчиков, а также культура бесплатного программного обеспечения.
 - [Серия книг с открытым исходным кодом](https://opensource.com/resources/ebooks) - Learn more about open source and the growing open source movement with a comprehensive list of free eBooks from https://opensource.com.
-- [Практическое руководство по выпуску программного обеспечения HOWTO](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - Этот HOWTO описывает хорошие версии для Linux и других проектов с открытым исходным кодом. Следуя этим практикам, вы сделаете все возможное, чтобы пользователи могли создавать свой код и использовать его, а другим разработчикам понимать ваш код и сотрудничать с вами, чтобы улучшить его.
+- [Практическое руководство по выпуску программного обеспечения HOWTO](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - Этот HOWTO описывает хорошие версии для Linux и других проектов с открытым исходным кодом. Следуя этим практикам, вы сделаете все возможное, чтобы пользователи могли создавать свой код и использовать его, а другие разработчики могли понимать ваш код и сотрудничать с вами, чтобы улучшить его.
 - [Открытые источники 2.0: непрерывная эволюция](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 - это сборник проницательных и продуманных эссе современных лидеров технологий, которые продолжают рисовать эволюционную картину, которая была разработана в книге 1999 года «Открытые источники: голоса революции».
 
 ## Лицензия
