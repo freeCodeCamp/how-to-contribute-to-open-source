@@ -45,17 +45,17 @@
 - [SourceSort](https://www.sourcesort.com) - Коллекция проектов с открытым исходным кодом, нуждающихся в помощи, с возможностью поиска и такими метриками как уровень принятия первых PR и время отклика, которые могут сыграть решающую роль для новых участников.
 - [Issuehub.io](http://issuehub.pro/) - Инструмент поиска GitHub issues по ярлыку и языку программирования.
 - [Code Triage](https://www.codetriage.com/) - Еще один хороший инструмент для поиска популярных репозиториев и issues, отфильтрованных по языку программирования.
-- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - Репозиторий GitHub, который собирает проекты с хорошими багами для новичков и применяет ярлыки для их описания.
+- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - Репозиторий GitHub, который собирает проекты с хорошими багами для новичков и использует ярлыки для их описания.
 - [Подборка ресурсов open source](https://opensource.guide/) - Подборка ресурсов для людей, сообществ и компаний, которые хотят научиться вносить вклад в проекты с открытым исходным кодом.
 - [Как нужно и не нужно делать - 45 примеров](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Как нужно и не нужно делать на GitHub.
 - [Базовое руководство GitHub](https://guides.github.com/) - Базовое руководство о том, как эффективно использовать GitHub.
-- [Учавствовуйте в open source проектах](https://github.com/danthareja/contribute-to-open-source) - Осваивайте рабочий процесс GitHub, добавляя код в проект - симулятор.
+- [Участвуйте в open source проектах](https://github.com/danthareja/contribute-to-open-source) - Осваивайте рабочий процесс GitHub, добавляя код в проект-симулятор.
 - [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Руководство по открытому исходному коду от Linux Foundation для предприятий.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - Руководство по этикету в работе с открытым исходным кодом от Kent C. Dodds и Sarah Drasner.
 - [Ресурсы для студентов от А до Я](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Список ресурсов и возможностей для студентов по изучению нового языка программирования.
-- [Вклад в ваш первый проект с открытым исходным кодом: практический подход](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - Пошаговое руководство по тому, как сделать свой первый вклад в Open Source от [Abati Adewale](https://www.acekyd.com).
+- [Вклад в ваш первый проект с открытым исходным кодом: практический подход](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - Пошаговое руководство, как сделать свой первый вклад в Open Source от [Abati Adewale](https://www.acekyd.com).
 - [Pull Request Roulette](http://www.pullrequestroulette.com/) - Список pull запросов поданных на рассмотрение, которые относятся к проектам Open Source на GitHub.
-- [Как внести свой вклад в проект с открытым исходным кодом на GitHub от Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - Пошаговое видео руководство по тому, как сделать свой первый вклад в Open Source на GitHub.
+- [Как внести свой вклад в проект с открытым исходным кодом на GitHub от Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - Пошаговое видео руководство, как сделать свой первый вклад в Open Source на GitHub.
 
 ## Прямой поиск на GitHub
 Поиск по ярлыкам, которые хорошо подходят для того, чтобы начать контрибьютить на GitHub.
