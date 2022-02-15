@@ -68,7 +68,7 @@
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
 ## Экосистема контрибьюторов Mozilla
-- [Хорошие первые ошибки](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - ошибки, которые разработчики определили как хорошее введение в проект.
+- [Хорошие первые ошибки](https://bugzil.la/sw:%22[good%20first%20bug]%22) - ошибки, которые разработчики определили как хорошее введение в проект.
 - [MDN Web Docs](https://developer.mozilla.org/ru/docs/MDN/Contribute) - помогите команде веб-документации MDN в документировании веб-платформы, исправляя проблемы с контентом и ошибки платформы.
 - [Ошибки с наставником](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - ошибки, на которых назначен наставник, который поможет в IRC, если у вас появятся трудности во время работы над исправлением.
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/)- сайт, посвященный поиску ошибок в Bugzilla.
