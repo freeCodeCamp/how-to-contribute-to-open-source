@@ -37,6 +37,8 @@
 - [Полезные статьи для новых авторов с открытым исходным кодом](#полезные-статьи-для-новых-авторов-с-открытым-исходным-кодом)
 - [Использование контроля версий](#использование-контроля-версий)
 - [Книги с открытым исходным кодом](#книги-с-открытым-исходным-кодом)
+- [Open Source contribution initiatives](#open-source-инициативы-контрибьютеров)
+- [Open Source programs to participate in](#программы-для-практики)
 - [Лицензия](#лицензия)
 
 ## Внесение вклада в открытый исходный код (статьи на английском)
@@ -56,6 +58,18 @@
 - [Вклад в ваш первый проект с открытым исходным кодом: практический подход](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - Пошаговое руководство, как сделать свой первый вклад в Open Source от [Abati Adewale](https://www.acekyd.com).
 - [Pull Request Roulette](http://www.pullrequestroulette.com/) - Список pull запросов поданных на рассмотрение, которые относятся к проектам Open Source на GitHub.
 - [Как внести свой вклад в проект с открытым исходным кодом на GitHub от Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - Пошаговое видео руководство, как сделать свой первый вклад в Open Source на GitHub.
+- [Разработка в Open Source: Путь от начала до конца](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) -  Это пошаговое руководство в котором рассказывается всё об open source: от выбора подходящего проекта, работы над issue, до слияния pull request (PR)
+- ["как внести свой вклад в Open Source Project" от Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - Они фокусируются на деталях по работе с вкладом (pull request) в чей-нибудь проект на GitHub.
+- ["Как начать Open Source" от Sayan Chowdhury](https://www.hackerearth.com:443/getstarted-opensource/) - Эта статья рассказывает о ресурсах для внесения вклада в open source для начинающих на основе их интересов и любимых языков программирования.
+- ["Просмотрите первые хорошие issues чтобы начать разрабатывать в open source"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) - GitHub теперь поможет тебе найти первые хорошие issue, чтобы начать контрибьютить.
+- ["Как внести свой вклад в проект с открытым исходным кодом" от Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - Эта статья полезна именно для бизнеса (но всё ещё полезна для других разработчиков), в ней рассказывается о том почему, как, когда и что разрабатывают в open source проектах.
+- ["start-here-guidelines" by Andrei](https://github.com/zero-to-mastery/start-here-guidelines) - Давайте начнём с Git в мире открытого кода, начнём с open sorce игровой площадки. Специально созданной для изучения и получения опыта на практике.
+- ["Начало работы с открытым исходным кодом" от NumFocus](https://github.com/numfocus/getting-started-with-open-source) - это репозиторий, который помогает разработчикам преодолевать любые барьеры для входа в open source.
+- ["Открытый код для всех" от Chryz-hub ](https://github.com/chryz-hub/opensource-4-everyone) - это репозиторий, в котором находится всё, что связано с открытым кодом. Это проект создан для того, чтобы помочь с видимостью в GitHub, помочь попрактиковаться с базовыми и расширенными командами в GitHub, начать разработку с исходным кодом и т.д.
+- ["Open Advice"](http://open-advice.org/) - Сборник знаний из различных источников. Отвечает на вопрос - что бы хотели знать 42 выдающихся участника проекта, когда они начинали, чтобы это дало им преимущество, независимо от того, как и где в контрибьютите.
+- ["GitHub Learning Lab"](https://lab.github.com/) - Повысьте свои скилы в GitHub Learning Lab. Наш дружелюбный бот проведет вас через серию веселых практических проектов, чтобы вы могли быстрее освоить необходимые навыки, а так же поделиться полезным фидбеком.
+- ["Десять простых правил, которые помогут новичкам стать разработчиками в открытых проектах"](https://doi.org/10.1371/journal.pcbi.1007296) - В этой статье рассматриваются правила, основанные на исследованиях многих сообществ и опыте участников, лидеров и наблюдателей.
+- ["Шаг-за-шагом гайд как контрибьютить в GitHub"](https://www.dataschool.io/how-to-contribute-on-github/) - пошаговое руководство с вспомогательными визуальными эффектами и ссылками, касающимися всего процесса участия в проекте с открытым исходным кодом.
 
 ## Прямой поиск на GitHub
 Поиск по ярлыкам, которые хорошо подходят для того, чтобы начать контрибьютить на GitHub.
@@ -66,6 +80,9 @@
 - [is:issue is:open label:"good first issue"](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A"good+first+issue")
 - [is:issue is:open label:starter](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Astarter)
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
+- [is:issue is:open label:easy-fix](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy-fix&type=issues)
+- [is:issue is:open label:"beginner friendly"](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22beginner+friendly%22&type=issues)
+- [is:issue is:open label:your-first-pr](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Ayour-first-pr&type=issues)
 
 ## Экосистема контрибьюторов Mozilla
 - [Хорошие первые ошибки](https://bugzil.la/sw:%22[good%20first%20bug]%22) - ошибки, которые разработчики определили как хорошее введение в проект.
@@ -90,6 +107,14 @@
 - ["Hacktoberfest 2018: Как можно получить бесплатную рубашку - даже если вы новичок"](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) by [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
 - ["Руководство Bitter по Open Source"](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
 - ["Пошаговое руководство junior разработчика, чтобы вносить вклад в открытый исходный код в первый раз"](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) by [@LetaKeane](http://www.letakeane.com/)
+- [Учим Git и GitHub Шаг за шагом(на Windows)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) by [@ows-ali](https://ows-ali.medium.com/)
+- [Почему Open Source и Как?](https://careerkarma.com/blog/open-source-projects-for-beginners/) by [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
+- [Что я должен разрабатывать в open source](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) by [@kentcdodds](https://github.com/kentcdodds)
+- [Захватывающее вводно руководство в Open-source](https://developeraspire.hashnode.dev/an-immersive-introductory-guide-to-open-source) by [Franklin Okolie](https://twitter.com/DeveloperAspire)
+- [Начнём разрабатывать в open source](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/) by [Zara Cooper](https://stackoverflow.blog/author/zara-cooper/)
+- [Гайд для новичков в open source](https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj) by [Sudipto Ghosh](https://github.com/pydevsg)
+- [ 8 способов без использования кода внести свой вклад в open source](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code) by [OpenSource](https://twitter.com/OpenSourceWay)
+- [Что такое Open Source ПО? OSS Explained in Plain English](https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/) by [Jessica Wilkins](https://www.freecodecamp.org/news/author/jessica-wilkins/)
 
 ## Использование контроля версий
 - [Подумайте как (a) Git](http://think-like-a-git.net/) - Введение Git для «продвинутых новичков», но все еще борется, чтобы дать вам простую стратегию безопасного экспериментирования с git.
@@ -106,12 +131,40 @@
 - [Правила рейсов для Git](https://github.com/k88hudson/git-flight-rules) - Руководство о том, что делать, когда что-то идет не так.
 - [Всестороннее введение в Git и GitHub](https://codeburst.io/git-good-part-a-e0d826286a2a) - Руководство, написанное Madhav Bahl, которое вы должны увидеть, если вы новичок в Git или GitHub, оно подробно описывает GitHub как сервис и концепции управления версиями Git.
 - [Git Guide для начинающих на испанском языке](https://platzi.github.io/git-slides/#/) - Полное руководство по слайдам о git и GitHub объяснено на испанском языке. Una guía completa de diapositivas sobre git y GitHub explicadas en Español.
+- [Git Kraken](https://www.gitkraken.com/git-client) - Визуальное, кроссплатформенное и интерактивное настольное приложение `git` для контроля версий.
+- [Git Tips](https://github.com/git-tips/tips) - Сборник наиболее часто используемых советов и приемов git.
+- [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - Комитьтте чаще, Дорабатывайте позже, Публикуйте раз: Git лучшие практики.
+- [Git Interactive Tutorial](https://learngitbranching.js.org/) - Изучайте Git самым наглядным и интерактивным способом.
+- [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics) (1:12:39) - Полное пошаговое руководство по Git и GitHub [Kunal Kushwaha](https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw).
 
 ## Книги с открытым исходным кодом
 - [Создание программного обеспечения с открытым исходным кодом](http://producingoss.com/) - Создание программного обеспечения с открытым исходным кодом - это книга о человеческой стороне разработки с открытым исходным кодом. В нем описывается, как работают успешные проекты, ожидания пользователей и разработчиков, а также культура бесплатного программного обеспечения.
 - [Серия книг с открытым исходным кодом](https://opensource.com/resources/ebooks) - Learn more about open source and the growing open source movement with a comprehensive list of free eBooks from https://opensource.com.
 - [Практическое руководство по выпуску программного обеспечения HOWTO](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - Этот HOWTO описывает хорошие версии для Linux и других проектов с открытым исходным кодом. Следуя этим практикам, вы сделаете все возможное, чтобы пользователи могли создавать свой код и использовать его, а другие разработчики могли понимать ваш код и сотрудничать с вами, чтобы улучшить его.
 - [Открытые источники 2.0: непрерывная эволюция](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 - это сборник проницательных и продуманных эссе современных лидеров технологий, которые продолжают рисовать эволюционную картину, которая была разработана в книге 1999 года «Открытые источники: голоса революции».
+- [Архитектура Open Source Приложений](http://www.aosabook.org/en/git.html) - Показывает, как различные аспекты Git работают скрытно, чтобы обеспечить распределенные рабочие процессы, и чем Git отличается от других систем контроля версий (VCS).
+- [Open Sources: Голоса из Open Source революции](https://www.oreilly.com/openbook/opensources/book/) - Очерки пионеров открытого исходного кода, таких как Linus Torvalds (Linux), Larry Wall (Perl) и  Richard Stallman  (GNU).
+
+## Open Source инициативы контрибьютеров
+
+- [Up For Grabs](https://up-for-grabs.net/) - Содержит проекты с задачами, удобными для начинающих.
+- [Только для новичков](https://www.firsttimersonly.com/) - Список ошибок, помеченных как «только для новичков».
+- [Первые разработки](https://firstcontributions.github.io/) - сделайте свой первый вклад в Open Source за 5 минут. Инструмент и руководство, чтобы помочь новичкам начать работу с разработкой. [Здесь](https://github.com/firstcontributions/first-contributions) это исходный код GitHub для сайта и есть возможность внести свой вклад в сам репозиторий.
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Программа поощрения вклада Open Source. Зарабатывайте подарки, такие как футболки и наклейки, сделав не менее 4 запросов на включение в октябре.
+- [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests — это проект, направленный на продвижение сотрудничества с открытым исходным кодом в течение декабря.
+- [Ovio](https://ovio.org) - Платформа с тщательно отобранными проектами, удобными для участников. У неё есть [мощный инструмент по поиску issue](https://ovio.org/issues) и давайте сохранять проекты и проблемы на потом.
+- [Google Summer of Code](https://summerofcode.withgoogle.com/) - Ежегодная платная программа Google, направленная на привлечение большего числа студентов-разработчиков к разработке программного обеспечения с открытым исходным кодом.
+- [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) - Глобальная программа стипендий для женщин и небинарных программистов, где они работают над существующими проектами с открытым исходным кодом и расширяют свой набор навыков.
+- [Major League Hacking Fellowship](https://fellowship.mlh.io/) - Альтернатива удаленной стажировке для начинающих технологов, где они создают или участвуют в проектах с открытым исходным кодом.
+## Open Source программы для практики
+
+- [Google Summer of Code](https://summerofcode.withgoogle.com)
+- [FossAsia](https://fossasia.org)
+- [MLH Fellowship](https://fellowship.mlh.io)
+- [Outreachy](https://www.outreachy.org)
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com)
+- [CNCF](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
+- [Microsoft Reinforcement learning](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
 
 ## Лицензия
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 Международная лицензия</a>.
