@@ -35,7 +35,7 @@ Se você possui alguma dúvida ou comentário, por favor crie uma issue.
 - [Contribuindo com Open Source](#contribuindo-com-open-source)
 - [Pesquisas diretas no GitHub](#pesquisas-diretas-no-github)
 - [Ambiente de contribuidores da Mozilla](#ambiente-de-contribuidores-da-mozilla)
-- [Artigos úteis para novos contribuidores Open Source](#artigos-úteis-para-novos-contribuidores)
+- [Artigos úteis para novos contribuidores de Open Source](#artigos-úteis-para-novos-contribuidores)
 - [Usando ferramentas de Controle de Versões](#usando-ferramentas-de-controle-de-versões)
 - [Livros sobre Open Source](#livros-sobre-open-source)
 - [Iniciativas para contribuição em Open Source](#iniciativas-para-contribuição-em-open-source)
