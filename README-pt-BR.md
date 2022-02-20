@@ -18,7 +18,7 @@
     </tr>
 </table>
 
-# Sejam bem-vindos novos contribuidores Open Source!
+# Sejam bem-vindos novos contribuidores de Open Source!
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
@@ -43,7 +43,7 @@ Se você possui alguma dúvida ou comentário, por favor crie uma issue.
 
 ## Contribuindo com Open Source
 
-- [O Guia Definitivo para Contribuições Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
+- [O Guia Definitivo para Contribuições Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) por [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [Uma Introdução ao Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutoriais da DigitalOcean para te guiar ao sucesso nas contribuições aqui no GitHub.
 - [Issuehub.io](http://issuehub.pro/) - Uma ferramenta para filtrar problemas por rótulos e linguagens no GitHub.
 - [Code Triage](https://www.codetriage.com/) - Outra ferramenta muito boa para encontrar repositórios populares e problemas por linguagem.
@@ -99,11 +99,11 @@ Pesquise por links diretos para issues no GitHub.
 
 ## Usando ferramentas de Controle de Versões
 
-- [Think Like (a) Git](http://think-like-a-git.net/) - Introdução a Git para "Iniciantes Avançados" que ainda têm dificuldades, a fim de proporcionar uma estratégia simples para experimentar git de maneira segura.
-- [Try Git](https://try.github.io/) - Aprenda git gratuitamente em 15 minutos a partir do seu navegador.
-- [Everyday Git](https://git-scm.com/docs/giteveryday) - Um conjunto de comandos git úteis para o dia-a-dia.
-- [Oh shit, git!](http://ohshitgit.com/) - Como consertar erros comuns em git.
-- [Tutoriais de Git da Atlassian](https://www.atlassian.com/git/tutorials/) - Vários tutoriais sobre como usar `git`.
+- [Think Like (a) Git](http://think-like-a-git.net/) - Introdução a Git para "Iniciantes Avançados" que ainda têm dificuldades, a fim de proporcionar uma estratégia simples para experimentar Git de maneira segura.
+- [Try Git](https://try.github.io/) - Aprenda Git gratuitamente em 15 minutos a partir do seu navegador.
+- [Everyday Git](https://git-scm.com/docs/giteveryday) - Um conjunto de comandos do Git úteis para o dia-a-dia.
+- [Oh shit, git!](http://ohshitgit.com/) - Como consertar erros comuns em Git.
+- [Tutoriais de Git da Atlassian](https://www.atlassian.com/git/tutorials/) - Vários tutoriais sobre como usar `Git`.
 - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
 - [Recursos sobre Git por freeCodeCamp](https://www.freecodecamp.org/forum/t/wiki-git-resources/13136)
 - [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - Conversa sobre como criar Pull Requests.
