@@ -124,7 +124,7 @@ Pesquise por links diretos para issues no GitHub.
 
 ## Iniciativas para Contribuição em Open Source
 
-- [Up For Grabs](http://up-for-grabs.net/#/) - Contém projetos com ótimos problemas para iniciantes
+- [Up For Grabs](http://up-for-grabs.net/#/) - Contém projetos com ótimos problemas para iniciantes.
 - [First Timers Only](http://www.firsttimersonly.com/) - Uma lista de bugs rotulados como "first-timers-only".
 - [First Contributions](https://firstcontributions.github.io/) - Faça sua primeira contribuição Open Source em 5 minutos. Uma ferramenta e tutorial para ajudar iniciantes em suas contribuições.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Um programa para incentivar contribuições em Open Source. Ganhe brindes como camisas e adesivos ao abrir no mínimo 5 Pull Requests no mês de Outubro.
