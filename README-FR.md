@@ -46,9 +46,9 @@ Si vous avez des questions ou commentaires, veuillez créer un ticket.
 - [Une Intro à l'Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - tutoriels de DigitalOcean pour vous mettre sur la bonne voie pour contribuer avec succès dans GitHub.
 - [Issuehub.io](http://issuehub.pro/) - un outil pour chercher les `issues` dans GitHub en les filtrant par label et langage.
 - [Code Triage](https://www.codetriage.com/) - un autre outil pratique pour chercher les dépôts populaires et `issues` filtrés par langage.
-- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - un dépôt GitHub regroupant des projets avec des bugs faciles pour les contributeurs novices, et avec des labels pour les décrire.
+- [Parfait-pour-débutants](https://github.com/MunGell/awesome-for-beginners) - un dépôt GitHub regroupant des projets avec des bugs faciles pour les contributeurs novices, et avec des labels pour les décrire.
 - [Guides de l'Open Source](https://opensource.guide/) - collection de ressources pour les particuliers, communautés et sociétés qui désirent apprendre à gérer et contribuer à un projet Open Source.
-- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - ce qu'il faut faire et ne pas faire sur GitHub.
+- [45 Issues Github à faire et à ne pas faire](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - ce qu'il faut faire et ne pas faire sur GitHub.
 - [Guides de GitHub](https://guides.github.com/) - guides basiques sur comment utiliser GitHub efficacement.
 - [Contribuer à l'Open Source](https://github.com/danthareja/contribute-to-open-source) - apprendre le processus de GitHub en contribuant du code à une simulation de projet.
 - [Guide pour l'Open Source de la Fondation Linux pour l'entreprise](https://www.linuxfoundation.org/resources/open-source-guides/) - les guides de la Fondation Linux pour les projets Open Source.
