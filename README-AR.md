@@ -37,7 +37,7 @@
 **المحتويات**
 
 - [المساهمة في المصادر المفتوحة بشكل عام](#contributing-to-open-source-in-general)
-- [كيفية البحث على GitHub](#direct-github-searches)
+- [ روابط للبحث المباشر على GitHub](#direct-github-searches)
 - [بيئة المساهمة في Mozilla](#mozillas-contributor-ecosystem)
 - [مقالات مفيدة للمساهمين الجدد في المصادر المفتوحة](#useful-articles-for-new-open-source-contributors)
 - [التحكم في إصدارات الكود](#using-version-control)
@@ -74,9 +74,9 @@
 - ["عشر قواعد بسيطة لمساعدة الوافدين الجدد على أن يصبحوا مساهمين في المشاريع المفتوحة المصدر."](https://doi.org/10.1371/journal.pcbi.1007296) - تتناول هذه المقالة القواعد المستندة إلى دراسات العديد من المجتمعات وخبرات الأعضاء والقادة والمراقبين.
 - ["دليل خطوة بخطوة للمساهمة على GitHub"](https://www.dataschool.io/how-to-contribute-on-github/) - دليل خطوة بخطوة مع دعم مرئيات وروابط بخصوص العملية الكاملة للمساهمة في مشروع مفتوح المصدر.
 
-## كيفية البحث على GitHub
+## روابط للبحث المباشر على GitHub
 
-Search links that point directly to suitable issues to contribute to on GitHub.
+روابط البحث التي تشير مباشرة إلى المشكلات المناسبة للمساهمة في GitHub.
 
 - [is:issue is:open label:beginner](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Abeginner&type=issues)
 - [is:issue is:open label:easy](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy&type=issues)
