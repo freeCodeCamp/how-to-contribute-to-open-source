@@ -101,7 +101,7 @@ Listes de recherches pointant directement vers des `issues` propices à la contr
 - [Penser comme (un) Git](http://think-like-a-git.net/) - introduction à Git pour les "novices avancés" qui ont toujours des difficultés, pour vous offrir une stratégie simple pour expérimenter sans risque avec Git.
 - [Try Git](https://try.github.io/) - apprendre Git en 15 minutes depuis votre navigateur gratuitement.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - liste des commandes basiques utiles pour utiliser Git au quotidien.
-- [Oh shit, git!](http://ohshitgit.com/) - comment s'extraire des erreurs de `git` courantes expliqué de manière simple.
+- [Oh shit, git!](http://ohshitgit.com/) - comment s'extraire des erreurs courantes de `git` expliquées de manière simple.
 - [Tutoriels Git d'Atlassian](https://www.atlassian.com/git/tutorials/) - tutoriels variés sur comment utiliser `git`.
 - [Aide-mémoire pour GitHub Git](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
 - [Wiki de freeCodeCamp sur les ressources Git](https://www.freecodecamp.org/forum/t/wiki-git-resources/13136)
