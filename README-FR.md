@@ -128,9 +128,9 @@ Listes de recherches pointant directement vers des `issues` propices à la contr
 
 
 ## Initiatives de contributions à l'Open Source
-- [Up For Grabs](http://up-for-grabs.net/#/) - Contient des projets avec des bugs accessibles aux novices.
-- [First Timers Only](http://www.firsttimersonly.com/) - Une liste de bugs indiqués comme "first-timers-only" (seulement pour les débutants).
-- [First Contributions](https://firstcontributions.github.io/) - Effectuez votre première contribution à l'Open Source en 5 minutes. Un outil et tutoriel pour aider les débutants à se lancer dans les contributions.
+- [Up For Grabs](http://up-for-grabs.net/#/) - ("Bon à prendre") Contient des projets avec des bugs accessibles aux novices.
+- [First Timers Only](http://www.firsttimersonly.com/) - ("Débutants seulement") Une liste de bugs indiqués comme "first-timers-only".
+- [First Contributions](https://firstcontributions.github.io/) - ("Premières contributions") Effectuez votre première contribution à l'Open Source en 5 minutes. Un outil et tutoriel pour aider les débutants à se lancer dans les contributions.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Un programme pour encourager les contributions à l'Open Source. Gagnez des T-shirts et des autocollants en effectuant au moins 5 `pull requests` durant le mois d'octobre.
 - [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests est un projet axé sur la collaboration Open Source durant le mois de décembre.
 
