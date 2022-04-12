@@ -124,3 +124,6 @@ before contributing.
     - Issue labels:
        - [Good First Issue](https://github.com/matteobruni/tsparticles/labels/good%20first%20issue)
        - [Help Wanted](https://github.com/matteobruni/tsparticles/labels/help%20wanted)
+
+- `[Jenkins](https://github.com/jenkinsci/jenkins)` (Project)
+    - [Contributing Guide](https://wiki.jenkins.io/display/JENKINS/Beginners+Guide+to+Contributing)
