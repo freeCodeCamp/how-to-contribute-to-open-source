@@ -28,9 +28,9 @@
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
 [![Build Status](https://api.travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
 
-ওপেন সোর্সে অবদান রাখতে নতুন যারা এই লোকদের জন্য এটি সংস্থানগুলির একটি তালিকা।
+যারা ওপেন সোর্স যে অবদান করতে নতুন, তাদের জন্য এটি একটি মূল্যবান তালিকা।
 
-আপনি যদি অতিরিক্ত সংস্থানগুলি সন্ধান করেন তবে দয়া করে একটি পুল রিকুয়েস্ট তৈরি করুন।
+আপনি যদি অতিরিক্ত তালিকারি সন্ধান করেন তবে দয়া করে একটি পুল রিকুয়েস্ট তৈরি করুন।
 
 আপনার যদি প্রশ্ন বা মন্তব্য থাকে তবে দয়া করে একটি ইস্যু তৈরি করুন।
 
@@ -115,7 +115,7 @@
 - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
 - [freeCodeCamp's Wiki on Git Resources](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
 - [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - গিটহাব কীভাবে পুল রিকুয়েস্ট করবেন তা সম্পর্কে কিছু কথা।
-- [গিটহাব শেখার সংস্থানসমূহ](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/git-and-github-learning-resources) - গিট এবং গিটহাব শেখার সংস্থানসমূহ।
+- [গিটহাব শেখার সংস্থানসমূহ](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) - গিট এবং গিটহাব শেখার সংস্থানসমূহ।
 - [Pro Git](https://git-scm.com/book/en/v2) - স্কট চকন এবং বেন স্ট্রাব দ্বারা রচিত এবং অ্যাপ্রেস দ্বারা প্রকাশিত পুরো প্রো গিট বই।
 - [Git-it](https://github.com/jlord/git-it-electron) - ধাপে ধাপে গিট টিউটোরিয়াল ডেস্কটপ অ্যাপ্লিকেশন।
 - [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - যখন জিনিসগুলি ভুল হয়ে যায় তখন কী করা উচিত সে সম্পর্কে একটি নির্দেশিকা।
