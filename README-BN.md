@@ -52,7 +52,7 @@
 ## সাধারণভাবে ওপেন সোর্স-এ অবদান রাখার জন্য
 - [ওপেন সোর্সে অবদান রাখার জন্য নির্দিষ্ট গাইড](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) যা [@DoomHammerNG](https://twitter.com/DoomHammerNG) দ্বারা রচিত।
 - [ওপেন সোর্সের একটি ভূমিকা](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - DigitalOcean-এর টিউটোরিয়াল যা আপনাকে গিটহাবে অবদান রাখার ক্ষেত্রে সাফল্যের পথে গাইড করবে।
-- [Code Triage](https://www.codetriage.com/) - আরেকটি, সত্যিই দুর্দান্ত, জনপ্রিয় রিপোসিটোরি এবং ভাষার দ্বারা ফিল্টার করা সমস্যাগুলি অনুসন্ধান করার সরঞ্জাম।
+- [Code Triage](https://www.codetriage.com/) - জনপ্রিয় রিপোজিটোরি এবং ভাষার দ্বারা ফিল্টার করে সমস্যাগুলি অনুসন্ধান করার জন্য আরেকটি, দুর্দান্ত, সরঞ্জাম।
 - [নতুনদের জন্য দুর্দান্ত](https://github.com/MunGell/awesome-for-beginners) - একটি গিটহাব রিপোসিটোরি যা নতুন অবদানকারীদের জন্য ভাল বাগ সহ প্রকল্পগুলিকে সংগ্রহ করে এবং সেগুলি বর্ণনা করার জন্য লেবেল প্রয়োগ করে।
 - [ওপেন সোর্স নির্দেশিকা](https://opensource.guide/) - কোনও ওপেন সোর্স প্রকল্প কীভাবে চালনা এবং প্রকল্পগুলোতে অবদান রাখতে হয় তা শিখতে চায় এমন ব্যক্তি, সম্প্রদায় এবং সংস্থাগুলির জন্য সংস্থান সংগ্রহ।
 - [৪৫ গিটহাব ইস্যু : কি করবেন এবং কি করবেন না](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - গিটহাবে কি করবেন এবং কি করবেন না।
