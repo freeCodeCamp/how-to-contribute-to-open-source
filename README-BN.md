@@ -26,17 +26,17 @@
 </details>
 <!-- Do not translate this -->
 
-# নবাগত ওপেন সোর্স অবদানকারীদের স্বাগতম!
+# ওপেন সোর্স এ আসা নতুন অবদানকারীদের স্বাগতম!
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
 [![Build Status](https://api.travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
 
-ওপেন সোর্সে অবদান রাখতে নতুন যারা এই লোকদের জন্য এটি সংস্থানগুলির একটি তালিকা।
+ওপেন সোর্সে যারা একদম নতুন, তাদের জন্য ওপেন সোর্স প্রজেক্টে কন্ট্রিবিউট করার জন্য অনেকগুলি প্রোজেক্টের একটি তালিকা নিয়ে এখানে বর্ণনা করা হয়েছে।
 
-আপনি যদি অতিরিক্ত সংস্থানগুলি সন্ধান করেন তবে দয়া করে একটি পুল রিকুয়েস্ট তৈরি করুন।
+আপনি যদি আরো রিসোর্সের সন্ধান পেয়ে থাকেন, তাহলে অনুগ্রহ করে একটি পুল রিকোয়েস্ট তৈরী করার মাধ্যমে এই প্রজেক্টে কন্ট্রিবিউট করুন।
 
-আপনার যদি প্রশ্ন বা মন্তব্য থাকে তবে দয়া করে একটি ইস্যু তৈরি করুন।
+আপনার যদি কোনো প্রশ্ন অথবা কোনো মতামত থাকে তাহলে অনুগ্রহ করে একটি ইস্যু তৈরী করুন।
 
 **সূচীপত্র**
 
@@ -46,12 +46,12 @@
 - [নতুন ওপেন সোর্স অবদানকারীদের জন্য দরকারী নিবন্ধ](#নতুন-ওপেন-সোর্স-অবদানকারীদের-জন্য-দরকারী-নিবন্ধ)
 - [ভার্সন কন্ট্রোলের ব্যবহার](#ভার্সন-কন্ট্রোলের-ব্যবহার)
 - [ওপেন সোর্স বইসমূহ](#ওপেন-সোর্স-বইসমূহ)
-- [ওপেন সোর্স অবদানের উদ্যোগ](#ওপেন-সোর্স-অবদানের-উদ্যোগ)
+- [ওপেন সোর্স অবদানের উদ্যোগ সম্পর্কে](#ওপেন-সোর্স-অবদানের-উদ্যোগ)
 - [লাইসেন্স](#লাইসেন্স)
 
-## সাধারণভাবে ওপেন সোর্স-এ অবদান
-- [ওপেন সোর্সে অবদান রাখার সংজ্ঞা নির্দেশিকা](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
-- [ওপেন সোর্স সম্পর্কে বিবরণ](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - DigitalOcean-এর টিউটোরিয়াল যা আপনাকে গিটহাবের অবদান সাফল্যের পথে গাইড করবে।
+## সাধারণভাবে ওপেন সোর্স-এ অবদান রাখার জন্য
+- [ওপেন সোর্সে অবদান রাখার জন্য নির্দিষ্ট গাইড](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) যা [@DoomHammerNG](https://twitter.com/DoomHammerNG) দ্বারা রচিত।
+- [ওপেন সোর্সের একটি ভূমিকা](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - DigitalOcean-এর টিউটোরিয়াল যা আপনাকে গিটহাবে অবদান রাখার ক্ষেত্রে সাফল্যের পথে গাইড করবে।
 - [Issuehub.io](http://issuehub.pro/) - লেবেল এবং ভাষাগুলি দ্বারা গিটহাব ইস্যু অনুসন্ধানের জন্য একটি সরঞ্জাম।
 - [Code Triage](https://www.codetriage.com/) - আরেকটি, সত্যিই দুর্দান্ত, জনপ্রিয় রিপোসিটোরি এবং ভাষার দ্বারা ফিল্টার করা সমস্যাগুলি অনুসন্ধান করার সরঞ্জাম।
 - [নতুনদের জন্য দুর্দান্ত](https://github.com/MunGell/awesome-for-beginners) - একটি গিটহাব রিপোসিটোরি যা নতুন অবদানকারীদের জন্য ভাল বাগ সহ প্রকল্পগুলিকে সংগ্রহ করে এবং সেগুলি বর্ণনা করার জন্য লেবেল প্রয়োগ করে।
