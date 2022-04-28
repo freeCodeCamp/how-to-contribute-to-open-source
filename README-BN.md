@@ -24,6 +24,7 @@
         <li><a href="./README-FA.md"> فارسی </a></li>
     </ul>
 </details>
+<!-- Do not translate this -->
 
 # নবাগত ওপেন সোর্স অবদানকারীদের স্বাগতম!
 
