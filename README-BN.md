@@ -26,7 +26,7 @@
 </details>
 <!-- Do not translate this -->
 
-# ওপেন সোর্স এ আসা নতুন অবদানকারীদের স্বাগতম!
+# ওপেন সোর্স এ আসা নতুন কন্ট্রিবিউটরদের স্বাগতম!
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
@@ -43,7 +43,7 @@
 - [সাধারণভাবে ওপেন সোর্স-এ অবদান](#সাধারণভাবে-ওপেন-সোর্স-এ-অবদান)
 - [সরাসরি গিটহাব অনুসন্ধান](#সরাসরি-গিটহাব-অনুসন্ধান)
 - [মজিলার অবদানকারী ইকোসিস্টেম](#মজিলার-অবদানকারী-ইকোসিস্টেম)
-- [নতুন ওপেন সোর্স অবদানকারীদের জন্য দরকারী নিবন্ধ](#নতুন-ওপেন-সোর্স-অবদানকারীদের-জন্য-দরকারী-নিবন্ধ)
+- [নতুন ওপেন সোর্স কন্ট্রিবিউটরদের জন্য দরকারী নিবন্ধ](#নতুন-ওপেন-সোর্স-কন্ট্রিবিউটরদের-জন্য-দরকারী-নিবন্ধ)
 - [ভার্সন কন্ট্রোলের ব্যবহার](#ভার্সন-কন্ট্রোলের-ব্যবহার)
 - [ওপেন সোর্স বইসমূহ](#ওপেন-সোর্স-বইসমূহ)
 - [ওপেন সোর্স অবদানের উদ্যোগ সম্পর্কে](#ওপেন-সোর্স-অবদানের-উদ্যোগ)
@@ -54,7 +54,7 @@
 - [ওপেন সোর্সের একটি ভূমিকা](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - DigitalOcean-এর টিউটোরিয়াল যা আপনাকে গিটহাবে কন্ট্রিবিউট করার ক্ষেত্রে সাফল্যের পথে গাইড করবে।
 - [Code Triage](https://www.codetriage.com/) - জনপ্রিয় রিপোজিটোরি এবং ভাষার দ্বারা ফিল্টার করে সমস্যাগুলি অনুসন্ধান করার জন্য আরেকটি, দুর্দান্ত, সরঞ্জাম।
 - [ওপেন সোর্স দিয়ে আপনার ভবিষ্যত তৈরি করুন](https://fossforge.com) - ($) - একটি বই যা বিশেষভাবে ওপেন সোর্স এর জন্য রচিত, কিভাবে ভালো প্রজেক্ট খুঁজে পেতে হয়, এবং কিভাবে কন্ট্রিবিউট করার কাজ শুরু করা যায়, শুধুই প্রোগ্রামারদের জন্যই নয়, বরং সফটওয়্যার ডেভলাপমেন্ট এর সকল সেক্টরে কিভাবে এসব করা যায় তার বিশদ আলোচনা রয়েছে। 
-- [নতুনদের জন্য দুর্দান্ত](https://github.com/MunGell/awesome-for-beginners) - একটি গিটহাব রিপোসিটোরি যা নতুন অবদানকারীদের জন্য ভাল বাগ সহ প্রকল্পগুলিকে সংগ্রহ করে এবং সেগুলি বর্ণনা করার জন্য লেবেল প্রয়োগ করে।
+- [নতুনদের জন্য দুর্দান্ত](https://github.com/MunGell/awesome-for-beginners) - একটি গিটহাব রিপোজিটরি যাতে নতুন কন্ট্রিবিউটরদের জন্য ভাল বাগ সহ প্রকল্পগুলিকে সংগ্রহ করে এবং সেগুলি বর্ণনা করার জন্য লেবেল প্রয়োগ করে।
 - [ওপেন সোর্স নির্দেশিকা](https://opensource.guide/) - কোনও ওপেন সোর্স প্রকল্প কীভাবে চালনা এবং প্রকল্পগুলোতে অবদান রাখতে হয় তা শিখতে চায় এমন ব্যক্তি, সম্প্রদায় এবং সংস্থাগুলির জন্য সংস্থান সংগ্রহ।
 - [৪৫ গিটহাব ইস্যু : কি করবেন এবং কি করবেন না](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - গিটহাবে কি করবেন এবং কি করবেন না।
 - [গিটহাব নির্দেশিকা](https://guides.github.com/) - কীভাবে গিটহাবকে কার্যকরভাবে ব্যবহার করতে হবে তার প্রাথমিক নির্দেশিকা। 
@@ -68,7 +68,7 @@
 - ["ওপেন সোর্স প্রকল্পে কীভাবে অবদান রাখবেন" by Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - তারা গিটহাবের অন্য কারও প্রকল্পে একটি পুল রিকুয়েস্ট (PR) অবদানের নব্যতা-সাহসের উপরে মনোনিবেশ করছে।
 - ["কীভাবে ওপেন সোর্স দিয়ে শুরু করবেন" Sayan Chowdhury](https://www.hackerearth.com:443/getstarted-opensource/) - এই নিবন্ধটি তাদের পছন্দের ভাষার আগ্রহের উপর ভিত্তি করে নতুনদের জন্য ওপেন সোর্সটিতে অবদান রাখার সংস্থানগুলি বর্ণনা করে।
 - ["ওপেন সোর্সটিতে অবদান রাখতে শুরু করার জন্য প্রথম ভাল সমস্যাগুলি অনুসন্ধান করুন"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) - গিটহাব এখন আপনাকে ওপেন সোর্সটিতে অবদান রাখতে শুরু করার জন্য প্রথম ভাল সমস্যাগুলি খুঁজে পেতে সহায়তা করে।
-- ["ওপেন সোর্স প্রকল্পে কীভাবে অবদান রাখতে হয়" by Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - এই বিস্তৃত নিবন্ধটি ব্যবসায়ের দিকে পরিচালিত হয়েছে (তবে স্বতন্ত্র অবদানকারীদের পক্ষে এখনও কার্যকর) যেখানে এটি কেন, কীভাবে, এবং কী ওপেন-সোর্স প্রকল্পগুলিতে অবদান রাখতে হবে সে সম্পর্কে আলোচনা করে।
+- ["ওপেন সোর্স প্রকল্পে কীভাবে অবদান রাখতে হয়" by Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - এই বিস্তৃত নিবন্ধটি ব্যবসায়ের দিকে পরিচালিত হয়েছে (তবে স্বতন্ত্র কন্ট্রিবিউটরদের পক্ষে এখনও কার্যকর) যেখানে এটি কেন, কীভাবে, এবং কী ওপেন-সোর্স প্রকল্পগুলিতে অবদান রাখতে হবে সে সম্পর্কে আলোচনা করে।
 - ["এখানে-শুরু-করুন-নির্দেশিকা" by Andrei](https://github.com/zero-to-mastery/start-here-guidelines) -
 আসুন ওপেনসোর্স বিশ্বে শুরু করা যাক। বিশেষত শিক্ষা এবং ব্যবহারিক অভিজ্ঞতার উদ্দেশ্যে ডিজাইন করা।
 
@@ -89,9 +89,9 @@
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - Bugzilla-তে বাগ অনুসন্ধান করার জন্য উত্সর্গীকৃত একটি সাইট।
 - [ফায়ারফক্স ডেভটুলস](http://firefox-dev.tools/) - ফায়ারফক্স ব্রাউজারে বিকাশকারী সরঞ্জামগুলির জন্য দায়ের করা বাগগুলির জন্য উত্সর্গীকৃত একটি সাইট।
 - [আমি মজিলার জন্য কি করতে পারি](https://whatcanidoformozilla.org/) - আপনার দক্ষতা সেট এবং আগ্রহগুলি সম্পর্কে একগুচ্ছ প্রশ্নের উত্তর দিয়ে আপনি কী কাজ করতে পারবেন তা নির্ধারণ করুন।
-- [মজিলা শুরু করুন](https://twitter.com/StartMozilla) - একটি টুইটার অ্যাকাউন্ট যা মজিলা ইকোসিস্টেমে নতুন অবদানকারীদের জন্য ইস্যুগুলি সম্পর্কে টুইট করে।
+- [মজিলা শুরু করুন](https://twitter.com/StartMozilla) - একটি টুইটার অ্যাকাউন্ট যা মজিলা ইকোসিস্টেমে নতুন কন্ট্রিবিউটরদের জন্য ইস্যুগুলি সম্পর্কে টুইট করে।
 
-## নতুন ওপেন সোর্স অবদানকারীদের জন্য দরকারী নিবন্ধ
+## নতুন ওপেন সোর্স কন্ট্রিবিউটরদের জন্য দরকারী নিবন্ধ
 - [আপনার প্রথম ওপেন সোর্স প্রকল্পটি কীভাবে নির্বাচন করবেন (এবং এতে অবদান রাখবেন)](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
 - [ঠিক করার জন্য আপনার প্রথম ওপেন সোর্স বাগটি কীভাবে খুঁজে পাবেন](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) by [@Shubheksha](https://github.com/Shubheksha)
 - [শুধুমাত্র প্রথম Timers-দের জন্য](https://kentcdodds.com/blog/first-timers-only/) by [@kentcdodds](https://github.com/kentcdodds)
@@ -100,7 +100,7 @@
 - [ওপেন সোর্সে কীভাবে অবদান রাখবেন](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
 - [আপনার কোডে কীভাবে কোনও বাগ খুঁজে পাবেন](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
 - [মার্কডাউন প্রভুত্ব করুন](https://guides.github.com/features/mastering-markdown/) by [@GitHub](https://github.com/github)
-- [প্রথম মিশন: অবদানকারীদের পৃষ্ঠা](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
+- [প্রথম মিশন: কন্ট্রিবিউটরদের পৃষ্ঠা](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
 - [মাত্র ৫ মিনিটে কীভাবে আপনার প্রথম ওপেন সোর্স অবদান রাখবেন](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) by [@roshanjossey](https://github.com/Roshanjossey/)
 - [Hacktoberfest 2019: আপনি কীভাবে আপনার ফ্রি শার্টটি পেতে পারেন - আপনি কোডিংয়ে নতুন হয়ে থাকলেও](https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b/) by [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
 - [ওপেন সোর্সের জন্য তিক্ত গাইড](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
