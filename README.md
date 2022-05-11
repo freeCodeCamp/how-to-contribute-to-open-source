@@ -176,13 +176,18 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 
 ## Open Source programs to participate in
 
-- [Google Summer of Code](https://summerofcode.withgoogle.com)
-- [FossAsia](https://fossasia.org)
-- [MLH Fellowship](https://fellowship.mlh.io)
-- [Outreachy](https://www.outreachy.org)
-- [Hacktoberfest](https://hacktoberfest.digitalocean.com)
+- [All LF Mentorships](https://mentorship.lfx.linuxfoundation.org/#projects_all)
 - [CNCF](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
+- [FossAsia](https://fossasia.org)
+- [FSF Internship](https://www.fsf.org/volunteer/internships)
+- [Google Summer of Code](https://summerofcode.withgoogle.com)
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com)
+- [LFN Mentorship](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program)
 - [Microsoft Reinforcement learning](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
+- [MLH Fellowship](https://fellowship.mlh.io)
+- [Open Summer of Code](https://osoc.be/students)
+- [Outreachy](https://www.outreachy.org)
+- [PF Internship](https://processingfoundation.org/fellowships/)
 
 ## License
 
