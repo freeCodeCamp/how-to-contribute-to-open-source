@@ -28,7 +28,7 @@
 [![स्थिति बनाएँ](https://api.travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
 
 
-यह उन लोगों के लिए संसाधनों की एक सूची हैं जो ओपन सोर्स में योगदान करने के लिए नए हैं।
+यह उन लोगों के लिए संसाधनों की एक सूची हैं जो ओपन सोर्स में योगदान करने में नए हैं।
 
 यदि आपको अतिरिक्त संसाधन मिलते हैं, तो कृपया एक पुल रिक्वेस्ट में योगदान करें।
 
@@ -37,7 +37,7 @@
 **अंतर्वस्तु**
 
 - [सामान्य रूप से ओपन सोर्स में योगदान करना](#contributing-to-open-source-in-general)
-- [डायरेक्ट गिटहब खोजता है](#direct-github-searches)
+- [सीधा GitHub पर खोजें](#direct-github-searches)
 - [मोज़िला का योगदानकर्ता पारिस्थितिकी तंत्र](#mozillas-contributor-ecosystem)
 - [नए ओपन सोर्स योगदानकर्ताओं के लिए उपयोगी लेख](#useful-articles-for-new-open-source-contributors)
 - [संस्करण नियंत्रण का उपयोग करना](#using-version-control)
@@ -47,7 +47,7 @@
 
 ## सामान्य रूप से ओपन सोर्स में योगदान करना
 - [ओपन सोर्स में योगदान करने के लिए निश्चित गाइड](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
-- [ओपन सोर्स के लिए एक परिचय](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - GitHub पर सफलता में योगदान करने के लिए अपने रास्ते पर मार्गदर्शन करने के लिए DigitalOcean द्वारा ट्यूटोरियल।
+- [ओपन सोर्स के लिए एक परिचय](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - GitHub पर आपकी सफलता में आपका मार्गदर्शन करने के लिए DigitalOcean द्वारा ट्यूटोरियल।
 - [Issuehub.io](http://issuehub.io/) - लेबल और भाषा द्वारा GitHub मुद्दों को खोजने के लिए एक उपकरण।
 - [Code Triage](https://www.codetriage.com/) - लोकप्रिय रिपॉजिटरी और भाषा द्वारा फ़िल्टर किए गए मुद्दों को खोजने के लिए उपकरण।
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - एक GitHub रेपो जो नए योगदानकर्ताओं के लिए अच्छे बग्स के साथ प्रोजेक्ट करता है, और उनका वर्णन करने के लिए लेबल लागू करता है।
@@ -59,16 +59,16 @@
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - केंट सी। डोड्स एंड सारा ड्रैसनर द्वारा लिखित एक ओपन सोर्स शिष्टाचार गाइडबुक।
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - एक नई कोडिंग भाषा सीखने के लिए कॉलेज के छात्रों के लिए संसाधनों और अवसरों की घुमावदार सूची।
 - [Pull Request Roulette](http://www.pullrequestroulette.com/) - इस साइट में GitHub पर होस्ट किए गए ओपन सोर्स प्रोजेक्ट से संबंधित समीक्षा के लिए प्रस्तुत पुल अनुरोधों की एक सूची है।
-- ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - गिटहब पर ओपन सोर्स परियोजनाओं में योगदान कैसे शुरू करें, इसका चरण-दर-चरण वीडियो गाइड।
+- ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - GitHub पर ओपन सोर्स परियोजनाओं में योगदान कैसे शुरू करें, इसका चरण-दर-चरण वीडियो गाइड।
 - [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - एक ओपन सोर्स योगदान के इस पूर्वाभ्यास में एक उपयुक्त प्रोजेक्ट को चुनने से लेकर एक मुद्दे पर काम करना, पीआर में विलय होने तक सब कुछ शामिल है।
-- ["How to Contribute to Open Source Project by" Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - वे गिटहब पर किसी और की परियोजना के लिए एक पुल अनुरोध (पीआर) का योगदान करने पर ध्यान केंद्रित कर रहे हैं।
+- ["How to Contribute to Open Source Project by" Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - वे GitHub पर किसी और की परियोजना के लिए एक पुल अनुरोध (पीआर) का योगदान करने पर ध्यान केंद्रित कर रहे हैं।
 - ["How to get started with Open Source by" Sayan Chowdhury](https://www.hackerearth.com:443/getstarted-opensource/) - यह लेख अपनी पसंदीदा भाषा रुचि के आधार पर नौसिखियों के लिए ओपन सोर्स में योगदान करने के लिए संसाधनों को शामिल करता है।
 - ["Browse good first issues to start contributing to open source"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) - GitHub अब आपको ओपन सोर्स में योगदान देना शुरू करने के लिए पहले अच्छे मुद्दे खोजने में मदद करता है।
 - ["How to Contribute to Open Source Project" by Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - यह व्यापक लेख व्यवसायों की ओर निर्देशित है (लेकिन व्यक्तिगत योगदानकर्ताओं के लिए भी उपयोगी है) जहां यह बात करता है कि क्यों, कैसे, और क्या-क्या ओपन-सोर्स प्रोजेक्ट्स में योगदान करना उचित है।
 - ["start-here-guidelines" by Andrei](https://github.com/zero-to-mastery/start-here-guidelines) - ओपनसोर्स खेल की दुनिया ओपनसोर्स प्लेग्राउंड में शुरू होती है। विशेष रूप से शिक्षा और व्यावहारिक अनुभव उद्देश्यों के लिए रचा गया हैं।
 
-## डायरेक्ट गिटहब खोजता है
-Search links that point directly to suitable issues to contribute to on GitHub.
+## सीधा GitHub पर खोजें
+खोज परिणाम जो सीधे GitHub पर योगदान करने के लिए उपयुक्त मुद्दों की ओर इशारा करते हैं।
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
 - [is:issue is:open label:first-timers-only](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
@@ -138,4 +138,4 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [24 Pull Requests](https://24pullrequests.com) -24 पुल अनुरोध दिसंबर महीने के दौरान ओपन सोर्स सहयोग को बढ़ावा देने के लिए एक परियोजना है।
 
 ## लाइसेंस
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />इस काम के तहत लाइसेंस प्राप्त है<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">क्रिएटिव कॉमन्स एट्रिब्यूशन-शेयरअलाइल 4.0 इंटरनेशनल लाइसेंस</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />इस काम के तहत लाइसेंस प्राप्त है। <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">क्रिएटिव कॉमन्स एट्रिब्यूशन-शेयरअलाइल 4.0 इंटरनेशनल लाइसेंस</a>।
