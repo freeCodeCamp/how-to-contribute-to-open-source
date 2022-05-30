@@ -40,6 +40,7 @@ Wenn du Fragen oder Kommentare hast, eröffne bitte ein neues Issue.
 - [Versionskontrolle nutzen](#versionskontrolle-nutzen)
 - [Open-Source-Bücher](#open-source-bücher)
 - [Open-Source-Beitragsinitiativen](#open-source-beitragsinitiativen)
+- [Open-Source-Programme an denen du teilnehmen kannst](#open-source-programme-an-denen-du-teilnehmen-kannst)
 - [Lizenz](#lizenz)
 
 ## Open-Source-Beiträge im Allgemeinen
@@ -152,6 +153,17 @@ Suchbegriffe, die direkt auf für Einsteiger\*innen geeignete Issues auf GitHub 
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - ein Programm, das zu Open-Source-Beiträgen motiviert. Gewinne Preise wie T-Shirts oder Sticker,
   indem du mindestens fünf Pull-Requests im Oktober machst.
 - [24 Pull Requests](https://24pullrequests.com) - "24 Pull Requests" ist ein Projekt, das für Open-Source-Kollaborationen im Dezember wirbt.
+
+## Open-Source-Programme an denen du teilnehmen kannst
+
+- [Bundesnachrichtendienst (BND) | Summer of Code](https://www.bnd.bund.de/DE/Karriere/SummerOfCode/SummerOfCode_node.html)
+- [Google Summer of Code](https://summerofcode.withgoogle.com)
+- [FossAsia](https://fossasia.org)
+- [MLH Fellowship](https://fellowship.mlh.io)
+- [Outreachy](https://www.outreachy.org)
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com)
+- [CNCF](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
+- [Microsoft Reinforcement learning](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
 
 ## Lizenz
 
