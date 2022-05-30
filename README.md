@@ -175,7 +175,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [Girlscript Summer of Code](https://gssoc.girlscript.tech/) - A three-month-long Open-Source Program conducted every summer by the Girlscript Foundation. With constant efforts, participants contribute to numerous projects under the extreme guidance of skilled mentors over these months. With such exposure, students begin to contribute to real-world projects from the comfort of their homes. 
 
 ## Open Source programs to participate in
-
+- [Beginner friendly open Source programs with their timelines ](https://github.com/arpit456jain/Open-Source-Programs)
 - [Google Summer of Code](https://summerofcode.withgoogle.com)
 - [FossAsia](https://fossasia.org)
 - [MLH Fellowship](https://fellowship.mlh.io)
