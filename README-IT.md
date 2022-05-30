@@ -25,7 +25,7 @@
 
 Questa è una lista di risorse per le persone che sono nuove a contribuire all'open source.
 
-Se trovi risorse aggiuntive, si prega di contribuire con una richiesta di pull.
+Se trovi risorse aggiuntive, ti preghiamo di contribuire con una richiesta di pull.
 
 Se hai domande o commenti, crea un problema/issue.
 

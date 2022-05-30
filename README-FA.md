@@ -13,23 +13,24 @@
         <td><a href="./README-DE.md"> Deutsch </a></td>
         <td><a href="./README-GR.md"> Ελληνικά </a></td>
         <td><a href="./README-FR.md"> Français </a></td>
+        <td><a href="./README-FA.md"> فارسی </a></td>
     </tr>
 </table>
 
 <div dir="rtl" style="direction:rtl;text-align:right;">
 <p>
 
-# مشارکت کنندگان تازه وارد منبع-باز, خوش آمدید.
+# مشارکت کنندگان تازه وارد منبع-باز، خوش آمدید.
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 [![Build Status](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
 
-این فهرستی از منابع برای افرادی است که در زمینه مشارکت منبع-باز تازه وارد هستند.
+این فهرستی از منابع برای افراد تازه وارد در زمینه مشارکت منابع-باز است.
 
-اگر منابع اضافی پیدا کردید، لطفا از طریق پول-ریکوئست مشارکت کنید.
+اگر منابع بیشتری پیدا کردید، لطفا از طریق پول-ریکوئست مشارکت کنید.
 
-اگر سوالی یا نظری دارید، لطفا یک ایشو باز کنید.
+اگر سوال یا نظری دارید، لطفا یک ایشو باز کنید.
 
 **محتوا**
 
@@ -38,7 +39,7 @@
 - [اکو-سیستم مشارکت کننده موزیلا](#اکوسیستم-مشارکت-موزیلا)
 - [مقالات مفید برای مشارکت کنندگان جدید منبع-باز](#مقالات-مفید-برای-مشارکت-کنندگان-جدید-منبع-باز)
 - [استفاده از کنترل نسخه](#استفاده-از-کنترل-نسخه)
-- [کتاب های منبع-باز](#کتاب-های-منبع-باز)
+- [کتاب‌های منبع-باز](#کتابهای-منبع-باز)
 - [ابتکارات مشارکت منبع-باز](#ابتکارات-مشارکت-منبع-باز)
 - [مجوز](#مجوز)
 
@@ -71,7 +72,7 @@
 <p>
 
 ## جستجو مستقیم گیت هاب
-لینک های جستجو که مستقیما شما را به مشکلات گزارش شده مربوط به موضوعی خاص در گیت هاب می رسانند: 
+لینک‌های جستجویی که مستقیما به مشکلات گزارش شده مناسب در گیت هاب اشاره می‌کنند: 
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
 - [is:issue is:open label:first-timers-only](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
@@ -142,7 +143,7 @@
 <div dir="rtl" style="direction:rtl;text-align:right;">
 <p>
 
-## کتاب های منبع-باز
+## کتاب‌های منبع-باز
 - [Producing Open Source Software](http://producingoss.com/) - Producing Open Source Software is a book about the human side of Open Source development. It describes how successful projects operate, the expectations of users and developers, and the culture of free software.
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - Learn more about Open Source and the growing Open Source movement with a comprehensive list of free eBooks from https://opensource.com.
 - [Software Release Practice HOWTO](http://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - This HOWTO describes good release practices for Linux and other Open-Source projects. By following these practices, you will make it as easy as possible for users to build your code and use it, and for other developers to understand your code and cooperate with you to improve it.

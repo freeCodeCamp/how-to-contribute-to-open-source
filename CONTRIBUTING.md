@@ -1,9 +1,9 @@
 # Contributor's Guide
 
 'HOW TO CONTRIBUTE TO OPEN SOURCE' accepts PR's (pull requests) from **newbies**
-only, this is to help **newbies** get familiar with the contribution processes.
+only. This is to help **newbies** get familiar with the contribution processes.
 
-Issues can be submitted by anyone - seasoned developers or newbies.
+Issues can be submitted by anyone - either seasoned developers or newbies.
 
 **Contents**
 
@@ -48,14 +48,14 @@ Issues can be submitted by anyone - seasoned developers or newbies.
     and
     [here to practice](http://www.markdowntutorial.com/).
 
-    *   If you are adding a new project/organisation to the README, make sure
+    *   If you are adding a new project/organization to the README, make sure
         it's listed in alphabetical order.
-    *   If you are adding a new organisation, make sure you add an organisation
-        label to the organisation name. This would help distinguish projects
-        from organisation projects.
+    *   If you are adding a new organization, make sure you add an organization
+        label to the organization name. This would help distinguish projects
+        from organizations.
 
 6.  Add your modified
-    files to git, [How to Add, Commit, Push, and Go](http://readwrite.com/2013/10/02/github-for-beginners-part-2/).
+    files to Git, [How to Add, Commit, Push, and Go](http://readwrite.com/2013/10/02/github-for-beginners-part-2/).
 
     ```shell
     git add path/to/filename.ext
@@ -85,24 +85,24 @@ Issues can be submitted by anyone - seasoned developers or newbies.
 8.  Submit a pull request.
 
     Within GitHub, visit this main repository and you should see a banner
-    suggesting to make a pull request. While you're writing up the pull
+    suggesting that you make a pull request. While you're writing up the pull
     request, you can add `Closes #XXX` in the message body where `#XXX` is the
-    issue you're fixing. So an example would be `Closes #42` would close issue
+    issue you're fixing. Therefore, an example would be `Closes #42` would close issue
     `#42`.
 
 ### Submitting a Pull Request
 
 [What is a Pull Request?](https://yangsu.github.io/pull-request-tutorial/)
 
-If you decide to fix an issue, it's advisable to check the comment thread to see if there's somebody already working on a fix. If no one is working on it, kindly leave a comment stating that you intend to work on it. That way
+If you decide to fix an issue, it's advisable to check the comment thread to see if there's somebody already working on a fix. If no one is working on it, kindly leave a comment stating that you intend to work on it. By doing that,
 other people don't accidentally duplicate your effort.
 
-In a situation whereby somebody decides to fix an issue but doesn't follow up
+In a situation where somebody decides to fix an issue but doesn't follow up
 for a particular period of time, say 2-3 weeks, it's acceptable to still pick
-up the issue but make sure to leave a comment.
+up the issue but make sure that you leave a comment.
 
 *Note*: Every open-source project has a **CONTRIBUTING.md** file, please make
-sure to read this before you open up a pull request, otherwise it may be
+sure to read this before you open up a pull request; otherwise, it may be
 rejected. However, if you do not see any CONTRIBUTING.md file, you can send a
 pull request but do it in a descriptive manner.
 
@@ -113,23 +113,23 @@ The
 contains a list of useful resources for beginners who want to contribute to
 open source.
 
-You can contribute to this page by adding a Markdown formatted link.
+You can contribute to this page by adding a Markdown-formatted link.
 
-It should look similar to this below.
+It should look similar to the one below.
 
 ```
-- [Title of the page](www.websitename.com/slug-name-here) - Add description of why I should look at this site
+- [Title of the page](www.websitename.com/slug-name-here) - Add a description of why I should look at this site
 ```
 
-When in doubt, take a look at the current list items to get an idea of how you should format your contribution.
+When in doubt, take a look at the current list of items to get an idea of how you should format your contribution.
 
-When adding your contribution to the list, please add your link to the most appropriate section. If you are unsure, feel free to ask in your pull requst or comment in an issue asking for guidance.
+When adding your contribution to the list, please add your link to the most appropriate section. If you are unsure, feel free to ask in your pull request or comment in an issue asking for guidance.
 
 ### Adding to Non-English README
 
-The main `README.md` file is written in English. That file will be the template for all the other languages.
+The main `README.md` file is written in English. That file will be the template for all of the other languages.
 
-This repository is about contributing to open source and generally, translation is important to reaching diverse audiences. It is recommended that you provide language specific resources links instead of the Engligh resource links.
+This repository is about contributing to open source and generally, translation is important to reach diverse audiences. It is recommended that you provide language-specific resources links instead of the English-resource links.
 
 The non-English README files are named `README-XX.md`, where `xx` is the
 [two letter language code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
@@ -161,9 +161,9 @@ The list is generally formatted like below.
 
 So you have the project page itself at the top. This can be the front-facing website or GitHub page.
 
-Next we ask to link to the contributing page. This will give direction to people who want to contribute. This file is important to read so you understand what is expected from contributors who have not contributed to their project before.
+Next, we ask to link to the contributing page. This will give direction to people who want to contribute. This file is important to read so that you understand what is expected from contributors who have not contributed to their project before.
 
-Last, we want to link to beginner friendly labels. These are typically `Good First Issue` or something similar.
+Lastly, we want to link to beginner-friendly labels. These are typically `Good First Issue` or something similar.
 
 ### Helpful Resources
 

@@ -18,7 +18,7 @@
     </tr>
 </table>
 
-# Selamat Datang Kontributor Open Source Pemula!
+# Selamat Datang Kontributor _Open Source_ Untuk Pemula!
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
@@ -70,7 +70,7 @@ Jika Anda memiliki pertanyaan atau komentar, silahkan membuat issue baru.
 
 ## Pencarian Proyek Open Source Di Github Secara Langsung
 
-Link pencarian yang mengarah langsung ke issue yang sesuai untuk berkontribusi di GitHub.
+Link pencarian yang mengarah langsung ke _issue_ yang sesuai untuk berkontribusi di GitHub.
 
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
@@ -131,7 +131,7 @@ Link pencarian yang mengarah langsung ke issue yang sesuai untuk berkontribusi d
 - [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - Panduan lengkap berupa slides tentang git dan GitHub dijelaskan dalam bahasa Spanyol. Una guía completa de diapositivas sobre git y GitHub explicadas en Español.
 - [Git Kraken](https://www.gitkraken.com/git-client) - Aplikasi desktop `git` visual, lintas platform, dan interaktif untuk version control.
 - [Git Tips](https://github.com/git-tips/tips) - Kumpulan tips dan trik git yang paling sering digunakan.
-- [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - Sering meng-commit, Sempurnakan Nanti, Publikasikan Sekali: Praktik Terbaik Mengunakan Git.
+- [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - Sering meng-_commit_, Sempurnakan Nanti, Publikasikan Sekali: Praktik Terbaik Mengunakan Git.
 - [Git Interactive Tutorial](https://learngitbranching.js.org/) - Pelajari Git dengan cara yang paling visual dan interaktif.
 
 ## Buku-buku Tentang Open Source
