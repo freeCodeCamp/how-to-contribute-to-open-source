@@ -11,6 +11,7 @@
         <li><a href="./README-RU.md"> русский </a></li>
         <li><a href="./README-RO.md"> Românesc </a></li>
         <li><a href="./README-IT.md"> Italiano </a></li>
+        <li><a href="./README-ID.md"> Indonesia </a></li>
         <li><a href="./README-ES.md"> Español </a></li>
         <li><a href="./README-pt-BR.md"> Português (BR) </a></li>
         <li><a href="./README-DE.md"> Deutsch </a></li>
