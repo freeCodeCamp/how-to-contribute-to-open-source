@@ -11,6 +11,7 @@
         <li><a href="./README-RU.md"> русский </a></li>
         <li><a href="./README-RO.md"> Românesc </a></li>
         <li><a href="./README-IT.md"> Italiano </a></li>
+        <li><a href="./README-ID.md"> Indonesia </a></li>
         <li><a href="./README-ES.md"> Español </a></li>
         <li><a href="./README-pt-BR.md"> Português (BR) </a></li>
         <li><a href="./README-DE.md"> Deutsch </a></li>
@@ -172,12 +173,14 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [Google Summer of Code](https://summerofcode.withgoogle.com/) - An annually run paid program by Google focused on bringing more student developers into open-source software development.
 - [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) - A global fellowship program for women and non-binary coders where they work on existing open-source projects and expand their skillset.
 - [Major League Hacking Fellowship](https://fellowship.mlh.io/) - A remote internship alternative for aspiring technologists where they build, or contribute to open-source projects.
-- [Girlscript Summer of Code](https://gssoc.girlscript.tech/) - A three-month-long Open-Source Program conducted every summer by the Girlscript Foundation. With constant efforts, participants contribute to numerous projects under the extreme guidance of skilled mentors over these months. With such exposure, students begin to contribute to real-world projects from the comfort of their homes. 
+- [Girlscript Summer of Code](https://gssoc.girlscript.tech/) - A three-month-long Open-Source Program conducted every summer by the Girlscript Foundation. With constant efforts, participants contribute to numerous projects under the extreme guidance of skilled mentors over these months. With such exposure, students begin to contribute to real-world projects from the comfort of their homes.
+- [Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) - This is a tutorial to help first-time contributors to participate in a simple and easy project and get comfortable in using GitHub.
 
 ## Open Source programs to participate in
 
 - [All Linux Foundation (LF) Mentorships](https://mentorship.lfx.linuxfoundation.org/#projects_all)
 - [Cloud Native Computing Foundation](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
+- [Beginner friendly Open Source programs with their timelines](https://github.com/arpit456jain/Open-Source-Programs)
 - [FossAsia](https://fossasia.org)
 - [Free Software Foundation (FSF) Internship](https://www.fsf.org/volunteer/internships)
 - [Google Summer of Code](https://summerofcode.withgoogle.com)
