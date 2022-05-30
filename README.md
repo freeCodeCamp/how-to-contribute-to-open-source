@@ -176,6 +176,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 
 ## Open Source programs to participate in
 
+- [Beginner friendly Open Source programs with their timelines](https://github.com/arpit456jain/Open-Source-Programs)
 - [Google Summer of Code](https://summerofcode.withgoogle.com)
 - [FossAsia](https://fossasia.org)
 - [MLH Fellowship](https://fellowship.mlh.io)
