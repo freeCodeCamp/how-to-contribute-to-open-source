@@ -23,6 +23,7 @@
         <li><a href="./README-JA.md"> 日本語 </a></li>
         <li><a href="./README-HI.md"> हिंदी </a></li>
         <li><a href="./README-FA.md"> فارسی </a></li>
+        <li><a href="./README-UR.md">اردو </a></li>
     </ul>
 </details>
 <!-- Do not translate this -->
