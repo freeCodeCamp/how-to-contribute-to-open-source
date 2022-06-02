@@ -122,7 +122,7 @@ Direkt olarak uygun issuelara referans veren katkı sağlanabilecek arama bağla
 - [Açık Kaynaklı Yazılım Nedir? AKY(OSS) Sade Anlatım](https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/) by [Jessica Wilkins](https://www.freecodecamp.org/news/author/jessica-wilkins/)
 
 ## Versiyon Kontrol Kullanmak
-- [Git Gibi Düşünmek](http://think-like-a-git.net/) - İleri Seviye Yeni Başlayan olup bazı noktalarda zorlananlar için güvenli bir deneyim sağlamaları için basit stratejiler veren Git Tanıtımı
+- [Git Gibi Düşünmek](https://think-like-a-git.net/) - İleri Seviye Yeni Başlayan olup bazı noktalarda zorlananlar için güvenli bir deneyim sağlamaları için basit stratejiler veren Git Tanıtımı
 - [Git'i Dene](https://try.github.io/) - Ücretsiz olarak tarayıcın üzerinde 15 dakikada Git Öğren
 - [Her Gün "Git"](https://git-scm.com/docs/giteveryday) - Her gün ihtiyaç duyabileceğiniz kullanışlı komutlar
 - [Oh shit, git!](http://ohshitgit.com/) - Düz bir ingilizce ile anlatılmış "Git kullanırken yapılan ortak hatalardan nasıl kaçınırsın" kılavuzu

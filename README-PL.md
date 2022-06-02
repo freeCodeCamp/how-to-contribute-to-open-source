@@ -106,7 +106,7 @@ Linki wyszukiwania które wskazują na kwestie skierowane dla początkujących. 
 ## Używanie kontroli wersji
 - [Wprowadzenie do kontroli wersji](https://git-scm.com/book/pl/v2/Pierwsze-kroki-Wprowadzenie-do-kontroli-wersji) **[PL]**
 - [Poradnik dla chcących poznaćsystem kontroli wersji](https://microgeek.eu/viewtopic.php?t=852) **[PL]**
-- [Think Like (a) Git](http://think-like-a-git.net/) - Wstęp do systemu kontroli wersji Git dla ,,zaawansowanych początkujących'', którzy ciąglę napotykają się na  problemy. Głównym celem jest przedstawienie prostej strategii eksperymentowania z gitem. 
+- [Think Like (a) Git](https://think-like-a-git.net/) - Wstęp do systemu kontroli wersji Git dla ,,zaawansowanych początkujących'', którzy ciąglę napotykają się na  problemy. Głównym celem jest przedstawienie prostej strategii eksperymentowania z gitem. 
 - [Try Git](https://try.github.io/) - Naucz się Gita w 15 minut ze swojej przeglądarki za darmo.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Uzyteczny minimalny zbiór komend potrzebnych do codziennego używania Gita.
 - [Oh shit, git!](https://ohshitgit.com/) - Jak rozwiązać pospolite problemy, które możęsz napotkać podczas używania gita. Zobacz również [Dangit, git!](https://dangitgit.com/) stronę bez przekleństw.

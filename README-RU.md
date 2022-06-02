@@ -117,7 +117,7 @@
 - [Что такое Open Source ПО? OSS Explained in Plain English](https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/) by [Jessica Wilkins](https://www.freecodecamp.org/news/author/jessica-wilkins/)
 
 ## Использование контроля версий
-- [Подумайте как (a) Git](http://think-like-a-git.net/) - Введение Git для «продвинутых новичков», но все еще борется, чтобы дать вам простую стратегию безопасного экспериментирования с git.
+- [Подумайте как (a) Git](https://think-like-a-git.net/) - Введение Git для «продвинутых новичков», но все еще борется, чтобы дать вам простую стратегию безопасного экспериментирования с git.
 - [Попробуйте Git](https://try.github.io/) - Бесплатно выучите Git за 15 минут через свой браузер.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Полезный минимальный набор команд для Everyday Git.
 - [Вот, дерьмо, гит!](http://ohshitgit.com/) - как выйти из обычных ошибок `git`, описанных на простом английском языке.

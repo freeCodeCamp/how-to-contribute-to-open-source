@@ -118,7 +118,7 @@
 - [How to Start an Open Source Project on GitHub – Tips from Building My Trending Repo](https://www.freecodecamp.org/news/how-to-start-an-open-source-project-on-github-tips-from-building-my-trending-repo/) by [@Rishit-dagli](https://github.com/Rishit-dagli)
 
 ## 使用版本控制
-- [Think Like (a) Git](http://think-like-a-git.net/) - 为“高阶初学者”提供的Git介绍，但是任然在努力为了给你一个简单的策略来安全地体验Git。
+- [Think Like (a) Git](https://think-like-a-git.net/) - 为“高阶初学者”提供的Git介绍，但是任然在努力为了给你一个简单的策略来安全地体验Git。
 - [Try Git](https://try.github.io/) - 免费在你的浏览器中15分钟内学会使用Git。
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - 一个又用的Everyday Git的命令最小集。
 - [Oh shit, git!](http://ohshitgit.com/) - 如何避免一般的用易懂的英语描述的`git`错误。

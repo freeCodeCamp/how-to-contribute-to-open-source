@@ -92,7 +92,7 @@
 - [Μάθε βήμα-προς-βήμα το Git και το GitHub (σε Windows)](https://medium.com/@ows_ali/be93518e06dc) by [@ows-ali](https://medium.com/@ows_ali)
 
 ## Χρήση Version Control
-- [Think Like (a) Git](http://think-like-a-git.net/) - Εισαγωγή στο Git για "έμπειρους πρωτάρηδες", με σκοπό να τους δώσει μία απλή στρατηγική για να πειραματιστούν με το Git.
+- [Think Like (a) Git](https://think-like-a-git.net/) - Εισαγωγή στο Git για "έμπειρους πρωτάρηδες", με σκοπό να τους δώσει μία απλή στρατηγική για να πειραματιστούν με το Git.
 - [Try Git](https://try.github.io/) - Μάθε το Git σε 15 λεπτά από τον browser σου, δωρεάν.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Χρήσιμες εντολές για την καθημερινή χρήση του Git.
 - [Oh shit, git!](http://ohshitgit.com/) - Πως να αποφύγεις τα συνηθισμένα λάθη στο git.

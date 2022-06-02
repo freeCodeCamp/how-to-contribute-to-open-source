@@ -128,7 +128,7 @@
 
 ## باستخدام التحكم في الإصدار
 
-- [Think Like (a) Git](http://think-like-a-git.net/) - مقدمة Git لـ "المبتدئين المتقدمين" ، لكنهم ما زالوا يعانون ، من أجل إعطائك إستراتيجية بسيطة لتجربة git بأمان.
+- [Think Like (a) Git](https://think-like-a-git.net/) - مقدمة Git لـ "المبتدئين المتقدمين" ، لكنهم ما زالوا يعانون ، من أجل إعطائك إستراتيجية بسيطة لتجربة git بأمان.
 - [Try Git](https://try.github.io/) -تعلم Git في 15 دقيقة من داخل متصفحك مجانًا.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) -الحد الأدنى من مجموعة الأوامر المفيدة لـ Everyday Git.
 - [Oh shit, git!](https://ohshitgit.com/) - كيفية الخروج من الأمور المشتركة `git` وصفت الأخطاء بلغة إنجليزية بسيطة ؛ انظر أيضا [Dangit, git!](https://dangitgit.com/) للصفحة بدون أقسم.

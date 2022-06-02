@@ -88,7 +88,7 @@ Căutați linkuri care indică direct problemele potrivite pentru a contribui la
 - ["Hacktoberfest 2018: Cum poți câștiga un tricou gratis - chiar dacă ești nou la programare"](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) de către [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
 
 ## Utilizarea controlului versiunii (version control)
-- [Gandește ca (un) stupid (Git)](http://think-like-a-git.net/) - Introducerea la Git pentru „începătorii avansați“, dar care încă mai au probleme, cu scopul de a vă oferi o strategie simplă pentru a experimenta în siguranță cu git.
+- [Gandește ca (un) stupid (Git)](https://think-like-a-git.net/) - Introducerea la Git pentru „începătorii avansați“, dar care încă mai au probleme, cu scopul de a vă oferi o strategie simplă pentru a experimenta în siguranță cu git.
 - [Încercați Git](https://try.github.io/) - Învață Git în 15 minute din browser-ul tău gratuit.
 - [Git zilmic](https://git-scm.com/docs/giteveryday) - Un set util de comenzi pentru Git zilnic.
 - [Oh shit, git!](http://ohshitgit.com/) - cum să scapi de greșelile comune în "git" descrise în engleză simplă.

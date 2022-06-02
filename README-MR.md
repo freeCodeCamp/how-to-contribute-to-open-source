@@ -116,7 +116,7 @@
 - [8 non-code ways to contribute to open source](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code) द्वारा [OpenSource](https://twitter.com/OpenSourceWay)
 
 ## आवृत्ती नियंत्रण वापरणे
-- [Think Like (a) Git](http://think-like-a-git.net/) - "प्रगत नवशिक्यांसाठी" गिट परिचय, परंतु गिटचा सुरक्षितपणे प्रयोग करण्यासाठी आपल्याला एक सोपी रणनीती देण्यासाठी आपण अद्याप धडपडत आहात.
+- [Think Like (a) Git](https://think-like-a-git.net/) - "प्रगत नवशिक्यांसाठी" गिट परिचय, परंतु गिटचा सुरक्षितपणे प्रयोग करण्यासाठी आपल्याला एक सोपी रणनीती देण्यासाठी आपण अद्याप धडपडत आहात.
 - [Try Git](https://try.github.io/) - आपल्या ब्राउझरमधून १५ मिनिटांत गिट विनामूल्य शिका.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - दररोज गिटसाठी उपयुक्त कमांड्सचा एक सेट.
 - [Oh shit, git!](https://ohshitgit.com/) - साध्या इंग्रजीत वर्णन केलेल्या `git` सामान्य चुकांमधून कसे मुक्त व्हावे; देखील पहा [Dangit, git!](https://dangitgit.com/) शपथ न देता पृष्ठासाठी.

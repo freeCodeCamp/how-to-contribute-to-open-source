@@ -91,7 +91,7 @@ Github上での貢献に適切な問題を表示しているリンクを直接�
 - [Windowsで順を追ってGitとGitHubを学ぼう](https://medium.com/@ows_ali/be93518e06dc) by [@ows-ali](https://medium.com/@ows_ali)
 
 ## バージョン管理の使用
-- [Gitのように考えよう](http://think-like-a-git.net/) - 少し前進したけどまだ奮闘中の初心者へ、Gitを安全に経験できるための簡単な作戦を与えるためのGit紹介
+- [Gitのように考えよう](https://think-like-a-git.net/) - 少し前進したけどまだ奮闘中の初心者へ、Gitを安全に経験できるための簡単な作戦を与えるためのGit紹介
 - [Gitを使ってみよう](https://try.github.io/) - 無料でブラウザを使って、15分でGitを学ぼう
 - [Gitの日々](https://git-scm.com/docs/giteveryday) - 毎日のGit生活のために必要な最低限の役立つコマンド一覧
 - [gitめ…](http://ohshitgit.com/) - gitで良く起こるミスを阻止する方法について、英語で説明
