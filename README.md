@@ -81,6 +81,8 @@ If you have questions or comments, please create an issue.
 - ["GitHub Learning Lab"](https://lab.github.com/) - Level up your skills with GitHub Learning Lab. Our friendly bot will take you through a series of fun, practical projects to learn the skills you need in no time—and share helpful feedback along the way.
 - ["Ten simple rules for helping newcomers become contributors to open projects"](https://doi.org/10.1371/journal.pcbi.1007296) - This article covers rules based on studies of many communities and experiences of members, leaders, and observers.
 - ["Step-by-Step guide to contributing on GitHub"](https://www.dataschool.io/how-to-contribute-on-github/) - a step-by-step guide with supporting visuals and links regarding the whole process of contributing to an open source project.
+- ["open-source-with-pradumna"](https://github.com/Pradumnasaraf/open-source-with-pradumna) - This repo contains **resources and materials** to learn and get yourself started with **Open Source, Git, and GitHub**.
+
 
 ## Direct GitHub searches
 
