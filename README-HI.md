@@ -104,7 +104,7 @@
 - [मुझे किस ओपन-सोर्स में योगदान देना चाहिए?](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) by Kent C. Dodds
 
 ## संस्करण नियंत्रण का उपयोग करना
-- [Think Like (a) Git](http://think-like-a-git.net/) - "उन्नत शुरुआती" के लिए Git परिचय, लेकिन अभी भी संघर्ष कर रहे हैं, ताकि आप सुरक्षित रूप से git के साथ प्रयोग करने के लिए एक सरल रणनीति दे सकें।
+- [Think Like (a) Git](https://think-like-a-git.net/) - "उन्नत शुरुआती" के लिए Git परिचय, लेकिन अभी भी संघर्ष कर रहे हैं, ताकि आप सुरक्षित रूप से git के साथ प्रयोग करने के लिए एक सरल रणनीति दे सकें।
 - [Try Git](https://try.github.io/) - अपने ब्राउज़र में मुफ्त में 15 मिनट में Git सीखें।
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - हर दिन Git के लिए कमांड का एक उपयोगी न्यूनतम सेट.
 - [Oh shit, git!](https://ohshitgit.com/) - सामान्य अंग्रेजी में वर्णित सामान्य `गिट` गलतियों से कैसे बाहर निकलें; पृष्ठ के लिए [शपथ, गिट!] (https://dangitgit.com/) को बिना शपथ ग्रहण के भी देखें।

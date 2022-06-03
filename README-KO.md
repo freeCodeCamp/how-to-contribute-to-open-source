@@ -102,7 +102,7 @@ GitHub에서 기여할 만한 적절한 이슈를 직접적으로 가리키는 �
 - [Learn Git and GitHub Step By Step (on Windows)](https://medium.com/@ows_ali/be93518e06dc) by [@ows-ali](https://medium.com/@ows_ali)
 
 ## 버전 관리 사용하기
-- [Think Like (a) Git](http://think-like-a-git.net/) - 고급 초보자들을 위한 Git 소개, git에 대한 확실한 경험을 전달하기 위해 고군 분투중입니다.
+- [Think Like (a) Git](https://think-like-a-git.net/) - 고급 초보자들을 위한 Git 소개, git에 대한 확실한 경험을 전달하기 위해 고군 분투중입니다.
 - [Try Git](https://try.github.io/) - 브라우저에서 15분 이내에 Git을 무료로 배워보세요.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - 매일매일 Git을 사용하는데 유용한 최소한의 명령어들 모음
 - [Oh shit, git!](https://ohshitgit.com/) - 영어로 설명된 일반적인 git 실수에서 벗어나는 방법; 또한 [Dangit, git!](https://dangitgit.com/) 을 참조하세요.

@@ -98,7 +98,7 @@ Listes de recherches pointant directement vers des `issues` propices à la contr
 - [Apprendre Git et GitHub étape par étape (sur Windows)](https://medium.com/@ows_ali/be93518e06dc) par [@ows-ali](https://medium.com/@ows_ali)
 
 ## Utiliser le gestionnaire de version
-- [Penser comme (un) Git](http://think-like-a-git.net/) - introduction à Git pour les "novices avancés" qui ont toujours des difficultés, pour vous offrir une stratégie simple pour expérimenter sans risque avec Git.
+- [Penser comme (un) Git](https://think-like-a-git.net/) - introduction à Git pour les "novices avancés" qui ont toujours des difficultés, pour vous offrir une stratégie simple pour expérimenter sans risque avec Git.
 - [Try Git](https://try.github.io/) - apprendre Git en 15 minutes depuis votre navigateur gratuitement.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - liste des commandes basiques utiles pour utiliser Git au quotidien.
 - [Oh shit, git!](http://ohshitgit.com/) - comment s'extraire des erreurs courantes de `git` expliquées de manière simple.

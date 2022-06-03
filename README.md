@@ -136,7 +136,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 
 ## Using Version Control
 
-- [Think Like (a) Git](http://think-like-a-git.net/) - Git introduction for "advanced beginners", but are still struggling, in order to give you a simple strategy to safely experiment with git.
+- [Think Like (a) Git](https://think-like-a-git.net/) - Git introduction for "advanced beginners", but are still struggling, in order to give you a simple strategy to safely experiment with git.
 - [Quickstart - Set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - Learn how to set up Git locally and set up authentication, along with next steps on your learning journey.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - A useful minimum set of commands for Everyday Git.
 - [Oh shit, git!](https://ohshitgit.com/) - how to get out of common `git` mistakes described in plain English; also see [Dangit, git!](https://dangitgit.com/) for the page without swears.

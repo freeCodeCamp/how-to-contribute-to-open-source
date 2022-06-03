@@ -113,7 +113,7 @@ Suchbegriffe, die direkt auf für Einsteiger\*innen geeignete Issues auf GitHub 
 
 ## Versionskontrolle nutzen
 
-- [Think Like (a) Git](http://think-like-a-git.net/) - Git-Einführung für "Fortgeschrittene Anfänger\*innen", welche ihnen eine Strategie an die Hand gibt, um
+- [Think Like (a) Git](https://think-like-a-git.net/) - Git-Einführung für "Fortgeschrittene Anfänger\*innen", welche ihnen eine Strategie an die Hand gibt, um
   problemlos und sicher mit Git zu experimentieren.
 - [Try Git](https://try.github.io/) - Git lernen innerhalb von fünfzehn Minuten aus dem Browser heraus, kostenlos.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Eine hilfreiche Minimalversion der grundsätzlichsten Git-Kommandos.

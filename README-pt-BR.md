@@ -99,7 +99,7 @@ Pesquise por links diretos para issues no GitHub.
 
 ## Usando ferramentas de Controle de Versões
 
-- [Think Like (a) Git](http://think-like-a-git.net/) - Introdução a Git para "Iniciantes Avançados" que ainda têm dificuldades, a fim de proporcionar uma estratégia simples para experimentar Git de maneira segura.
+- [Think Like (a) Git](https://think-like-a-git.net/) - Introdução a Git para "Iniciantes Avançados" que ainda têm dificuldades, a fim de proporcionar uma estratégia simples para experimentar Git de maneira segura.
 - [Try Git](https://try.github.io/) - Aprenda Git gratuitamente em 15 minutos a partir do seu navegador.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Um conjunto de comandos do Git úteis para o dia-a-dia.
 - [Oh shit, git!](http://ohshitgit.com/) - Como consertar erros comuns em Git.

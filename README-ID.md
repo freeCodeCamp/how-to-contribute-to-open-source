@@ -116,7 +116,7 @@ Link pencarian yang mengarah langsung ke _issue_ yang sesuai untuk berkontribusi
 
 ## Menggunakan Version Control
 
-- [Think Like (a) Git](http://think-like-a-git.net/) - Pengenalan Git untuk pemula tingkat lanjut yang masih kesulitan agar dapat mempelajari strategi yang simpel untuk bereksperimen dengan Git secara aman.
+- [Think Like (a) Git](https://think-like-a-git.net/) - Pengenalan Git untuk pemula tingkat lanjut yang masih kesulitan agar dapat mempelajari strategi yang simpel untuk bereksperimen dengan Git secara aman.
 - [Try Git](https://try.github.io/) - Belajar Git dalam 15 menit dari Browser secara gratis.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Kumpulan perintah yang berguna untuk pemakaian Git dalam sehari-hari.
 - [Oh shit, git!](https://ohshitgit.com/) - bagaimana cara menghindari kesalahan umum saat mengunakan `git`, dideskripsikan dalam Bahasa Inggris; baca juga [Dangit, git!](https://dangitgit.com/) untuk situs web tanpa kata kasar.

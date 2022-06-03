@@ -128,7 +128,7 @@ Povezave, ki neposredno usmerjajo na primerne `issues`, s katerim lahko prispeva
 
 ## Uporabljanje Version Control
 
-- [Think Like (a) Git](http://think-like-a-git.net/) - Git uvod za "napredne začetnike", da bi vam ponudili preprosto strategijo za varno eksperimentiranje z git.
+- [Think Like (a) Git](https://think-like-a-git.net/) - Git uvod za "napredne začetnike", da bi vam ponudili preprosto strategijo za varno eksperimentiranje z git.
 - [Try Git](https://try.github.io/) - Brezplačno se naučite Git v 15 minutah v svojem brskalniku.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Uporaben minimalni nabor ukazov za vsakodnevni Git.
 - [Oh shit, git!](https://ohshitgit.com/) - kako se znebiti pogostih `git` napak, opisanih v preprosti angleščini; glej tudi [Dangit, git!](https://dangitgit.com/) za stran brez kletvic.
