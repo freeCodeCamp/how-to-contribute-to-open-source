@@ -177,6 +177,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [Major League Hacking Fellowship](https://fellowship.mlh.io/) - A remote internship alternative for aspiring technologists where they build, or contribute to open-source projects.
 - [Girlscript Summer of Code](https://gssoc.girlscript.tech/) - A three-month-long Open-Source Program conducted every summer by the Girlscript Foundation. With constant efforts, participants contribute to numerous projects under the extreme guidance of skilled mentors over these months. With such exposure, students begin to contribute to real-world projects from the comfort of their homes.
 - [Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) - This is a tutorial to help first-time contributors to participate in a simple and easy project and get comfortable in using GitHub.
+- [Awesome Open Source](https://awesomeopensource.com) - This is a website where you can find Open-Source projects by searching, browsing and combining topics across categories and projects.
 
 ## Open Source programs to participate in
 
