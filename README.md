@@ -24,6 +24,7 @@
         <li><a href="./README-HI.md"> हिंदी </a></li>
         <li><a href="./README-FA.md"> فارسی </a></li>
         <li><a href="./README-UR.md">اردو </a></li>
+        <li><a href="./README-AR.md">اللغة العربية </a></li>
     </ul>
 </details>
 <!-- Do not translate this -->
