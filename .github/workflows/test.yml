@@ -16,7 +16,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Set up Ruby 2.6
+      - name: Set up Ruby 2.7
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 2.6
