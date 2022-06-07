@@ -137,7 +137,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 
 ## Using Version Control
 
-- [Video tutorial for Git and Github by Harvard University](https://www.youtube.com/watch?v=NcoBAfJ6l2Q) -  Tutorial by Harvard University, part of their CS50 Web Development course on understanding Git and GitHub and working with Git commands.
+- [Video tutorial for Git and Github by Harvard University](https://www.youtube.com/watch?v=NcoBAfJ6l2Q) - Tutorial by Harvard University, part of their CS50 Web Development course on understanding Git and GitHub and working with Git commands.
 - [Think Like (a) Git](https://think-like-a-git.net/) - Git introduction for "advanced beginners", but are still struggling, in order to give you a simple strategy to safely experiment with git.
 - [Quickstart - Set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - Learn how to set up Git locally and set up authentication, along with next steps on your learning journey.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - A useful minimum set of commands for Everyday Git.
