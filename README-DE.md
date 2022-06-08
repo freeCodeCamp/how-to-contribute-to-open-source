@@ -36,7 +36,7 @@ Wenn du Fragen oder Kommentare hast, eröffne bitte ein neues Issue.
 - [Open-Source-Beiträge im Allgemeinen](#open-source-beiträge-im-allgemeinen)
 - [GitHub-Suchen](#github-suchen)
 - [Mozillas Open-Source-Ökosystem](#mozillas-open-source-ökosystem)
-- [Nützliche Artikel für Open-Source-Mitarbeiter\*innen](#nützliche-artikel-für-open-source-mitarbeiter*innen)
+- [Nützliche Artikel für Open-Source-Mitarbeiterinnen](#nützliche-artikel-für-open-source-mitarbeiterinnen)
 - [Versionskontrolle nutzen](#versionskontrolle-nutzen)
 - [Open-Source-Bücher](#open-source-bücher)
 - [Open-Source-Beitragsinitiativen](#open-source-beitragsinitiativen)
@@ -94,7 +94,7 @@ Suchbegriffe, die direkt auf für Einsteiger\*innen geeignete Issues auf GitHub 
   Interessen heraus, wo du helfen kannst.
 - [Start Mozilla](https://twitter.com/StartMozilla) - ein Twitter-Account der über Issues twittert, die gut geeignet für neue Entwickler\*innen sind.
 
-## Nützliche Artikel für Open-Source-Mitarbeiter\*innen
+## Nützliche Artikel für Open-Source-Mitarbeiterinnen
 
 - [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) von [@GitHub](https://github.com/github)
 - [How to find your first Open Source bug to fix](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) von [@Shubheksha](https://github.com/Shubheksha)

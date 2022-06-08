@@ -35,14 +35,14 @@ Jika anda jumpa sumber tambahan, sila menyumbang dengan membuat satu permintaan 
 Jika anda mempunyai soalan atau komen, sila membuat satu isu tentang soalan atau komen tersebut.
 
 **Kandungan**
-- [Menyumbang kepada Sumber Terbuka secara umum](#contributing-to-open-source-in-general)
-- [Carian GitHub secara langsung](#direct-github-searches)
-- [Ekosistem penyumbang Mozilla](#mozillas-contributor-ecosystem)
-- [Artikel bermanfaat untuk penyumbang baru dalam Sumber Terbuka](#useful-articles-for-new-open-source-contributors)
-- [Mengguna Kawalan Versi](#using-version-control)
-- [Buku untuk Sumber Terbuka](#open-source-books)
-- [Sumbangan inisiatif Sumber Terbuka](#open-source-contribution-initiatives)
-- [Lesen](#license)
+- [Menyumbang kepada Sumber Terbuka secara umum](#Menyumbang-kepada-Sumber-Terbuka-secara-umum)
+- [Carian GitHub secara langsung](#Carian-GitHub-secara-langsung)
+- [Ekosistem penyumbang Mozilla](#Ekosistem-penyumbang-Mozilla)
+- [Artikel bermanfaat untuk penyumbang baru dalam Sumber Terbuka](#Artikel-bermanfaat-untuk-penyumbang-baru-dalam-Sumber-Terbuka)
+- [Mengguna Kawalan Versi](#Mengguna-Kawalan-Versi)
+- [Buku untuk Sumber Terbuka](#Buku-untuk-Sumber-Terbuka)
+- [Sumbangan inisiatif Sumber Terbuka](#Sumbangan-inisiatif-Sumber-Terbuka)
+- [Lesen](#Lesen)
 
 ## Menyumbang kepada Sumber Terbuka secara umum
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) karya [@DoomHammerNG](https://twitter.com/DoomHammerNG)
