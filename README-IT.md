@@ -15,6 +15,7 @@
         <td><a href="./README-FR.md"> Français </a></td>
         <td><a href="./README-TR.md"> Turkish </a></td>
         <td><a href="./README-KO.md"> 한국어 </a></td>
+        <td><a href="./README-HE.md"> עברית </a></td>
     </tr>
 </table>
 # Benvenuti contributori principianti all'open source!
@@ -25,7 +26,7 @@
 
 Questa è una lista di risorse per le persone che sono nuove a contribuire all'open source.
 
-Se trovi risorse aggiuntive, si prega di contribuire con una richiesta di pull.
+Se trovi risorse aggiuntive, ti preghiamo di contribuire con una richiesta di pull.
 
 Se hai domande o commenti, crea un problema/issue.
 
@@ -88,7 +89,7 @@ Se hai domande o commenti, crea un problema/issue.
 - ["Hacktoberfest 2018: Come puoi ottenere la tua maglietta gratis — anche se sei nuovo nella codifica/programazione"](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) di [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
 
 ## L'uso della versione di controllo/version control
-- [Pensa come (un) Git (stupido)](http://think-like-a-git.net/) - L'Introduzione a Git per i "principianti avanzati", ma hanno ancora difficoltà, al fine di darti una semplice strategia per sperimentare in sicurezza con git.
+- [Pensa come (un) Git (stupido)](https://think-like-a-git.net/) - L'Introduzione a Git per i "principianti avanzati", ma hanno ancora difficoltà, al fine di darti una semplice strategia per sperimentare in sicurezza con git.
 - [Prova Git](https://try.github.io/) - Impara Git in 15 minuti dal tuo browser gratuitamente.
 - [Ogni giorno Git](https://git-scm.com/docs/giteveryday) - Un utile set minimo di comandi per Git da usare ogni giorno.
 - [Oh mio Dio, git!](http://ohshitgit.com/) - come uscire dagli errori di `git` comuni descritti in inglese semplice.

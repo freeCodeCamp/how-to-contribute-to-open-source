@@ -137,7 +137,7 @@
 <p>
 
 ## שימוש ב-Version Control
-- [Think Like (a) Git](http://think-like-a-git.net/) - מדריך גיט ל״מתחילים מתקדמים״ מתקשים, המחפשים אסטרטגיה פשוטה להתנסות עם גיט.
+- [Think Like (a) Git](https://think-like-a-git.net/) - מדריך גיט ל״מתחילים מתקדמים״ מתקשים, המחפשים אסטרטגיה פשוטה להתנסות עם גיט.
 - [Try Git](https://try.github.io/) - למדו גיט ב-15 דקות ישירות מהדפדפן בחינם.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - סט מינימלי שימושי של פקודות לשימוש גיט יומיומי
 - [!Oh shit, git](https://ohshitgit.com/) - כיצד לצאת מטעויות גיט נפוצות, כתוב באנגלית; ראו גם [!Dangit, git](https://dangitgit.com/) עבור עמוד ללא קללות.

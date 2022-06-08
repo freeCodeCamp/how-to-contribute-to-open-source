@@ -106,7 +106,7 @@ Cari pautan yang mengarahkan secara langsung kepada masalah yang sesuai untuk di
 - [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) karya Kent C. Dodds
 
 ## Menggunakan Kawalan Versi
-- [Think Like (a) Git](http://think-like-a-git.net/) - Pengenalan Git untuk "pemula maju", tetapi masih bersusah-payah, untuk memberi anda strategi mudah untuk bereksperimen dengan selamat dengan git.
+- [Think Like (a) Git](https://think-like-a-git.net/) - Pengenalan Git untuk "pemula maju", tetapi masih bersusah-payah, untuk memberi anda strategi mudah untuk bereksperimen dengan selamat dengan git.
 - [Try Git](https://try.github.io/) - Belajar Git dalam 15 minit dalam penyemak imbas('browser') anda secara percuma.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Satu set perintah minimum yang berguna untuk Everyday Git.
 - [Oh shit, git!](https://ohshitgit.com/) - cara mengatasi kesalahan `git` yang dijelaskan dalam bahasa Inggeris biasa; lihat juga [Dangit, git!](https://dangitgit.com/) untuk halaman tanpa carutan.
