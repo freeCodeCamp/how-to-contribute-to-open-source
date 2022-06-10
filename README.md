@@ -122,7 +122,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [Git Tips](https://github.com/git-tips/tips) - Collection of most commonly used git tips and tricks.
 - [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - Commit Often, Perfect Later, Publish Once: Git Best Practices.
 - [Git Interactive Tutorial](https://learngitbranching.js.org/) - Learn Git in the most visual and interactive way.
-- [Git Cheat Cheets](https://devhints.io/?q=git) - A set of grahical cheat sheets on git
+- [Git Cheat Cheets](https://devhints.io/?q=git) - A set of graphical cheat sheets on git.
 
 ## Open Source books
 - [Producing Open Source Software](https://producingoss.com/) - Producing Open Source Software is a book about the human side of Open Source development. It describes how successful projects operate, the expectations of users and developers, and the culture of free software.
