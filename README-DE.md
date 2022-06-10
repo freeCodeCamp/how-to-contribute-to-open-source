@@ -2,6 +2,8 @@
     <tr>
         <!-- Do not translate this table -->
         <td><a href="./README.md"> English </a></td>
+        <td><a href="./README-MR.md"> मराठी </a></td>
+        <td><a href="./README-BN.md"> বাংলা </a></td>
         <td><a href="./README-CN.md"> 中文 </a></td>
         <td><a href="./README-RU.md"> русский </a></td>
         <td><a href="./README-RO.md"> Românesc </a></td>
@@ -12,6 +14,7 @@
         <td><a href="./README-GR.md"> Ελληνικά </a></td>
         <td><a href="./README-FR.md"> Français </a></td>
         <td><a href="./README-TR.md"> Turkish </a></td>
+        <td><a href="./README-KO.md"> 한국어 </a></td>
     </tr>
 </table>
 
@@ -26,17 +29,18 @@ Open-Source-Welt sind und selbst etwas beitragen möchten.
 
 Wenn du weitere nützliche Materialien findest, starte bitte einen Pull Request.
 
-Wenn du Fragen oder Kommentare hast, eröffne bitte einen neuen Issue.
+Wenn du Fragen oder Kommentare hast, eröffne bitte ein neues Issue.
 
 **Inhaltsverzeichnis**
 
 - [Open-Source-Beiträge im Allgemeinen](#open-source-beiträge-im-allgemeinen)
 - [GitHub-Suchen](#github-suchen)
 - [Mozillas Open-Source-Ökosystem](#mozillas-open-source-ökosystem)
-- [Nützliche Artikel für Open-Source-Mitarbeiter\*innen](#nützliche-artikel-für-open-source-mitarbeiter*innen)
+- [Nützliche Artikel für Open-Source-Mitarbeiterinnen](#nützliche-artikel-für-open-source-mitarbeiterinnen)
 - [Versionskontrolle nutzen](#versionskontrolle-nutzen)
 - [Open-Source-Bücher](#open-source-bücher)
 - [Open-Source-Beitragsinitiativen](#open-source-beitragsinitiativen)
+- [Open-Source-Programme an denen du teilnehmen kannst](#open-source-programme-an-denen-du-teilnehmen-kannst)
 - [Lizenz](#lizenz)
 
 ## Open-Source-Beiträge im Allgemeinen
@@ -44,7 +48,7 @@ Wenn du Fragen oder Kommentare hast, eröffne bitte einen neuen Issue.
 - [The Definitive Guide to Contributing to Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) von [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials von DigitalOcean, die dich beim
   erfolgreichen Erstellen von Beiträgen auf GitHub anleiten.
-- [Issuehub.io](http://issuehub.io/) - ein Tool, um auf GitHub nach Issues mit speziellen Labeln und Sprachen zu suchen.
+- [Issuehub.io](http://issuehub.pro/) - ein Tool, um auf GitHub nach Issues mit speziellen Labeln und Sprachen zu suchen.
 - [Code Triage](https://www.codetriage.com/) - noch ein sehr schönes Tool, um nach Sprache sortiert beliebte Repositorys und Issues zu finden. -
   [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - ein GitHub-Repository, das Projekte mit guten Einsteiger\*innen-Bugs sammelt und
   mit entsprechenden Labels versieht.
@@ -90,7 +94,7 @@ Suchbegriffe, die direkt auf für Einsteiger\*innen geeignete Issues auf GitHub 
   Interessen heraus, wo du helfen kannst.
 - [Start Mozilla](https://twitter.com/StartMozilla) - ein Twitter-Account der über Issues twittert, die gut geeignet für neue Entwickler\*innen sind.
 
-## Nützliche Artikel für Open-Source-Mitarbeiter\*innen
+## Nützliche Artikel für Open-Source-Mitarbeiterinnen
 
 - [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) von [@GitHub](https://github.com/github)
 - [How to find your first Open Source bug to fix](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) von [@Shubheksha](https://github.com/Shubheksha)
@@ -109,7 +113,7 @@ Suchbegriffe, die direkt auf für Einsteiger\*innen geeignete Issues auf GitHub 
 
 ## Versionskontrolle nutzen
 
-- [Think Like (a) Git](http://think-like-a-git.net/) - Git-Einführung für "Fortgeschrittene Anfänger\*innen", welche ihnen eine Strategie an die Hand gibt, um
+- [Think Like (a) Git](https://think-like-a-git.net/) - Git-Einführung für "Fortgeschrittene Anfänger\*innen", welche ihnen eine Strategie an die Hand gibt, um
   problemlos und sicher mit Git zu experimentieren.
 - [Try Git](https://try.github.io/) - Git lernen innerhalb von fünfzehn Minuten aus dem Browser heraus, kostenlos.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Eine hilfreiche Minimalversion der grundsätzlichsten Git-Kommandos.
@@ -133,7 +137,7 @@ Suchbegriffe, die direkt auf für Einsteiger\*innen geeignete Issues auf GitHub 
   Projekte agieren, die Erwartungen der Nutzer\*innen und Entwickler\*innen und die Kultur freier Software.
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - lerne mehr über Freie Software und die Freie-Software-Bewegung durch eine Reihe von
   verständlichen EBooks von https://opensource.com.
-- [Software Release Practice HOWTO](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - dieses How-To beschreibt gute Veröffentlichungspraxis für Linux
+- [Software Release Practice HOWTO](http://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - dieses How-To beschreibt gute Veröffentlichungspraxis für Linux
   und andere Freie-Software-Projekte. Wenn du dich an diese Praxis hältst, machst du es anderen Nutzer\*innen einfacher, deinen Code zu nutzen, zu verstehen und
   mit ihm zu arbeiten.
 - [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - "Open Sources 2.0" ist eine Essaysammlung
@@ -149,6 +153,17 @@ Suchbegriffe, die direkt auf für Einsteiger\*innen geeignete Issues auf GitHub 
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - ein Programm, das zu Open-Source-Beiträgen motiviert. Gewinne Preise wie T-Shirts oder Sticker,
   indem du mindestens fünf Pull-Requests im Oktober machst.
 - [24 Pull Requests](https://24pullrequests.com) - "24 Pull Requests" ist ein Projekt, das für Open-Source-Kollaborationen im Dezember wirbt.
+
+## Open-Source-Programme an denen du teilnehmen kannst
+
+- [Bundesnachrichtendienst (BND) | Summer of Code](https://www.bnd.bund.de/DE/Karriere/SummerOfCode/SummerOfCode_node.html)
+- [Google Summer of Code](https://summerofcode.withgoogle.com)
+- [FossAsia](https://fossasia.org)
+- [MLH Fellowship](https://fellowship.mlh.io)
+- [Outreachy](https://www.outreachy.org)
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com)
+- [CNCF](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
+- [Microsoft Reinforcement learning](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
 
 ## Lizenz
 

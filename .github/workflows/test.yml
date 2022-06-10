@@ -2,6 +2,10 @@ name: Check Resources
 
 on: [push,pull_request]
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.head_ref || github.run_id }}
+  cancel-in-progress: true
+
 jobs:
   validate:
     runs-on: ubuntu-latest
@@ -9,20 +13,31 @@ jobs:
     steps:
       - name: Checkout Source Files
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
 
       - name: Set up Ruby 2.6
-        uses: actions/setup-ruby@v1
+        uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.6.x
+          ruby-version: 2.6
+          bundler-cache: true
 
-      - name: Run Checks
-      #  shell: bash +e +o pipefail {0}
+      - name: Run checks
+        id: checks
+        # shell: bash +e +o pipefail {0}
+        # continue-on-error: true
         run: |
           gem install awesome_bot
           awesome_bot -f README.md --allow-ssl --allow 302,429 --white-list firsttimersonly.com,github.com/github,creativecommons.org/licenses/by-sa/4.0
-          gem install danger
 
-      # - name: Run Danger
-      #   env:
-      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      #   uses: danger/danger@master
+#      - name: Run Danger
+#        uses: MeilCli/danger-action@v5
+#        with:
+#          plugins_file: 'Gemfile'
+#          install_path: 'vendor/bundle'
+#          danger_file: 'Dangerfile'
+#          danger_id: 'danger-ci'
+#        env:
+#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#          DANGER_GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+

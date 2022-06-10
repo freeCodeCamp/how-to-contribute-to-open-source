@@ -2,6 +2,8 @@
     <tr>
         <!-- Do not translate this table -->
         <td><a href="./README.md"> English </a></td>
+        <td><a href="./README-MR.md"> मराठी </a></td>
+        <td><a href="./README-BN.md"> বাংলা </a></td>
         <td><a href="./README-CN.md"> 中文 </a></td>
         <td><a href="./README-RU.md"> русский </a></td>
         <td><a href="./README-RO.md"> Românesc </a></td>
@@ -12,6 +14,7 @@
         <td><a href="./README-GR.md"> Ελληνικά </a></td>
         <td><a href="./README-FR.md"> Français </a></td>
         <td><a href="./README-TR.md"> Turkish </a></td>
+        <td><a href="./README-KO.md"> 한국어 </a></td>
     </tr>
 </table>
 
@@ -41,11 +44,11 @@ Si vous avez des questions ou commentaires, veuillez créer un ticket.
 ## Contribuer à l'Open Source en général
 - [Le Guide Définitif pour Contribuer à l'Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) de [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [Une Intro à l'Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - tutoriels de DigitalOcean pour vous mettre sur la bonne voie pour contribuer avec succès dans GitHub.
-- [Issuehub.io](http://issuehub.io/) - un outil pour chercher les `issues` dans GitHub en les filtrant par label et langage.
+- [Issuehub.io](http://issuehub.pro/) - un outil pour chercher les `issues` dans GitHub en les filtrant par label et langage.
 - [Code Triage](https://www.codetriage.com/) - un autre outil pratique pour chercher les dépôts populaires et `issues` filtrés par langage.
-- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - un dépôt GitHub regroupant des projets avec des bugs faciles pour les contributeurs novices, et avec des labels pour les décrire.
+- [Parfait-pour-débutants](https://github.com/MunGell/awesome-for-beginners) - un dépôt GitHub regroupant des projets avec des bugs faciles pour les contributeurs novices, et avec des labels pour les décrire.
 - [Guides de l'Open Source](https://opensource.guide/) - collection de ressources pour les particuliers, communautés et sociétés qui désirent apprendre à gérer et contribuer à un projet Open Source.
-- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - ce qu'il faut faire et ne pas faire sur GitHub.
+- [45 Issues Github à faire et à ne pas faire](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - ce qu'il faut faire et ne pas faire sur GitHub.
 - [Guides de GitHub](https://guides.github.com/) - guides basiques sur comment utiliser GitHub efficacement.
 - [Contribuer à l'Open Source](https://github.com/danthareja/contribute-to-open-source) - apprendre le processus de GitHub en contribuant du code à une simulation de projet.
 - [Guide pour l'Open Source de la Fondation Linux pour l'entreprise](https://www.linuxfoundation.org/resources/open-source-guides/) - les guides de la Fondation Linux pour les projets Open Source.
@@ -95,10 +98,10 @@ Listes de recherches pointant directement vers des `issues` propices à la contr
 - [Apprendre Git et GitHub étape par étape (sur Windows)](https://medium.com/@ows_ali/be93518e06dc) par [@ows-ali](https://medium.com/@ows_ali)
 
 ## Utiliser le gestionnaire de version
-- [Penser comme (un) Git](http://think-like-a-git.net/) - introduction à Git pour les "novices avancés" qui ont toujours des difficultés, pour vous offrir une stratégie simple pour expérimenter sans risque avec Git.
+- [Penser comme (un) Git](https://think-like-a-git.net/) - introduction à Git pour les "novices avancés" qui ont toujours des difficultés, pour vous offrir une stratégie simple pour expérimenter sans risque avec Git.
 - [Try Git](https://try.github.io/) - apprendre Git en 15 minutes depuis votre navigateur gratuitement.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - liste des commandes basiques utiles pour utiliser Git au quotidien.
-- [Oh shit, git!](http://ohshitgit.com/) - comment s'extraire des erreurs de `git` courantes expliqué de manière simple.
+- [Oh shit, git!](http://ohshitgit.com/) - comment s'extraire des erreurs courantes de `git` expliquées de manière simple.
 - [Tutoriels Git d'Atlassian](https://www.atlassian.com/git/tutorials/) - tutoriels variés sur comment utiliser `git`.
 - [Aide-mémoire pour GitHub Git](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
 - [Wiki de freeCodeCamp sur les ressources Git](https://www.freecodecamp.org/forum/t/wiki-git-resources/13136)
@@ -115,7 +118,7 @@ Listes de recherches pointant directement vers des `issues` propices à la contr
 - [Git Interactive Tutorial](https://learngitbranching.js.org/) - La méthode la plus interactive et visuelle pour apprendre Git.
 
 ## Livres sur l'Open Source
-- [Concevoir un logiciel Open Source](http://producingoss.com/) - "Producing Open Source Software" est un ouvrage sur l'aspect humain du développement Open Source. Il décrit comment opèrent les projets réussis, les attentes des utilisateurs et développeurs, et la culture du logiciel libre.
+- [Concevoir un logiciel Open Source](http://producingoss.com/) - "Producing Open Source Software" ("Produire du logiciel Open Source") est un ouvrage sur l'aspect humain du développement Open Source. Il décrit comment opèrent les projets réussis, les attentes des utilisateurs et développeurs, et la culture du logiciel libre.
 - [Série de livres sur l'Open Source](https://opensource.com/resources/ebooks) - Apprenez-en plus sur l'Open Source en général ainsi que sur le mouvement Open Source croissant grâce à cette série de livres électroniques gratuits de https://opensource.com.
 - [Pratiques de lancement de logiciel](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - Ce guide décrit les bonnes pratiques de lancement pour Linux et autres projets Open Source. En suivant ces pratiques, vous faciliterez la tâche des utilisateurs pour construire votre code et l'utiliser, et celle des autres développeurs pour comprendre votre code et coopérer avec vous afin de l'améliorer.
 - [Open Sources 2.0 : L'Évolution Continuelle](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0  est un recueil d'articles perspicaces et stimulants de leaders technologiques qui continuent sur la lancée de l'image dépeinte dans le livre de 1999, Open Sources: Voices from the Revolution ("Open Source : Les Voix de la Révolution").
@@ -125,9 +128,9 @@ Listes de recherches pointant directement vers des `issues` propices à la contr
 
 
 ## Initiatives de contributions à l'Open Source
-- [Up For Grabs](http://up-for-grabs.net/#/) - Contient des projets avec des bugs accessibles aux novices.
-- [First Timers Only](http://www.firsttimersonly.com/) - Une liste de bugs indiqués comme "first-timers-only" (seulement pour les débutants).
-- [First Contributions](https://firstcontributions.github.io/) - Effectuez votre première contribution à l'Open Source en 5 minutes. Un outil et tutoriel pour aider les débutants à se lancer dans les contributions.
+- [Up For Grabs](http://up-for-grabs.net/#/) - ("Bon à prendre") Contient des projets avec des bugs accessibles aux novices.
+- [First Timers Only](http://www.firsttimersonly.com/) - ("Débutants seulement") Une liste de bugs indiqués comme "first-timers-only".
+- [First Contributions](https://firstcontributions.github.io/) - ("Premières contributions") Effectuez votre première contribution à l'Open Source en 5 minutes. Un outil et tutoriel pour aider les débutants à se lancer dans les contributions.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Un programme pour encourager les contributions à l'Open Source. Gagnez des T-shirts et des autocollants en effectuant au moins 5 `pull requests` durant le mois d'octobre.
 - [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests est un projet axé sur la collaboration Open Source durant le mois de décembre.
 

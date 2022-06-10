@@ -2,6 +2,8 @@
     <tr>
         <!-- Do not translate this table -->
         <td><a href="./README.md"> English </a></td>
+        <td><a href="./README-MR.md"> मराठी </a></td>
+        <td><a href="./README-BN.md"> বাংলা </a></td>
         <td><a href="./README-CN.md"> 中文 </a></td>
         <td><a href="./README-RU.md"> русский </a></td>
         <td><a href="./README-RO.md"> Românesc </a></td>
@@ -11,33 +13,34 @@
         <td><a href="./README-DE.md"> Deutsch </a></td>
         <td><a href="./README-GR.md"> Ελληνικά </a></td>
         <td><a href="./README-FR.md"> Français </a></td>
+        <td><a href="./README-FA.md"> فارسی </a></td>
     </tr>
 </table>
 
 <div dir="rtl" style="direction:rtl;text-align:right;">
 <p>
 
-# تازه واردین مشارکت کننده در منبع باز خوش آمدید.
+# مشارکت کنندگان تازه وارد منبع-باز، خوش آمدید.
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 [![Build Status](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
 
-این فهرستی از منابع برای افرادی است که جدیدا تصمیم به کمک منبع باز گرفته اند.
+این فهرستی از منابع برای افراد تازه وارد در زمینه مشارکت منابع-باز است.
 
-اگر منابع اضافی پیدا کردید، لطفا آنرا به ما گزارش دهید.
+اگر منابع بیشتری پیدا کردید، لطفا از طریق پول-ریکوئست مشارکت کنید.
 
-اگر سوالی دارید یا نظر دارید، لطفا آنرا اطلاع دهید.
+اگر سوال یا نظری دارید، لطفا یک ایشو باز کنید.
 
 **محتوا**
 
-- [کمک به منبع باز به طور کلی](#کمک-به-منبع-باز-به-طور-کلی)
+- [مشارکت در منبع-باز بطور کلی](#مشارکت-در-منبع-باز-بطور-کلی)
 - [جستجو مستقیم گیت هاب](#جستجو-مستقیم-گیت-هاب)
+- [اکو-سیستم مشارکت کننده موزیلا](#اکوسیستم-مشارکت-موزیلا)
+- [مقالات مفید برای مشارکت کنندگان جدید منبع-باز](#مقالات-مفید-برای-مشارکت-کنندگان-جدید-منبع-باز)
 - [استفاده از کنترل نسخه](#استفاده-از-کنترل-نسخه)
-- [کمک به منبع باز به طور کلی](#کمک-به-منبع-باز-به-طور-کلی)
-- [استفاده از کنترل نسخه](#استفاده-از-کنترل-نسخه)
-- [کتاب منبع باز](#کتاب-منبع-باز)
-- [کمک به منبع باز به طور کلی](#کمک-به-منبع-باز-به-طور-کلی)
+- [کتاب‌های منبع-باز](#کتابهای-منبع-باز)
+- [ابتکارات مشارکت منبع-باز](#ابتکارات-مشارکت-منبع-باز)
 - [مجوز](#مجوز)
 
 </p>
@@ -45,10 +48,10 @@
 <div dir="rtl" style="direction:rtl;text-align:right;">
 <p>
 
-## کمک به منبع باز به طور کلی
+## مشارکت در منبع-باز بطور کلی
 - [The Definitive Guide to Contributing to Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials by DigitalOcean to guide you on your way to contribution success here on GitHub.
-- [Issuehub.io](http://issuehub.io/) - a tool for searching GitHub issues by label and language.
+- [Issuehub.io](http://issuehub.pro/) - a tool for searching GitHub issues by label and language.
 - [Code Triage](https://www.codetriage.com/) - another, really nice, tool for finding popular repositories and issues filtered by language.
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - a GitHub repo that amasses projects with good bugs for new contributors, and applies labels to describe them.
 - [Open Source Guides](https://opensource.guide/) - Collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an Open Source project.
@@ -69,7 +72,7 @@
 <p>
 
 ## جستجو مستقیم گیت هاب
-لینک های جستجو که مستقیما شما را به مشکلات گزارش شده مربوط به موضوعی خاص در گیت هاب می رسانند: 
+لینک‌های جستجویی که مستقیما به مشکلات گزارش شده مناسب در گیت هاب اشاره می‌کنند: 
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
 - [is:issue is:open label:first-timers-only](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
@@ -96,7 +99,7 @@
 <div dir="rtl" style="direction:rtl;text-align:right;">
 <p>
 
-## مقالات مفید برای مشارکت کنندگان جدید منبع باز
+## مقالات مفید برای مشارکت کنندگان جدید منبع-باز
 - [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
 - [How to find your first Open Source bug to fix](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) by [@Shubheksha](https://github.com/Shubheksha)
 - [First Timers Only](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
@@ -118,7 +121,7 @@
 <p>
 
 ## استفاده از کنترل نسخه
-- [Think Like (a) Git](http://think-like-a-git.net/) - Git introduction for "advanced beginners," but are still struggling, in order to give you a simple strategy to safely experiment with git.
+- [Think Like (a) Git](https://think-like-a-git.net/) - Git introduction for "advanced beginners," but are still struggling, in order to give you a simple strategy to safely experiment with git.
 - [Try Git](https://try.github.io/) - Learn Git in 15 minutes from within your browser for free.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - A useful minimum set of commands for Everyday Git.
 - [Oh shit, git!](https://ohshitgit.com/) - how to get out of common `git` mistakes described in plain English; also see [Dangit, git!](https://dangitgit.com/) for the page without swears.
@@ -140,10 +143,10 @@
 <div dir="rtl" style="direction:rtl;text-align:right;">
 <p>
 
-## کتاب منبع باز
+## کتاب‌های منبع-باز
 - [Producing Open Source Software](http://producingoss.com/) - Producing Open Source Software is a book about the human side of Open Source development. It describes how successful projects operate, the expectations of users and developers, and the culture of free software.
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - Learn more about Open Source and the growing Open Source movement with a comprehensive list of free eBooks from https://opensource.com.
-- [Software Release Practice HOWTO](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - This HOWTO describes good release practices for Linux and other Open-Source projects. By following these practices, you will make it as easy as possible for users to build your code and use it, and for other developers to understand your code and cooperate with you to improve it.
+- [Software Release Practice HOWTO](http://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - This HOWTO describes good release practices for Linux and other Open-Source projects. By following these practices, you will make it as easy as possible for users to build your code and use it, and for other developers to understand your code and cooperate with you to improve it.
 - [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 is a collection of insightful and thought-provoking essays from today's technology leaders that continues painting the evolutionary picture that developed in the 1999 book, Open Sources: Voices from the Revolution.
 
 </p>
@@ -151,7 +154,7 @@
 <div dir="rtl" style="direction:rtl;text-align:right;">
 <p>
 
-## ابتکار های مشارکت منبع باز
+## ابتکارات مشارکت منبع-باز
 - [Up For Grabs](http://up-for-grabs.net/#/) - Contains projects with beginner friendly issues
 - [First Timers Only](http://www.firsttimersonly.com/) - A list of bugs that are labelled "first-timers-only".
 - [First Contributions](https://firstcontributions.github.io/) - Make your first Open Source contribution in 5 minutes. A tool and tutorial to help beginners get started with contributions.
