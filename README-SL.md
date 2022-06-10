@@ -105,7 +105,7 @@ Povezave, ki neposredno usmerjajo na primerne `issues`, s katerim lahko prispeva
 
 - [Kako izbrati (in prispevati k) prvemu odprtokodnemu projektu](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
 - [Kako najti prvo napako v Open Source](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) by [@Shubheksha](https://github.com/Shubheksha)
-- [Za začetnike](https://kentcdodds.com/blog/first-timers-only/) by [@kentcdodds](https://github.com/kentcdodds)
+- [Za začetnike](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
 - [Vrnite prijaznost odprtokodnim projektom](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) by [@shanselman](https://github.com/shanselman)
 - [Prvič z odprtokodnimi programi](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [Kako prispevati k odprtokodnim projektom](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)

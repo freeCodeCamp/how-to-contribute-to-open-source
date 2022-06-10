@@ -103,7 +103,7 @@
 
 - [আপনার প্রথম ওপেন সোর্স প্রকল্পটি কীভাবে নির্বাচন করবেন (এবং এতে অবদান রাখবেন)](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
 - [ঠিক করার জন্য আপনার প্রথম ওপেন সোর্স বাগটি কীভাবে খুঁজে পাবেন](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) by [@Shubheksha](https://github.com/Shubheksha)
-- [শুধুমাত্র প্রথম Timers-দের জন্য](https://kentcdodds.com/blog/first-timers-only/) by [@kentcdodds](https://github.com/kentcdodds)
+- [শুধুমাত্র প্রথম Timers-দের জন্য](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
 - [ আপনার উদারতাটিকে ওপেন সোর্সে ফিরিয়ে আনুন](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) by [@shanselman](https://github.com/shanselman)
 - [প্রথমবারের জন্য ওপেন সোর্সে প্রবেশ করা](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [ওপেন সোর্সে কীভাবে অবদান রাখবেন](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
