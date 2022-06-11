@@ -89,7 +89,7 @@ Cari pautan yang mengarahkan secara langsung kepada masalah yang sesuai untuk di
 ## Artikel bermanfaat untuk penyumbang baru dalam Sumber Terbuka
 - [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) karya [@GitHub](https://github.com/github)
 - [How to find your first Open Source bug to fix](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) karya [@Shubheksha](https://github.com/Shubheksha)
-- [First Timers Only](https://kentcdodds.com/blog/first-timers-only/) karya [@kentcdodds](https://github.com/kentcdodds)
+- [First Timers Only](https://kentcdodds.com/blog/first-timers-only) karya [@kentcdodds](https://github.com/kentcdodds)
 - [Bring Kindness Back to Open Source](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) karya [@shanselman](https://github.com/shanselman)
 - [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) karya [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) karya [@GitHub](https://github.com/github)

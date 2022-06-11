@@ -115,7 +115,7 @@
 ## מאמרים שימושיים לתורמי קוד פתוח חדשים
 - [כיצד לבחור (ולתרום) לפרויקט הקוד הפתוח הראשון שלך](https://github.com/collections/choosing-projects) ע״י [GitHub@](https://github.com/github)
 - [כיצד למצוא את הבאג הראשון שלך לתיקון בקוד פתוח](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) ע״י [Shubheksha@](https://github.com/Shubheksha)
-- [למתחילים בלבד](https://kentcdodds.com/blog/first-timers-only/) ע״י [kentcdodds@](https://github.com/kentcdodds)
+- [למתחילים בלבד](https://kentcdodds.com/blog/first-timers-only) ע״י [kentcdodds@](https://github.com/kentcdodds)
 - [החזירו טוב לב חזרה לקוד פתוח](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) ע״י [shanselman@](https://github.com/shanselman)
 - [נכנסים לקוד פתוח בפעם הראשונה](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) ע״י [mcdonnelldean@](https://github.com/mcdonnelldean)
 - [כיצד לתרום לקוד פתוח](https://opensource.guide/how-to-contribute/) ע״י [GitHub@](https://github.com/github)

@@ -87,7 +87,7 @@
 ## नए ओपन सोर्स योगदानकर्ताओं के लिए उपयोगी लेख
 - [अपनी पहली ओपन सोर्स परियोजना को कैसे चुनें (और योगदान करें)](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
 - [कैसे ठीक करने के लिए अपना पहला ओपन सोर्स बग ढूंढें](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) by [@Shubheksha](https://github.com/Shubheksha)
-- [केवल पहले टाइमर](https://kentcdodds.com/blog/first-timers-only/) by [@kentcdodds](https://github.com/kentcdodds)
+- [केवल पहले टाइमर](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
 - [ओपन सोर्स पर दया लाएं](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) by [@shanselman](https://github.com/shanselman)
 - [पहली बार ओपन सोर्स में हो रही है](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [ओपन सोर्स के लिए योगदान कैसे करें](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
