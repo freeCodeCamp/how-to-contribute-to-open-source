@@ -24,7 +24,7 @@
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
 [![Build Status](https://api.travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
 
-Berikut ini adalah list sumber daya untuk para pemula yang baru pertama kali berkontribusi untuk proyek Open Source.
+Berikut ini adalah daftar sumber daya untuk para pemula yang baru pertama kali berkontribusi untuk proyek Open Source.
 
 Jika Anda menemukan sumber tambahan lain yang bermanfaat, silahkan berkontribusi dengan membuat pull request baru.
 
@@ -45,12 +45,11 @@ Jika Anda memiliki pertanyaan atau komentar, silahkan membuat issue baru.
 
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) ditulis oleh [@DoomHammerNG](https://twitter.com/DoomHammerNG).
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Pedoman dari DigitalOcean sebagai panduan untuk menggapai keberhasilan dalam berkontribusi di GitHub.
-- [Issuehub.io](http://issuehub.pro/) - Situs web untuk melakukan pencarian GitHub issue berdasarkan label dan bahasa.
 - [Code Triage](https://www.codetriage.com/) - Situs web yang baik untuk mencari issue dan repositori populer lewat penyaring bahasa pemrograman.
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - Sebuah repositori GitHub yang berisi proyek dengan bug ringan untuk para kontributor baru, dan menggunakan label sebagai penjelasannya.
 - [Open Source Guides](https://opensource.guide/) - Koleksi sumber daya untuk individu, komunitas, dan perusahaan yang berniat untuk mempelajari bagaimana menjalankan dan berkontribusi pada proyek Open Source.
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Hal yang diperbolehkan dan tidak diperbolehkan di GitHub.
-- [GitHub Guides](https://guides.github.com/) - Pengantar dasar dalam pengunaan GitHub secara efektif.
+- [GitHub Guides](https://guides.github.com/) - Panduan dasar dalam pengunaan GitHub secara efektif.
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Pelajari alur kerja GitHub dengan berkontribusi ke proyek simulasi.
 - [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Pengantar yang dibuat oleh Linux Foundation mengenai proyek Open Source.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - Sebuah buku pengantar etiket dalam berkontribusi ke Open Source, ditulis oleh Kent C. Dodds dan Sarah Drasner.
@@ -116,8 +115,9 @@ Link pencarian yang mengarah langsung ke _issue_ yang sesuai untuk berkontribusi
 
 ## Menggunakan Version Control
 
+- [Video tutorial for Git and Github by Harvard University](https://www.youtube.com/watch?v=NcoBAfJ6l2Q) - Tutorial yang dibuat oleh  Harvard University sebagai bagian dari Mata Kuliah CS50 Web Development dalam memahami Git dan Github serta bekerja dengan Git Commands.
 - [Think Like (a) Git](https://think-like-a-git.net/) - Pengenalan Git untuk pemula tingkat lanjut yang masih kesulitan agar dapat mempelajari strategi yang simpel untuk bereksperimen dengan Git secara aman.
-- [Try Git](https://try.github.io/) - Belajar Git dalam 15 menit dari Browser secara gratis.
+- [Quickstart - Set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - Pelajari cara memasang Git secara lokal dan menyiapkan otentikasi, serta langkah-langkah berikutnya dalam perjalanan belajarmu.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Kumpulan perintah yang berguna untuk pemakaian Git dalam sehari-hari.
 - [Oh shit, git!](https://ohshitgit.com/) - bagaimana cara menghindari kesalahan umum saat mengunakan `git`, dideskripsikan dalam Bahasa Inggris; baca juga [Dangit, git!](https://dangitgit.com/) untuk situs web tanpa kata kasar.
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) - Berbagai petunjuk dalam menggunakan `git`.
@@ -133,6 +133,8 @@ Link pencarian yang mengarah langsung ke _issue_ yang sesuai untuk berkontribusi
 - [Git Tips](https://github.com/git-tips/tips) - Kumpulan tips dan trik git yang paling sering digunakan.
 - [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - Sering meng-_commit_, Sempurnakan Nanti, Publikasikan Sekali: Praktik Terbaik Mengunakan Git.
 - [Git Interactive Tutorial](https://learngitbranching.js.org/) - Pelajari Git dengan cara yang paling visual dan interaktif.
+- [Git Cheat Cheets](https://devhints.io/?q=git) - Sekumpulan cheat sheets grafis tentang Git.
+- [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics) (1:12:39) - Panduan Git dan Github oleh [Kunal Kushwaha](https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw).
 
 ## Buku-buku Tentang Open Source
 
