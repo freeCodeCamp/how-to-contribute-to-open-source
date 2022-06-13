@@ -104,17 +104,19 @@ Link pencarian yang mengarah langsung ke _issue_ yang sesuai untuk berkontribusi
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) ditulis oleh [@GitHub](https://github.com/github)
 - [First mission: Contributors page](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) ditulis oleh [@forCrowd](https://github.com/forCrowd)
 - [How to make your first Open Source contribution in just 5 minutes](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) ditulis oleh [@roshanjossey](https://github.com/Roshanjossey/)
-- [Hacktoberfest 2019: How you can get your free shirt — even if you’re new to coding](https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b/) ditulis oleh [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
+- [I just got my free Hacktoberfest shirt. Here’s a quick way you can get yours.](https://www.freecodecamp.org/news/i-just-got-my-free-hacktoberfest-shirt-heres-a-quick-way-you-can-get-yours-fa78d6e24307/) ditulis oleh [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
 - [A Bitter Guide To Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) ditulis oleh [@ken_wheeler](https://medium.com/@ken_wheeler)
 - [A junior developer’s step-by-step guide to contributing to Open Source for the first time](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) ditulis oleh [@LetaKeane](https://hackernoon.com/u/letakeane)
-- [Learn Git and GitHub Step By Step (on Windows)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) ditulis oleh [@ows-ali](https://medium.com/@ows_ali)
+- [Learn Git and GitHub Step By Step (on Windows)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) by [@ows-ali](https://ows-ali.medium.com/)
 - [Why Open Source and How?](https://careerkarma.com/blog/open-source-projects-for-beginners/) ditulis oleh [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
 - [How to get started with Open Source - Ditulis oleh Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/)
 - [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) ditulis oleh Kent C. Dodds
 - [An immersive introductory guide to Open-source](https://developeraspire.hashnode.dev/an-immersive-introductory-guide-to-open-source) ditulis oleh [Franklin Okolie](https://twitter.com/DeveloperAspire)
 - [Getting started with contributing to open source](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/) ditulis oleh [Zara Cooper](https://stackoverflow.blog/author/zara-cooper/)
 - [Beginner's guide to open-source contribution](https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj) ditulis oleh [Sudipto Ghosh](https://github.com/pydevsg)
-- [8 non-code ways to contribute to open source](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code) ditulus oleh [OpenSource](https://twitter.com/OpenSourceWay)
+- [8 non-code ways to contribute to open source](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code) ditulis oleh [OpenSource](https://twitter.com/OpenSourceWay)
+- [What is Open Source Software? OSS Explained in Plain English](https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/) ditulis oleh [Jessica Wilkins](https://www.freecodecamp.org/news/author/jessica-wilkins/)
+- [How to Start an Open Source Project on GitHub – Tips from Building My Trending Repo](https://www.freecodecamp.org/news/how-to-start-an-open-source-project-on-github-tips-from-building-my-trending-repo/) ditulis oleh [@Rishit-dagli](https://github.com/Rishit-dagli)
 
 ## Menggunakan Version Control
 
@@ -146,7 +148,7 @@ Link pencarian yang mengarah langsung ke _issue_ yang sesuai untuk berkontribusi
 - [Software Release Practice HOWTO](https://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - HOWTO ini mendeskripsikan praktik rilis program yang baik untuk Linux dan proyek Open Source lainnya. Dengan mengikuti praktik ini, anda akan dengan mudah memberitahukan pengguna lain untuk membangun kode anda serta menggunakannya, dan memudahkan pengembang lain untuk memahami kode anda lalu bekerjasama untuk memperbaikinya.
 - [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 adalah kumpulan esai berwawasan dan menggugah pemikiran dari para pemimpin teknologi saat ini yang terus melukiskan gambaran evolusi yang dikembangkan dalam buku 1999, Open Sources: Voices from the Revolution.
 - [The Architecture of Open Source Applications](http://www.aosabook.org/en/git.html) - Menunjukkan bagaimana aspek Git bekerja untuk memahami prinsip kerja, dan bagaimana perbedaan Git dengan version control systems (VCSs) lainnya.
-- [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - Esai yang ditulis oleh pelopor Open Source seperti Linus Torvalds (Linux), Larry Wall (Perl), and Richard Stallman (GNU).
+- [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - Esai yang ditulis oleh pelopor Open Source seperti Linus Torvalds (Linux), Larry Wall (Perl), dan Richard Stallman (GNU).
 
 ## Kontribusi Inisiatif Open Source
 
@@ -156,6 +158,27 @@ Link pencarian yang mengarah langsung ke _issue_ yang sesuai untuk berkontribusi
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Sebuah program yang mendorong kontribusi Open Source. Dapatkan hadiah seperti kaos dan stiker dengan membuat setidaknya 4 pull request di bulan Oktober.
 - [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests adalah sebuah proyek untuk mempromosikan kolaborasi Open Source menjelang bulan Desember.
 - [Ovio](https://ovio.org) - Sebuah platform berisi proyek yang bersifat contributor-friendly. Platform ini memiliki [mesin pencarian issue](https://ovio.org/issues) dan dapat menyimpan issue untuk ditandai serta diselesaikan nantinya.
+- [Google Summer of Code](https://summerofcode.withgoogle.com/) - Acara tahunan berbayar yang diadakan oleh Google yang memiliki fokus mengajak pengembang yang berstatus pelajar untuk bergabung dalam pengembangan perangkat lunak open-source.
+- [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) - Program global untuk pengembang wanita dan non-biner yang mendorong mereka untuk mengerjakan proyek open-source yang sudah ada serta meningkatkan kemampuan.
+- [Major League Hacking Fellowship](https://fellowship.mlh.io/) - Alternatif magang remote untuk penggembar teknologi dimana mereka membangun atau berkontribusi ke proyek-proyek open-source.
+- [Girlscript Summer of Code](https://gssoc.girlscript.tech/) - Program open-source selama 3 bulan yang diadakan setiap musim panas oleh the Girlscript Foundation. Dengan upaya yang konsisten, peserta akan berkontribusi ke banyak proyek di bawah bimbingan mentor yang berkemampuan. Dengan exposure berikut, pelajar akan mulai berkontribusi ke proyek-proyek dunia nyata dari rumah.
+- [Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) - Ini adalah tutorial untuk membantu para kontributor pemula untuk berpartisipasi dalam proyek yang sederhana dan mudah serta mengakrabkan diri dengan Github.
+
+## Berbagai Program Open Source yang dapat diikuti
+
+- [All Linux Foundation (LF) Mentorships](https://mentorship.lfx.linuxfoundation.org/#projects_all)
+- [Cloud Native Computing Foundation](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
+- [Beginner friendly Open Source programs with their timelines](https://github.com/arpit456jain/Open-Source-Programs)
+- [FossAsia](https://fossasia.org)
+- [Free Software Foundation (FSF) Internship](https://www.fsf.org/volunteer/internships)
+- [Google Summer of Code](https://summerofcode.withgoogle.com)
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com)
+- [LF Networking Mentorship](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program)
+- [Microsoft Reinforcement learning](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
+- [Major League Hacking (MLH) Fellowship](https://fellowship.mlh.io)
+- [Open Summer of Code](https://osoc.be/students)
+- [Outreachy](https://www.outreachy.org)
+- [Processing Foundation Internship](https://processingfoundation.org/fellowships/)
 
 ## Lisensi
 
