@@ -1,27 +1,27 @@
 <table>
     <tr>
         <!-- Do not translate this table -->
-        <li><a href="./README.md"> English </a></li>
-        <li><a href="./README-MR.md"> मराठी </a></li>
-        <li><a href="./README-BN.md"> বাংলা </a></li>
-        <li><a href="./README-CN.md"> 中文 </a></li>
-        <li><a href="./README-RU.md"> русский </a></li>
-        <li><a href="./README-RO.md"> Românesc </a></li>
-        <li><a href="./README-IT.md"> Italiano </a></li>
-        <li><a href="./README-ID.md"> Indonesia </a></li>
-        <li><a href="./README-ES.md"> Español </a></li>
-        <li><a href="./README-pt-BR.md"> Português (BR) </a></li>
-        <li><a href="./README-DE.md"> Deutsch </a></li>
-        <li><a href="./README-HE.md"> עברית </a></li>
-        <li><a href="./README-GR.md"> Ελληνικά </a></li>
-        <li><a href="./README-FR.md"> Français </a></li>
-        <li><a href="./README-TR.md"> Turkish </a></li>
-        <li><a href="./README-KO.md"> 한국어 </a></li>
-        <li><a href="./README-JA.md"> 日本語 </a></li>
-        <li><a href="./README-HI.md"> हिंदी </a></li>
-        <li><a href="./README-FA.md"> فارسی </a></li>
-        <li><a href="./README-UR.md">اردو </a></li>
-        <li><a href="./README-AR.md">اللغة العربية </a></li>
+        <td><a href="./README.md"> English </a></td>
+        <td><a href="./README-MR.md"> मराठी </a></td>
+        <td><a href="./README-BN.md"> বাংলা </a></td>
+        <td><a href="./README-CN.md"> 中文 </a></td>
+        <td><a href="./README-RU.md"> русский </a></td>
+        <td><a href="./README-RO.md"> Românesc </a></td>
+        <td><a href="./README-IT.md"> Italiano </a></td>
+        <td><a href="./README-ID.md"> Indonesia </a></td>
+        <td><a href="./README-ES.md"> Español </a></td>
+        <td><a href="./README-pt-BR.md"> Português (BR) </a></td>
+        <td><a href="./README-DE.md"> Deutsch </a></td>
+        <td><a href="./README-HE.md"> עברית </a></td>
+        <td><a href="./README-GR.md"> Ελληνικά </a></td>
+        <td><a href="./README-FR.md"> Français </a></td>
+        <td><a href="./README-TR.md"> Turkish </a></td>
+        <td><a href="./README-KO.md"> 한국어 </a></td>
+        <td><a href="./README-JA.md"> 日本語 </a></td>
+        <td><a href="./README-HI.md"> हिंदी </a></td>
+        <td><a href="./README-FA.md"> فارسی </a></td>
+        <td><a href="./README-UR.md">اردو </a></td>
+        <td><a href="./README-AR.md">اللغة العربية </a></td>
     </tr>
 </table>
 
@@ -46,6 +46,7 @@ Jika Anda memiliki pertanyaan atau komentar, silahkan membuat issue baru.
 - [Menggunakan Version Control](#menggunakan-version-control)
 - [Buku-buku Tentang Open Source](#buku-buku-tentang-open-source)
 - [Kontribusi Inisiatif Open Source](#kontribusi-inisiatif-open-source)
+- [Berbagai Program Open Source yang dapat diikuti](#berbagai-program-open-source-yang-dapat-diikuti)
 - [Lisensi](#lisensi)
 
 ## Berkontribusi Ke Open Source Secara Umum
