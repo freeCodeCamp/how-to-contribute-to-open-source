@@ -26,6 +26,7 @@
         <li><a href="./README-UR.md">اردو </a></li>
         <li><a href="./README-AR.md">اللغة العربية </a></li>
         <li><a href="./README-TA.md">தமிழ்</a></li>
+        <li><a href="./README-NE.md">नेपाली</a></li>
     </ul>
 </details>
 <!-- Do not translate this -->
