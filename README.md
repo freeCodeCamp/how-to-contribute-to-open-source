@@ -185,7 +185,6 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [Girlscript Summer of Code](https://gssoc.girlscript.tech/) - A three-month-long Open-Source Program conducted every summer by the Girlscript Foundation. With constant efforts, participants contribute to numerous projects under the extreme guidance of skilled mentors over these months. With such exposure, students begin to contribute to real-world projects from the comfort of their homes.
 - [Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) - This is a tutorial to help first-time contributors to participate in a simple and easy project and get comfortable in using GitHub.
 - [Open Source Welcome Committee](https://www.oswc.is/) - The Open Source Welcome Committee (OSWC) helps newcomers join the extraordinary world of Open Source. Come submit your open-source projects with us!
-- [Social Summer of Code](https://ssoc.getsocialnow.co/) - Social foundation offers this two-month long summer program for students to learn about the open-source culture and get involved in the community. Participants contribute to real-life projects under the guidance of experienced mentors.
 
 ## Open Source programs to participate in
 
