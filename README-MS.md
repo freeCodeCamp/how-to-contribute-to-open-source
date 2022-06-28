@@ -35,14 +35,14 @@ Jika anda jumpa sumber tambahan, sila menyumbang dengan membuat satu permintaan 
 Jika anda mempunyai soalan atau komen, sila membuat satu isu tentang soalan atau komen tersebut.
 
 **Kandungan**
-- [Menyumbang kepada Sumber Terbuka secara umum](#contributing-to-open-source-in-general)
-- [Carian GitHub secara langsung](#direct-github-searches)
-- [Ekosistem penyumbang Mozilla](#mozillas-contributor-ecosystem)
-- [Artikel bermanfaat untuk penyumbang baru dalam Sumber Terbuka](#useful-articles-for-new-open-source-contributors)
-- [Mengguna Kawalan Versi](#using-version-control)
-- [Buku untuk Sumber Terbuka](#open-source-books)
-- [Sumbangan inisiatif Sumber Terbuka](#open-source-contribution-initiatives)
-- [Lesen](#license)
+- [Menyumbang kepada Sumber Terbuka secara umum](#Menyumbang-kepada-Sumber-Terbuka-secara-umum)
+- [Carian GitHub secara langsung](#Carian-GitHub-secara-langsung)
+- [Ekosistem penyumbang Mozilla](#Ekosistem-penyumbang-Mozilla)
+- [Artikel bermanfaat untuk penyumbang baru dalam Sumber Terbuka](#Artikel-bermanfaat-untuk-penyumbang-baru-dalam-Sumber-Terbuka)
+- [Mengguna Kawalan Versi](#Mengguna-Kawalan-Versi)
+- [Buku untuk Sumber Terbuka](#Buku-untuk-Sumber-Terbuka)
+- [Sumbangan inisiatif Sumber Terbuka](#Sumbangan-inisiatif-Sumber-Terbuka)
+- [Lesen](#Lesen)
 
 ## Menyumbang kepada Sumber Terbuka secara umum
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) karya [@DoomHammerNG](https://twitter.com/DoomHammerNG)
@@ -89,7 +89,7 @@ Cari pautan yang mengarahkan secara langsung kepada masalah yang sesuai untuk di
 ## Artikel bermanfaat untuk penyumbang baru dalam Sumber Terbuka
 - [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) karya [@GitHub](https://github.com/github)
 - [How to find your first Open Source bug to fix](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) karya [@Shubheksha](https://github.com/Shubheksha)
-- [First Timers Only](https://kentcdodds.com/blog/first-timers-only/) karya [@kentcdodds](https://github.com/kentcdodds)
+- [First Timers Only](https://kentcdodds.com/blog/first-timers-only) karya [@kentcdodds](https://github.com/kentcdodds)
 - [Bring Kindness Back to Open Source](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) karya [@shanselman](https://github.com/shanselman)
 - [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) karya [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) karya [@GitHub](https://github.com/github)
@@ -106,7 +106,7 @@ Cari pautan yang mengarahkan secara langsung kepada masalah yang sesuai untuk di
 - [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) karya Kent C. Dodds
 
 ## Menggunakan Kawalan Versi
-- [Think Like (a) Git](http://think-like-a-git.net/) - Pengenalan Git untuk "pemula maju", tetapi masih bersusah-payah, untuk memberi anda strategi mudah untuk bereksperimen dengan selamat dengan git.
+- [Think Like (a) Git](https://think-like-a-git.net/) - Pengenalan Git untuk "pemula maju", tetapi masih bersusah-payah, untuk memberi anda strategi mudah untuk bereksperimen dengan selamat dengan git.
 - [Try Git](https://try.github.io/) - Belajar Git dalam 15 minit dalam penyemak imbas('browser') anda secara percuma.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Satu set perintah minimum yang berguna untuk Everyday Git.
 - [Oh shit, git!](https://ohshitgit.com/) - cara mengatasi kesalahan `git` yang dijelaskan dalam bahasa Inggeris biasa; lihat juga [Dangit, git!](https://dangitgit.com/) untuk halaman tanpa carutan.

@@ -33,14 +33,14 @@
 
 **பொருளடக்கம்**
 
-- [Contributing to Open Source in general](#contributing-to-open-source-in-general)
-- [Direct GitHub searches](#direct-github-searches)
-- [Mozilla's contributor ecosystem](#mozillas-contributor-ecosystem)
-- [Useful articles for new Open Source contributors](#useful-articles-for-new-open-source-contributors)
-- [Using Version Control](#using-version-control)
-- [Open Source books](#open-source-books)
-- [Open Source contribution initiatives](#open-source-contribution-initiatives)
-- [License](#license)
+- [பொதுவாக திறமூலத்திற்கு பங்களிப்பு](#பொதுவாக-திறமூலத்திற்கு-பங்களிப்பு)
+- [நேரடி கிட்ஹப் தேடல்கள்](#நேரடி-கிட்ஹப்-தேடல்கள்)
+- [மொஸில்லாவின் பங்களிப்பாளர் சுற்றுச்சூழல் அமைப்பு](#மொஸில்லாவின்-பங்களிப்பாளர்-சுற்றுச்சூழல்-அமைப்பு)
+- [புதிய திறமூல பங்களிப்பாளர்களுக்கு பயனுள்ள கட்டுரைகள்](#புதிய-திறமூல-பங்களிப்பாளர்களுக்கு-பயனுள்ள-கட்டுரைகள்)
+- [Version Control பயன்படுத்துதல்](#Version-Control-பயன்படுத்துதல்)
+- [திறமூல புத்தகங்கள்](#திறமூல-புத்தகங்கள்)
+- [திறமூல பங்களிப்பு முயற்சிகள்](#திறமூல-பங்களிப்பு-முயற்சிகள்)
+- [உரிமம்](#உரிமம்)
 
 ## பொதுவாக திறமூலத்திற்கு பங்களிப்பு
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
@@ -87,7 +87,7 @@ GitHub இல் பங்களிக்க பொருத்தமான ச�
 ## புதிய திறமூல பங்களிப்பாளர்களுக்கு பயனுள்ள கட்டுரைகள்
 - [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
 - [How to find your first Open Source bug to fix](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) by [@Shubheksha](https://github.com/Shubheksha)
-- [First Timers Only](https://kentcdodds.com/blog/first-timers-only/) by [@kentcdodds](https://github.com/kentcdodds)
+- [First Timers Only](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
 - [Bring Kindness Back to Open Source](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) by [@shanselman](https://github.com/shanselman)
 - [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
@@ -104,7 +104,7 @@ GitHub இல் பங்களிக்க பொருத்தமான ச�
 - [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) by Kent C. Dodds
 
 ## Version Control பயன்படுத்துதல்
-- [Think Like (a) Git](http://think-like-a-git.net/) - Git introduction for "advanced beginners," but are still struggling, in order to give you a simple strategy to safely experiment with git.
+- [Think Like (a) Git](https://think-like-a-git.net/) - Git introduction for "advanced beginners," but are still struggling, in order to give you a simple strategy to safely experiment with git.
 - [Try Git](https://try.github.io/) - Learn Git in 15 minutes from within your browser for free.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - A useful minimum set of commands for Everyday Git.
 - [Oh shit, git!](https://ohshitgit.com/) - how to get out of common `git` mistakes described in plain English; also see [Dangit, git!](https://dangitgit.com/) for the page without swears.

@@ -43,14 +43,14 @@
 
 **תוכן עניינים**
 
-- [תרומה לקוד פתוח באופן כללי](#contributing-to-open-source-in-general)
-- [חיפוש ישיר בגיטהאב](#direct-github-searches)
-- [אקוסיסטם התורמים של מוזילה](#mozillas-contributor-ecosystem)
-- [מאמרים שימושיים לתורמי קוד פתוח חדשים](#useful-articles-for-new-open-source-contributors)
-- [שימוש ב-Version Control](#using-version-control)
-- [ספרים בנושא קוד פתוח](#open-source-books)
-- [יוזמות לתרומת קוד פתוח](#open-source-contribution-initiatives)
-- [רישיון](#license)
+- [תרומה לקוד פתוח באופן כללי](#תרומה-לקוד-פתוח-באופן-כללי)
+- [חיפוש ישיר בגיטהאב](#חיפוש-ישיר-בגיטהאב)
+- [אקוסיסטם התורמים של מוזילה](#אקוסיסטם-התורמים-של-מוזילה)
+- [מאמרים שימושיים לתורמי קוד פתוח חדשים](#מאמרים-שימושיים-לתורמי-קוד-פתוח-חדשים)
+- [שימוש ב-Version Control](#שימוש-ב-Version-Control)
+- [ספרים בנושא קוד פתוח](#ספרים-בנושא-קוד-פתוח)
+- [יוזמות לתרומת קוד פתוח](#יוזמות-לתרומת-קוד-פתוח)
+- [רישיון](#רישיון)
 
 </p>
 </div>
@@ -115,7 +115,7 @@
 ## מאמרים שימושיים לתורמי קוד פתוח חדשים
 - [כיצד לבחור (ולתרום) לפרויקט הקוד הפתוח הראשון שלך](https://github.com/collections/choosing-projects) ע״י [GitHub@](https://github.com/github)
 - [כיצד למצוא את הבאג הראשון שלך לתיקון בקוד פתוח](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) ע״י [Shubheksha@](https://github.com/Shubheksha)
-- [למתחילים בלבד](https://kentcdodds.com/blog/first-timers-only/) ע״י [kentcdodds@](https://github.com/kentcdodds)
+- [למתחילים בלבד](https://kentcdodds.com/blog/first-timers-only) ע״י [kentcdodds@](https://github.com/kentcdodds)
 - [החזירו טוב לב חזרה לקוד פתוח](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) ע״י [shanselman@](https://github.com/shanselman)
 - [נכנסים לקוד פתוח בפעם הראשונה](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) ע״י [mcdonnelldean@](https://github.com/mcdonnelldean)
 - [כיצד לתרום לקוד פתוח](https://opensource.guide/how-to-contribute/) ע״י [GitHub@](https://github.com/github)
@@ -137,7 +137,7 @@
 <p>
 
 ## שימוש ב-Version Control
-- [Think Like (a) Git](http://think-like-a-git.net/) - מדריך גיט ל״מתחילים מתקדמים״ מתקשים, המחפשים אסטרטגיה פשוטה להתנסות עם גיט.
+- [Think Like (a) Git](https://think-like-a-git.net/) - מדריך גיט ל״מתחילים מתקדמים״ מתקשים, המחפשים אסטרטגיה פשוטה להתנסות עם גיט.
 - [Try Git](https://try.github.io/) - למדו גיט ב-15 דקות ישירות מהדפדפן בחינם.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - סט מינימלי שימושי של פקודות לשימוש גיט יומיומי
 - [!Oh shit, git](https://ohshitgit.com/) - כיצד לצאת מטעויות גיט נפוצות, כתוב באנגלית; ראו גם [!Dangit, git](https://dangitgit.com/) עבור עמוד ללא קללות.

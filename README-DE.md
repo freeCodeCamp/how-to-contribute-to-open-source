@@ -36,10 +36,11 @@ Wenn du Fragen oder Kommentare hast, eröffne bitte ein neues Issue.
 - [Open-Source-Beiträge im Allgemeinen](#open-source-beiträge-im-allgemeinen)
 - [GitHub-Suchen](#github-suchen)
 - [Mozillas Open-Source-Ökosystem](#mozillas-open-source-ökosystem)
-- [Nützliche Artikel für Open-Source-Mitarbeiter\*innen](#nützliche-artikel-für-open-source-mitarbeiter*innen)
+- [Nützliche Artikel für Open-Source-Mitarbeiterinnen](#nützliche-artikel-für-open-source-mitarbeiterinnen)
 - [Versionskontrolle nutzen](#versionskontrolle-nutzen)
 - [Open-Source-Bücher](#open-source-bücher)
 - [Open-Source-Beitragsinitiativen](#open-source-beitragsinitiativen)
+- [Open-Source-Programme an denen du teilnehmen kannst](#open-source-programme-an-denen-du-teilnehmen-kannst)
 - [Lizenz](#lizenz)
 
 ## Open-Source-Beiträge im Allgemeinen
@@ -93,7 +94,7 @@ Suchbegriffe, die direkt auf für Einsteiger\*innen geeignete Issues auf GitHub 
   Interessen heraus, wo du helfen kannst.
 - [Start Mozilla](https://twitter.com/StartMozilla) - ein Twitter-Account der über Issues twittert, die gut geeignet für neue Entwickler\*innen sind.
 
-## Nützliche Artikel für Open-Source-Mitarbeiter\*innen
+## Nützliche Artikel für Open-Source-Mitarbeiterinnen
 
 - [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) von [@GitHub](https://github.com/github)
 - [How to find your first Open Source bug to fix](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) von [@Shubheksha](https://github.com/Shubheksha)
@@ -112,7 +113,7 @@ Suchbegriffe, die direkt auf für Einsteiger\*innen geeignete Issues auf GitHub 
 
 ## Versionskontrolle nutzen
 
-- [Think Like (a) Git](http://think-like-a-git.net/) - Git-Einführung für "Fortgeschrittene Anfänger\*innen", welche ihnen eine Strategie an die Hand gibt, um
+- [Think Like (a) Git](https://think-like-a-git.net/) - Git-Einführung für "Fortgeschrittene Anfänger\*innen", welche ihnen eine Strategie an die Hand gibt, um
   problemlos und sicher mit Git zu experimentieren.
 - [Try Git](https://try.github.io/) - Git lernen innerhalb von fünfzehn Minuten aus dem Browser heraus, kostenlos.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Eine hilfreiche Minimalversion der grundsätzlichsten Git-Kommandos.
@@ -152,6 +153,17 @@ Suchbegriffe, die direkt auf für Einsteiger\*innen geeignete Issues auf GitHub 
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - ein Programm, das zu Open-Source-Beiträgen motiviert. Gewinne Preise wie T-Shirts oder Sticker,
   indem du mindestens fünf Pull-Requests im Oktober machst.
 - [24 Pull Requests](https://24pullrequests.com) - "24 Pull Requests" ist ein Projekt, das für Open-Source-Kollaborationen im Dezember wirbt.
+
+## Open-Source-Programme an denen du teilnehmen kannst
+
+- [Bundesnachrichtendienst (BND) | Summer of Code](https://www.bnd.bund.de/DE/Karriere/SummerOfCode/SummerOfCode_node.html)
+- [Google Summer of Code](https://summerofcode.withgoogle.com)
+- [FossAsia](https://fossasia.org)
+- [MLH Fellowship](https://fellowship.mlh.io)
+- [Outreachy](https://www.outreachy.org)
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com)
+- [CNCF](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
+- [Microsoft Reinforcement learning](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
 
 ## Lizenz
 

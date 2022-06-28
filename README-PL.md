@@ -1,21 +1,35 @@
-<table>
-    <tr>
-        <!-- Do not translate this table -->
-        <td><a href="./README.md"> English </a></td>
-        <td><a href="./README-MR.md"> मराठी </a></td>
-        <td><a href="./README-CN.md"> 中文 </a></td>
-        <td><a href="./README-RU.md"> русский </a></td>
-        <td><a href="./README-RO.md"> Românesc </a></td>
-        <td><a href="./README-IT.md"> Italiano </a></td>
-        <td><a href="./README-ES.md"> Español </a></td>
-        <td><a href="./README-pt-BR.md"> Português (BR) </a></td>
-        <td><a href="./README-DE.md"> Deutsch </a></td>
-        <td><a href="./README-GR.md"> Ελληνικά </a></td>
-        <td><a href="./README-FR.md"> Français </a></td>
-        <td><a href="./README-TR.md"> Turkish </a></td>
-    </tr>
-</table>
-
+<!-- Do not translate this -->
+<details>
+<summary>
+<strong> Read this guide in other languages </strong>
+</summary>
+    <ul>
+        <li><a href="./README.md"> English </a></li>
+        <li><a href="./README-MR.md"> मराठी </a></li>
+        <li><a href="./README-BN.md"> বাংলা </a></li>
+        <li><a href="./README-CN.md"> 中文 </a></li>
+        <li><a href="./README-RU.md"> русский </a></li>
+        <li><a href="./README-RO.md"> Românesc </a></li>
+        <li><a href="./README-IT.md"> Italiano </a></li>
+        <li><a href="./README-ID.md"> Indonesia </a></li>
+        <li><a href="./README-ES.md"> Español </a></li>
+        <li><a href="./README-pt-BR.md"> Português (BR) </a></li>
+        <li><a href="./README-DE.md"> Deutsch </a></li>
+        <li><a href="./README-HE.md"> עברית </a></li>
+        <li><a href="./README-GR.md"> Ελληνικά </a></li>
+        <li><a href="./README-FR.md"> Français </a></li>
+        <li><a href="./README-TR.md"> Turkish </a></li>
+        <li><a href="./README-KO.md"> 한국어 </a></li>
+        <li><a href="./README-JA.md"> 日本語 </a></li>
+        <li><a href="./README-HI.md"> हिंदी </a></li>
+        <li><a href="./README-FA.md"> فارسی </a></li>
+        <li><a href="./README-UR.md">اردو </a></li>
+        <li><a href="./README-AR.md">اللغة العربية </a></li>
+        <li><a href="./README-TA.md">தமிழ்</a></li>
+        <li><a href="./README-NE.md">नेपाली</a></li>
+    </ul>
+</details>
+<!-- Do not translate this -->
 
 # Witamy początkujących kontrybutorów (współautorów)!
 
@@ -23,11 +37,11 @@
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
 [![Build Status](https://api.travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
 
-Przedstawiona w tym dokumencie jest lista dla początkujących w kwestii wnoszeniu własnego wkładu (kontrybucja) do tzw. Otwartego Oprogramowania *(ang. contributing to Open Source)*
+Ten dokument jest listą źródeł dla osób chcących rozpocząć swoją przygodę z wkładem do projektów Open Source *(ang. contributing to Open Source)*
 
-Jeżeli posiadasz bądź znajdziesz niewymienione w tym dokumencie źródła, prosze dodaj [pull request](https://panizkomputerem.pl/pull-request/)
+Jeżeli posiadasz bądź znajdziesz niewymienione w tym dokumencie źródła, prosze stwórz [pull request](https://panizkomputerem.pl/pull-request/)
 
-Jeżeli masz jakiekolwiek pytania bądź komentarz stwórz kwestię *(ang. issue)* w tym repozytorium.
+Jeżeli masz jakiekolwiek pytania bądź komentarz stwórz odpowiedni Issue *(ang. issue)* w tym repozytorium.
 
 **Zawartość**
 
@@ -87,7 +101,7 @@ Linki wyszukiwania które wskazują na kwestie skierowane dla początkujących. 
 - [Poradnik o licencjonowaniu projektów Open Source](https://github.com/YetiForceCompany/guides/blob/master/pl/licenses/Poradnik_o_licencjonowaniu_projektow_open_source_YetiForce_v.1.0.pdf) **[PL]** by [Błażej Pabiszczak](https://www.linkedin.com/in/blazej-pabiszczak-yetiforce/)
 - [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
 - [How to find your first Open Source bug to fix](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) by [@Shubheksha](https://github.com/Shubheksha)
-- [First Timers Only](https://kentcdodds.com/blog/first-timers-only/) by [@kentcdodds](https://github.com/kentcdodds)
+- [First Timers Only](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
 - [Bring Kindness Back to Open Source](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) by [@shanselman](https://github.com/shanselman)
 - [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
@@ -106,7 +120,7 @@ Linki wyszukiwania które wskazują na kwestie skierowane dla początkujących. 
 ## Używanie kontroli wersji
 - [Wprowadzenie do kontroli wersji](https://git-scm.com/book/pl/v2/Pierwsze-kroki-Wprowadzenie-do-kontroli-wersji) **[PL]**
 - [Poradnik dla chcących poznaćsystem kontroli wersji](https://microgeek.eu/viewtopic.php?t=852) **[PL]**
-- [Think Like (a) Git](http://think-like-a-git.net/) - Wstęp do systemu kontroli wersji Git dla ,,zaawansowanych początkujących'', którzy ciąglę napotykają się na  problemy. Głównym celem jest przedstawienie prostej strategii eksperymentowania z gitem. 
+- [Think Like (a) Git](https://think-like-a-git.net/) - Wstęp do systemu kontroli wersji Git dla ,,zaawansowanych początkujących'', którzy ciąglę napotykają się na  problemy. Głównym celem jest przedstawienie prostej strategii eksperymentowania z gitem. 
 - [Try Git](https://try.github.io/) - Naucz się Gita w 15 minut ze swojej przeglądarki za darmo.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Uzyteczny minimalny zbiór komend potrzebnych do codziennego używania Gita.
 - [Oh shit, git!](https://ohshitgit.com/) - Jak rozwiązać pospolite problemy, które możęsz napotkać podczas używania gita. Zobacz również [Dangit, git!](https://dangitgit.com/) stronę bez przekleństw.

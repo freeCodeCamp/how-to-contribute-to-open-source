@@ -2,6 +2,10 @@ name: Check Resources
 
 on: [push,pull_request]
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.head_ref || github.run_id }}
+  cancel-in-progress: true
+
 jobs:
   validate:
     runs-on: ubuntu-latest
@@ -24,7 +28,11 @@ jobs:
         # continue-on-error: true
         run: |
           gem install awesome_bot
-          awesome_bot -f README.md --allow-ssl --allow 302,429 --white-list firsttimersonly.com,github.com/github,creativecommons.org/licenses/by-sa/4.0
+          awesome_bot \
+            -f README.md \
+            --allow-ssl \
+            --allow 302,429 \
+            --white-list firsttimersonly.com,github.com/github,creativecommons.org/licenses/by-sa/4.0,github.com/kentcdodds
 
 #      - name: Run Danger
 #        uses: MeilCli/danger-action@v5

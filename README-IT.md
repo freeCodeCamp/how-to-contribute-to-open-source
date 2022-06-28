@@ -15,6 +15,7 @@
         <td><a href="./README-FR.md"> Français </a></td>
         <td><a href="./README-TR.md"> Turkish </a></td>
         <td><a href="./README-KO.md"> 한국어 </a></td>
+        <td><a href="./README-HE.md"> עברית </a></td>
     </tr>
 </table>
 # Benvenuti contributori principianti all'open source!
@@ -25,7 +26,7 @@
 
 Questa è una lista di risorse per le persone che sono nuove a contribuire all'open source.
 
-Se trovi risorse aggiuntive, si prega di contribuire con una richiesta di pull.
+Se trovi risorse aggiuntive, ti preghiamo di contribuire con una richiesta di pull.
 
 Se hai domande o commenti, crea un problema/issue.
 
@@ -36,7 +37,7 @@ Se hai domande o commenti, crea un problema/issue.
 - [Articoli utili per i nuovi contributori all'open source](#articoli-utili-per-i-nuovi-contributori-allopen-source)
 - [L'uso della versione di controllo/version control](#luso-della-versione-di-controlloversion-control)
 - [Libri sull'Open Source](#libri-sullopen-source)
-- [Iniziative per contribuire all'Open Source](#iniziative-open-source)
+- [Iniziative per contribuire all Open Source](#Iniziative-per-contribuire-all-Open-Source)
 - [Licenza](#licenza)
 
 ## Contribuire all'open source in generale
@@ -88,7 +89,7 @@ Se hai domande o commenti, crea un problema/issue.
 - ["Hacktoberfest 2018: Come puoi ottenere la tua maglietta gratis — anche se sei nuovo nella codifica/programazione"](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) di [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
 
 ## L'uso della versione di controllo/version control
-- [Pensa come (un) Git (stupido)](http://think-like-a-git.net/) - L'Introduzione a Git per i "principianti avanzati", ma hanno ancora difficoltà, al fine di darti una semplice strategia per sperimentare in sicurezza con git.
+- [Pensa come (un) Git (stupido)](https://think-like-a-git.net/) - L'Introduzione a Git per i "principianti avanzati", ma hanno ancora difficoltà, al fine di darti una semplice strategia per sperimentare in sicurezza con git.
 - [Prova Git](https://try.github.io/) - Impara Git in 15 minuti dal tuo browser gratuitamente.
 - [Ogni giorno Git](https://git-scm.com/docs/giteveryday) - Un utile set minimo di comandi per Git da usare ogni giorno.
 - [Oh mio Dio, git!](http://ohshitgit.com/) - come uscire dagli errori di `git` comuni descritti in inglese semplice.
@@ -108,7 +109,7 @@ Se hai domande o commenti, crea un problema/issue.
 - [Le Pratiche sul COME/HOWTO rilasciare lo Software](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - Questo COME/HOWTO descrive le buone pratiche di rilascio per Linux e altri progetti open-source. Seguendo queste pratiche, renderete il più semplice possibile per gli utenti a svillupare/creare il vostro codice e usarlo, e per gli altri sviluppatori capire il vostro codice e collaborare con voi per migliorarlo.
 - [Open Sources 2.0: L'Evoluzione della Contribuzione](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 è una raccolta di saggi penetranti e stimolanti dei leader tecnologici di oggi che continua a dipingere quadro evolutivo sviluppato nel libro del 1999, Open Sources: Le voci della revoluzione.
 
-## Iniziative per contribuire all'Open Source
+## Iniziative per contribuire all Open Source
 - [Disponibli](https://up-for-grabs.net/) - un elenco di progetti con problemi per i principianti.
 - [Solo per principianti](https://www.firsttimersonly.com/) - Lista di bug etichettati come "first-timers-only".
 - [Primi contributi](https://firstcontributions.github.io/) - Fai il tuo primo contributo Open Source in 5 minuti. Uno strumento e tutorial per aiutare i principianti ad iniziare a contribuire. [Qui](https://github.com/firstcontributions/first-contributions) si trova il codice sorgente Github per il sito e l'opportunità per contribuire al repository stesso.

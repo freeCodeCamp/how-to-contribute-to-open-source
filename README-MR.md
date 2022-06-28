@@ -95,7 +95,7 @@
 ## नवीन ओपन सोर्स योगदानकर्त्यांसाठी उपयुक्त लेख
 - [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) द्वारा [@GitHub](https://github.com/github)
 - [How to find your first Open Source bug to fix](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) द्वारा [@Shubheksha](https://github.com/Shubheksha)
-- [First Timers Only](https://kentcdodds.com/blog/first-timers-only/) द्वारा [@kentcdodds](https://github.com/kentcdodds)
+- [First Timers Only](https://kentcdodds.com/blog/first-timers-only) द्वारा [@kentcdodds](https://github.com/kentcdodds)
 - [Bring Kindness Back to Open Source](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) द्वारा [@shanselman](https://github.com/shanselman)
 - [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) द्वारा [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) द्वारा [@GitHub](https://github.com/github)
@@ -116,7 +116,7 @@
 - [8 non-code ways to contribute to open source](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code) द्वारा [OpenSource](https://twitter.com/OpenSourceWay)
 
 ## आवृत्ती नियंत्रण वापरणे
-- [Think Like (a) Git](http://think-like-a-git.net/) - "प्रगत नवशिक्यांसाठी" गिट परिचय, परंतु गिटचा सुरक्षितपणे प्रयोग करण्यासाठी आपल्याला एक सोपी रणनीती देण्यासाठी आपण अद्याप धडपडत आहात.
+- [Think Like (a) Git](https://think-like-a-git.net/) - "प्रगत नवशिक्यांसाठी" गिट परिचय, परंतु गिटचा सुरक्षितपणे प्रयोग करण्यासाठी आपल्याला एक सोपी रणनीती देण्यासाठी आपण अद्याप धडपडत आहात.
 - [Try Git](https://try.github.io/) - आपल्या ब्राउझरमधून १५ मिनिटांत गिट विनामूल्य शिका.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - दररोज गिटसाठी उपयुक्त कमांड्सचा एक सेट.
 - [Oh shit, git!](https://ohshitgit.com/) - साध्या इंग्रजीत वर्णन केलेल्या `git` सामान्य चुकांमधून कसे मुक्त व्हावे; देखील पहा [Dangit, git!](https://dangitgit.com/) शपथ न देता पृष्ठासाठी.
@@ -138,7 +138,7 @@
 ## ओपन सोर्स पुस्तके
 - [Producing Open Source Software](https://producingoss.com/) - ओपन सोर्स सॉफ्टवेअर तयार करणे हे ओपन सोर्स डेव्हलपमेंटच्या मानवी बाजूचे एक पुस्तक आहे. हे यशस्वी प्रकल्प कसे चालवतात, वापरकर्त्यांची आणि विकसकांच्या अपेक्षा आणि विनामूल्य सॉफ्टवेअरची संस्कृती यांचे वर्णन करते.
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - https://opensource.com वरून विनामूल्य ईपुस्तकांच्या विस्तृत सूचीसह ओपन सोर्स आणि वाढती ओपन सोर्स चळवळ याबद्दल अधिक जाणून घ्या.
-- [Software Release Practice HOWTO](https://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - हे होटो लिनक्स आणि इतर ओपन-सोर्स प्रकल्पांसाठी चांगल्या रीलिझ पद्धतींचे वर्णन करते. या पद्धतींचे अनुसरण करून, वापरकर्त्यांनी आपला कोड तयार करणे आणि त्याचा वापर करणे आणि अन्य विकसकांसाठी आपला कोड समजून घेणे आणि त्या सुधारण्यासाठी आपल्याला सहकार्य करणे शक्य तितके सोपे कराल.
+- [Software Release Practice HOWTO](https://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - हे "हाऊ-टू" लिनक्स आणि इतर ओपन-सोर्स प्रकल्पांसाठी चांगल्या रीलिझ पद्धतींचे वर्णन करते. या पद्धतींचे अनुसरण करून, वापरकर्त्यांनी आपला कोड तयार करणे आणि त्याचा वापर करणे आणि अन्य विकसकांसाठी आपला कोड समजून घेणे आणि त्या सुधारण्यासाठी आपल्याला सहकार्य करणे शक्य तितके सोपे कराल.
 - [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (२००५) - ओपन सोर्स २.० हा आजच्या तंत्रज्ञानाच्या नेत्यांमधील अंतर्ज्ञानी आणि विचारवंत निबंधांचा संग्रह आहे जो १९९९ साली प्रकाशित झाला. च्या 'ओपन सोर्सः व्हॉईज फ्रॉम द रेव्होल्यूशन' या पुस्तकात विकसित झालेल्या उत्क्रांतीत्मक चित्रांवर रंगत चालला आहे.
 - [The Architecture of Open Source Applications](http://www.aosabook.org/en/git.html) - वितरित वर्कफ्लो सक्षम करण्यासाठी कव्हर अंतर्गत गिटचे विविध घटक कसे कार्य करतात आणि ते इतर आवृत्ती नियंत्रण प्रणाली (व्हीसीएस) पासून कसे वेगळे आहेत ते दर्शवा.
 - [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - लिनस टोरवाल्ड्स (लिनक्स), लॅरी वॉल (पर्ल), आणि रिचर्ड स्टालमॅन (जीएनयू) सारख्या मुक्त-स्त्रोत प्रणेतांचे निबंध.

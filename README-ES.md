@@ -91,7 +91,7 @@ Lista de enlaces convenientes para principiantes que apuntan a `issues` en GitHu
 - [Aprende Git y GitHub paso a paso (en Windows)](https://medium.com/@ows_ali/be93518e06dc) por [@ows-ali](https://medium.com/@ows_ali)
 
 ## Usando control de versiones
-- [Piensa como (un) Git](http://think-like-a-git.net/) - Introducción de Git para "principiantes avanzados" pero aún esforzándose, con el fin de darte una estrategía simple para experimentar con git de manera fiable.
+- [Piensa como (un) Git](https://think-like-a-git.net/) - Introducción de Git para "principiantes avanzados" pero aún esforzándose, con el fin de darte una estrategía simple para experimentar con git de manera fiable.
 - [Try Git](https://try.github.io/) - Aprender Git en 15 minutos desde tu navegador.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Un pequeño conjunto de comandos útiles para tu día a día.
 - [Oh shit, git!](http://ohshitgit.com/) - Cómo resolver errores comunes de git descritos de manera simple.
