@@ -1,4 +1,4 @@
-<!-- Do not translate this -->
+﻿<!-- Do not translate this -->
 <details>
 <summary>
 <strong> অন্যান্য ভাষায় এই গাইডটি পড়ুন </strong>
@@ -117,7 +117,13 @@
 - [গিট এবং গিটহাব ধাপে ধাপে শিখুন (উইন্ডোজে)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) by [@ows-ali](https://medium.com/@ows_ali)
 - [কেন ওপেন সোর্স এবং কিভাবে?](https://careerkarma.com/blog/open-source-projects-for-beginners/) by [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
 - [ওপেন সোর্স দিয়ে কীভাবে শুরু করবেন - By Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/)
-- [কোন ওপেন সোর্সে আমার অবদান রাখা উচিৎ](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) by Kent C. Dodds
+- [কোন ওপেন সোর্সে আমার অবদান রাখা উচিৎ](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) by [@kentcdodds](https://github.com/kentcdodds)
+- [ওপেন সোর্সের জন্য একটি নিমজ্জিত পরিচায়ক নির্দেশিকা](https://developeraspire.hashnode.dev/an-immersive-introductory-guide-to-open-source) by [Franklin Okolie](https://twitter.com/DeveloperAspire)
+- [ওপেন সোর্সে অবদান রাখা শুরু করা](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/) by [Zara Cooper](https://stackoverflow.blog/author/zara-cooper/)
+- [ওপেন সোর্স অবদানের জন্য শিক্ষানবিস গাইড](https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj) by [Sudipto Ghosh](https://github.com/pydevsg)
+- [ওপেন সোর্সে অবদান রাখার ৮টি নন-কোড উপায়](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code) by [OpenSource](https://twitter.com/OpenSourceWay)
+- [ওপেন সোর্স সফটওয়্যার কি? ওএসএস প্লেইন ইংরেজিতে ব্যাখ্যা করা হয়েছে](https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/) by [Jessica Wilkins](https://www.freecodecamp.org/news/author/jessica-wilkins/)
+
 
 ## ভার্সন কন্ট্রোলের ব্যবহার
 
@@ -138,6 +144,7 @@
 - [Git Tips](https://github.com/git-tips/tips) - সর্বাধিক ব্যবহৃত গিট টিপস এবং কৌশলগুলির সংগ্রহ।
 - [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - প্রায়শই কমিট করুন, পরে নিখুঁত করুন, একবার প্রকাশ করুন: গিট সম্পর্কিত সেরা অভ্যাস।
 - [Git Interactive Tutorial](https://learngitbranching.js.org/) - গিটকে সবচেয়ে ভিজ্যুয়াল এবং ইন্টারেক্টিভ উপায়ে শিখুন।
+- [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics) (1:12:39) - [কুনাল কুশওয়াহা] (https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw)এর সম্পূর্ণ গিট এবং গিটহাব ওয়াকথ্রু।
 
 ## ওপেন সোর্স বইসমূহ
 
@@ -156,6 +163,10 @@
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - ওপেন সোর্স অবদানকে উত্সাহিত করার জন্য একটি প্রোগ্রাম অক্টোবর মাসে কমপক্ষে ৪টি পুল রিকুয়েস্ট করে টি-শার্ট এবং স্টিকারের মতো উপহারগুলি উপার্জন করুন।
 - [24 Pull Requests](https://24pullrequests.com) - ২৪ পুল রিকুয়েস্ট ডিসেম্বরের মাসে ওপেন সোর্স সহযোগিতার প্রচারের জন্য একটি প্রকল্প।
 - [Ovio](https://ovio.org) - অবদানকারী-বান্ধব প্রকল্পগুলির একটি সংযুক্ত নির্বাচনসহ প্ল্যাটফর্ম। এটির একটি [শক্তিশালী সমস্যা অনুসন্ধানের সরঞ্জাম](https://ovio.org/issues) রয়েছে এবং এখানে আপনি পরবর্তী প্রকল্পগুলি এবং সমস্যাগুলি সংরক্ষণ করতে পারবেন।
+- [Google Summer of Code](https://summerofcode.withgoogle.com/) – গুগল দ্বারা পরিচালিত একটি বার্ষিক অর্থ প্রদত্ত প্রোগ্রাম যা ওপেন-সোর্স সফ্টওয়্যার ডেভেলপমেন্টে আরও বেশি শিক্ষার্থী ডেভেলপার নিয়ে আসার উপর দৃষ্টি নিবদ্ধ করে।
+- [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) - মহিলাদের এবং নন-বাইনারী কোডারদের জন্য একটি বিশ্বব্যাপী ফেলোশিপ প্রোগ্রাম যেখানে তারা বিদ্যমান ওপেন-সোর্স প্রকল্পগুলিতে কাজ করে এবং তাদের দক্ষতা প্রসারিত করে।
+- [Major League Hacking Fellowship](https://fellowship.mlh.io/) - উচ্চাকাঙ্ক্ষী প্রযুক্তিবিদদের জন্য একটি বিকল্প রিমোট ইন্টার্নশিপ সুযোগ, যেখানে তারা ওপেন-সোর্স প্রকল্পগুলি তৈরি করে বা অবদান রাখে।
+
 
 ## লাইসেন্স
 
