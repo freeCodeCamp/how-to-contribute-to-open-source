@@ -20,6 +20,10 @@
 
 # नौसिखिया Open Source योगदानकर्ताहरूलाई स्वागत छ!
 
+[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+[![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
+[![Check Resources](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml/badge.svg)](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml)
+
 यो Open Source मा योगदान पुर्‍याउन नयाँ भएका व्यक्तिहरूको लागि संसाधनहरूको सूची हो।
 
 यदि तपाईंले थप संसाधनहरू फेला पार्नुभयो भने, कृपया एक pull request योगदान गर्नुहोस्।
