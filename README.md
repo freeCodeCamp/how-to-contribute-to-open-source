@@ -60,7 +60,7 @@ If you have questions or comments, please create an issue.
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials by DigitalOcean to guide you on your way to contribution success here on GitHub.
 - [Code Triage](https://www.codetriage.com/) - another, really nice, tool for finding popular repositories and issues filtered by language.
-- [Forge Your Future with Open Source](https://fossforge.com) ($) - Book devoted to explaining open source, how to find a project, and how to start contributing. Inclusive of all roles in software development, not just programmers.
+- [Forge Your Future with Open Source](https://pragprog.com/titles/vbopens/forge-your-future-with-open-source/) ($) - Book devoted to explaining open source, how to find a project, and how to start contributing. Inclusive of all roles in software development, not just programmers.
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - a GitHub repo that amasses projects with good bugs for new contributors, and applies labels to describe them.
 - [Open Source Guides](https://opensource.guide/) - Collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an Open Source project.
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Do's and Don'ts on GitHub.
@@ -114,6 +114,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 
 ## Useful articles for new Open Source contributors
 
+- [Finding ways to contribute to open source on GitHub](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github) by [@GitHub](https://github.com/github)
 - [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
 - [How to find your first Open Source bug to fix](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) by [@Shubheksha](https://github.com/Shubheksha)
 - [First Timers Only](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
