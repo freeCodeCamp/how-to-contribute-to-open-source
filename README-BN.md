@@ -109,8 +109,7 @@
 - [ওপেন সোর্সে অবদান রাখা শুরু করা](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/) by [Zara Cooper](https://stackoverflow.blog/author/zara-cooper/)
 - [ওপেন সোর্স অবদানের জন্য শিক্ষানবিস গাইড](https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj) by [Sudipto Ghosh](https://github.com/pydevsg)
 - [ওপেন সোর্সে অবদান রাখার ৮টি নন-কোড উপায়](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code) by [OpenSource](https://twitter.com/OpenSourceWay)
-- [ওপেন সোর্স সফটওয়্যার কি? ওএসএস প্লেইন ইংরেজিতে ব্যাখ্যা করা হয়েছে
-](https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/) by [Jessica Wilkins](https://www.freecodecamp.org/news/author/jessica-wilkins/)
+- [ওপেন সোর্স সফটওয়্যার কি? ওএসএস প্লেইন ইংরেজিতে ব্যাখ্যা করা হয়েছে](https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/) by [Jessica Wilkins](https://www.freecodecamp.org/news/author/jessica-wilkins/)
 
 
 ## ভার্সন কন্ট্রোলের ব্যবহার
