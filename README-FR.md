@@ -100,7 +100,7 @@ Listes de recherches pointant directement vers des `issues` propices à la contr
 ## Utiliser le gestionnaire de version
 - [Tutoriel vidéo pour Git et Github par l'Université de Harvard](https://www.youtube.com/watch?v=NcoBAfJ6l2Q) - Tutoriel de l'Université de Harvard, dans le cadre de leur cours de développement Web CS50 sur la compréhension de Git et GitHub et l'utilisation des commandes Git.
 - [Penser comme (un) Git](https://think-like-a-git.net/) - introduction à Git pour les "novices avancés" qui ont toujours des difficultés, pour vous offrir une stratégie simple pour expérimenter sans risque avec Git.
-- [Démarrage rapide - Configurer Git] (https://docs.github.com/en/get-started/quickstart/set-up-git) - Découvrez comment configurer Git localement et configurer l'authentification, ainsi que les prochaines étapes de votre parcours d'apprentissage
+- [Démarrage rapide - Configurer Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - Découvrez comment configurer Git localement et configurer l'authentification, ainsi que les prochaines étapes de votre parcours d'apprentissage
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - liste des commandes basiques utiles pour utiliser Git au quotidien.
 - [Oh shit, git!](http://ohshitgit.com/) - comment s'extraire des erreurs courantes de `git` expliquées de manière simple.
 - [Tutoriels Git d'Atlassian](https://www.atlassian.com/git/tutorials/) - tutoriels variés sur comment utiliser `git`.
@@ -116,10 +116,10 @@ Listes de recherches pointant directement vers des `issues` propices à la contr
 - [Git Tips](https://github.com/git-tips/tips) - Une collection des trucs et astuces Git les plus utiles.
 - [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - Effectuez régulièrement des `commits`, peaufinez-les plus tard, publiez une seule fois: les meilleurs pratiques Git.
 - [Git Interactive Tutorial](https://learngitbranching.js.org/) - La méthode la plus interactive et visuelle pour apprendre Git.
-- [Aide-mémoire de Git] (https://devhints.io/?q=git) - Un ensemble de Aide-mémoires graphiques sur git
+- [Aide-mémoire de Git](https://devhints.io/?q=git) - Un ensemble de Aide-mémoires graphiques sur git
 - [Introduction complète à Git et GitHub](https://codeburst.io/git-good-part-a-e0d826286a2a) - Un guide rédigé par Madhav Bahl, que vous devriez consulter si vous êtes un(e) novice de Git ou GitHub. Il couvre GitHub en tant que service ainsi que les concepts de gestion de version Git en détail.
-- [Un tutoriel d'introduction à Git] (https://git-scm.com/docs/gittutorial) -Un tutoriel pour les débutants par Git.
-- [First Aid Git ] (https://firstaidgit.io/#/) - Une collection consultable des questions Git les plus fréquemment posées. Les réponses à ces questions ont été recueillies à partir de l'expérience personnelle, de Stackoverflow et de la documentation officielle de Git.
+- [Un tutoriel d'introduction à Git](https://git-scm.com/docs/gittutorial) -Un tutoriel pour les débutants par Git.
+- [First Aid Git ](https://firstaidgit.io/#/) - Une collection consultable des questions Git les plus fréquemment posées. Les réponses à ces questions ont été recueillies à partir de l'expérience personnelle, de Stackoverflow et de la documentation officielle de Git.
 - [Try Git](https://try.github.io/) - apprendre Git en 15 minutes depuis votre navigateur gratuitement.
 
 ## Livres sur l'Open Source
