@@ -133,7 +133,7 @@
 
 </p>
 </div>
-<div dir="rtl" style="direction:rtl;text-align:right;">
+<div  dir="rtl" lang="he">
 <p>
 
 ## שימוש ב-Version Control
@@ -174,13 +174,14 @@
 <p>
 
 ## יוזמות לתרומת קוד פתוח
-- [Up For Grabs](https://up-for-grabs.net/) - מכיל פרויקטים עם issues המתאימים למתחילים.
-- [First Timers Only](https://www.firsttimersonly.com/) - רשימה של באגים המתוייגים כ-״first-timers-only".
-- [First Contributions](https://firstcontributions.github.io/) - בצעו את התרומה הראשונה שלכם לקוד פתוח תוך 5 דקות. כלי ומדריך שיעזור למתחילים לתרום. תוכלו למצוא את קוד המקור של האתר [כאן](https://github.com/firstcontributions/first-contributions), נצלו את ההזדמנות לתרום ל-repository עצמו.
-- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - תוכנית לעידוד תרומה לקוד פתוח. זכו בפרסים כגון חולצות ומדבקות על ידי פתיחת לפחות 4 pull requests במהלך חודש אוקטובר.
-- [24 Pull Requests](https://24pullrequests.com) - הפרויקט 24 Pull Requests הינו פרויקט לעידוד שיתוף פעולה בקוד פתוח במהלך חודש אוקטובר.
-
-</p>
+<ul  dir="rtl" lang="he" >
+    <li> [Up For Grabs](https://up-for-grabs.net/) - מכיל פרויקטים עם issues המתאימים למתחילים.</li>
+<li> [First Timers Only](https://www.firsttimersonly.com/) - רשימה של באגים המתוייגים כ-״first-timers-only". </li>
+<li> [First Contributions](https://firstcontributions.github.io/) - בצעו את התרומה הראשונה שלכם לקוד פתוח תוך 5 דקות. כלי ומדריך שיעזור למתחילים לתרום. תוכלו למצוא את קוד המקור של האתר [כאן](https://github.com/firstcontributions/first-contributions), נצלו את ההזדמנות לתרום ל-repository עצמו. </li>
+<li> [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - תוכנית לעידוד תרומה לקוד פתוח. זכו בפרסים כגון חולצות ומדבקות על ידי פתיחת לפחות 4 pull requests במהלך חודש אוקטובר. </li>
+<li> [24 Pull Requests](https://24pullrequests.com) - הפרויקט 24 Pull Requests הינו פרויקט לעידוד שיתוף פעולה בקוד פתוח במהלך חודש אוקטובר. </li>
+    </ul>
+    </p>
 </div>
 <div dir="rtl" style="direction:rtl;text-align:right;">
 <p>
