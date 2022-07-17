@@ -41,10 +41,10 @@
 - [開源計劃參與](#開源計劃參與)
 - [協議](#%E5%8D%8F%E8%AE%AE)
 
-## 一般开源贡献
+## 一般開源貢獻
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
-- [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - DigitalOcean提供的指导你通过你的方式在GitHub上成功进行贡献的指南。
-- [Code Triage](https://www.codetriage.com/) - 另一个，确实不错的，通过语言过滤来查找流行的开源库和issue的工具。
+- [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - DigitalOcean提供的指導你通過你的方式在GitHub上成功進行貢獻的指南。
+- [Code Triage](https://www.codetriage.com/) - 另一個，確實不錯的，通過語言過濾來查找流行的開源庫和issue的工具。
 - [Forge Your Future with Open Source](https://fossforge.com) ($) - 書籍專注於開源項目。教你怎樣找到開源項目和開始貢獻。囊括所有軟件開發的角色，不排除只有軟件工程師。
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - 一個GitHub開源庫，收集一些對新的貢獻來說有不錯的Bug進行貢獻的工程，並且通過標籤來進行描述。
 - [Open Source Guides](https://opensource.guide/) - 為希望學習怎樣對開源項目進行貢獻的個人，組織和公司收集的資源。
