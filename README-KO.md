@@ -54,7 +54,7 @@
 - [Code Triage](https://www.codetriage.com/) - 언어별로 필터링된 인기있는 레파지토리와 이슈들을 찾는 또 다른 좋은 도구
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - 새로운 컨트리뷰터를 위한 좋은 버그와 해당 버그를 설명하는 라벨을 모아둔 GitHub 레포지토리 
 - [Open Source Guides](https://opensource.guide/) - 오픈소스 프로젝트를 운영하고 기여하는 방법을 배우고 싶어하는 개인, 커뮤니티, 회사를 위한 리소스들의 모음집
-- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - GitHub에서 해야할 것과 하지 말아야 할 것
+- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - GitHub에서 해야 할 것과 하지 말아야 할 것
 - [GitHub Guides](https://guides.github.com/) - GitHub를 효과적으로 사용하는 방법에 대한 기본 가이드
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - 시뮬레이션 프로젝트의 코드에 기여함으로서 GitHub 워크플로우 배우기
 - [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Linux Foundation의 오픈 소스 프로젝트 가이드
@@ -113,7 +113,7 @@ GitHub에서 기여할 만한 적절한 이슈를 직접적으로 가리키는 �
 - [GitHub Learning Resources](https://help.github.com/articles/git-and-github-learning-resources/) - Git과 GitHub 학습 자료
 - [Pro Git](https://git-scm.com/book/en/v2) - Apress에서 출판한 Scott Chacon과 Ben Straub의 Pro Git 책 전문
 - [Git-it](https://github.com/jlord/git-it-electron) - 단계별 Git 튜토리얼 데스크탑 앱
-- [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - 일이 잘못되어가고 있을 때 해야할 일들에 대한 안내
+- [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - 일이 잘못되어가고 있을 때 해야 할 일들에 대한 안내
 - [A Comprehensive Introduction To Git and GitHub](https://codeburst.io/git-good-part-a-e0d826286a2a) - 만약 Git이나 GitHub가 처음이라면 Madhav Bahl의 안내서를 보세요. GitHub 서비스와 Git 버전 관리에 대한 자세한 개념을 다룹니다.
 - [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - 스페인어로 설명된 Git과 GitHub에 대한 완벽한 안내 슬라이드.
 - [Git Kraken](https://www.gitkraken.com/git-client) - 버전 관리를 위한 비주얼, 크로스 플랫폼, 대화형 'git' 데스크톱 어플리케이션
