@@ -167,7 +167,7 @@
 - [Google Summer of Code](https://summerofcode.withgoogle.com/) - برنامج مدفوع يتم تشغيله سنويًا بواسطة Google ويركز على جذب المزيد من مطوري الطلاب إلى تطوير البرمجيات مفتوحة المصدر.
 - [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) -برنامج زمالة عالمي للنساء والمبرمجين غير الثنائيين حيث يعملون في مشاريع مفتوحة المصدر قائمة ويوسعون مجموعة مهاراتهم.
 - [Major League Hacking Fellowship](https://fellowship.mlh.io/) - بديل للتدريب عن بعد للتقنيين الطموحين حيث يبنون أو يساهمون في مشاريع مفتوحة المصدر.
-- [Girlscript Summer of Code](https://gssoc.girlscript.tech/) هو برنامج مقتوح المصدر  لاجل الطلبه للمشاركه في مشاريع وكسب الجوائز وشهادة لاتمام التدريب مدته ثلاثة اشهر من مارس الى مايو وهناك تدريب اخر في فصل الشتاء
+- [Girlscript Summer of Code](https://gssoc.girlscript.tech/) هو برنامج مفتوح المصدر  لاجل الطلبه للمشاركه في مشاريع وكسب الجوائز وشهادة لاتمام التدريب مدته ثلاثة اشهر من مارس الى مايو وهناك تدريب اخر في فصل الشتاء
 - [Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) هو برتامج تعليمي لمساعدة المبتدئيين في المشاركة في  المشاريع مفتوحة المصدر وتسهبل التعامل مع git, github
 
 ## برامج مفتوحة المصدر للمشاركة فيها
