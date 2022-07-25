@@ -172,6 +172,7 @@ If you have questions or comments, please create an issue.
 - [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics) (1:12:39) - Full Git and GitHub walkthrough by [Kunal Kushwaha](https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw).
 - [A Tutorial Introduction to Git](https://git-scm.com/docs/gittutorial) - A Tutorial for Beginners by Git.
 - [First Aid Git](https://firstaidgit.io/#/) - A searchable collection of the most frequently asked Git questions. Answers for these questions were collected from personal experience, Stackoverflow, and the official Git documentation.
+- [Git by Susan Potter](https://www.aosabook.org/en/git.html) - Show how various technical aspects of Git work under the covers to enable distributed workflows, and how it differs from other version control systems (VCSs).
 
 ## Open Source books
 
@@ -182,7 +183,6 @@ If you have questions or comments, please create an issue.
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - Learn more about Open Source and the growing Open Source movement with a comprehensive list of free eBooks from https://opensource.com.
 - [Software Release Practice HOWTO](https://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - This HOWTO describes good release practices for Linux and other Open-Source projects. By following these practices, you will make it as easy as possible for users to build your code and use it, and for other developers to understand your code and cooperate with you to improve it.
 - [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 is a collection of insightful and thought-provoking essays from today's technology leaders that continues painting the evolutionary picture that developed in the 1999 book, Open Sources: Voices from the Revolution.
-- [The Architecture of Open Source Applications](https://www.aosabook.org/en/git.html) - Show how various aspects of Git work under the covers to enable distributed workflows, and how it differs from other version control systems (VCSs).
 - [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - Essays from open-source pioneers such as Linus Torvalds (Linux), Larry Wall (Perl), and Richard Stallman (GNU).
 
 ## Open Source contribution initiatives
