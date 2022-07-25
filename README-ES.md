@@ -2,6 +2,8 @@
     <tr>
         <!-- Do not translate this table -->
         <td><a href="./README.md"> English </a></td>
+        <td><a href="./README-MR.md"> मराठी </a></td>
+        <td><a href="./README-BN.md"> বাংলা </a></td>
         <td><a href="./README-CN.md"> 中文 </a></td>
         <td><a href="./README-RU.md"> русский </a></td>
         <td><a href="./README-RO.md"> Românesc </a></td>
@@ -12,6 +14,7 @@
         <td><a href="./README-GR.md"> Ελληνικά </a></td>
         <td><a href="./README-FR.md"> Français </a></td>
         <td><a href="./README-TR.md"> Turkish </a></td>
+        <td><a href="./README-KO.md"> 한국어 </a></td>
     </tr>
 </table>
 
@@ -19,7 +22,7 @@
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
-[![Build Status](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
+[![Check Resources](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml/badge.svg)](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml)
 
 Esta es una lista de recursos para personas que se inician en la colaboración de proyectos de código abierto.
 
@@ -40,7 +43,7 @@ Si tienes alguna pregunta o comentario, por favor crea un `issue` en este reposi
 ## Contribuyendo al código abierto en general
 - [Guía definitiva para contribuir al código abierto](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) por [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [Una introducción al código abierto](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutoriales hechos por DigitalOcean para guiarte de manera exitosa en tu camino cómo colaborador en GitHub.
-- [Issuehub.io](http://issuehub.io/) - Buscador de `issues` en GitHub las cuáles puedes filtrar por tipo y lenguaje.
+- [Issuehub.io](http://issuehub.pro/) - Buscador de `issues` en GitHub las cuáles puedes filtrar por tipo y lenguaje.
 - [Code Triage](https://www.codetriage.com/) - Otro muy buen buscador de repositorios e `issues` filtradas por lenguaje de programación.
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - Repositorio de GitHub que acumula proyectos con issues fáciles y etiquetados para colaboradores recien iniciados.
 - [Guías de código abierto](https://opensource.guide/) - Colección de recursos para particulares, comunidades y empresas que quieren aprender cómo iniciar y contribuir en proyectos de código abierto.
@@ -88,7 +91,7 @@ Lista de enlaces convenientes para principiantes que apuntan a `issues` en GitHu
 - [Aprende Git y GitHub paso a paso (en Windows)](https://medium.com/@ows_ali/be93518e06dc) por [@ows-ali](https://medium.com/@ows_ali)
 
 ## Usando control de versiones
-- [Piensa como (un) Git](http://think-like-a-git.net/) - Introducción de Git para "principiantes avanzados" pero aún esforzándose, con el fin de darte una estrategía simple para experimentar con git de manera fiable.
+- [Piensa como (un) Git](https://think-like-a-git.net/) - Introducción de Git para "principiantes avanzados" pero aún esforzándose, con el fin de darte una estrategía simple para experimentar con git de manera fiable.
 - [Try Git](https://try.github.io/) - Aprender Git en 15 minutos desde tu navegador.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Un pequeño conjunto de comandos útiles para tu día a día.
 - [Oh shit, git!](http://ohshitgit.com/) - Cómo resolver errores comunes de git descritos de manera simple.

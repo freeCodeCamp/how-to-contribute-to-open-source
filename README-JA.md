@@ -2,6 +2,8 @@
     <tr>
         <!-- Do not translate this table -->
         <td><a href="./README.md"> English </a></td>
+        <td><a href="./README-MR.md"> मराठी </a></td>
+        <td><a href="./README-BN.md"> বাংলা </a></td>
         <td><a href="./README-CN.md"> 中文 </a></td>
         <td><a href="./README-RU.md"> русский </a></td>
         <td><a href="./README-RO.md"> Românesc </a></td>
@@ -16,7 +18,7 @@
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
-[![Build Status](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
+[![Check Resources](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml/badge.svg)](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml)
 
 これはオープンソース貢献が初めての方のためのリストです。
 
@@ -26,21 +28,21 @@
 
 ## 目次
 
-- [オープンソース貢献初心者のみなさんようこそ!](#welcome-newbie-open-source-contributors)
-  - [目次](#table-of-contents)
-  - [通常のオープンソースへの貢献](#contributing-to-open-source-in-general)
-  - [Github上で直接検索](#direct-github-searches)
-  - [Mozillaの貢献者エコシステム](#mozillas-contributor-ecosystem)
-  - [オープンソース貢献初心者に有益な情報](#useful-articles-for-new-open-source-contributors)
-  - [バージョン管理の使用](#using-version-control)
-  - [オープンソースの本](#open-source-books)
-  - [オープンソース貢献の取り組み](#open-source-contribution-initiatives)
-  - [ライセンス](#license)
+- [オープンソース貢献初心者のみなさんようこそ!](#オープンソース貢献初心者のみなさんようこそ!)
+  - [目次](#目次)
+  - [通常のオープンソースへの貢献](#通常のオープンソースへの貢献)
+  - [Github上で直接検索](#Github上で直接検索)
+  - [Mozillaの貢献エコシステム](#Mozillaの貢献エコシステム)
+  - [オープンソース貢献初心者に有益な記事](#オープンソース貢献初心者に有益な記事)
+  - [バージョン管理の使用](#バージョン管理の使用)
+  - [オープンソースの本](#オープンソースの本)
+  - [オープンソース貢献取り組み](#オープンソース貢献取り組み)
+  - [ライセンス](#ライセンス)
 
 ## 通常のオープンソースへの貢献
 - [信頼性の高いオープンソース貢献のガイド](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [オープンソース入門](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - DigitalOceanによるGithubの貢献で成功するためのチュートリアル
-- [Issuehub.io](http://issuehub.io/) - ラベルと言語でGithubのIssuesを検索するためのツール
+- [Issuehub.io](http://issuehub.pro/) - ラベルと言語でGithubのIssuesを検索するためのツール
 - [Code Triage](https://www.codetriage.com/) - その他の言語フィルターによって人気のレポジトリーを探すための良いツール、
 - [初心者向けの素晴らしいもの](https://github.com/MunGell/awesome-for-beginners) - オープンソース貢献初心者のために良いバクを蓄えていおり、説明のラベルが付いているレポジトリー
 - [オープンソースガイド](https://opensource.guide/) - オープンソースに貢献の仕方を覚えたい個人、コミュニティ、企業向けのレポジトリーまとめ
@@ -64,7 +66,7 @@ Github上での貢献に適切な問題を表示しているリンクを直接�
 - [is:issue is:open label:starter](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Astarter)
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
-## Mozilla'の貢献エコシステム
+## Mozillaの貢献エコシステム
 - [初心者向けバグ](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - 開発者がプロジェクトに良い導入だと認識しているバグ
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs that have a mentor assigned who will be there on IRC to help you when you get stuck while working on fix.
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - Bugzillaでバグをさがすための献身的なサイト
@@ -89,7 +91,7 @@ Github上での貢献に適切な問題を表示しているリンクを直接�
 - [Windowsで順を追ってGitとGitHubを学ぼう](https://medium.com/@ows_ali/be93518e06dc) by [@ows-ali](https://medium.com/@ows_ali)
 
 ## バージョン管理の使用
-- [Gitのように考えよう](http://think-like-a-git.net/) - 少し前進したけどまだ奮闘中の初心者へ、Gitを安全に経験できるための簡単な作戦を与えるためのGit紹介
+- [Gitのように考えよう](https://think-like-a-git.net/) - 少し前進したけどまだ奮闘中の初心者へ、Gitを安全に経験できるための簡単な作戦を与えるためのGit紹介
 - [Gitを使ってみよう](https://try.github.io/) - 無料でブラウザを使って、15分でGitを学ぼう
 - [Gitの日々](https://git-scm.com/docs/giteveryday) - 毎日のGit生活のために必要な最低限の役立つコマンド一覧
 - [gitめ…](http://ohshitgit.com/) - gitで良く起こるミスを阻止する方法について、英語で説明

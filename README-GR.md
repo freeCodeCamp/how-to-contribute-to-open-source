@@ -2,6 +2,8 @@
     <tr>
         <!-- Do not translate this table -->
         <td><a href="./README.md"> English </a></td>
+        <td><a href="./README-MR.md"> मराठी </a></td>
+        <td><a href="./README-BN.md"> বাংলা </a></td>
         <td><a href="./README-CN.md"> 中文 </a></td>
         <td><a href="./README-RU.md"> русский </a></td>
         <td><a href="./README-RO.md"> Românesc </a></td>
@@ -12,6 +14,7 @@
         <td><a href="./README-GR.md"> Ελληνικά </a></td>
         <td><a href="./README-FR.md"> Français </a></td>
         <td><a href="./README-TR.md"> Turkish </a></td>
+        <td><a href="./README-KO.md"> 한국어 </a></td>
     </tr>
 </table>
 
@@ -19,7 +22,7 @@
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
-[![Build Status](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
+[![Check Resources](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml/badge.svg)](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml)
 
 Αυτή είνα μία λίστα με υλικό για αρχάριους στη συνεισφορά Ανοικτού Κώδικα.
 
@@ -28,19 +31,19 @@
 Αν έχετε ερωτήσεις ή σχόλια, δημιουργήστε ένα issue.
 
 **Περιεχόμενα**
-- [Γενικά για τη συνεισφορά Ανοικτού Κώδικα](#contributing-to-open-source-in-general)
+- [Γενικά για τη συνεισφορά Ανοικτού Κώδικα](#Γενικά-για-τη-συνεισφορά-Ανοικτού-Κώδικα)
 - [Direct GitHub searches](#direct-github-searches)
 - [Mozilla's contributor ecosystem](#mozillas-contributor-ecosystem)
-- [Χρήσιμα άρθρα για αρχάριους στη συνεισφορά Ανοικτού Κώδικα](#useful-articles-for-new-open-source-contributors)
-- [Χρήση Version Control](#using-version-control)
-- [Βιβλία σχετικά με Ανοικτό κώδικα](#open-source-books)
-- [Open Source contribution initiatives](#open-source-contribution-initiatives)
-- [Άδεια χρήσης](#license)
+- [Χρήσιμα άρθρα για αρχάριους στη συνεισφορά Ανοικτού Κώδικα](#Χρήσιμα-άρθρα-για-αρχάριους-στη-συνεισφορά-Ανοικτού-Κώδικα)
+- [Χρήση Version Control](#Χρήση-Version-Control)
+- [Βιβλία σχετικά με Ανοικτό κώδικα](#Βιβλία-σχετικά-με-Ανοικτό-κώδικα)
+- [Open Source contribution initiatives](#Open-Source-contribution-initiatives)
+- [Άδεια χρήσης](#Άδεια-χρήσης)
 
 ## Γενικά για τη συνεισφορά Ανοικτού Κώδικα
 - [The Definitive Guide to Contributing to Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [Εισαγωγή στον Ανοικτό Κώδικα](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Μαθήματα από την DigitalOcean για συνεισφορά Ανοικτού Κώδικα με επιτυχία, στο GitHub.
-- [Issuehub.io](http://issuehub.io/) - Ένα εργαλείο που επιτρέπει την αναζήτηση των issues του GitHub για συγκεκριμένες ετικέτες (labels) και γλώσσες προγραμματισμού.
+- [Issuehub.io](http://issuehub.pro/) - Ένα εργαλείο που επιτρέπει την αναζήτηση των issues του GitHub για συγκεκριμένες ετικέτες (labels) και γλώσσες προγραμματισμού.
 - [Code Triage](https://www.codetriage.com/) - Άλλο ένα, πολύ καλό, εργαλείο για να βρίσκουμε δημοφιλή repositories και issues διαχωρισμένα ώς προς την γλώσσα προγραμματισμού.
 - [Φοβερό-για-αρχάριους](https://github.com/MunGell/awesome-for-beginners) - Ένα GitHub repository που συγκεντρώνει projects με bugs εύκολα για αρχάριους, εφαρμόζωντας ετικέτες (labels) για να τα περιγράψει.
 - [Οδηγοί για τον Ανοικτό Κώδικα](https://opensource.guide/) - Συλλογή από υλικό για άτομα, κοινότητες και εταιρίες που θέλουν να μάθουν πως να τρέξουν και να συνεισφέρουν σε ένα project Ανοικτού Κώδικα.
@@ -89,7 +92,7 @@
 - [Μάθε βήμα-προς-βήμα το Git και το GitHub (σε Windows)](https://medium.com/@ows_ali/be93518e06dc) by [@ows-ali](https://medium.com/@ows_ali)
 
 ## Χρήση Version Control
-- [Think Like (a) Git](http://think-like-a-git.net/) - Εισαγωγή στο Git για "έμπειρους πρωτάρηδες", με σκοπό να τους δώσει μία απλή στρατηγική για να πειραματιστούν με το Git.
+- [Think Like (a) Git](https://think-like-a-git.net/) - Εισαγωγή στο Git για "έμπειρους πρωτάρηδες", με σκοπό να τους δώσει μία απλή στρατηγική για να πειραματιστούν με το Git.
 - [Try Git](https://try.github.io/) - Μάθε το Git σε 15 λεπτά από τον browser σου, δωρεάν.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Χρήσιμες εντολές για την καθημερινή χρήση του Git.
 - [Oh shit, git!](http://ohshitgit.com/) - Πως να αποφύγεις τα συνηθισμένα λάθη στο git.
@@ -107,8 +110,8 @@
 
 ## Βιβλία σχετικά με Ανοικτό κώδικα
 - [Producing Open Source Software](http://producingoss.com/) - Το "Producing Open Source Software" είναι ένα βιβλίο σχετικά με την ανθρώπινη πλευρά της ανάπτυξης Ανοικτού Κώδικα. Περιγράφει πως λειτουργούν τα επιτυχημένα projects, τις προσδοκίες των χρηστών και των προγραμματιστών, και την κουλτουρα του ελεύθερου λογισμικού.
-- [Σειρά βιβλίων Ανοικτού Κώδικα](https://opensource.com/resources/ebooks) - Μάθε περισσότερα για τον Ανοικτό Κώδικα και το αναπτυσσόμενο κίνημα του, μέσα από μια περιεκτική λίστα δωρεάν ηλεκτρονικώ βιβλίων στο https://opensource.com.
-- [Software Release Practice HOWTO](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - Αυτός ο οδηγός περιγράφει κάποιες καλές πρακτικές για έκδοση λογισμικού του Linux και άλλα projects Ανοικτού Κώδικα. Ακολουθώντας αυτές τις πρακτικές, κάνετε όσο το δυνατόν ευκολότερο για τους χρήστες να χρησιμοποιήσουν τον κώδικα σας, και για τους προγραμματιστές να τον καταλάβουν και να συνεργαστούν μαζί σας, με σκοπό να τον βελτιώσουν.
+- [Σειρά βιβλίων Ανοικτού Κώδικα](https://opensource.com/resources/ebooks) - Μάθε περισσότερα για τον Ανοικτό Κώδικα και το αναπτυσσόμενο κίνημα του, μέσα από μια περιεκτική λίστα δωρεάν ηλεκτρονικών βιβλίων στο https://opensource.com.
+- [Software Release Practice HOWTO](http://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - Αυτός ο οδηγός περιγράφει κάποιες καλές πρακτικές για έκδοση λογισμικού του Linux και άλλα projects Ανοικτού Κώδικα. Ακολουθώντας αυτές τις πρακτικές, κάνετε όσο το δυνατόν ευκολότερο για τους χρήστες να χρησιμοποιήσουν τον κώδικα σας, και για τους προγραμματιστές να τον καταλάβουν και να συνεργαστούν μαζί σας, με σκοπό να τον βελτιώσουν.
 - [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - Το "Open Sources 2.0" είναι μία συλλογή από εύστοχες και παραγωγικές προσπάθειες από τους ηγέτες της σημερινής τεχνολογίας. Συνεχίζει το έργο που ξεκίνησε στο βιβλίο του 1999, "Open Sources: Voices from the Revolution".
 
 ## Open Source contribution initiatives

@@ -1,10 +1,12 @@
 <!-- Do not translate this -->
 <details>
 <summary>
-<strong> Read this guide in other languages </strong>
+<strong> 언어 변경 </strong>
 </summary>
     <ul>
         <li><a href="./README.md"> English </a></li>
+        <li><a href="./README-MR.md"> मराठी </a></li>
+        <li><a href="./README-BN.md"> বাংলা </a></li>
         <li><a href="./README-CN.md"> 中文 </a></li>
         <li><a href="./README-RU.md"> русский </a></li>
         <li><a href="./README-RO.md"> Românesc </a></li>
@@ -24,7 +26,7 @@
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
-[![Build Status](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
+[![Check Resources](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml/badge.svg)](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml)
 
 아래는 오픈 소스에 기여를 시작하고자 하는 사람들을 위한 리소스 목록입니다.
 
@@ -44,14 +46,15 @@
 - [라이선스](#라이선스)
 
 ## 일반적으로 오픈 소스에 기여하기
+- [오픈소스란 무엇인가요?](https://hamonikr.org/oss/51202) - 국내 오픈소스 
 - [The Definitive Guide to Contributing to Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - DigitalOcean의 GitHub에서 기여를 성공할 수 있는 방법을 안내하는 튜토리얼
 - [SourceSort](https://www.sourcesort.com) - 도움을 필요로 하는 검색가능한 오픈 소스 프로젝트들의 모음집, 새로운 컨트리뷰터들에게 중요한 첫번째 PR 승인률과 반응 시간과 같은 수치들을 갖추고 있음
-- [Issuehub.io](http://issuehub.io/) - 라벨과 언어로 GitHub 이슈들을 찾는 도구
+- [Issuehub.io](http://issuehub.pro/) - 라벨과 언어로 GitHub 이슈들을 찾는 도구
 - [Code Triage](https://www.codetriage.com/) - 언어별로 필터링된 인기있는 레파지토리와 이슈들을 찾는 또 다른 좋은 도구
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - 새로운 컨트리뷰터를 위한 좋은 버그와 해당 버그를 설명하는 라벨을 모아둔 GitHub 레포지토리 
 - [Open Source Guides](https://opensource.guide/) - 오픈소스 프로젝트를 운영하고 기여하는 방법을 배우고 싶어하는 개인, 커뮤니티, 회사를 위한 리소스들의 모음집
-- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - GitHub에서 해야할 것과 하지 말아야 할 것
+- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - GitHub에서 해야 할 것과 하지 말아야 할 것
 - [GitHub Guides](https://guides.github.com/) - GitHub를 효과적으로 사용하는 방법에 대한 기본 가이드
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - 시뮬레이션 프로젝트의 코드에 기여함으로서 GitHub 워크플로우 배우기
 - [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Linux Foundation의 오픈 소스 프로젝트 가이드
@@ -99,7 +102,7 @@ GitHub에서 기여할 만한 적절한 이슈를 직접적으로 가리키는 �
 - [Learn Git and GitHub Step By Step (on Windows)](https://medium.com/@ows_ali/be93518e06dc) by [@ows-ali](https://medium.com/@ows_ali)
 
 ## 버전 관리 사용하기
-- [Think Like (a) Git](http://think-like-a-git.net/) - 고급 초보자들을 위한 Git 소개, git에 대한 확실한 경험을 전달하기 위해 고군 분투중입니다.
+- [Think Like (a) Git](https://think-like-a-git.net/) - 고급 초보자들을 위한 Git 소개, git에 대한 확실한 경험을 전달하기 위해 고군 분투중입니다.
 - [Try Git](https://try.github.io/) - 브라우저에서 15분 이내에 Git을 무료로 배워보세요.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - 매일매일 Git을 사용하는데 유용한 최소한의 명령어들 모음
 - [Oh shit, git!](https://ohshitgit.com/) - 영어로 설명된 일반적인 git 실수에서 벗어나는 방법; 또한 [Dangit, git!](https://dangitgit.com/) 을 참조하세요.
@@ -110,7 +113,7 @@ GitHub에서 기여할 만한 적절한 이슈를 직접적으로 가리키는 �
 - [GitHub Learning Resources](https://help.github.com/articles/git-and-github-learning-resources/) - Git과 GitHub 학습 자료
 - [Pro Git](https://git-scm.com/book/en/v2) - Apress에서 출판한 Scott Chacon과 Ben Straub의 Pro Git 책 전문
 - [Git-it](https://github.com/jlord/git-it-electron) - 단계별 Git 튜토리얼 데스크탑 앱
-- [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - 일이 잘못되어가고 있을 때 해야할 일들에 대한 안내
+- [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - 일이 잘못되어가고 있을 때 해야 할 일들에 대한 안내
 - [A Comprehensive Introduction To Git and GitHub](https://codeburst.io/git-good-part-a-e0d826286a2a) - 만약 Git이나 GitHub가 처음이라면 Madhav Bahl의 안내서를 보세요. GitHub 서비스와 Git 버전 관리에 대한 자세한 개념을 다룹니다.
 - [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - 스페인어로 설명된 Git과 GitHub에 대한 완벽한 안내 슬라이드.
 - [Git Kraken](https://www.gitkraken.com/git-client) - 버전 관리를 위한 비주얼, 크로스 플랫폼, 대화형 'git' 데스크톱 어플리케이션
@@ -120,7 +123,7 @@ GitHub에서 기여할 만한 적절한 이슈를 직접적으로 가리키는 �
 ## 오픈 소스 서적
 - [Producing Open Source Software](http://producingoss.com/) - Producing Open Source Software 는 오픈 소스 개발의 인간적인 측면에 대한 책입니다. 이 책에서는 프로젝트의 성공적인 운영 방식, 사용자와 개발자의 기대, 자유 소프트웨어 문화에 대해 다룹니다.
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - https://opensource.com 에서 무료 eBook 리스트를 통해 오픈 소스와 성장하는 오픈 소스 운동에 대해 배워보세요.
-- [Software Release Practice HOWTO](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - HOWTO 에서는 리눅스와 다른 오픈 소스 프로젝트의 좋은 배포 방법을 설명합니다. 이러한 방법을 따름으로서, 당신은 사용자가 쉽게 당신의 코드를 작성하고 사용할 수 있게 할 수 있으며, 다른 개발자가 당신의 코드를 쉽게 이해하고 개선하기 위해 협력할 수 있습니다.
+- [Software Release Practice HOWTO](http://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - HOWTO 에서는 리눅스와 다른 오픈 소스 프로젝트의 좋은 배포 방법을 설명합니다. 이러한 방법을 따름으로서, 당신은 사용자가 쉽게 당신의 코드를 작성하고 사용할 수 있게 할 수 있으며, 다른 개발자가 당신의 코드를 쉽게 이해하고 개선하기 위해 협력할 수 있습니다.
 - [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0은 1999년의 책인 오픈 소스 : 혁명의 목소리에서 발전된 진화적인 그림을 이어 그리는 오늘날의 기술 리더들의 통찰력과 생각을 자극하는 에세이들의 모음집입니다.
 - [The Architecture of Open Source Applications](http://www.aosabook.org/en/git.html) - 분산 워크플로우를 가능하게 하기 위해서 Git의 다양한 측면이 어떻게 작동하는지, 그리고 다른 버전 관리 시스템(VCSs)들과 어떻게 다른지 보여줍니다.
 

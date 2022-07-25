@@ -6,6 +6,8 @@
 </summary>
   <ul>
   <li><a href="./README.md"> English </a></li>
+  <li><a href="./README-MR.md"> मराठी </a></li>
+  <li><a href="./README-BN.md"> বাংলা </a></li>
   <li><a href="./README-CN.md"> 中文 </a></li>
   <li><a href="./README-RU.md"> русский </a></li>
   <li><a href="./README-BG.md"> български </a></li>
@@ -24,7 +26,7 @@
 
  # Добре дошли, доброволци на отворения код!
 
-[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/) [![Build Status](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
+[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/) [![Check Resources](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml/badge.svg)](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml)
 
 Това е списък с ресурси, предназначени за хора, които са нови в допринасянето към отворения код (Open Source).
 
@@ -32,16 +34,16 @@
 
 **Съдържание**
 
-- [Основи на допринасянето към отворения код(Open Source)](#contributing-to-open-source-in-general)
-- [Директно търсене в GitHub](#direct-github-searches)
-- [Еко системата на Mozilla за доброволен принос](#mozillas-contributor-ecosystem)
-- [Полезни статии за начинаещи Open Source доброволци](#useful-articles-for-new-open-source-contributors)
-- [Как да използваме контрол на версиите (Version Control)](#using-version-control)
-- [Книги за отворения код](#open-source-books)
-- [Инициативи за принос към Open Source](#open-source-contribution-initiatives)
-- [Лицензи](#license)
+- [Основи на допринасянето към отворения код Open Source](#Основи-на-допринасянето-към-отворения-код-Open-Source)
+- [Директно търсене в GitHub](#Директно-търсене-в-GitHub)
+- [Еко системата на Mozilla за доброволен принос](#Еко-системата-на-Mozilla-за-доброволен-принос)
+- [Полезни статии за начинаещи Open Source доброволци](#Полезни-статии-за-начинаещи-Open-Source-доброволци)
+- [Как да използваме контрол на версиите Version Control](#Как-да-използваме-контрол-на-версиите-Version-Control)
+- [Книги за отворения код](#Книги-за-отворения-код)
+- [Инициативи за принос към Open Source](#Инициативи-за-принос-към-Open-Source)
+- [Лицензи](#Лицензи)
 
-## Основи на допринасянето към отворения код(Open Source)
+## Основи на допринасянето към отворения код Open Source
 
 - [Пълно ръководство за допринасянето към Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 
@@ -49,7 +51,7 @@
 
 - [SourceSort](https://www.sourcesort.com) - Колекция от проекти open source, които се нуждаят от помощ. Има възможност за търсене. Колекцията включва също и данни за неща, като например каква е процентната вероятност вашата заявка за сливане (pull request) да бъде одобрена и колко време са чака за отговор. Такива статистики биха били много полезни за начинаещи в open source приноса.
 
-- [Issuehub.io](http://issuehub.io/) - Инструмент за търсене по етикет (label) или език на issue-та(ишута) в GitHub.
+- [Issuehub.io](http://issuehub.pro/) - Инструмент за търсене по етикет (label) или език на issue-та(ишута) в GitHub.
 
 - [Code Triage](https://www.codetriage.com/) - Друг инструмент за намиране на популярни хранилища (repositories) и issue-та. Предоставя възможност за филтриране по език и като цяло е много приятен за ползване.
 
@@ -126,9 +128,9 @@ _Ресурси на български_
 - [Видео урок за GitHub](https://www.youtube.com/watch?v=jig4lzbzAgk)
 - [Git за професионалисти](https://git-scm.com//book/bg/v2) - Книгата "Git за професионалисти" с превод на български, написана от Scott Chacon и Ben Straub и издадена от Apress.
 
-## Как да използваме контрол на версиите (Version Control)
+## Как да използваме контрол на версиите Version Control
 
-- [Мисли като за Git](http://think-like-a-git.net/) - Въведение в Git, подгодящо за начинаещи с малки познания, но все още не знаещи много неща. Ресурсът ще ви даде проста и безопасна стратегия как да правите експерименти с Git
+- [Мисли като за Git](https://think-like-a-git.net/) - Въведение в Git, подгодящо за начинаещи с малки познания, но все още не знаещи много неща. Ресурсът ще ви даде проста и безопасна стратегия как да правите експерименти с Git
 - [Пробвайте Git](https://try.github.io/) - Научете безплатно Git за 15 минути, работейки само в браузера.
 - [Git за всеки ден](https://git-scm.com/docs/giteveryday) - Минималното количество полезни Git команди, използвани всеки ден
 - [О, по дяволите, git!](https://ohshitgit.com/) - Как да избегнем често срещани `git` грешки; обясени просто. (Вижте също и) [Проклятие, git!](https://dangitgit.com/) страницата без псувни.
