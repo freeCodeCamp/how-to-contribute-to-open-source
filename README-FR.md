@@ -42,6 +42,7 @@ Si vous avez des questions ou commentaires, veuillez créer un ticket.
 - [Licence](#licence)
 
 ## Contribuer à l'Open Source en général
+> Articles et ressources qui discutent de la communauté et de la culture open source 
 - [Le Guide Définitif pour Contribuer à l'Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) de [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [Une Intro à l'Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - tutoriels de DigitalOcean pour vous mettre sur la bonne voie pour contribuer avec succès dans GitHub.
 - [Issuehub.io](http://issuehub.pro/) - un outil pour chercher les `issues` dans GitHub en les filtrant par label et langage.
@@ -64,7 +65,7 @@ Si vous avez des questions ou commentaires, veuillez créer un ticket.
 - ["Comment contribuer aux projets Open Source" par Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) -  cet article exhaustif s'adresse aux entreprises (mais reste utile pour les contributeurs individuels) et explique pourquoi et comment contribuer à des projets Open Source.
 
 ## Recherches directes sur GitHub
-Listes de recherches pointant directement vers des `issues` propices à la contribution sur GitHub.
+> Listes de recherches pointant directement vers des « issues » propices à la contribution sur GitHub.
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
 - [is:issue is:open label:first-timers-only](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
@@ -74,6 +75,7 @@ Listes de recherches pointant directement vers des `issues` propices à la contr
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
 ## L'écosystème de contribution de Mozilla
+> Mozilla s'engage à améliorer la santé de l'internet. Ce qui apporte des opportunités de contribuer à ses projets open source. 
 - [Bons premiers bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - bugs que les développeurs ont identifiés comme de bonnes introductions au projet.
 - [Bugs encadrés](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs qui ont un mentor assigné qui sera là sur IRC pour vous aider si vous êtes bloqué en essayant de le résoudre.
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - un site dédié à la recherche de bugs sur Bugzilla.
@@ -82,6 +84,7 @@ Listes de recherches pointant directement vers des `issues` propices à la contr
 - [Start Mozilla](https://twitter.com/StartMozilla) - un compte Twitter qui publie des problèmes adaptés aux apprentis contributeurs de l'écosystème Mozilla.
 
 ## Articles utiles pour les contributeurs novices de l'Open Source
+> Blogues et articles qui aident les nouveaux arrivés à faire leurs premières contributions.
 - [Comment choisir (et contribuer à) votre premier projet Open Source](https://github.com/collections/choosing-projects) par [@GitHub](https://github.com/github)
 - [Comment trouver votre premier bug Open Source à résoudre](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) par [@Shubheksha](https://github.com/Shubheksha)
 - [Novices exclusivement](https://kentcdodds.com/blog/first-timers-only) par [@kentcdodds](https://github.com/kentcdodds)
@@ -98,6 +101,7 @@ Listes de recherches pointant directement vers des `issues` propices à la contr
 - [Apprendre Git et GitHub étape par étape (sur Windows)](https://medium.com/@ows_ali/be93518e06dc) par [@ows-ali](https://medium.com/@ows_ali)
 
 ## Utiliser le gestionnaire de version
+> Guides et ressources sur l'utilisation de la gestion de contrôle, typiquement Git et GitHub.
 - [Tutoriel vidéo pour Git et Github par l'Université de Harvard](https://www.youtube.com/watch?v=NcoBAfJ6l2Q) - Tutoriel de l'Université de Harvard, dans le cadre de leur cours de développement Web CS50 sur la compréhension de Git et GitHub et l'utilisation des commandes Git.
 - [Penser comme (un) Git](https://think-like-a-git.net/) - introduction à Git pour les "novices avancés" qui ont toujours des difficultés, pour vous offrir une stratégie simple pour expérimenter sans risque avec Git.
 - [Démarrage rapide - Configurer Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - Découvrez comment configurer Git localement et configurer l'authentification, ainsi que les prochaines étapes de votre parcours d'apprentissage
@@ -123,6 +127,7 @@ Listes de recherches pointant directement vers des `issues` propices à la contr
 - [Try Git](https://try.github.io/) - apprendre Git en 15 minutes depuis votre navigateur gratuitement.
 
 ## Livres sur l'Open Source
+> Livres sur tout ce qui est open source: la culture, l'histoire, les meilleures pratiques, etc.
 - [Concevoir un logiciel Open Source](http://producingoss.com/) - "Producing Open Source Software" ("Produire du logiciel Open Source") est un ouvrage sur l'aspect humain du développement Open Source. Il décrit comment opèrent les projets réussis, les attentes des utilisateurs et développeurs, et la culture du logiciel libre.
 - [Série de livres sur l'Open Source](https://opensource.com/resources/ebooks) - Apprenez-en plus sur l'Open Source en général ainsi que sur le mouvement Open Source croissant grâce à cette série de livres électroniques gratuits de https://opensource.com.
 - [Pratiques de lancement de logiciel](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - Ce guide décrit les bonnes pratiques de lancement pour Linux et autres projets Open Source. En suivant ces pratiques, vous faciliterez la tâche des utilisateurs pour construire votre code et l'utiliser, et celle des autres développeurs pour comprendre votre code et coopérer avec vous afin de l'améliorer.
@@ -133,6 +138,7 @@ Listes de recherches pointant directement vers des `issues` propices à la contr
 
 
 ## Initiatives de contributions à l'Open Source
+> Listes d'initiatives qui font l'agglomération de « issues » qui sont faciles de contribuer pour un débutant ou des évènements saisonniers.
 - [Up For Grabs](http://up-for-grabs.net/#/) - ("Bon à prendre") Contient des projets avec des bugs accessibles aux novices.
 - [First Timers Only](http://www.firsttimersonly.com/) - ("Débutants seulement") Une liste de bugs indiqués comme "first-timers-only".
 - [First Contributions](https://firstcontributions.github.io/) - ("Premières contributions") Effectuez votre première contribution à l'Open Source en 5 minutes. Un outil et tutoriel pour aider les débutants à se lancer dans les contributions.
@@ -140,4 +146,5 @@ Listes de recherches pointant directement vers des `issues` propices à la contr
 - [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests est un projet axé sur la collaboration Open Source durant le mois de décembre.
 
 ## Licence
+> Des programmes et des stages offerts par la communauté pour aider de nouveaux contributeurs à être jumelés avec des mentors et pour avoir accès à des ressources pour contribuer à des logiciels open source.
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Ce travail est licencié sous une <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
