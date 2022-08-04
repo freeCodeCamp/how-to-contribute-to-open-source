@@ -90,3 +90,19 @@
 - [پردومنا کے ساتھ اوپن سورس](https://github.com/Pradumnasaraf/open-source-with-pradumna) - اس ریپو میں سیکھنے اور اپنے آپ کو اوپن سورس، گیٹ اور گیٹ ہب سے شروع کرنے کے وسائل اور مواد شامل ہیں۔
 - ["ایف او ایس ایس کمیونٹی مخفف"](https://github.com/d-edge/foss-acronyms) - اس ریپو میں ایف او ایس ایس (مفت اور اوپن سورس) کمیونٹی کے اندر استعمال ہونے والے مخففات کی فہرست اور ان کی تعریفوں اور استعمالات کے ساتھ شامل ہیں۔
 - ["اوپن سورس فیسٹا - اوپن سورس فیسٹا"](https://zubi.gitbook.io/open-source-fiesta/) - گیٹ ہب کے ذخائر میں حصہ ڈالنے کے بارے میں مرحلہ وار ہدایت، اور اس میں ایک جی آئی ٹی کمانڈ لائن چیٹ شیٹ بھی شامل ہے۔
+
+## براہ راست گیٹ ہب تلاشکرتا ہے
+
+> تلاش لنکس جو گیٹ ہب پر حصہ ڈالنے کے لئے مناسب مسائل کی طرف براہ راست اشارہ کرتے ہیں۔
+
+- [ہے:مسئلہ یہ ہے: کھلا لیبل:ابتدائی](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Abeginner&type=issues)
+- [ہے:مسئلہ یہ ہے: کھلا لیبل:آسان](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy&type=issues)
+- [ہے:شمارہ ہے:کھلا لیبل:صرف فرسٹ ٹائمرز](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only&type=issues)
+- [ہے:مسئلہ یہ ہے: کھلا لیبل:اچھا پہلا بگ](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Agood-first-bug&type=issues)
+- [ہے:مسئلہ یہ ہے: کھلا لیبل:"اچھا پہلا مسئلہ"](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&type=issues)
+- [ہے:مسئلہ یہ ہے:کھلا لیبل:اسٹارٹر](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Astarter&type=issues)
+- [ہے:مسئلہ یہ ہے: کھلا لیبل:اپ فار گربز](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs&type=issues)
+- [ہے:مسئلہ یہ ہے: کھلا لیبل:آسان ٹھیک](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy-fix&type=issues)
+- [ہے:مسئلہ یہ ہے: کھلا لیبل:"ابتدائی دوستانہ"](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22beginner+friendly%22&type=issues)
+- [ہے:مسئلہ یہ ہے:کھلا لیبل:آپ کا پہلا-پی آر](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Ayour-first-pr&type=issues)
+
