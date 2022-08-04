@@ -43,3 +43,15 @@
 
 اگر آپ کے سوالات یا تبصرے ہیں تو براہ کرم کوئی مسئلہ بنائیں۔
 
+**مشمولات**
+
+- [عام طور پر اوپن سورس میں حصہ ڈالنا](#contributing-to-open-source-in-general)
+- [براہ راست گیٹ ہب تلاشکرتا ہے](#direct-github-searches)
+- [موزیلا کا معاون ماحولیاتی نظام](#mozillas-contributor-ecosystem)
+- [نئے اوپن سورس شراکت داروں کے لیے مفید مضامین](#useful-articles-for-new-open-source-contributors)
+- [ورژن کنٹرول استعمال کر رہا ہے](#using-version-control)
+- [اوپن سورس کتابیں](#open-source-books)
+- [اوپن سورس شراکت کے اقدامات](#open-source-contribution-initiatives)
+- [حصہ لینے کے لیے اوپن سورس پروگرام](#open-source-programs-to-participate-in)
+- [لائسنس](#license)
+
