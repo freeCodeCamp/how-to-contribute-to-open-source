@@ -32,3 +32,14 @@
 <!-- Do not translate this -->
 
 # نئے اوپن سورس شراکت داروں کو خوش آمدید!
+
+[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://makeapullrequest.com)
+[![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
+[![Check Resources](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml/badge.svg)](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml)
+
+یہ ان لوگوں کے لئے وسائل کی فہرست ہے جو اوپن سورس میں حصہ ڈالنے کے لئے نئے ہیں۔
+
+اگر آپ کو اضافی وسائل مل تے ہیں تو براہ کرم پل کی درخواست میں حصہ ڈالیں۔
+
+اگر آپ کے سوالات یا تبصرے ہیں تو براہ کرم کوئی مسئلہ بنائیں۔
+
