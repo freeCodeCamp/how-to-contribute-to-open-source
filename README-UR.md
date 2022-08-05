@@ -117,3 +117,33 @@
 - [فائر فاکس ڈیو ٹولز - فائر فاکس](https://firefox-dev.tools/) - براؤزر میں ڈویلپر ٹولز کے لئے دائر کیگئی بگز کے لئے وقف ایک سائٹ۔
 - [میں موزیلا کے لئے کیا کر سکتا ہوں](https://whatcanidoformozilla.org/) - یہ معلوم کریں کہ آپ اپنی مہارت کے سیٹ اور مفادات کے بارے میں سوالات کے ایک گروپ کا جواب دے کر کس پر کام کر سکتے ہیں۔
 - [موزیلا شروع کریں](https://twitter.com/StartMozilla) - ایک ٹویٹر اکاؤنٹ جو موزیلا ماحولیاتی نظام میں نئے شراکت داروں کے لئے موزوں مسائل کے بارے میں ٹویٹ کرتا ہے۔
+
+## نئے اوپن سورس شراکت داروں کے لیے مفید مضامین
+
+> مددگار مضامین اور بلاگز نئے شراکت داروں کی طرف اشارہ کرتے ہیں کہ کیسے شروع کیا جائے۔
+
+- [تک گیٹ ہب پر اوپن سورس میں حصہ ڈالنے کے طریقے تلاش کرنا](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github) کی طرف سے [@GitHub](https://github.com/github)
+- [اپنے پہلے اوپن سورس پروجیکٹ کا انتخاب کیسے کریں (اور اس میں حصہ ڈالیں)](https://github.com/collections/choosing-projects) کی طرف سے [@GitHub](https://github.com/github)
+- [تک ٹھیک کرنے کے لئے اپنا پہلا اوپن سورس بگ کیسے تلاش کریں](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) کی طرف سے [@Shubheksha](https://github.com/Shubheksha)
+- [فرسٹ ٹائمرز صرف](https://kentcdodds.com/blog/first-timers-only) کی طرف سے [@kentcdodds](https://github.com/kentcdodds)
+- [مہربانی کو اوپن سورس پر واپس لائیں](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) کی طرف سے [@shanselman](https://github.com/shanselman)
+- [پہلی بار اوپن سورس میں داخل ہونا](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) کی طرف سے [@mcdonnelldean](https://github.com/mcdonnelldean)
+- [اوپن سورس میں حصہ ڈالنے کا طریقہ](https://opensource.guide/how-to-contribute/) کی طرف سے [@GitHub](https://github.com/github)
+- [ اپنے کوڈ میں ایک بگ تلاش کرنے کے لئے کس طرح](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) کی طرف سے [@dougbradbury](https://twitter.com/dougbradbury)
+- [مارک ڈاؤن میں مہارت حاصل کرنا](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) کی طرف سے  [@GitHub](https://github.com/github)
+- [پہلا مشن: شراکت داروں کا صفحہ](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705) کی طرف سے [@forCrowd](https://github.com/forCrowd)
+- [5 منٹ میں اپنا پہلا اوپن سورس حصہ کیسے ڈالیں](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) کی طرف سے  [@roshanjossey](https://github.com/Roshanjossey/)
+- [میں نے صرف میری مفت ہیکٹوبرفیسٹ قمیض مل گیا. یہاں ایک فوری طریقہ ہے جس سے آپ اپنا حاصل کر سکتے ہیں۔](https://www.freecodecamp.org/news/i-just-got-my-free-hacktoberfest-shirt-heres-a-quick-way-you-can-get-yours-fa78d6e24307/) کی طرف سے [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
+- [ماخذ کھولنے کے لئے ایک تلخ رہنما](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) کی طرف سے [@ken_wheeler](https://medium.com/@ken_wheeler)
+- [ایک جونیئر ڈویلپر کی مرحلہ وار رہنمائی](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) کی طرف سے [@LetaKeane](https://hackernoon.com/u/letakeane)
+- [گیٹ اور گیٹ ہب مرحلہ وار سیکھیں (ونڈوز پر)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) کی طرف سے [@ows-ali](https://ows-ali.medium.com/)
+- [گیٹ اور گیٹ ہب مرحلہ وار سیکھیں (ونڈوز پر)](https://careerkarma.com/blog/open-source-projects-for-beginners/) کی طرف سے [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
+- [اوپن سورس سے کیسے شروع کیا جائے - سیان چودھری](https://www.hackerearth.com/getstarted-opensource/)
+- [مجھے کس اوپن سورس میں حصہ ڈالنا چاہئے](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to) کی طرف سے [@kentcdodds](https://github.com/kentcdodds)
+- [اوپن سورس کے لئے ایک مربوط تعارفی رہنما](https://developeraspire.hashnode.dev/an-immersive-introductory-guide-to-open-source) کی طرف سے [Franklin Okolie](https://twitter.com/DeveloperAspire)
+- [اوپن سورس میں حصہ ڈالنے کے ساتھ شروع کرنا](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/) کی طرف سے [Zara Cooper](https://stackoverflow.blog/author/zara-cooper/)
+- [اوپن سورس تعاون کے لئے ابتدائی رہنما](https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj) کی طرف سے [Sudipto Ghosh](https://github.com/pydevsg)
+- [اوپن سورس کے ذریعہ اوپن سورس میں حصہ ڈالنے کے 8 غیر کوڈ طریقے](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code) کی طرف سے [OpenSource](https://twitter.com/OpenSourceWay)
+- [اوپن سورس سافٹ ویئر کیا ہے؟ او ایس ایس کی سادہ انگریزی میں وضاحت](https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/) کی طرف سے [Jessica Wilkins](https://www.freecodecamp.org/news/author/jessica-wilkins/)
+- [گیٹ ہب پر اوپن سورس پروجیکٹ کیسے شروع کریں – مائی ٹرینڈنگ ریپو کی تعمیر سے تجاویز](https://www.freecodecamp.org/news/how-to-start-an-open-source-project-on-github-tips-from-building-my-trending-repo/) کی طرف سے [@Rishit-dagli](https://github.com/Rishit-dagli)
+
