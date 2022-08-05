@@ -147,3 +147,30 @@
 - [اوپن سورس سافٹ ویئر کیا ہے؟ او ایس ایس کی سادہ انگریزی میں وضاحت](https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/) کی طرف سے [Jessica Wilkins](https://www.freecodecamp.org/news/author/jessica-wilkins/)
 - [گیٹ ہب پر اوپن سورس پروجیکٹ کیسے شروع کریں – مائی ٹرینڈنگ ریپو کی تعمیر سے تجاویز](https://www.freecodecamp.org/news/how-to-start-an-open-source-project-on-github-tips-from-building-my-trending-repo/) کی طرف سے [@Rishit-dagli](https://github.com/Rishit-dagli)
 
+## ورژن کنٹرول استعمال کر رہا ہے
+
+> ورژن کنٹرول، عام طور پر گیٹ اور گیٹ ہب کے استعمال پر مختلف سطحوں کے ٹیوٹوریلز اور وسائل۔
+
+- [ہارورڈ یونیورسٹی کی طرف سے گیٹ اور گیتھب کے لئے ویڈیو ٹیوٹوریل](https://www.youtube.com/watch?v=NcoBAfJ6l2Q) - ہارورڈ یونیورسٹی کی طرف سے ٹیوٹوریل، گیٹ اور گیٹ ہب کو سمجھنے اور گیٹ کمانڈز کے ساتھ کام کرنے پر ان کے سی ایس 50 ویب ڈویلپمنٹ کورس کا حصہ۔
+- [گیٹ تعارف کی طرح سوچیں،](https://think-like-a-git.net/) - "جدید ابتدائی" کے لئے گیٹ, لیکن اب بھی جدوجہد کر رہے ہیں، تاکہ آپ کو گیٹ کے ساتھ محفوظ تجربات کرنے کے لئے ایک آسان حکمت عملی دے.
+- [فوری آغاز - گیٹ سیٹ اپ کریں](https://docs.github.com/en/get-started/quickstart/set-up-git) - اپنے سیکھنے کے سفر پر اگلے مراحل کے ساتھ ساتھ مقامی طور پر گیٹ سیٹ اپ کرنے اور توثیق قائم کرنے کا طریقہ سیکھیں۔
+- [ہر روز گیٹ - روزمرہ گیٹ](https://git-scm.com/docs/giteveryday) -  کے لئے احکامات کا ایک مفید کم از کم سیٹ.
+- [اوہ گندگی، گیٹ!](https://ohshitgit.com/) - سادہ انگریزی میں بیان کردہ عام غلطیوں سے کیسے نکلنا ہے؛ یہ بھی دیکھیں [ڈنگٹ، گیٹ!](https://dangitgit.com) بغیر قسم کے صفحے کے لئے۔
+- [اٹلسیئن گیٹ ٹیوٹوریلز](https://www.atlassian.com/git/tutorials) - استعمال کرنے پر مختلف ٹیوٹوریلز .git
+- [گیٹ ہب گیٹ چیٹ شیٹ](https://education.github.com/git-cheat-sheet-education.pdf)  (پی ڈی ایف)
+- [گیٹ ریسورسز پر فری کوڈ کیمپ کی ویکی](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
+- [گیٹ ہب فلو](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - گیٹ ہب پل کی درخواست کرنے کے بارے میں بات کرتا ہے۔
+- [کوئک اسٹارٹ - گیٹ ہب لرننگ ریسورسز](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources) - گیٹ اور گیٹ ہب سیکھنے کے وسائل۔
+- [پرو گیٹ](https://git-scm.com/book/en/v2) - پوری پرو گیٹ کتاب، سکاٹ چاکون اور بین اسٹراؤب کی تحریر اور اپریس کی طرف سے شائع.
+- [گیٹ اٹ](https://github.com/jlord/git-it-electron) - مرحلہ وار گیٹ ٹیوٹوریل ڈیسک ٹاپ ایپ.
+- [گیٹ کے لئے پرواز کے قواعد](https://github.com/k88hudson/git-flight-rules) - جب چیزیں غلط ہو جائیں تو کیا کرنا ہے اس کے بارے میں ایک رہنما۔
+- [ہسپانوی میں ابتدائی افراد کے لئے گیٹ گائیڈ](https://platzi.github.io/git-slides/#/) - گیٹ اور گیٹ ہب کے بارے میں سلائیڈوں کی ایک مکمل رہنمائی ہسپانوی میں وضاحت کی. اونا guía کمپلیٹا ڈی ڈائپوزیٹیوسیا سوبرے گیٹ وائی گیٹ ہب ایکسپلیکاڈس این Español۔
+- [گیٹ کراکن](https://www.gitkraken.com/git-client) - ورژن کنٹرول کے لئے بصری، کراس پلیٹ فارم، اور انٹرایکٹو ڈیسک ٹاپ ایپلی کیشن۔git
+- [گیٹ ٹپس](https://github.com/git-tips/tips) - سب سے زیادہ استعمال ہونے والے گیٹ ٹپس اور چالوں کا مجموعہ۔
+- [بہترین طریقوں کو گیٹ](https://sethrobertson.github.io/GitBestPractices/) -  اکثر عہد کریں، کامل بعد میں، ایک بار شائع کریں: بہترین طریقوں کو گیٹ کریں۔
+- [گیٹ انٹرایکٹو ٹیوٹوریل](https://learngitbranching.js.org/) - سب سے زیادہ بصری اور متعامل طریقے سے گیٹ سیکھیں.
+- [گیٹ چیٹ شیٹس](https://devhints.io/?q=git) - جی آئی ٹی پر گرافکل دھوکہ دہی شیٹس کا ایک سیٹ۔
+- [مکمل گیٹ اور گیٹ ہب ٹیوٹوریل](https://www.youtube.com/watch?v=apGV9Kg7ics) (1:12:39) - کی طرف سے مکمل گیٹ اور گیٹ ہب واک تھرو۔ [کنال کشواہا](https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw).
+- [گیٹ کا ایک ٹیوٹوریل تعارف](https://git-scm.com/docs/gittutorial) - گیٹ کی طرف سے ابتدائی افراد کے لئے ایک ٹیوٹوریل
+- [فرسٹ ایڈ گیٹ](https://firstaidgit.io/#/) - اکثر پوچھے جانے والے گیٹ سوالات کا ایک قابل تلاش مجموعہ۔ ان سوالات کے جوابات ذاتی تجربے، اسٹیک اوور فلو اور سرکاری گیٹ دستاویزات سے اکٹھے کیے گئے تھے۔
+- [سوسن پوٹر کی طرف سے گیٹ](https://www.aosabook.org/en/git.html) - دکھائیں کہ کس طرح گیٹ کے مختلف تکنیکی پہلو تقسیم شدہ ورک فلو کو فعال کرنے کے لئے کور کے تحت کام کرتے ہیں، اور یہ دوسرے ورژن کنٹرول سسٹم (وی سی ایس) سے کس طرح مختلف ہے۔
