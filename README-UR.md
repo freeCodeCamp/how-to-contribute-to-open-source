@@ -198,3 +198,28 @@
 - [اوویو](https://ovio.org) - ایک پلیٹ فارم جس میں شراکت دار دوست منصوبوں کا ایک تیار کردہ انتخاب ہے۔ اس میں ایک [طاقتور ایشو سرچ ٹول](https://ovio.org/issues) ہے اور آئیے آپ منصوبوں اور مسائل کو بعد میں محفوظ کرتے ہیں۔
 - [اس پروجیکٹ میں حصہ ڈالیں](https://github.com/Syknapse/Contribute-To-This-Project) - یہ ایک ٹیوٹوریل ہے جو پہلی بار شراکت داروں کو ایک آسان اور آسان پروجیکٹ میں حصہ لینے اور گیٹ ہب کے استعمال میں آرام دہ ہونے میں مدد کرتا ہے۔
 - [اوپن سورس ویلکم کمیٹی](https://www.oswc.is/) -  اوپن سورس ویلکم کمیٹی (او ایس ڈبلیو سی) نئے آنے والوں کو اوپن سورس کی غیر معمولی دنیا میں شامل ہونے میں مدد دیتی ہے۔ آؤ ہمارے ساتھ اپنے اوپن سورس پروجیکٹ جمع کرائیں!
+
+## حصہ لینے کے لیے اوپن سورس پروگرام
+
+> یک پروگرام، انٹرن شپ، یا فیلوشپ جس کی میزبانی کسی کمیونٹی کی طرف سے کی جاتی ہے تاکہ اوپن سورس سافٹ ویئر منصوبوں میں حصہ ڈالنے کے لئے سرپرستوں اور وسائل کے ساتھ شروع ہونے والے شراکت داروں سے میل کھانے میں مدد مل سکے۔
+
+- [تمام لینکس فاؤنڈیشن (ایل ایف) مینٹورشپس](https://mentorship.lfx.linuxfoundation.org/#projects_all)
+- [کلاؤڈ مقامی کمپیوٹنگ فاؤنڈیشن](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
+- [ابتدائی دوستانہ اوپن سورس پروگرام ان کی ٹائم لائن کے ساتھ](https://github.com/arpit456jain/Open-Source-Programs)
+- [فوسایشیا](https://fossasia.org)
+- [مفت سافٹ ویئر فاؤنڈیشن (ایف ایس ایف) انٹرن شپ](https://www.fsf.org/volunteer/internships)
+- [گوگل سمر آف کوڈ](https://summerofcode.withgoogle.com/) - گوگل کی جانب سے سالانہ چلائے جانے والے ایک پیڈ پروگرام میں زیادہ سے زیادہ طلبا ڈویلپرز کو اوپن سورس سافٹ ویئر ڈویلپمنٹ میں لانے پر توجہ مرکوز کی گئی۔
+- [ہیک ٹوبرفیسٹ](https://hacktoberfest.digitalocean.com)
+- [ایل ایف نیٹ ورکنگ مینٹورشپ](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program)
+- [مائیکروسافٹ ریانکمنٹ لرننگ](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
+- [کوڈ کا موسم گرما کھولیں](https://osoc.be/students)
+- [آؤٹ ریچری](https://www.outreachy.org)
+- [پروسیسنگ فاؤنڈیشن انٹرن شپ](https://processingfoundation.org/fellowships/)
+- [سوشل سمر آف کوڈ](https://ssoc.getsocialnow.co/) - سوشل فاؤنڈیشن طلبا کو اوپن سورس کلچر کے بارے میں جاننے اور کمیونٹی میں شامل ہونے کے لئے دو ماہ طویل موسم گرما کا پروگرام پیش کرتی ہے۔ شرکاء تجربہ کار سرپرستوں کی رہنمائی میں حقیقی زندگی کے منصوبوں میں حصہ ڈالتے ہیں۔
+- [گرل سکرپٹ سمر آف کوڈ](https://gssoc.girlscript.tech/) -گرل سکرپٹ فاؤنڈیشن کی جانب سے ہر موسم گرما میں منعقد ہونے والا تین ماہ طویل اوپن سورس پروگرام۔ مسلسل کوششوں کے ساتھ شرکاء ان مہینوں میں ہنرمند سرپرستوں کی انتہائی رہنمائی میں متعدد منصوبوں میں حصہ ڈالتے ہیں۔ اس طرح کی نمائش کے ساتھ، طلبا اپنے گھروں کے آرام سے حقیقی دنیا کے منصوبوں میں حصہ ڈالنا شروع کر دیتے ہیں۔
+- [ریلز گرلز سمر آف کوڈ](https://railsgirlssummerofcode.org/) -خواتین اور غیر ثنائی کوڈرز کے لئے ایک عالمی فیلوشپ پروگرام جہاں وہ موجودہ اوپن سورس منصوبوں پر کام کرتے ہیں اور اپنے ہنر مندی کو بڑھاتے ہیں۔
+- [میجر لیگ ہیکنگ (ایم ایل ایچ) فیلوشپ](https://fellowship.mlh.io/) - خواہش مند تکنیکی ماہرین کے لئے ایک ریموٹ انٹرن شپ متبادل جہاں وہ تعمیر کرتے ہیں، یا اوپن سورس منصوبوں میں حصہ ڈالتے ہیں۔
+
+## License
+
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
