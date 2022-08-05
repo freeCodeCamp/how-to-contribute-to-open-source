@@ -220,6 +220,6 @@
 - [ریلز گرلز سمر آف کوڈ](https://railsgirlssummerofcode.org/) -خواتین اور غیر ثنائی کوڈرز کے لئے ایک عالمی فیلوشپ پروگرام جہاں وہ موجودہ اوپن سورس منصوبوں پر کام کرتے ہیں اور اپنے ہنر مندی کو بڑھاتے ہیں۔
 - [میجر لیگ ہیکنگ (ایم ایل ایچ) فیلوشپ](https://fellowship.mlh.io/) - خواہش مند تکنیکی ماہرین کے لئے ایک ریموٹ انٹرن شپ متبادل جہاں وہ تعمیر کرتے ہیں، یا اوپن سورس منصوبوں میں حصہ ڈالتے ہیں۔
 
-## License
+## لائسنس
 
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />یہ کام <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"> کریٹیو کامنز انٹریبیوشن-شیئرائیک 4.0 انٹرنیشنل لائسنس کے تحت لائسنس یافتہ ہے۔</a>.
