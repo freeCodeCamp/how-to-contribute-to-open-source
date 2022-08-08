@@ -176,7 +176,7 @@
 
 ## Open Source စာအုပ်များ
 
-> အရာခပ်သိမ်းအတွက် စာအုပ်များ- ယဉ်ကျေးမှု၊ သမိုင်း၊ အကောင်းဆုံးအလေ့အကျင့်များ စသည်ဖြင့်။
+> Open Source အတွက် စာအုပ်များ- ယဉ်ကျေးမှု၊ သမိုင်း၊ အကောင်းဆုံးအလေ့အကျင့်များ စသည်ဖြင့်။
 
 - [Producing Open Source Software](https://producingoss.com/) - Producing Open Source Software is a book about the human side of Open Source development. It describes how successful projects operate, the expectations of users and developers, and the culture of free software.
 - [The Architecture of Open Source Applications](https://www.aosabook.org/en/index.html) - The authors of twenty-four open source applications explain how their software is structured, and why. From web servers and compilers to health record management systems, they are covered here to help you become a better developer.
