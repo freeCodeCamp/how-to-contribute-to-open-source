@@ -22,7 +22,7 @@
 </details>
 <!-- Do not translate this -->
 
-# مرحبًا بالمساهمين المبتدئين مفتوحين المصدر!
+# مرحبًا بالمساهمين المبتدئين للمصادر المفتوحة!
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
@@ -48,6 +48,7 @@
 
 ## المساهمة في المصادر المفتوحة بشكل عام
 
+>مقالات و مصادر تتحدث عن عالم و ثقافة المصادر المفتوحة.
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) بواسطة [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - برامج تعليمية بواسطة DigitalOcean لإرشادك في طريقك إلى نجاح المساهمة هنا على GitHub.
 - [Code Triage](https://www.codetriage.com/) - أداة أخرى ، رائعة حقًا ، للعثور على المستودعات المشهورة والمشكلات المصفاة حسب اللغة.
