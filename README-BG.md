@@ -6,19 +6,36 @@
 </summary>
   <ul>
   <li><a href="./README.md"> English </a></li>
+  <li><a href="./README-HI.md"> हिंदी </a></li>
   <li><a href="./README-MR.md"> मराठी </a></li>
+   <li><a href="./README-AR.md"> پښتو </a></li>
   <li><a href="./README-BN.md"> বাংলা </a></li>
   <li><a href="./README-CN.md"> 中文 </a></li>
   <li><a href="./README-RU.md"> русский </a></li>
   <li><a href="./README-BG.md"> български </a></li>
   <li><a href="./README-RO.md"> Românesc </a></li>
   <li><a href="./README-IT.md"> Italiano </a></li>
+  <li><a href="./README-FA.md"> فارسی </a></li>
+  <td><a href="./README-FR.md"> Français </a></td>
+  <li><a href="./README-HE.md">  עִברִית </a></li>
+  <li><a href="./README-ID.md"> Indonesia</a></li>
+  <li><a href="./README-MS.md"> Melayu</a></li>
+  <li><a href="./README-NE.md">नेपाली </a></li>
+  <li><a href="./README-NL.md"> Nederlands </a></li>
+  <li><a href="./README-PL.md"> Polski </a></li>
+  <li><a href="./README-SI.md"> සිංහල </a></li>
+  <li><a href="./README-SL.md"> Slovenščina </a></li>
+  <li><a href="./README-TR.md"> Türk</a></li>
   <li><a href="./README-ES.md"> Español </a></li>
   <li><a href="./README-pt-BR.md"> Português (BR) </a></li>
   <li><a href="./README-DE.md"> Deutsch </a></li>
   <li><a href="./README-GR.md"> Ελληνικά </a></li>
   <li><a href="./README-FR.md"> Français </a></li>
   <li><a href="./README-KO.md"> 한국어 </a></li>
+  <li><a href="./README-TR.md"> Turkish </a></li>
+  <li><a href="./README-JA.md"> 日本語 </a></li>
+  <li><a href="./README-TA.md"> தமிழ் </a></li>
+
 </ul>
 </details>
 
