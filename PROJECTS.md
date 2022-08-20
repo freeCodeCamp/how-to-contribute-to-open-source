@@ -127,3 +127,10 @@ before contributing.
 
 - `[Jenkins](https://github.com/jenkinsci/jenkins)` (Project)
     - [Contributing Guide](https://wiki.jenkins.io/display/JENKINS/Beginners+Guide+to+Contributing)
+
+- `[ifme](https://github.com/ifmeorg/ifme)` (Project)
+    - [Contributing Guide](https://github.com/ifmeorg/ifme/blob/main/CONTRIBUTING.md)
+    - Issue labels:
+      - [first-timers-only ](https://github.com/ifmeorg/ifme/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
+      - [good first issue](https://github.com/ifmeorg/ifme/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+      - [beginner friendly](https://github.com/ifmeorg/ifme/issues?q=is%3Aopen+is%3Aissue+label%3A%22beginner+friendly%22)
