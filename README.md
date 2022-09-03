@@ -90,7 +90,6 @@ If you have questions or comments, please create an issue.
 - ["FOSS Community Acronyms"](https://github.com/d-edge/foss-acronyms) - This repo contains a list of abbreviations used within the FOSS (Free and Open Source) community, along with their definitions and usages.
 - ["Open Source Fiesta - Open Source Fiesta"](https://zubi.gitbook.io/open-source-fiesta/) - Step-by-step instruction on how to contribute to GitHub repositories, and includes a git command line cheatsheet.
 - ["Beginner's Guide to Open Source Contribution - by Love Babbar Youtube Channel"](https://www.youtube.com/watch?v=SXW_bA4SGqA) - A hindi video tutorial for beginners to understand what is Open Source.
-- ["Git && Github Complete - by Love Babbar Youtube Channel"](https://www.youtube.com/watch?v=uj4fy4kpaOA) - A hindi video tutorial for beginners to understand how Git and Github works.
 - ["How to Fix your First Bug in OPEN SOURCE - by Love Babbar Youtube Channel"](https://www.youtube.com/watch?v=fMdfDnGX9S8) - A hindi video tutorial for beginners to fix your first bug in Open Source.
 
 ## Direct GitHub searches
@@ -176,6 +175,8 @@ If you have questions or comments, please create an issue.
 - [A Tutorial Introduction to Git](https://git-scm.com/docs/gittutorial) - A Tutorial for Beginners by Git.
 - [First Aid Git](https://firstaidgit.io/#/) - A searchable collection of the most frequently asked Git questions. Answers for these questions were collected from personal experience, Stackoverflow, and the official Git documentation.
 - [Git by Susan Potter](https://www.aosabook.org/en/git.html) - Show how various technical aspects of Git work under the covers to enable distributed workflows, and how it differs from other version control systems (VCSs).
+- ["Git && Github Complete - by Love Babbar Youtube Channel"](https://www.youtube.com/watch?v=uj4fy4kpaOA) - A hindi video tutorial for beginners to understand how Git and Github works.
+
 
 ## Open Source books
 
