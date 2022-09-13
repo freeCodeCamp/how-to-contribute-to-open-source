@@ -193,7 +193,7 @@ If you have questions or comments, please create an issue.
 
 > List of initiatives that aggregate beginner friendly issues to work on or seasonal events.
 
-- [Up For Grabs](https://up-for-grabs.net/) - Contains projects with beginner-friendly issues
+- [Up For Grabs](https://up-for-grabs.net/) - Contains projects with beginner-friendly issues.
 - [First Timers Only](https://www.firsttimersonly.com/) - A list of bugs that are labelled "first-timers-only".
 - [First Contributions](https://firstcontributions.github.io/) - Make your first Open Source contribution in 5 minutes. A tool and tutorial to help beginners get started with contributions. [Here](https://github.com/firstcontributions/first-contributions) is the GitHub source code for the site and opportunity to make a contribution to the repository itself.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - A program to encourage Open Source contributions. Earn gifts like t-shirts and stickers by making at least 4 pull requests in the month of October.
