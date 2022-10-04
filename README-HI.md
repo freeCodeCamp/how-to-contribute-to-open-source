@@ -21,7 +21,7 @@
 </details>
 <!-- Do not translate this -->
 
-# आपका स्वागत है नौसिखिया ओपन सोर्स योगदानकर्ताओं!
+# नौसिखिया ओपन सोर्स योगदानकर्ताओं का स्वागत है!
 
 [![अनुरोध का स्वागत करें](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![पहली बार केवल अनुकूल](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
@@ -30,9 +30,9 @@
 
 यह उन लोगों के लिए संसाधनों की एक सूची हैं जो ओपन सोर्स में योगदान करने में नए हैं।
 
-यदि आपको अतिरिक्त संसाधन मिलते हैं, तो कृपया एक पुल रिक्वेस्ट में योगदान करें।
+यदि आपको अतिरिक्त संसाधन मिलते हैं, तो कृपया एक पुल रिक्वेस्ट के द्वारा योगदान करें।
 
-यदि आपके कोई प्रश्न या टिप्पणी हैं, तो कृपया एक मुद्दा बनाएं।
+यदि आपका कोई प्रश्न या टिप्पणी हैं, तो कृपया एक मुद्दा बनाएं।
 
 **अंतर्वस्तु**
 
@@ -41,7 +41,7 @@
 - [मोज़िला का योगदानकर्ता पारिस्थितिकी तंत्र](#mozillas-contributor-ecosystem)
 - [नए ओपन सोर्स योगदानकर्ताओं के लिए उपयोगी लेख](#useful-articles-for-new-open-source-contributors)
 - [संस्करण नियंत्रण का उपयोग करना](#using-version-control)
-- [स्रोत पुस्तकें खोलें](#open-source-books)
+- [ओपन सोर्स पुस्तकें](#open-source-books)
 - [ओपन सोर्स योगदान पहल](#open-source-contribution-initiatives)
 - [लाइसेंस](#license)
 
@@ -50,10 +50,10 @@
 - [ओपन सोर्स के लिए एक परिचय](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - GitHub पर आपकी सफलता में आपका मार्गदर्शन करने के लिए DigitalOcean द्वारा ट्यूटोरियल।
 - [Issuehub.io](http://issuehub.io/) - लेबल और भाषा द्वारा GitHub मुद्दों को खोजने के लिए एक उपकरण।
 - [Code Triage](https://www.codetriage.com/) - लोकप्रिय रिपॉजिटरी और भाषा द्वारा फ़िल्टर किए गए मुद्दों को खोजने के लिए उपकरण।
-- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - एक GitHub रेपो जो नए योगदानकर्ताओं के लिए अच्छे बग्स के साथ प्रोजेक्ट करता है, और उनका वर्णन करने के लिए लेबल लागू करता है।
+- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - एक GitHub रेपो जो नए योगदानकर्ताओं के लिए अच्छे बग्स के साथ प्रोजेक्ट एकत्र करता है, और उनका वर्णन करने के लिए लेबल लागू करता है।
 - [Open Source Guides](https://opensource.guide/) - उन व्यक्तियों, समुदायों और कंपनियों के लिए संसाधनों का संग्रह, जो ओपन सोर्स प्रोजेक्ट को चलाना और उसमें योगदान देना सीखना चाहते हैं।
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) -GitHub के Do's और Don'ts।
-- [GitHub Guides](https://guides.github.com/) - कैसे प्रभावी रूप से GitHub का उपयोग करने के बारे में बुनियादी गाइड।
+- [GitHub Guides](https://guides.github.com/) - GitHub का प्रभावी रूप से उपयोग करने के बारे में बुनियादी गाइड।
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - एक सिमुलेशन परियोजना के लिए कोड का योगदान करके GitHub वर्कफ़्लो जानें।
 - [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - लिनक्स फाउंडेशन के स्रोत स्रोत खोलने के लिए गाइड।
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - केंट सी। डोड्स एंड सारा ड्रैसनर द्वारा लिखित एक ओपन सोर्स शिष्टाचार गाइडबुक।
@@ -107,7 +107,7 @@
 - [Think Like (a) Git](https://think-like-a-git.net/) - "उन्नत शुरुआती" के लिए Git परिचय, लेकिन अभी भी संघर्ष कर रहे हैं, ताकि आप सुरक्षित रूप से git के साथ प्रयोग करने के लिए एक सरल रणनीति दे सकें।
 - [Try Git](https://try.github.io/) - अपने ब्राउज़र में मुफ्त में 15 मिनट में Git सीखें।
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - हर दिन Git के लिए कमांड का एक उपयोगी न्यूनतम सेट.
-- [Oh shit, git!](https://ohshitgit.com/) - सामान्य अंग्रेजी में वर्णित सामान्य `गिट` गलतियों से कैसे बाहर निकलें; पृष्ठ के लिए [शपथ, गिट!] (https://dangitgit.com/) को बिना शपथ ग्रहण के भी देखें।
+- [Oh shit, git!](https://ohshitgit.com/) - सामान्य अंग्रेजी में वर्णित सामान्य `गिट` गलतियों से कैसे बाहर निकलें; पृष्ठ के लिए [शपथ, गिट!](https://dangitgit.com/) को बिना शपथ ग्रहण के भी देखें।
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) - `git` का उपयोग करने पर विभिन्न ट्यूटोरियल।
 - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
 - [freeCodeCamp's Wiki on Git Resources](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
@@ -133,7 +133,7 @@
 ## ओपन सोर्स योगदान पहल
 - [Up For Grabs](https://up-for-grabs.net/) - शुरुआत के अनुकूल मुद्दों के साथ परियोजनाएं शामिल हैं
 - [First Timers Only](https://www.firsttimersonly.com/) - कीड़े की एक सूची जिसे "पहले-टाइमर-केवल" लेबल किया जाता है।
-- [First Contributions](https://firstcontributions.github.io/) - 5 मिनट में अपना पहला ओपन सोर्स योगदान दें। एक उपकरण और ट्यूटोरियल शुरुआती योगदान करने में मदद करने के लिए। [यहाँ] (https://github.com/firstcontributions/first-contributions) साइट के लिए GitHub स्रोत कोड है और स्वयं भंडार में योगदान करने का अवसर है।
+- [First Contributions](https://firstcontributions.github.io/) - 5 मिनट में अपना पहला ओपन सोर्स योगदान दें। एक उपकरण और ट्यूटोरियल शुरुआती योगदान करने में मदद करने के लिए। [यहाँ](https://github.com/firstcontributions/first-contributions) साइट के लिए GitHub स्रोत कोड है और स्वयं भंडार में योगदान करने का अवसर है।
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - ओपन सोर्स योगदान को प्रोत्साहित करने के लिए एक कार्यक्रम। अक्टूबर के महीने में कम से कम 4 पुल अनुरोध करके टी-शर्ट और स्टिकर जैसे उपहार अर्जित करें।
 - [24 Pull Requests](https://24pullrequests.com) -24 पुल अनुरोध दिसंबर महीने के दौरान ओपन सोर्स सहयोग को बढ़ावा देने के लिए एक परियोजना है।
 
