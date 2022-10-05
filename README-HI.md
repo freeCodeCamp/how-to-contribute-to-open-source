@@ -122,17 +122,17 @@
 - [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - कमिट अदर, परफेक्ट बाद, पब्लिश वन्स: बेस्ट प्रैक्टिस।
 - [Git Interactive Tutorial](https://learngitbranching.js.org/) - सबसे दृश्य और इंटरैक्टिव तरीके से Git सीखें।
 
-## स्रोत पुस्तकें खोलें
+## ओपन सोर्स पुस्तकें
 - [Producing Open Source Software](https://producingoss.com/) - ओपन सोर्स सॉफ्टवेयर का निर्माण ओपन सोर्स डेवलपमेंट के मानवीय पक्ष के बारे में एक किताब है। यह वर्णन करता है कि सफल परियोजनाएं कैसे संचालित होती हैं, उपयोगकर्ताओं और डेवलपर्स की अपेक्षाएं, और मुफ्त सॉफ्टवेयर की संस्कृति।
-- [Open Source Book Series](https://opensource.com/resources/ebooks) - मुक्त स्रोत और बढ़ते ओपन सोर्स आंदोलन के बारे में अधिक जानकारी के लिए https://opensource.com से मुफ्त ई-बुक्स की एक व्यापक सूची के साथ जानें।
+- [Open Source Book Series](https://opensource.com/resources/ebooks) - ओपन सोर्स और बढ़ते ओपन सोर्स आंदोलन के बारे में अधिक जानकारी के लिए https://opensource.com से मुफ्त ई-बुक्स की एक व्यापक सूची के साथ जानें।
 - [Software Release Practice HOWTO](https://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - यह HOWTO लिनक्स और अन्य ओपन-सोर्स परियोजनाओं के लिए अच्छी रिलीज प्रथाओं का वर्णन करता है। इन प्रथाओं का पालन करके, आप उपयोगकर्ताओं को अपना कोड बनाने और इसका उपयोग करने के लिए जितना संभव हो उतना आसान बना देंगे, और अन्य डेवलपर्स आपके कोड को समझने के लिए और इसे बेहतर बनाने के लिए आपके साथ सहयोग करेंगे।
-- [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - ओपन सोर्स २.० आज के प्रौद्योगिकी नेताओं के व्यावहारिक और विचारोत्तेजक निबंधों का एक संग्रह है, जो १ ९९९ की पुस्तक, ओपन सोर्स: द रिव्यूज़ इन द रिवोल्यूशनरी में विकसित हुई विकासवादी तस्वीर को जारी रखता है।
+- [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - ओपन सोर्स २.० आज के प्रौद्योगिकी नेताओं के व्यावहारिक और विचारोत्तेजक निबंधों का एक संग्रह है, जो 1999 की पुस्तक, ओपन सोर्स: द रिव्यूज़ इन द रिवोल्यूशनरी में विकसित हुई विकासवादी तस्वीर को जारी रखता है।
 - [The Architecture of Open Source Applications](http://www.aosabook.org/en/git.html) - वितरित वर्कफ़्लोज़ को सक्षम करने के लिए कवर के तहत Git के विभिन्न पहलू काम करते हैं, और यह कैसे अन्य संस्करण नियंत्रण प्रणालियों (VCS) से भिन्न होता है।
 - [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - लिनस टॉर्वाल्ड्स (लिनक्स), लैरी वॉल (पर्ल), और रिचर्ड स्टेलमैन (जीएनयू) जैसे ओपन-सोर्स अग्रदूतों से निबंध।
 
 ## ओपन सोर्स योगदान पहल
 - [Up For Grabs](https://up-for-grabs.net/) - शुरुआत के अनुकूल मुद्दों के साथ परियोजनाएं शामिल हैं
-- [First Timers Only](https://www.firsttimersonly.com/) - कीड़े की एक सूची जिसे "पहले-टाइमर-केवल" लेबल किया जाता है।
+- [First Timers Only](https://www.firsttimersonly.com/) - bugs की एक सूची जिसे "first-timers-only" लेबल किया जाता है।
 - [First Contributions](https://firstcontributions.github.io/) - 5 मिनट में अपना पहला ओपन सोर्स योगदान दें। एक उपकरण और ट्यूटोरियल शुरुआती योगदान करने में मदद करने के लिए। [यहाँ](https://github.com/firstcontributions/first-contributions) साइट के लिए GitHub स्रोत कोड है और स्वयं भंडार में योगदान करने का अवसर है।
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - ओपन सोर्स योगदान को प्रोत्साहित करने के लिए एक कार्यक्रम। अक्टूबर के महीने में कम से कम 4 पुल अनुरोध करके टी-शर्ट और स्टिकर जैसे उपहार अर्जित करें।
 - [24 Pull Requests](https://24pullrequests.com) -24 पुल अनुरोध दिसंबर महीने के दौरान ओपन सोर्स सहयोग को बढ़ावा देने के लिए एक परियोजना है।
