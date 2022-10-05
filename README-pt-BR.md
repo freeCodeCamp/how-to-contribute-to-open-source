@@ -31,7 +31,6 @@ Se você sabe de algum recurso extra que não esteja listado aqui, por favor env
 Se você possui alguma dúvida ou comentário, por favor crie uma issue.
 
 **Conteúdo**
-
 - [Contribuindo com Open Source](#contribuindo-com-open-source)
 - [Pesquisas diretas no GitHub](#pesquisas-diretas-no-github)
 - [Ambiente de contribuidores da Mozilla](#ambiente-de-contribuidores-da-mozilla)
@@ -42,7 +41,6 @@ Se você possui alguma dúvida ou comentário, por favor crie uma issue.
 - [Licença](#licença)
 
 ## Contribuindo com Open Source
-
 - [O Guia Definitivo para Contribuições Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) por [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [Uma Introdução ao Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutoriais da DigitalOcean para te guiar ao sucesso nas contribuições aqui no GitHub.
 - [Issuehub.io](http://issuehub.pro/) - Uma ferramenta para filtrar problemas por rótulos e linguagens no GitHub.
@@ -60,9 +58,7 @@ Se você possui alguma dúvida ou comentário, por favor crie uma issue.
 - ["Como Contribuir com um Projeto Open Source no GitHub" por Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - Um vídeo com o passo-a-passo de como começar a contribuir com projetos Open Source no GitHub.
 
 ## Pesquisas Diretas no GitHub
-
 Pesquise por links diretos para issues no GitHub.
-
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
 - [is:issue is:open label:first-timers-only](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
@@ -72,7 +68,6 @@ Pesquise por links diretos para issues no GitHub.
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
 ## Ambiente de Contribuidores da Mozilla
-
 - [Primeiros Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - Bugs que desenvolvedores identificaram como ótima introdução ao projeto.
 - [Mentoria de Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - Bugs que possuem um mentor disponível para te ajudar caso você encontre dificuldades enquanto trabalha em uma solução.
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - Um site dedicado a encontrar bugs no Bugzilla.
@@ -81,7 +76,6 @@ Pesquise por links diretos para issues no GitHub.
 - [Start Mozilla](https://twitter.com/StartMozilla) - Uma conta no Twitter que publica issues apropriadas a novos contribuidores no ecossistema da Mozilla.
 
 ## Artigos úteis para novos contribuidores
-
 - [Como escolher (e contribuir com) o seu primeiro projeto Open Source](https://github.com/collections/choosing-projects) por [@GitHub](https://github.com/github)
 - [Como encontrar seu primeiro bug para resolver em um projeto Open Source](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) por [@Shubheksha](https://github.com/Shubheksha)
 - [Apenas para iniciantes](https://kentcdodds.com/blog/first-timers-only) por [@kentcdodds](https://github.com/kentcdodds)
@@ -98,7 +92,6 @@ Pesquise por links diretos para issues no GitHub.
 - [Aprenda Git e GitHub Passo a Passo (no Windows)](https://medium.com/@ows_ali/be93518e06dc) por [@ows-ali](https://medium.com/@ows_ali)
 
 ## Usando ferramentas de Controle de Versões
-
 - [Think Like (a) Git](https://think-like-a-git.net/) - Introdução a Git para "Iniciantes Avançados" que ainda têm dificuldades, a fim de proporcionar uma estratégia simples para experimentar Git de maneira segura.
 - [Try Git](https://try.github.io/) - Aprenda Git gratuitamente em 15 minutos a partir do seu navegador.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Um conjunto de comandos do Git úteis para o dia-a-dia.
@@ -116,14 +109,12 @@ Pesquise por links diretos para issues no GitHub.
 - [Git Kraken](https://www.gitkraken.com/git-client) - Aplicação desktop interativa e multiplataforma para controle de versões.
 
 ## Livros sobre Open Source
-
 - [Produzindo Software Open Source](http://producingoss.com/) - Produzindo Software Open Source é um livro sobre o lado humano do Open Source. Descreve como projetos bem sucedidos funcionam, as expectativas dos usuários e desenvolvedores e a cultura do software livre.
 - [Série de Livros Open Source](https://opensource.com/resources/ebooks) - Aprenda mais sobre Open Source e o seu crescente movimento com esta lista de eBooks gratuitos em https://opensource.com.
 - [Boas Práticas para Lançamento de Software](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - Este tutorial descreve as boas práticas para lançamento de software para Linux e outros projetos Open Source. Ao seguir essas práticas você permitirá que usuários usem seu software com facilidade e que desenvolvedores entendam seu código e contribuam para melhorá-lo.
 - [Open Sources 2.0: O Desenvolvimento Constante](https://archive.org/details/opensources2.000diborich) (2005) - Open Source 2.0 é uma coleção de dissertações intuitivas e instigantes escritas pelos líderes atuais no mercado de tecnologia que continuam a pincelar a cena evolucionista que se desenvolveu no livro de 1999, Open Sources: As Vozes da Revolução.
 
 ## Iniciativas para Contribuição em Open Source
-
 - [Up For Grabs](http://up-for-grabs.net/#/) - Contém projetos com ótimos problemas para iniciantes.
 - [First Timers Only](http://www.firsttimersonly.com/) - Uma lista de bugs rotulados como "first-timers-only".
 - [First Contributions](https://firstcontributions.github.io/) - Faça sua primeira contribuição Open Source em 5 minutos. Uma ferramenta e tutorial para ajudar iniciantes em suas contribuições.
@@ -132,5 +123,4 @@ Pesquise por links diretos para issues no GitHub.
 - [Django Girls](https://djangogirls.org/pt-br/) - Django Girls é uma organização sem fins lucrativos e uma comunidade que capacita e ajuda mulheres a organizar workshops de programação gratuitos de um dia, fornecendo ferramentas, recursos e suporte.
 
 ## Licença
-
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Este trabalho é licenciado sob a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licença Internacional Creative Commons Attribution-ShareAlike 4.0</a>.
