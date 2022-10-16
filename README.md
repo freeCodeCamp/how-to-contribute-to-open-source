@@ -214,7 +214,7 @@ If you have questions or comments, please create an issue.
 - [Open Summer of Code](https://osoc.be/students)
 - [Outreachy](https://www.outreachy.org)
 - [Processing Foundation Internship](https://processingfoundation.org/fellowships/)
-- [Social Summer of Code](https://ssoc.getsocialnow.co/) - Social foundation offers this two-month long summer program for students to learn about the open-source culture and get involved in the community. Participants contribute to real-life projects under the guidance of experienced mentors.
+- [Social Summer of Code](https://ssoc.devfolio.co/) - Social foundation offers this two-month long summer program for students to learn about the open-source culture and get involved in the community. Participants contribute to real-life projects under the guidance of experienced mentors.
 - [Girlscript Summer of Code](https://gssoc.girlscript.tech/) - A three-month-long Open-Source Program conducted every summer by the Girlscript Foundation. With constant efforts, participants contribute to numerous projects under the extreme guidance of skilled mentors over these months. With such exposure, students begin to contribute to real-world projects from the comfort of their homes.
 - [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) - A global fellowship program for women and non-binary coders where they work on existing open-source projects and expand their skillset.
 - [Major League Hacking (MLH) Fellowship](https://fellowship.mlh.io/) - A remote internship alternative for aspiring technologists where they build, or contribute to open-source projects.
