@@ -60,7 +60,7 @@ Nëse keni pyetje apo komente të tjera, ju lutemi krijoni një qështje (new is
 
 > Artikuj dhe burime që diskutojnë botën dhe kulturën e burimit të hapur.
 
-- [Udhërrëfyes definitiv për kontribuim në Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG).
+- [Udhërrëfyes definitiv për kontribim në Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG).
 - [një hyrje në Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Udhëzime nga DigitalOcean për t'ju udhëhequr në rrugën tuaj drejt suksesit të kontributit këtu në GitHub.
 - [Code Triage](https://www.codetriage.com/) - një mjet tjetër, vërtet i bukur, për të gjetur depo dhe `issies` të njohura të filtruara sipas gjuhës.
 - [Krijo të ardhmen me Open Source](https://pragprog.com/titles/vbopens/forge-your-future-with-open-source/) ($) - Libër kushtuar shpjegimit të burimit të hapur, si të gjeni një projekt dhe si të filloni të kontribuoni. Përfshirë të gjitha rolet në zhvillimin e softuerit, jo vetëm programuesit.
