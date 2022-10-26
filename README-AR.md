@@ -162,7 +162,6 @@
 - [Up For Grabs](https://up-for-grabs.net/) - يحتوي على مشاريع ذات مواضيع صديقة للمبتدئين.
 - [First Timers Only](https://www.firsttimersonly.com/) - قائمة بالأخطاء التي تم تصنيفها "لأول مرة فقط".
 - [First Contributions](https://firstcontributions.github.io/) - قم بأول مساهمة مفتوحة المصدر لك في 5 دقائق. أداة وبرنامج تعليمي لمساعدة المبتدئين على البدء في المساهمات. [Here](https://github.com/firstcontributions/first-contributions)هو رمز مصدر GitHub للموقع والفرصة لتقديم مساهمة في المستودع نفسه.
-- [Hacktoberfest](https://hacktoberfest.com/) - برنامج لتشجيع المساهمات مفتوحة المصدر. اربح هدايا مثل القمصان والملصقات عن طريق تقديم 4 طلبات سحب على الأقل في شهر أكتوبر.
 - [24 Pull Requests](https://24pullrequests.com) - 24 طلبات السحب هو مشروع لتعزيز التعاون مفتوح المصدر خلال شهر ديسمبر.
 - [Ovio](https://ovio.org) -منصة مع مجموعة منتقاة من المشاريع الصديقة للمساهمين. لديها [powerful issue search tool](https://ovio.org/issues)ودعنا نحفظ المشروعات والمشكلات لوقت لاحق.
 - [Google Summer of Code](https://summerofcode.withgoogle.com/) - برنامج مدفوع يتم تشغيله سنويًا بواسطة Google ويركز على جذب المزيد من مطوري الطلاب إلى تطوير البرمجيات مفتوحة المصدر.
@@ -177,7 +176,7 @@
 - [FossAsia](https://fossasia.org)
 - [MLH Fellowship](https://fellowship.mlh.io)
 - [Outreachy](https://www.outreachy.org)
-- [Hacktoberfest](https://hacktoberfest.com/)
+- [Hacktoberfest](https://hacktoberfest.com/) - برنامج لتشجيع المساهمات مفتوحة المصدر. اربح هدايا مثل القمصان والملصقات عن طريق تقديم 4 طلبات سحب على الأقل في شهر أكتوبر.
 - [CNCF](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
 - [Microsoft Reinforcement learning](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
 
