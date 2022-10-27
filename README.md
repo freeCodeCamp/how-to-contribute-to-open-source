@@ -89,6 +89,7 @@ If you have questions or comments, please create an issue.
 - [Open Source with Pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna) - This repo contains resources and materials to learn and get yourself started with Open Source, Git, and GitHub.
 - ["FOSS Community Acronyms"](https://github.com/d-edge/foss-acronyms) - This repo contains a list of abbreviations used within the FOSS (Free and Open Source) community, along with their definitions and usages.
 - ["Open Source Fiesta - Open Source Fiesta"](https://zubi.gitbook.io/open-source-fiesta/) - Step-by-step instruction on how to contribute to GitHub repositories, and includes a git command line cheatsheet.
+- ["Contribute to the Open-Source Community"](https://arijitgoswami.hashnode.dev/contribute-to-the-open-source-community) - Advantages of open-source software, how to understand the inner workings of an open-source project and make the first contribution. 
 - ["Complete Guide to Open Source - How to Contribute"](https://www.youtube.com/watch?v=yzeVMecydCE) (41:52) - Learn why and how to contribute to open source software with Eddie Jaoude.
 
 ## Direct GitHub searches
