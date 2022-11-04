@@ -1,8 +1,0 @@
-node_modules
-ab-results-*.json
-
-#logs
-logs
-*.logs
-npm-debug.log*
-yarn-debug.log*
