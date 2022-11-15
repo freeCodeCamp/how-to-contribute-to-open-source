@@ -223,4 +223,4 @@
 
 ## લાઇસન્સ
 
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https ://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />આ કાર્યને <a rel="license" href="https://creativecommons હેઠળ લાઇસન્સ આપવામાં આવ્યું છે .org/licenses/by-sa/4.0/">ક્રિએટિવ કોમન્સ એટ્રિબ્યુશન-શેરએલાઈક 4.0 ઈન્ટરનેશનલ લાઇસન્સ</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />આ કાર્યને <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">ક્રિએટિવ કોમન્સ એટ્રિબ્યુશન-શેરએલાઈક 4.0 ઈન્ટરનેશનલ લાઇસન્સ</a>.
