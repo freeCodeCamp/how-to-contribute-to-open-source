@@ -56,20 +56,20 @@
 - [ભાગ લેવા માટે ઓપન સોર્સ પ્રોગ્રામ](#ઓપન-સોર્સ-પ્રોગ્રામ્સ-ટુ-પાર્ટીસિપેટ-ઇન)
 - [લાઇસન્સ](#લાઇસન્સ)
 
-## Contributing to Open Source in general
+## સામાન્ય રીતે ઓપન સોર્સમાં યોગદાન આપવું
 
-> Articles and resources that discuss the world and culture of open source.
+> લેખો અને સંસાધનો કે જે વિશ્વ અને ઓપન સોર્સની સંસ્કૃતિની ચર્ચા કરે છે.
 
-- [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG).
-- [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials by DigitalOcean to guide you on your way to contribution success here on GitHub.
-- [Code Triage](https://www.codetriage.com/) - another, really nice, tool for finding popular repositories and issues filtered by language.
-- [Forge Your Future with Open Source](https://pragprog.com/titles/vbopens/forge-your-future-with-open-source/) ($) - Book devoted to explaining open source, how to find a project, and how to start contributing. Inclusive of all roles in software development, not just programmers.
-- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - a GitHub repo that amasses projects with good bugs for new contributors, and applies labels to describe them.
-- [Open Source Guides](https://opensource.guide/) - Collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an Open Source project.
-- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Do's and Don'ts on GitHub.
-- [GitHub Guides](https://docs.github.com/) - basic guides on how to use GitHub effectively.
-- [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Learn the GitHub workflow by contributing code to a simulation project.
-- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - The Linux Foundation's guides to Open Source projects.
+- [ઓપન સોર્સમાં યોગદાન આપવા માટે ચોક્કસ માર્ગદર્શિકા](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) દ્વારા [@DoomHammerNG](https://twitter.com/DoomHammerNG).
+- [ઓપન સોર્સનો પ્રસ્તાવના](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - GitHub પર અહીં યોગદાન સફળતાના તમારા માર્ગ પર માર્ગદર્શન આપવા માટે DigitalOcean દ્વારા ટ્યુટોરિયલ્સ.
+- [કોડ ટ્રાયજ](https://www.codetriage.com/) - અન્ય, ખરેખર સરસ, લોકપ્રિય ભંડાર અને ભાષા દ્વારા ફિલ્ટર કરાયેલ મુદ્દાઓ શોધવા માટેનું સાધન.
+- [ઓપન સોર્સ સાથે તમારું ભવિષ્ય બનાવો](https://pragprog.com/titles/vbopens/forge-your-future-with-open-source/) ($) - ઓપન સોર્સ, પ્રોજેક્ટ કેવી રીતે શોધવો અને યોગદાન કેવી રીતે શરૂ કરવું તે સમજાવવા માટે સમર્પિત પુસ્તક. સોફ્ટવેર ડેવલપમેન્ટમાં તમામ ભૂમિકાઓનો સમાવેશ, માત્ર પ્રોગ્રામરો જ નહીં.
+- [નવા નિશાળીયા માટે અદ્ભુત](https://github.com/MunGell/awesome-for-beginners) - એક GitHub રેપો કે જે નવા ફાળો આપનારાઓ માટે સારી ભૂલો સાથેના પ્રોજેક્ટને એકઠા કરે છે અને તેનું વર્ણન કરવા માટે લેબલ્સ લાગુ કરે છે.
+- [ઓપન સોર્સ માર્ગદર્શિકાઓ](https://opensource.guide/) - વ્યક્તિઓ, સમુદાયો અને કંપનીઓ માટે સંસાધનોનો સંગ્રહ કે જેઓ ઓપન સોર્સ પ્રોજેક્ટને કેવી રીતે ચલાવવા અને તેમાં યોગદાન આપવું તે શીખવા માંગે છે.
+- [45 Github શું કરવું અને શું ન કરવું તે મુદ્દાઓ](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - GitHub પર શું કરવું અને શું નહીં.
+- [GitHub માર્ગદર્શિકાઓ](https://docs.github.com/) - GitHub નો અસરકારક રીતે ઉપયોગ કેવી રીતે કરવો તેની મૂળભૂત માર્ગદર્શિકાઓ.
+- [ઓપન સોર્સમાં યોગદાન આપો](https://github.com/danthareja/contribute-to-open-source) - સિમ્યુલેશન પ્રોજેક્ટમાં કોડનું યોગદાન આપીને GitHub વર્કફ્લો શીખો.
+- [એન્ટરપ્રાઇઝ માટે Linux ફાઉન્ડેશનની ઓપન સોર્સ માર્ગદર્શિકાઓ](https://www.linuxfoundation.org/resources/open-source-guides/) - ઓપન સોર્સ પ્રોજેક્ટ માટે Linux ફાઉન્ડેશનની માર્ગદર્શિકા.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - An Open Source Etiquette Guidebook, written by Kent C. Dodds And Sarah Drasner.
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Curated list of resources and opportunities for college students to learn a new coding language.
 - [Pull Request Roulette](http://www.pullrequestroulette.com/) - This site has a list of pull requests submitted for review belonging to Open Source projects hosted on Github.
