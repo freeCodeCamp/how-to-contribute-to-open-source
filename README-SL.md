@@ -89,7 +89,6 @@ Povezave, ki neposredno usmerjajo na primerne `issues`, s katerim lahko prispeva
 - [is:issue is:open label:up-for-grabs](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs&type=issues)
 - [is:issue is:open label:easy-fix](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy-fix&type=issues)
 - [is:issue is:open label:"beginner friendly"](https://github.com/search?q=beginner+friendly&state=open&type=Issues)
-- [is:issue is:open label:your-first-pr](https://github.com/search?q=your+first+pr&type=Issues)
 
 ## Mozilla ekosistem prispevanja
 

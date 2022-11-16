@@ -80,7 +80,6 @@
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 - [is:issue is:open label:easy-fix](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy-fix&type=issues)
 - [is:issue is:open label:"beginner friendly"](https://github.com/search?q=beginner+friendly&state=open&type=Issues)
-- [is:issue is:open label:your-first-pr](https://github.com/search?q=your+first+pr&type=Issues)
 
 ## Экосистема контрибьюторов Mozilla
 - [Хорошие первые ошибки](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22[good%20first%20bug]%22) - ошибки, которые разработчики определили как хорошее введение в проект.
