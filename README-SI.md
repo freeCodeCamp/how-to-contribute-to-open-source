@@ -56,9 +56,9 @@
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - නව දායකයින් සඳහා හොඳ දෝෂ සහිත ව්‍යාපෘති එකතු කර, ඒවාට ලේබල එකතු කරන GitHub repoවක්.
 - [Open Source Guides](https://opensource.guide/) - විවෘත මූලාශ්‍ර ව්‍යාපෘති පවත්වාගෙන යාම හා දායකත්වය දැක්වීම පිළිබඳ පෞද්ගලික, සාමාජික හා ව්‍යාපාර සඳහා මූලාශ්‍රවල එකතුවක්.
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - GitHub හි කළ යුතු හා නොකළ යුතු දෑ.
-- [GitHub Guides](https://docs.github.com/) - basic guides on how to use GitHub සාර්ථකව භාවිතා කිරීම පිළිබඳ මූලික මාර්ගෝපදේශ.
+- [GitHub Guides](https://docs.github.com/en) - basic guides on how to use GitHub සාර්ථකව භාවිතා කිරීම පිළිබඳ මූලික මාර්ගෝපදේශ.
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - අනුකරණ ව්‍යාපෘතියකට කේත දායකත්වය දක්වමින් GitHub කාර්යය ප්‍රවාහය ඉගෙන ගැනීමට.
-- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Linux පදනමෙහි විවෘත මූලාශ්‍ර ව්‍යාපෘති සඳහා මාර්ගෝපදේශය.
+- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides) - Linux පදනමෙහි විවෘත මූලාශ්‍ර ව්‍යාපෘති සඳහා මාර්ගෝපදේශය.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - Kent C. Dodds සහ Sarah Drasner විසින් රචිත විවෘත මූලාශ්‍ර ආචාරධර්ම පිළිබඳ මාර්ගෝපදේශය.
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - පාසල් සිසුන් සඳහා නව ක්‍රමලේඛ භාෂාවන් ඉගෙන ගැනීමට සම්පත් සහ අවස්ථා රැගත් සංවෘත ලැයිස්තුවක්.
 - [Pull Request Roulette](http://www.pullrequestroulette.com/) - මෙම අඩවියේ Github හි ඇතුළත් විවෘත මූලාශ්‍ර ව්‍යාපෘතියන් හි සමාලෝචනය සඳහා ඉදිරිපත් කළ pull requests ලැයිස්තුවක් පවතියි.
@@ -90,7 +90,7 @@ GitHub හි දායක වීමට සුදුසු issues වෙත ස�
 - [is:issue is:open label:up-for-grabs](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs&type=issues)
 - [is:issue is:open label:easy-fix](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy-fix&type=issues)
 - [is:issue is:open label:"beginner friendly"](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22beginner+friendly%22&type=issues)
-- [is:issue is:open label:your-first-pr](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Ayour-first-pr&type=issues)
+- [is:issue is:open label:your-first-pr](https://github.com/search?q=your-first-pr&state=open&type=Issues)
 
 ## Mozilla හි දායකත්ව පද්ධතිය
 
@@ -110,7 +110,7 @@ GitHub හි දායක වීමට සුදුසු issues වෙත ස�
 - [Bring Kindness Back to Open Source](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source), රචනය: [@shanselman](https://github.com/shanselman)
 - [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/), රචනය: [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/), රචනය: [@GitHub](https://github.com/github)
-- [How to Find a Bug in Your Code](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html), රචනය: [@dougbradbury](https://twitter.com/dougbradbury)
+- [How to Find a Bug in Your Code](https://8thlight.com/insights/how-to-find-a-bug-in-your-code), රචනය: [@dougbradbury](https://twitter.com/dougbradbury)
 - [Mastering Markdown](https://docs.github.com/features/mastering-markdown/), රචනය: [@GitHub](https://github.com/github)
 - [First mission: Contributors page](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29), රචනය: [@forCrowd](https://github.com/forCrowd)
 - [How to make your first Open Source contribution in just 5 minutes](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/), රචනය: [@roshanjossey](https://github.com/Roshanjossey/)
@@ -160,7 +160,6 @@ GitHub හි දායක වීමට සුදුසු issues වෙත ස�
 ## විවෘත මූලාශ්‍ර දායක මුලපිරීම්
 
 - [Up For Grabs](https://up-for-grabs.net/) - නවකයින්ට ගැලපෙන issues ඇතුළත් ව්‍යාපෘති ඇත
-- [First Timers Only](https://www.firsttimersonly.com/) - "first-timers-only" ලෙස ලේබලගත කළ දෝෂවල ලැයිස්තුවක්.
 - [First Contributions](https://firstcontributions.github.io/) - විනාඩි 5ක් ඇතුළත ඔබගේ පළමු විවෘත මූලාශ්‍ර දායකත්වය දක්වන්න. නවකයන් හට දායකත්ව සමඟ එකතු වීමට හොඳ මෙවලමක් හා නිබන්ධයක්. [මෙහි ඇත්තේ](https://github.com/firstcontributions/first-contributions) එම වෙබ් අඩවියෙහි GitHub විවෘත කේතය හා එම repository එකට උපකාර කිරීමට හැකි ආකාරයයි.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - විවෘත මූලාශ්‍ර දායකත්ව දිරිමත් කිරීමට සකස් කළ ව්‍යාපෘතියකි. ඔක්තෝම්බර් මාසයේ අවම වශයෙන් pull requests 4ක් වත් කර ටීශර්ට් හා ස්ටිකර වැනි තෑගි දිනාගන්න.
 - [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests යනු විවෘත මූලාශ්‍ර සහයෝගිතාව වැඩිදියුණු කිරීමට දෙසැම්බර් මාසයේ පැවැත්වෙන ව්‍යාපෘතියකි.

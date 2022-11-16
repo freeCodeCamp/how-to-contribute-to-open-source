@@ -67,9 +67,9 @@
 - [નવા નિશાળીયા માટે અદ્ભુત](https://github.com/MunGell/awesome-for-beginners) - એક GitHub રેપો કે જે નવા ફાળો આપનારાઓ માટે સારી ભૂલો સાથેના પ્રોજેક્ટને એકઠા કરે છે અને તેનું વર્ણન કરવા માટે લેબલ્સ લાગુ કરે છે.
 - [ઓપન સોર્સ માર્ગદર્શિકાઓ](https://opensource.guide/) - વ્યક્તિઓ, સમુદાયો અને કંપનીઓ માટે સંસાધનોનો સંગ્રહ કે જેઓ ઓપન સોર્સ પ્રોજેક્ટને કેવી રીતે ચલાવવા અને તેમાં યોગદાન આપવું તે શીખવા માંગે છે.
 - [45 Github શું કરવું અને શું ન કરવું તે મુદ્દાઓ](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - GitHub પર શું કરવું અને શું નહીં.
-- [GitHub માર્ગદર્શિકાઓ](https://docs.github.com/) - GitHub નો અસરકારક રીતે ઉપયોગ કેવી રીતે કરવો તેની મૂળભૂત માર્ગદર્શિકાઓ.
+- [GitHub માર્ગદર્શિકાઓ](https://docs.github.com/en) - GitHub નો અસરકારક રીતે ઉપયોગ કેવી રીતે કરવો તેની મૂળભૂત માર્ગદર્શિકાઓ.
 - [ઓપન સોર્સમાં યોગદાન આપો](https://github.com/danthareja/contribute-to-open-source) - સિમ્યુલેશન પ્રોજેક્ટમાં કોડનું યોગદાન આપીને GitHub વર્કફ્લો શીખો.
-- [એન્ટરપ્રાઇઝ માટે Linux ફાઉન્ડેશનની ઓપન સોર્સ માર્ગદર્શિકાઓ](https://www.linuxfoundation.org/resources/open-source-guides/) - ઓપન સોર્સ પ્રોજેક્ટ માટે Linux ફાઉન્ડેશનની માર્ગદર્શિકા.
+- [એન્ટરપ્રાઇઝ માટે Linux ફાઉન્ડેશનની ઓપન સોર્સ માર્ગદર્શિકાઓ](https://www.linuxfoundation.org/resources/open-source-guides) - ઓપન સોર્સ પ્રોજેક્ટ માટે Linux ફાઉન્ડેશનની માર્ગદર્શિકા.
 - [CSS Tricks ઓપન સોર્સ એટિક્યુએટ ગાઇડબુક](https://css-tricks.com/open-source-etiquette-guidebook/) - ઓપન સોર્સ એટિક્યુએટ ગાઇડબુક, કેન્ટ સી. ડૉડ્સ અને સારા ડ્રાસનર દ્વારા લખાયેલ.
 - [સ્ટુડેન્ટ્સને મદદગ્રહિત સ્રોતોની એ-ઝિ સૂચિ](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - કોલેજ સ્ટુડેન્ટ્સને નવી કોડિંગ ભાષા શીખવા માટે સ્રોતોની સંગ્રહિત સૂચિ.
 - [પ્રોલ રિક્વેસ્ટ રૂલેટ](http://www.pullrequestroulette.com/) - આ સાઇટના ઓપન સોર્સ પ્રોજેક્ટ્સને હોસ્ટ કરેલા ગિથ્બાબનો પ્રકટ કરવામાં આવેલા પ્રોલ રિક્વેસ્ટ્સની સૂચિ છે.
@@ -106,7 +106,7 @@
 - [is:issue is:open label:up-for-grabs](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs&type=issues)
 - [is:issue is:open label:easy-fix](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy-fix&type=issues)
 - [is:issue is:open label:"beginner friendly"](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22beginner+friendly%22&type=issues)
-- [is:issue is:open label:your-first-pr](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Ayour-first-pr&type=issues)
+- [is:issue is:open label:your-first-pr](https://github.com/search?q=your-first-pr&state=open&type=Issues)
 
 ## Mozillaનું યોગદાનકર્તા ઇકોસિસ્ટમ
 
@@ -131,8 +131,8 @@
 - [Bring Kindness Back to Open Source](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) દ્વારા [ @shanselman](https://github.com/shanselman)
 - [પ્રથમ વખત ઓપન સોર્સમાં પ્રવેશ મેળવવો](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) [@mcdonnelldean](https:// /github.com/mcdonnelldean)
 - [કેવી રીતે ઓપન સોર્સમાં યોગદાન આપવું](https://opensource.guide/how-to-contribute/) [@GitHub](https://github.com/github) દ્વારા
-- [તમારા કોડમાં બગ કેવી રીતે શોધવી](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) દ્વારા [ @dougbradbury](https://twitter.com/dougbradbury)
-- [માર્કડાઉનમાં નિપુણતા મેળવવી](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) [@GitHub](https://github.com/github) દ્વારા
+- [તમારા કોડમાં બગ કેવી રીતે શોધવી](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) દ્વારા [ @dougbradbury](https://twitter.com/dougbradbury)
+- [માર્કડાઉનમાં નિપુણતા મેળવવી](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) [@GitHub](https://github.com/github) દ્વારા
 - [પ્રથમ મિશન: યોગદાનકર્તાઓનું પૃષ્ઠ](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705) [@forCrowd](https://github.com/forCrowd) દ્વારા
 - [ફક્ત 5 મિનિટમાં તમારું પ્રથમ ઓપન સોર્સ યોગદાન કેવી રીતે બનાવવું](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5- મિનિટ-aaad1fc59c9a/) [@roshanjossey](https://github.com/Roshanjossey/) દ્વારા
 - [મને હમણાં જ મારો મફત હેકટોબરફેસ્ટ શર્ટ મળ્યો. અહીં એક ઝડપી રીત છે જે તમે તમારું મેળવી શકો છો.](https://www.freecodecamp.org/news/i-just-got-my-free-hacktoberfest-shirt-heres-a-quick-way-you-can-get -yours-fa78d6e24307/) [@quincylarson] દ્વારા(https://www.freecodecamp.org/news/author/quincylarson/)
@@ -192,7 +192,6 @@
 > પહેલોની સૂચિ જે શિખાઉ માણસને અનુકૂળ મુદ્દાઓ પર અથવા મોસમી ઇવેન્ટ્સ પર કામ કરવા માટે એકત્રિત કરે છે.
 
 - [અપ ફોર ગ્રેબ્સ](https://up-for-grabs.net/) - શિખાઉ માણસ માટે અનુકૂળ મુદ્દાઓ ધરાવતા પ્રોજેક્ટ્સ ધરાવે છે.
-- [ફર્સ્ટ ટાઈમર્સ ઓન્લી](https://www.firsttimersonly.com/) - બગ્સની સૂચિ કે જેને "ફર્સ્ટ-ટાઈમર-ઓનલી" લેબલ કરવામાં આવે છે.
 - [પ્રથમ યોગદાન](https://firstcontributions.github.io/) - 5 મિનિટમાં તમારું પ્રથમ ઓપન સોર્સ યોગદાન આપો. નવા નિશાળીયાને યોગદાન સાથે પ્રારંભ કરવામાં મદદ કરવા માટે એક સાધન અને ટ્યુટોરીયલ. [અહીં](https://github.com/firstcontributions/first-contributions) એ સાઇટ માટે GitHub સ્રોત કોડ છે અને રિપોઝીટરીમાં જ યોગદાન આપવાની તક છે.
 - [હેકટોબરફેસ્ટ](https://hacktoberfest.digitalocean.com/) - ઓપન સોર્સ યોગદાનને પ્રોત્સાહિત કરવા માટેનો કાર્યક્રમ. ઓક્ટોબર મહિનામાં ઓછામાં ઓછી 4 પુલ વિનંતીઓ કરીને ટી-શર્ટ અને સ્ટીકર જેવી ભેટો કમાઓ.
 - [24 પુલ વિનંતીઓ](https://24pullrequests.com) - 24 પુલ વિનંતીઓ એ ડિસેમ્બર મહિના દરમિયાન ઓપન સોર્સ સહયોગને પ્રોત્સાહન આપવાનો પ્રોજેક્ટ છે.

@@ -50,9 +50,9 @@ Si vous avez des questions ou commentaires, veuillez créer un ticket.
 - [Parfait-pour-débutants](https://github.com/MunGell/awesome-for-beginners) - un dépôt GitHub regroupant des projets avec des bugs faciles pour les contributeurs novices, et avec des labels pour les décrire.
 - [Guides de l'Open Source](https://opensource.guide/) - collection de ressources pour les particuliers, communautés et sociétés qui désirent apprendre à gérer et contribuer à un projet Open Source.
 - [45 Issues Github à faire et à ne pas faire](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - ce qu'il faut faire et ne pas faire sur GitHub.
-- [Guides de GitHub](https://docs.github.com/) - guides basiques sur comment utiliser GitHub efficacement.
+- [Guides de GitHub](https://docs.github.com/en) - guides basiques sur comment utiliser GitHub efficacement.
 - [Contribuer à l'Open Source](https://github.com/danthareja/contribute-to-open-source) - apprendre le processus de GitHub en contribuant du code à une simulation de projet.
-- [Guide pour l'Open Source de la Fondation Linux pour l'entreprise](https://www.linuxfoundation.org/resources/open-source-guides/) - les guides de la Fondation Linux pour les projets Open Source.
+- [Guide pour l'Open Source de la Fondation Linux pour l'entreprise](https://www.linuxfoundation.org/resources/open-source-guides) - les guides de la Fondation Linux pour les projets Open Source.
 - [CSS Tricks - Guide de l'étiquette Open Source](https://css-tricks.com/open-source-etiquette-guidebook/) - un guide de l'étiquette Open Source, écrit par [Kent C. Dodds](https://github.com/kentcdodds) et [Sarah Drasner](https://github.com/sdras).
 - [Ressource A à Z pour les étudiants](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - liste organisée de ressources et d'opportunités pour les étudiants universitaires souhaitant apprendre un nouveau langage informatique.
 - [Contribuer à votre premier projet Open Source : une approche pratique](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - une approche étape par étape pour contribuer à votre premier projet Open Source, de [Abati Adewale](https://www.acekyd.com).
@@ -91,8 +91,8 @@ Si vous avez des questions ou commentaires, veuillez créer un ticket.
 - [Ramenons la gentillesse dans l'Open Source](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) par [@shanselman](https://github.com/shanselman)
 - [Aborder l'Open Source pour la première fois](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) par [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [Comment contribuer à l'Open Source](https://opensource.guide/how-to-contribute/) par [@GitHub](https://github.com/github)
-- [Comment trouver un bug dans votre code](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) par [@dougbradbury](https://twitter.com/dougbradbury)
-- [Maîtriser le Markdown](https://docs.github.com/features/mastering-markdown/) par [@GitHubGuides](https://docs.github.com/)
+- [Comment trouver un bug dans votre code](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) par [@dougbradbury](https://twitter.com/dougbradbury)
+- [Maîtriser le Markdown](https://docs.github.com/features/mastering-markdown/) par [@GitHubGuides](https://docs.github.com/en)
 - [Première mission : Page des contributeurs](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) par [@forCrowd](https://github.com/forCrowd)
 - [Comment effectuer votre première contribution à l'Open Source en seulement 5 minutes](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) par [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
 - [Hacktoberfest 2018 : Comment obtenir votre T-shirt gratuit, même si vous êtes un(e) novice du code](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) par [@quincylarson](https://medium.freecodecamp.org/@quincylarson)

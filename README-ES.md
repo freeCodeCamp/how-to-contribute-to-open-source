@@ -48,9 +48,9 @@ Si tienes alguna pregunta o comentario, por favor crea un `issue` en este reposi
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - Repositorio de GitHub que acumula proyectos con issues fáciles y etiquetados para colaboradores recien iniciados.
 - [Guías de código abierto](https://opensource.guide/) - Colección de recursos para particulares, comunidades y empresas que quieren aprender cómo iniciar y contribuir en proyectos de código abierto.
 - [45 pros y contras creando issues en Github](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Pros y Contras creando `issues` en GitHub.
-- [Guías de GitHub](https://docs.github.com/) - Guía básica de cómo usar GitHub de manera efectiva.
+- [Guías de GitHub](https://docs.github.com/en) - Guía básica de cómo usar GitHub de manera efectiva.
 - [Contribuir al código abierto](https://github.com/danthareja/contribute-to-open-source) - Aprender el flujo de trabajo en GitHub colaborando en un proyecto de prueba.
-- [Guías de código abierto de la Fundación Linux para la empresa](https://www.linuxfoundation.org/resources/open-source-guides/) - Guía de la Fundación Linux para proyectos de código abierto.
+- [Guías de código abierto de la Fundación Linux para la empresa](https://www.linuxfoundation.org/resources/open-source-guides) - Guía de la Fundación Linux para proyectos de código abierto.
 - [Trucos CSS, Guía de etiquetas de código abierto](https://css-tricks.com/open-source-etiquette-guidebook/) - Una guía de etiquetas de código abierto escrita por [Kent C. Dodds](https://github.com/kentcdodds) y [Sarah Drasner](https://github.com/sdras).
 - [Recursos de la A a la Z para estudiantes](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Lista precisa de recursos y oportunidades para estudiantes que quieran aprender un nuevo lenguaje de programación.
 - [Contribuyendo en tu primer proyecto de código abierto: Un acercamiento práctico.](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - Un acercamiento paso a paso para contribuir en tu primero proyecto de código abierto por [Abati Adewale](https://www.acekyd.com).
@@ -82,8 +82,8 @@ Lista de enlaces convenientes para principiantes que apuntan a `issues` en GitHu
 - [Trayendo de vuelta la amabilidad al código abierto](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) por [@shanselman](https://github.com/shanselman)
 - [Entrando en el código abierto por primera vez](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) por [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [Cómo contribuir al código abierto](https://opensource.guide/how-to-contribute/) por [@GitHub](https://github.com/github)
-- [Cómo encontrar errores en tu código](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) por [@dougbradbury](https://twitter.com/dougbradbury)
-- [Dominando el Markdown](https://docs.github.com/features/mastering-markdown/) por [@GitHubGuides](https://docs.github.com/)
+- [Cómo encontrar errores en tu código](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) por [@dougbradbury](https://twitter.com/dougbradbury)
+- [Dominando el Markdown](https://docs.github.com/features/mastering-markdown/) por [@GitHubGuides](https://docs.github.com/en)
 - [Primera misión: Página de colaboradores](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) por [@forCrowd](https://github.com/forCrowd)
 - [Cómo hacer tu primera contribución al código abierto en 5 minutos](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) por [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
 - [Hacktoberfest 2018: Cómo puedes conseguir tu primera camiseta - incluso si eres nuevo programando](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) por [@quincylarson](https://medium.freecodecamp.org/@quincylarson)

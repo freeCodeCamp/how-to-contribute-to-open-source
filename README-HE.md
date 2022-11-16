@@ -65,9 +65,9 @@
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - גיטהאב repo מצויין האוגר פרוייקטים עם באגים מתאימים לתורמים חדשים. הבאגים מתוייגים עם תוויות מתאימות.
 - [מדריכי קוד פתוח](https://opensource.guide/) - אוסף של מקורות לאנשים, קהילות וחברות הרוצים ללמוד כיצד להפעיל ולתרום לפרוייקט קוד פתוח.
 - [45 גיטהאב issues - עשה ואל תעשה](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - עשה ואל תעשה בגיטהאב.
-- [מדריכי גיטהאב](https://docs.github.com/) - מדריכים בסיסיים על איך להשתמש בגיטהאב בצורה אפקטיבית.
+- [מדריכי גיטהאב](https://docs.github.com/en) - מדריכים בסיסיים על איך להשתמש בגיטהאב בצורה אפקטיבית.
 - [תרומה לקוד פתוח](https://github.com/danthareja/contribute-to-open-source) - למדו את הגיטהאב workflow על ידי תרומת קוד לפרויקט סימולציה.
-- [מדריכי קוד פתוח לחברות על ידי קרן לינוקס](https://www.linuxfoundation.org/resources/open-source-guides/) - המדריכים של קרן לינוקס לפרויקטים בקוד פתוח.
+- [מדריכי קוד פתוח לחברות על ידי קרן לינוקס](https://www.linuxfoundation.org/resources/open-source-guides) - המדריכים של קרן לינוקס לפרויקטים בקוד פתוח.
 - [מדריך קוד פתוח לכללי התנהגות של CSS Tricks](https://css-tricks.com/open-source-etiquette-guidebook/) - מדריך קוד פתוח לכללי התנהגות, מחברים Kent C. Dodds ו-Sarah Drasner.
 - [מקורות לסטודנטים מא׳ עד ת׳](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - רשימת מקורות והזדמנויות ללמידת שפת תכנות חדשה לסטודנטים.
 - [Pull Request Roulette](http://www.pullrequestroulette.com/) - אתר עם רשימת pull requests הנמצאים ב-review השייכים לפרויקטי קוד פתוח בגיטהאב.
@@ -119,7 +119,7 @@
 - [החזירו טוב לב חזרה לקוד פתוח](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) ע״י [shanselman@](https://github.com/shanselman)
 - [נכנסים לקוד פתוח בפעם הראשונה](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) ע״י [mcdonnelldean@](https://github.com/mcdonnelldean)
 - [כיצד לתרום לקוד פתוח](https://opensource.guide/how-to-contribute/) ע״י [GitHub@](https://github.com/github)
-- [כיצד למצוא באג בקוד שלכם](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) ע״י [dougbradbury@](https://twitter.com/dougbradbury)
+- [כיצד למצוא באג בקוד שלכם](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) ע״י [dougbradbury@](https://twitter.com/dougbradbury)
 - [Mastering Markdown](https://docs.github.com/features/mastering-markdown/) ע״י [GitHub@](https://github.com/github)
 - [משימה ראשונה: עמוד התורמים](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) ע״י [forCrowd@](https://github.com/forCrowd)
 - [כיצד לתרום בפעם הראשונה לקוד פתוח ב-5 דקות](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) ע״י [roshanjossey@](https://github.com/Roshanjossey/)
@@ -175,7 +175,6 @@
 
 ## יוזמות לתרומת קוד פתוח
 - [Up For Grabs](https://up-for-grabs.net/) - מכיל פרויקטים עם issues המתאימים למתחילים.
-- [First Timers Only](https://www.firsttimersonly.com/) - רשימה של באגים המתוייגים כ-״first-timers-only".
 - [First Contributions](https://firstcontributions.github.io/) - בצעו את התרומה הראשונה שלכם לקוד פתוח תוך 5 דקות. כלי ומדריך שיעזור למתחילים לתרום. תוכלו למצוא את קוד המקור של האתר [כאן](https://github.com/firstcontributions/first-contributions), נצלו את ההזדמנות לתרום ל-repository עצמו.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - תוכנית לעידוד תרומה לקוד פתוח. זכו בפרסים כגון חולצות ומדבקות על ידי פתיחת לפחות 4 pull requests במהלך חודש אוקטובר.
 - [24 Pull Requests](https://24pullrequests.com) - הפרויקט 24 Pull Requests הינו פרויקט לעידוד שיתוף פעולה בקוד פתוח במהלך חודש אוקטובר.

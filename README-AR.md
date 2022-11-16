@@ -55,9 +55,9 @@
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - GitHub repo الذي يكدس المشاريع مع أخطاء جيدة للمساهمين الجدد ، ويطبق تسميات لوصفها.
 - [Open Source Guides](https://opensource.guide/) - مجموعة من الموارد للأفراد والمجتمعات والشركات الذين يرغبون في تعلم كيفية تشغيل مشروع مفتوح المصدر والمساهمة فيه.
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - افعل ولا تفعل على جيثب.
-- [GitHub Guides](https://docs.github.com/) -إرشادات أساسية حول كيفية استخدام GitHub بشكل فعال.
+- [GitHub Guides](https://docs.github.com/en) -إرشادات أساسية حول كيفية استخدام GitHub بشكل فعال.
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - تعرف على سير عمل GitHub من خلال المساهمة برمز في مشروع محاكاة.
-- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - أدلة مؤسسة Linux لمشاريع المصدر المفتوح.
+- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides) - أدلة مؤسسة Linux لمشاريع المصدر المفتوح.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - دليل آداب السلوك المفتوح المصدر ، بقلم كينت سي دودز وسارة دراسنر.
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - قائمة منتقاة من الموارد والفرص لطلاب الجامعات لتعلم لغة ترميز جديدة.
 - [Pull Request Roulette](http://www.pullrequestroulette.com/) - يحتوي هذا الموقع على قائمة بطلبات السحب المقدمة للمراجعة والتي تنتمي إلى مشاريع مفتوحة المصدر مستضافة على Github.
@@ -90,7 +90,7 @@
 - [is:issue is:open label:up-for-grabs](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs&type=issues)
 - [is:issue is:open label:easy-fix](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy-fix&type=issues)
 - [is:issue is:open label:"beginner friendly"](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22beginner+friendly%22&type=issues)
-- [is:issue is:open label:your-first-pr](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Ayour-first-pr&type=issues)
+- [is:issue is:open label:your-first-pr](https://github.com/search?q=your-first-pr&state=open&type=Issues)
 
 ## النظام البيئي للمساهمين في Mozilla
 
@@ -110,8 +110,8 @@
 - [Bring Kindness Back to Open Source](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) بواسطة [@shanselman](https://github.com/shanselman)
 - [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) بواسطة [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) بواسطة [@GitHub](https://github.com/github)
-- [How to Find a Bug in Your Code](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) بواسطة [@dougbradbury](https://twitter.com/dougbradbury)
-- [Mastering Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) بواسطة [@GitHub](https://github.com/github)
+- [How to Find a Bug in Your Code](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) بواسطة [@dougbradbury](https://twitter.com/dougbradbury)
+- [Mastering Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) بواسطة [@GitHub](https://github.com/github)
 - [First mission: Contributors page](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705 ) بواسطة [@forCrowd](https://github.com/forCrowd)
 - [How to make your first Open Source contribution in just 5 minutes](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) بواسطة [@roshanjossey](https://github.com/Roshanjossey/)
 - [I just got my free Hacktoberfest shirt. Here’s a quick way you can get yours.](https://www.freecodecamp.org/news/i-just-got-my-free-hacktoberfest-shirt-heres-a-quick-way-you-can-get-yours-fa78d6e24307/) بواسطة [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
@@ -161,7 +161,6 @@
 ## مبادرات مساهمة المصدر المفتوح
 
 - [Up For Grabs](https://up-for-grabs.net/) - يحتوي على مشاريع ذات مواضيع صديقة للمبتدئين.
-- [First Timers Only](https://www.firsttimersonly.com/) - قائمة بالأخطاء التي تم تصنيفها "لأول مرة فقط".
 - [First Contributions](https://firstcontributions.github.io/) - قم بأول مساهمة مفتوحة المصدر لك في 5 دقائق. أداة وبرنامج تعليمي لمساعدة المبتدئين على البدء في المساهمات. [Here](https://github.com/firstcontributions/first-contributions)هو رمز مصدر GitHub للموقع والفرصة لتقديم مساهمة في المستودع نفسه.
 - [24 Pull Requests](https://24pullrequests.com) - 24 طلبات السحب هو مشروع لتعزيز التعاون مفتوح المصدر خلال شهر ديسمبر.
 - [Ovio](https://ovio.org) -منصة مع مجموعة منتقاة من المشاريع الصديقة للمساهمين. لديها [powerful issue search tool](https://ovio.org/issues)ودعنا نحفظ المشروعات والمشكلات لوقت لاحق.

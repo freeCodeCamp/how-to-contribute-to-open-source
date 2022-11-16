@@ -49,10 +49,10 @@ Dacă aveți întrebări sau comentarii, vă rugăm să creați o problemă (iss
 - [Minunat pentru începători(Awesome-for-beginners)](https://github.com/MunGell/awesome-for-beginners) - un depozit (repo) GitHub care îmbogățește proiectele cu erori/bug-uri bune pentru noii colaboratori și aplică etichete pentru a le descrie.
 - [Ghiduri cu surse deschise (Open Source)](https://opensource.guide/) - Colecție de resurse pentru persoane fizice, comunități și companii care doresc să învețe cum să ruleze și să contribuie la un proiect open source.
 - [45 Github probleme Pro și Contra](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Pro și Contra pe GitHub.
-- [Ghiduri GitHub](https://docs.github.com/) - ghiduri de bază privind utilizarea eficientă a GitHub-ului.
+- [Ghiduri GitHub](https://docs.github.com/en) - ghiduri de bază privind utilizarea eficientă a GitHub-ului.
 - [Primele Contribuții](https://firstcontributions.github.io/) - Faceți prima dvs. contribuție la open source în 5 minute. Un instrument și un tutorial pentru a ajuta începătorii să înceapă contribuțiile.
 - [Contribuiți la Open Source](https://github.com/danthareja/contribute-to-open-source) - Aflați fluxul de lucru GitHub contribuind la codul unui proiect de simulare.
-- [Ghidul open source al Fundației Linux pentru întreprinderi](https://www.linuxfoundation.org/resources/open-source-guides/) - Ghidul Fundației Linux pentru proiecte cu sursă deschisă (open source).
+- [Ghidul open source al Fundației Linux pentru întreprinderi](https://www.linuxfoundation.org/resources/open-source-guides) - Ghidul Fundației Linux pentru proiecte cu sursă deschisă (open source).
 - [CSS Tricks Un Ghid al Etichetei Open Source](https://css-tricks.com/open-source-etiquette-guidebook/) - Ghid de Etichetei Open Source, scris de Kent C. Dodds și Sarah Drasner.
 - [Ovio](https://ovio.org/) - O platforma cu o selectie organizata de proiecte la care puteti contribuii. Are un [instrument de cautare](https://ovio.org/issues) a problemelor si va permite sa salvati proiecte si probleme pentru mai tarziu.
 
@@ -81,8 +81,8 @@ Căutați linkuri care indică direct problemele potrivite pentru a contribui la
 - ["Aduceți amabilitatea înapoi la Open Source"](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) de către [@shanselman](https://github.com/shanselman)
 - ["Intrarea în Open Source pentru prima dată"](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) de către [@mcdonnelldean](https://github.com/mcdonnelldean)
 - ["Cum să contribuiți la Open Source"](https://opensource.guide/how-to-contribute/) de către [@GitHub](https://github.com/github)
-- ["Cum să găsești un bug în codul tău"](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) de către [@dougbradbury](https://twitter.com/dougbradbury)
-- ["Stăpânirea Markdown-ului"](https://docs.github.com/features/mastering-markdown/) de către [@GitHubGuides](https://docs.github.com/)
+- ["Cum să găsești un bug în codul tău"](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) de către [@dougbradbury](https://twitter.com/dougbradbury)
+- ["Stăpânirea Markdown-ului"](https://docs.github.com/features/mastering-markdown/) de către [@GitHubGuides](https://docs.github.com/en)
 - ["Prima misiune: pagina contribuitorilor"](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) de către [@forCrowd](https://github.com/forCrowd)
 - ["Cum să faceți prima dvs. contribuție open source în doar 5 minute"](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) de către [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
 - ["Hacktoberfest 2018: Cum poți câștiga un tricou gratis - chiar dacă ești nou la programare"](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) de către [@quincylarson](https://medium.freecodecamp.org/@quincylarson)

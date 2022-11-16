@@ -61,11 +61,11 @@
 
 - [Github issue - 45 добри и лоши практики](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Какво да правим и какво не в GitHub.
 
-- [GitHub ръководства](https://docs.github.com/) - Кратки ръководства как да използваме ефективно GitHub.
+- [GitHub ръководства](https://docs.github.com/en) - Кратки ръководства как да използваме ефективно GitHub.
 
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Научете начина на работа в GitHub чрез добавяне на код към проект-симулация.
 
-- [Ръководства от Линукс фондацията за Open Source в бизнеса](https://www.linuxfoundation.org/resources/open-source-guides/) - Ръководства от Линукс фондацията за Open Source проекти в бизнеса
+- [Ръководства от Линукс фондацията за Open Source в бизнеса](https://www.linuxfoundation.org/resources/open-source-guides) - Ръководства от Линукс фондацията за Open Source проекти в бизнеса
 
 - [CSS трикове - Пътеводител в Open Source етикета](https://css-tricks.com/open-source-etiquette-guidebook/) - Ръководство за Open Source етикета, написано от Kent C. Dodds и Sarah Drasner.
 
@@ -112,8 +112,8 @@
 - [Нека върнем добрината (и толерантността) в Open Source](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) by [@shanselman](https://github.com/shanselman)
 - [Да навлезем в Open Source](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [Как да допринесем към Open Source](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
-- [Как да открием бъг в собствения си код](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
-- [Да усъвършенстваме Markdown](https://docs.github.com/features/mastering-markdown/) by [@GitHubGuides](https://docs.github.com/)
+- [Как да открием бъг в собствения си код](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) by [@dougbradbury](https://twitter.com/dougbradbury)
+- [Да усъвършенстваме Markdown](https://docs.github.com/features/mastering-markdown/) by [@GitHubGuides](https://docs.github.com/en)
 - [Мисия първа: Страница на доброволците](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
 - [Как да направите първия си Open Source принос само за 5 минути](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) by [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
 - [Хактобър фест 2019: Как да получите безплатна тениска -- дори и да сте нови в програмирането](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) by [@quincylarson](https://medium.freecodecamp.org/@quincylarson)

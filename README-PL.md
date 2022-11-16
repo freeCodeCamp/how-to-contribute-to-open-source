@@ -63,9 +63,9 @@ Jeżeli masz jakiekolwiek pytania bądź komentarz stwórz odpowiedni Issue *(an
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - repozytorium na GitHubie, które gromadzi projekty z dobrymi bugami dla początkujących kontrybutorów i stosuje etykiety do ich opisywania.
 - [Open Source Guides](https://opensource.guide/) - Zbiór poradników dla wszystkich, którzy chcą się nauczyć, jak kontrybuować do projektów otwartego oprogramowania.
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Co robić i czego nie robić na GitHubie.
-- [GitHub Guides](https://docs.github.com/) - Podstawowy poradnik jak używać GitHuba efektywnie.
+- [GitHub Guides](https://docs.github.com/en) - Podstawowy poradnik jak używać GitHuba efektywnie.
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) -  Naucz się jak działa GitHub poprzez kontrybuowanie do projektów symulowanych.
-- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Poradnik od Fundacji Linuxa dla projektów otwartego oprogramowania.
+- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides) - Poradnik od Fundacji Linuxa dla projektów otwartego oprogramowania.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - Przewodnik po otwartym oprogramowaniu napisany przez Kent C. Dodds i Sarah Drasner.
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Uporządkowana lista poradników i możliwości dla studentów do nauki nowego języka programowania.
 - [Pull Request Roulette](http://www.pullrequestroulette.com/) - Ta strona zawiera listę pull requestów zgłoszonych do przejrzenia należących do projektów otwartego oprogramowania znajdujących się na GitHubie.
@@ -105,7 +105,7 @@ Linki wyszukiwania które wskazują na kwestie skierowane dla początkujących. 
 - [Bring Kindness Back to Open Source](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) by [@shanselman](https://github.com/shanselman)
 - [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
-- [How to Find a Bug in Your Code](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
+- [How to Find a Bug in Your Code](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) by [@dougbradbury](https://twitter.com/dougbradbury)
 - [Mastering Markdown](https://docs.github.com/features/mastering-markdown/) by [@GitHub](https://github.com/github)
 - [First mission: Contributors page](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
 - [How to make your first Open Source contribution in just 5 minutes](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) by [@roshanjossey](https://github.com/Roshanjossey/)
@@ -150,7 +150,6 @@ Linki wyszukiwania które wskazują na kwestie skierowane dla początkujących. 
 
 ## Inicjatywy kontrybucji w otwartym oprogramowaniu
 - [Up For Grabs](https://up-for-grabs.net/) - Zawiera projekty z zagadnieniami dla początkujących.
-- [First Timers Only](https://www.firsttimersonly.com/) - Lista błędów oznaczonych dla tych co dopiero zaczynają *(ang. first timers only)*
 - [First Contributions](https://firstcontributions.github.io/) - Stwórz swoją pierwszą kontrybucje do projektu Open Source w 5 minut. Narzedzie i poradnik stworzony, aby pomóc początkującym zacząć przygodę z kontrybuowaniem. [Tutaj ANG](https://github.com/firstcontributions/first-contributions) [Tutaj PL](https://github.com/firstcontributions/first-contributions/blob/master/translations/README.pl.md) jest to kod źródłowy GitHuba, który pozwala wykonać swoją pierwszą kontrybucję do repozytorium.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Program zachęcający do kontrybuowania w projektach Open Source. Zarób prezenty takie jak koszulki czy naklejki za co najmniej 4 Pull Requesty w Październiku.
 - [24 Pull Requests](https://24pullrequests.com) - jest to projekt stworzony do promowania współpracy Open Source w Grudniu. 

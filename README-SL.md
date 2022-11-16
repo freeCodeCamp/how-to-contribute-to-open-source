@@ -56,9 +56,9 @@ Tukaj je seznam virov za ljudi, ki so novi pri sodelovanju pri odprtokodnih proj
 - [Odlično za začetnike](https://github.com/MunGell/awesome-for-beginners) - GitHub, ki zbira projekte z dobrimi `bugs` za nove sodelavce in uporablja `labels`, da jih opiše.
 - [Odprtokodni vodiči](https://opensource.guide/) - Zbirka virov za posameznike, skupnosti in podjetja, ki se želijo naučiti voditi in prispevati k odprtokodnemu projektu.
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Kaj JA in kaj NE na GitHubu.
-- [GitHub vodiči](https://docs.github.com/) - Osnovni vodiči kako uporabljati GitHub učinkovito.
+- [GitHub vodiči](https://docs.github.com/en) - Osnovni vodiči kako uporabljati GitHub učinkovito.
 - [Prispevanje odprtokodnim projektom](https://github.com/danthareja/contribute-to-open-source) - Naučite se delovnega poteka GitHub tako, da prispevate kodo k simulacijskemu projektu.
-- [Odprtokodni vodniki za podjetja Linux Foundation](https://www.linuxfoundation.org/resources/open-source-guides/) - Vodniki Fundacije Linux za odprtokodne projekte.
+- [Odprtokodni vodniki za podjetja Linux Foundation](https://www.linuxfoundation.org/resources/open-source-guides) - Vodniki Fundacije Linux za odprtokodne projekte.
 - [CSS triki, odprtokodni vodnik za bonton](https://css-tricks.com/open-source-etiquette-guidebook/) - Odprtokodni vodnik po bontonu, ki sta ga napisala Kent C. Dodds in Sarah Drasner.
 - [Viri od A do Ž za študente](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Pripravljen seznam virov in priložnosti za študente, da se naučijo novega jezika.
 - [Pull Request Roulette](http://www.pullrequestroulette.com/) - To spletno mesto ima seznam `pull request`, predloženih v pregled, ki pripadajo odprtokodnim projektom, ki so na Githubu.
@@ -89,7 +89,7 @@ Povezave, ki neposredno usmerjajo na primerne `issues`, s katerim lahko prispeva
 - [is:issue is:open label:up-for-grabs](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs&type=issues)
 - [is:issue is:open label:easy-fix](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy-fix&type=issues)
 - [is:issue is:open label:"beginner friendly"](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22beginner+friendly%22&type=issues)
-- [is:issue is:open label:your-first-pr](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Ayour-first-pr&type=issues)
+- [is:issue is:open label:your-first-pr](https://github.com/search?q=your-first-pr&state=open&type=Issues)
 
 ## Mozilla ekosistem prispevanja
 
@@ -109,7 +109,7 @@ Povezave, ki neposredno usmerjajo na primerne `issues`, s katerim lahko prispeva
 - [Vrnite prijaznost odprtokodnim projektom](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) by [@shanselman](https://github.com/shanselman)
 - [Prvič z odprtokodnimi programi](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [Kako prispevati k odprtokodnim projektom](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
-- [Kako najti napake v svoji kodi](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
+- [Kako najti napake v svoji kodi](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) by [@dougbradbury](https://twitter.com/dougbradbury)
 - [Obvladovanje Markdowna](https://docs.github.com/features/mastering-markdown/) by [@GitHub](https://github.com/github)
 - [Prva misija: stran za sodelavce](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
 - [Kako narediti svoj prvi odprtokodni prispevek v samo 5 minutah](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) by [@roshanjossey](https://github.com/Roshanjossey/)
@@ -159,7 +159,6 @@ Povezave, ki neposredno usmerjajo na primerne `issues`, s katerim lahko prispeva
 ## Pobude za odprtokodne prispevke
 
 - [Up For Grabs](https://up-for-grabs.net/) - Vsebuje projekte z začetnikom prijaznimi težavami
-- [First Timers Only](https://www.firsttimersonly.com/) - Seznam hroščev, ki so označeni kot "samo za začetnike".
 - [First Contributions](https://firstcontributions.github.io/) - Naredite svoj prvi odprtokodni prispevek v 5 minutah. Orodje in vadnica za pomoč začetnikom pri začetku dela s prispevki. [Tukaj](https://github.com/firstcontributions/first-contributions) je izvorna koda GitHub za spletno mesto in priložnost, da prispevate k samemu repozitoriju.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Program za spodbujanje odprtokodnih prispevkov. Prislužite si darila, kot so majice in nalepke, tako da naredite vsaj 4 `pull request` v mesecu oktobru.
 - [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests je projekt za spodbujanje odprtokodnega sodelovanja v mesecu decembru.

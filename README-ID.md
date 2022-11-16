@@ -50,9 +50,9 @@ Jika Anda memiliki pertanyaan atau komentar, silahkan membuat issue baru.
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - Sebuah repositori GitHub yang berisi proyek dengan bug ringan untuk para kontributor baru, dan menggunakan label sebagai penjelasannya.
 - [Open Source Guides](https://opensource.guide/) - Koleksi sumber daya untuk individu, komunitas, dan perusahaan yang berniat untuk mempelajari bagaimana menjalankan dan berkontribusi pada proyek Open Source.
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Hal yang diperbolehkan dan tidak diperbolehkan di GitHub.
-- [GitHub Guides](https://docs.github.com/) - Pengantar dasar dalam pengunaan GitHub secara efektif.
+- [GitHub Guides](https://docs.github.com/en) - Pengantar dasar dalam pengunaan GitHub secara efektif.
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Pelajari alur kerja GitHub dengan berkontribusi ke proyek simulasi.
-- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Pengantar yang dibuat oleh Linux Foundation mengenai proyek Open Source.
+- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides) - Pengantar yang dibuat oleh Linux Foundation mengenai proyek Open Source.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - Sebuah buku pengantar etiket dalam berkontribusi ke Open Source, ditulis oleh Kent C. Dodds dan Sarah Drasner.
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Daftar sumber daya dan peluang untuk para mahasiswa untuk mempelajari bahasa pemrograman baru.
 - [Pull Request Roulette](http://www.pullrequestroulette.com/) - Situs web ini memiliki daftar proyek Open Source pada GitHub, berisi pull request yang membutuhkan review.
@@ -98,7 +98,7 @@ Link pencarian yang mengarah langsung ke _issue_ yang sesuai untuk berkontribusi
 - [Bring Kindness Back to Open Source](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) ditulis oleh [@shanselman](https://github.com/shanselman)
 - [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) ditulis oleh [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) ditulis oleh [@GitHub](https://github.com/github)
-- [How to Find a Bug in Your Code](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) ditulis oleh [@dougbradbury](https://twitter.com/dougbradbury)
+- [How to Find a Bug in Your Code](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) ditulis oleh [@dougbradbury](https://twitter.com/dougbradbury)
 - [Mastering Markdown](https://docs.github.com/features/mastering-markdown/) ditulis oleh [@GitHub](https://github.com/github)
 - [First mission: Contributors page](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) ditulis oleh [@forCrowd](https://github.com/forCrowd)
 - [How to make your first Open Source contribution in just 5 minutes](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) ditulis oleh [@roshanjossey](https://github.com/Roshanjossey/)
@@ -146,7 +146,6 @@ Link pencarian yang mengarah langsung ke _issue_ yang sesuai untuk berkontribusi
 ## Kontribusi Inisiatif Open Source
 
 - [Up For Grabs](https://up-for-grabs.net/) - Berisi proyek dengan issue yang ramah untuk pemula.
-- [First Timers Only](https://www.firsttimersonly.com/) - Daftar bug yang diberi label "first-timers-only".
 - [First Contributions](https://firstcontributions.github.io/) - Buat kontribusi Open Source pertama anda dalam 5 menit. Sebuah alat dan panduan yang membantu para pemula untuk mulai berkontribusi. [Berikut](https://github.com/firstcontributions/first-contributions) adalah source code dari GitHub, anda juga berkesempatan untuk berkontribusi ke repositori itu sendiri.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Sebuah program yang mendorong kontribusi Open Source. Dapatkan hadiah seperti kaos dan stiker dengan membuat setidaknya 4 pull request di bulan Oktober.
 - [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests adalah sebuah proyek untuk mempromosikan kolaborasi Open Source menjelang bulan Desember.

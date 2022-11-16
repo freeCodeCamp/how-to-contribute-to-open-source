@@ -47,7 +47,7 @@
 - [初心者向けの素晴らしいもの](https://github.com/MunGell/awesome-for-beginners) - オープンソース貢献初心者のために良いバクを蓄えていおり、説明のラベルが付いているレポジトリー
 - [オープンソースガイド](https://opensource.guide/) - オープンソースに貢献の仕方を覚えたい個人、コミュニティ、企業向けのレポジトリーまとめ
 - [GithubのIssuesの45個のすること・してはいけないこと](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - GitHubですること・してはいけないこと
-- [GitHubガイド](https://docs.github.com/) - GitHubを効率的に使用するための基礎ガイド
+- [GitHubガイド](https://docs.github.com/en) - GitHubを効率的に使用するための基礎ガイド
 - [オープンソース貢献](https://github.com/danthareja/contribute-to-open-source) - シュミレーションプロジェクトに貢献して、GitHubの作業の流れを学ぼう
 - [Linux Foundationの企業向けオープンソースガイド](https://www.linuxfoundation.org/resources/open-source-guides/) - オープンソースプロジェクトのLinux Foundationガイド
 - [オープンソースでのエチケットガイドブック、CSS裏技](https://css-tricks.com/open-source-etiquette-guidebook/) - Kent C. Dodds と Sarah Drasnerによるオープンソースでのエチケットガイドブック
@@ -82,7 +82,7 @@ Github上での貢献に適切な問題を表示しているリンクを直接�
 - [初めてのオープンソース参加](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [オープンソースの貢献方法](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
 - [自分のコードのバグの見つけ方](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
-- [Markdownをマスターする](https://docs.github.com/features/mastering-markdown/) by [@GitHubGuides](https://docs.github.com/)
+- [Markdownをマスターする](https://docs.github.com/features/mastering-markdown/) by [@GitHubGuides](https://docs.github.com/en)
 - [最初のミッション: 貢献者のページ](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
 - [たった5分で最初のオープンソース貢献を行う方法](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) by [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
 - [Hacktoberfest 2018: コーディング初心者の人が無料シャツの手に入れる仕方](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) by [@quincylarson](https://medium.freecodecamp.org/@quincylarson)

@@ -53,9 +53,9 @@
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - एक GitHub रेपो जो नए योगदानकर्ताओं के लिए अच्छे बग्स के साथ प्रोजेक्ट एकत्र करता है, और उनका वर्णन करने के लिए लेबल लागू करता है।
 - [Open Source Guides](https://opensource.guide/) - उन व्यक्तियों, समुदायों और कंपनियों के लिए संसाधनों का संग्रह, जो ओपन सोर्स प्रोजेक्ट को चलाना और उसमें योगदान देना सीखना चाहते हैं।
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) -GitHub के Do's और Don'ts।
-- [GitHub Guides](https://docs.github.com/) - GitHub का प्रभावी रूप से उपयोग करने के बारे में बुनियादी गाइड।
+- [GitHub Guides](https://docs.github.com/en) - GitHub का प्रभावी रूप से उपयोग करने के बारे में बुनियादी गाइड।
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - एक सिमुलेशन परियोजना के लिए कोड का योगदान करके GitHub वर्कफ़्लो जानें।
-- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - लिनक्स फाउंडेशन के स्रोत स्रोत खोलने के लिए गाइड।
+- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides) - लिनक्स फाउंडेशन के स्रोत स्रोत खोलने के लिए गाइड।
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - केंट सी। डोड्स एंड सारा ड्रैसनर द्वारा लिखित एक ओपन सोर्स शिष्टाचार गाइडबुक।
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - एक नई कोडिंग भाषा सीखने के लिए कॉलेज के छात्रों के लिए संसाधनों और अवसरों की घुमावदार सूची।
 - [Pull Request Roulette](http://www.pullrequestroulette.com/) - इस साइट में GitHub पर होस्ट किए गए ओपन सोर्स प्रोजेक्ट से संबंधित समीक्षा के लिए प्रस्तुत पुल अनुरोधों की एक सूची है।
@@ -91,7 +91,7 @@
 - [ओपन सोर्स पर दया लाएं](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) by [@shanselman](https://github.com/shanselman)
 - [पहली बार ओपन सोर्स में हो रही है](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [ओपन सोर्स के लिए योगदान कैसे करें](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
-- [कैसे अपने कोड में एक बग को खोजने के लिए](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
+- [कैसे अपने कोड में एक बग को खोजने के लिए](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) by [@dougbradbury](https://twitter.com/dougbradbury)
 - [मास्टरींग मार्कडाउन](https://docs.github.com/features/mastering-markdown/) by [@GitHub](https://github.com/github)
 - [पहला मिशन: योगदानकर्ता पृष्ठ](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
 - [सिर्फ 5 मिनट में अपना पहला ओपन सोर्स योगदान कैसे करें](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) by [@roshanjossey](https://github.com/Roshanjossey/)
@@ -132,7 +132,6 @@
 
 ## ओपन सोर्स योगदान पहल
 - [Up For Grabs](https://up-for-grabs.net/) - शुरुआत के अनुकूल मुद्दों के साथ परियोजनाएं शामिल हैं
-- [First Timers Only](https://www.firsttimersonly.com/) - bugs की एक सूची जिसे "first-timers-only" लेबल किया जाता है।
 - [First Contributions](https://firstcontributions.github.io/) - 5 मिनट में अपना पहला ओपन सोर्स योगदान दें। एक उपकरण और ट्यूटोरियल शुरुआती योगदान करने में मदद करने के लिए। [यहाँ](https://github.com/firstcontributions/first-contributions) साइट के लिए GitHub स्रोत कोड है और स्वयं भंडार में योगदान करने का अवसर है।
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - ओपन सोर्स योगदान को प्रोत्साहित करने के लिए एक कार्यक्रम। अक्टूबर के महीने में कम से कम 4 पुल अनुरोध करके टी-शर्ट और स्टिकर जैसे उपहार अर्जित करें।
 - [24 Pull Requests](https://24pullrequests.com) -24 पुल अनुरोध दिसंबर महीने के दौरान ओपन सोर्स सहयोग को बढ़ावा देने के लिए एक परियोजना है।

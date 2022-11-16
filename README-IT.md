@@ -50,10 +50,10 @@ Se hai domande o commenti, per favore crea un issue.
 - [Awesome-for-beginners(Meraviglioso-per-principianti)](https://github.com/MunGell/awesome-for-beginners) - una repository GitHub che raccoglie progetti con bug buoni per nuovi contributors e a cui applica etichette per descriverli.
 - [Guide per l'Open Source Guides](https://opensource.guide/) - Raccolta di risorse per singoli, comunità e aziende che desiderano imparare a come eseguire e contribuire ad un progetto open source.
 - [45 Github problemi i Pro e i Contro](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Cosa fare e non fare su GitHub.
-- [Guide GitHub](https://docs.github.com/) - guide di base su come utilizzare GitHub in modo efficace.
+- [Guide GitHub](https://docs.github.com/en) - guide di base su come utilizzare GitHub in modo efficace.
 - [Il primo contributo](https://firstcontributions.github.io/) - Crea il tuo primo contributo open source in 5 minuti. Uno strumento ed un tutorial per aiutare i principianti ad iniziare a contribuire.
 - [Contribuisci all'open source](https://github.com/danthareja/contribute-to-open-source) - Impara il flusso di lavoro GitHub contribuendo con il codice ad un progetto simulato.
-- [Guide all'open source di Linux Foundation per le Aziende](https://www.linuxfoundation.org/resources/open-source-guides/) - Le guide della Fondazione Linux per progetti open source.
+- [Guide all'open source di Linux Foundation per le Aziende](https://www.linuxfoundation.org/resources/open-source-guides) - Le guide della Fondazione Linux per progetti open source.
 - [Trucchi CSS: una guida all'etichetta per l'open source](https://css-tricks.com/open-source-etiquette-guidebook/) - Una guida all'etichetta nell'open source, scritta da Kent C. Dodds e Sarah Drasner.
 
 ## Ricerche GitHub dirette
@@ -82,8 +82,8 @@ Se hai domande o commenti, per favore crea un issue.
 - ["Porta la gentilezza nell'open source"](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) di [@shanselman](https://github.com/shanselman)
 - ["Entrare nell'Open Source per la prima volta"](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) di [@mcdonnelldean](https://github.com/mcdonnelldean)
 - ["Come contribuire all'open source"](https://opensource.guide/how-to-contribute/) di [@GitHub](https://github.com/github)
-- ["Come trovare un bug nel codice"](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
-- ["Padroneggiare il Markdown"](https://docs.github.com/features/mastering-markdown/) di [@GitHubGuides](https://docs.github.com/)
+- ["Come trovare un bug nel codice"](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) by [@dougbradbury](https://twitter.com/dougbradbury)
+- ["Padroneggiare il Markdown"](https://docs.github.com/features/mastering-markdown/) di [@GitHubGuides](https://docs.github.com/en)
 - ["La prima missione: La pagina dei contributors"](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) di [@forCrowd](https://github.com/forCrowd)
 - ["Come rendere il tuo primo contributo open source in soli 5 minuti"](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) di [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
 - ["Hacktoberfest 2018: Come puoi ottenere la tua maglietta gratis — anche se sei nuovo nella programazione"](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) di [@quincylarson](https://medium.freecodecamp.org/@quincylarson)

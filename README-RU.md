@@ -48,9 +48,9 @@
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - Репозиторий GitHub, который собирает проекты с хорошими багами для новичков и использует ярлыки для их описания.
 - [Подборка ресурсов open source](https://opensource.guide/) - Подборка ресурсов для людей, сообществ и компаний, которые хотят научиться вносить вклад в проекты с открытым исходным кодом.
 - [Как нужно и не нужно делать - 45 примеров](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Как нужно и не нужно делать на GitHub.
-- [Базовое руководство GitHub](https://docs.github.com/) - Базовое руководство о том, как эффективно использовать GitHub.
+- [Базовое руководство GitHub](https://docs.github.com/en) - Базовое руководство о том, как эффективно использовать GitHub.
 - [Участвуйте в open source проектах](https://github.com/danthareja/contribute-to-open-source) - Осваивайте рабочий процесс GitHub, добавляя код в проект-симулятор.
-- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Руководство по открытому исходному коду от Linux Foundation для предприятий.
+- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides) - Руководство по открытому исходному коду от Linux Foundation для предприятий.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - Руководство по этикету в работе с открытым исходным кодом от Kent C. Dodds и Sarah Drasner.
 - [Ресурсы для студентов от А до Я](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Список ресурсов и возможностей для студентов по изучению нового языка программирования.
 - [Вклад в ваш первый проект с открытым исходным кодом: практический подход](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - Пошаговое руководство, как сделать свой первый вклад в Open Source от [Abati Adewale](https://www.acekyd.com).
@@ -80,7 +80,7 @@
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 - [is:issue is:open label:easy-fix](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy-fix&type=issues)
 - [is:issue is:open label:"beginner friendly"](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22beginner+friendly%22&type=issues)
-- [is:issue is:open label:your-first-pr](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Ayour-first-pr&type=issues)
+- [is:issue is:open label:your-first-pr](https://github.com/search?q=your-first-pr&state=open&type=Issues)
 
 ## Экосистема контрибьюторов Mozilla
 - [Хорошие первые ошибки](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22[good%20first%20bug]%22) - ошибки, которые разработчики определили как хорошее введение в проект.
@@ -98,8 +98,8 @@
 - ["Принесите доброту в открытый исходный код"](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) by [@shanselman](https://github.com/shanselman)
 - ["Вступление в Open Source в первый раз"](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
 - ["Как внести вклад в открытый исходный код"](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
-- ["Как найти ошибку в коде"](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
-- ["Освоение Markdown"](https://docs.github.com/features/mastering-markdown/) by [@GitHubGuides](https://docs.github.com/)
+- ["Как найти ошибку в коде"](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) by [@dougbradbury](https://twitter.com/dougbradbury)
+- ["Освоение Markdown"](https://docs.github.com/features/mastering-markdown/) by [@GitHubGuides](https://docs.github.com/en)
 - ["Первая миссия: страница разработчиков"](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
 - ["Как сделать первый вклад с открытым исходным кодом всего за 5 минут"](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) by [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
 - ["Hacktoberfest 2018: Как можно получить бесплатную рубашку - даже если вы новичок"](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) by [@quincylarson](https://medium.freecodecamp.org/@quincylarson)

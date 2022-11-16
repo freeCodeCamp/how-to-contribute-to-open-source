@@ -50,9 +50,9 @@ Se você possui alguma dúvida ou comentário, por favor crie uma issue.
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - Um repositório que relaciona projetos com ótimos bugs para novos contribuidores.
 - [Guias de Open Source](https://opensource.guide/) - Coleção de recursos para desenvolvedores, comunidades e empresas que desejam aprender como gerenciar e contribuir com projetos Open Source.
 - [45 Issues sobre "O que Fazer e Não Fazer no GitHub"](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - O que Fazer e Não Fazer no GitHub.
-- [Guias para GitHub](https://docs.github.com/) - Guias básicos sobre como usar o GitHub de maneira eficiente.
+- [Guias para GitHub](https://docs.github.com/en) - Guias básicos sobre como usar o GitHub de maneira eficiente.
 - [Contribua com Open Source](https://github.com/danthareja/contribute-to-open-source) - Use um projeto simulado para aprender como funciona o fluxo de contribuição de código no GitHub.
-- [Guias de Open Source para Empresas feitos pela Fundação Linux](https://www.linuxfoundation.org/resources/open-source-guides/) - Guias de Open Source da Fundação Linux.
+- [Guias de Open Source para Empresas feitos pela Fundação Linux](https://www.linuxfoundation.org/resources/open-source-guides) - Guias de Open Source da Fundação Linux.
 - [Manual de Etiqueta para Open Source](https://css-tricks.com/open-source-etiquette-guidebook/) - Um Manual de Etiqueta para contribuições Open Source, escrito por Kent C. Dodds e Sarah Drasner.
 - [Recursos de A a Z para Estudantes](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Lista revisada de recursos e oportunidades para o aprendizado de novas linguagens de programação.
 - [Contribuindo com o seu Primeiro Projeto Open Source: Uma Abordagem Prática](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - Um passo-a-passo de como contribuir com o seu primeiro projeto Open Source por [Abati Adewale](https://www.acekyd.com).
@@ -88,8 +88,8 @@ Pesquise por links diretos para issues no GitHub.
 - [Tragam a cordialidade de volta ao Open Source](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) por [@shanselman](https://github.com/shanselman)
 - [Mergulhando no Open Source pela primeira vez](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) por [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [Como contribuir com Open Source](https://opensource.guide/how-to-contribute/) por [@GitHub](https://github.com/github)
-- [Como encontrar um bug no seu código](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) por [@dougbradbury](https://twitter.com/dougbradbury)
-- [Dominando Markdown](https://docs.github.com/features/mastering-markdown/) por [@GitHubGuides](https://docs.github.com/)
+- [Como encontrar um bug no seu código](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) por [@dougbradbury](https://twitter.com/dougbradbury)
+- [Dominando Markdown](https://docs.github.com/features/mastering-markdown/) por [@GitHubGuides](https://docs.github.com/en)
 - [Primeira missão: Página de Contribuidores](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) por [@forCrowd](https://github.com/forCrowd)
 - [Como fazer a sua primeira contribuição com Open Source em apenas 5 minutos](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) por [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
 - [Hacktoberfest 2018: Como conseguir uma camisa grátis - mesmo com pouca experiência em programação](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) por [@quincylarson](https://medium.freecodecamp.org/@quincylarson)

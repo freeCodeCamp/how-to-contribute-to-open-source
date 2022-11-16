@@ -68,10 +68,10 @@ Eğer bir sorunuz veya yorumunuz varsa lütfen "issue" oluşturun.
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - Uygun bugları etiketler uygulayarak repoları toplamış olan faydalı bir repo 
 - [Open Source Guides](https://opensource.guide/) - Bireyler, topluluklar ve şirketler için Açık Kaynağa nasıl katkı sağlayacakları konusunda yardımcı kaynakların toplandığı koleksiyon
 - [Yapılması ve yapılmaması gereken 45 Github konusu](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Github'da yapılması ve yapılmaması gerekenler
-- [GitHub Kılavuzları](https://docs.github.com/) - Github'u nasıl daha etkili kullanılabileceğini ihtiva eden kılavuzlar
+- [GitHub Kılavuzları](https://docs.github.com/en) - Github'u nasıl daha etkili kullanılabileceğini ihtiva eden kılavuzlar
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - 
 Simülasyon prosine kod katkısı sağlayarak GitHub dinamiklerini öğren
-- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Açık kaynak projeler için Linux Vakfı kılavuzları
+- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides) - Açık kaynak projeler için Linux Vakfı kılavuzları
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - Kent C. Dodds ve Sarah Drasner tarafından yazılan Açık Kaynak görgü kuralları
 - [Öğrenciler için A'dan Z'ye Kaynaklar](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Öğrenciler için yeni bir kodlama dilini öğrenirlerken kullanabilecekleri kaynak listesi
 - [İlk Açık Kaynak projene katkı sağlarken: Pratik Bir Bakış Açısı](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - İlk Açık Kaynak projene katkı sağlarken adım adım bakış açısı   
@@ -104,8 +104,8 @@ Direkt olarak uygun issuelara referans veren katkı sağlanabilecek arama bağla
 - [Açık Kaynağa iyiliği Geri Getirmek](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) yazan [@shanselman](https://github.com/shanselman)
 - [İlk defa Açık Kaynağın içine girmek](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) yazan [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [Açık Kaynağa Nasıl Katkı Sağlanır](https://opensource.guide/how-to-contribute/) yazan [@GitHub](https://github.com/github)
-- [Kodunuzda Bug'ı Nasıl Bulabilirsiniz?](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) yazan [@dougbradbury](https://twitter.com/dougbradbury)
-- [Markdownda Uzmanlaşmak](https://docs.github.com/features/mastering-markdown/) by [@GitHubGuides](https://docs.github.com/)
+- [Kodunuzda Bug'ı Nasıl Bulabilirsiniz?](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) yazan [@dougbradbury](https://twitter.com/dougbradbury)
+- [Markdownda Uzmanlaşmak](https://docs.github.com/features/mastering-markdown/) by [@GitHubGuides](https://docs.github.com/en)
 - [İlk Görev: Katkı Sağlayıcı Sayfası](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) yazan [@forCrowd](https://github.com/forCrowd)
 - [5 Dakika İçerisinde Açık Kaynağa Nasıl Katkı Sağlarsın](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) yazan [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
 - [Hacktoberfest 2018: Nasıl ücretsiz t-shirt alırsın — Kodlama Yeni Olsan Dahi](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) yazan [@quincylarson](https://medium.freecodecamp.org/@quincylarson)

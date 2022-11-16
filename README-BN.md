@@ -57,9 +57,9 @@
 - [নতুনদের জন্য দুর্দান্ত](https://github.com/MunGell/awesome-for-beginners) - একটি গিটহাব রিপোসিটোরি যা নতুন অবদানকারীদের জন্য ভাল বাগ সহ প্রকল্পগুলিকে সংগ্রহ করে এবং সেগুলি বর্ণনা করার জন্য লেবেল প্রয়োগ করে।
 - [ওপেন সোর্স নির্দেশিকা](https://opensource.guide/) - কোনও ওপেন সোর্স প্রকল্প কীভাবে চালনা এবং প্রকল্পগুলোতে অবদান রাখতে হয় তা শিখতে চায় এমন ব্যক্তি, সম্প্রদায় এবং সংস্থাগুলির জন্য সংস্থান সংগ্রহ।
 - [৪৫ গিটহাব ইস্যু : কি করবেন এবং কি করবেন না](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - গিটহাবে কি করবেন এবং কি করবেন না।
-- [গিটহাব নির্দেশিকা](https://docs.github.com/) - কীভাবে গিটহাবকে কার্যকরভাবে ব্যবহার করতে হবে তার প্রাথমিক নির্দেশিকা। 
+- [গিটহাব নির্দেশিকা](https://docs.github.com/en) - কীভাবে গিটহাবকে কার্যকরভাবে ব্যবহার করতে হবে তার প্রাথমিক নির্দেশিকা। 
 - [ওপেন সোর্সে অবদান](https://github.com/danthareja/contribute-to-open-source) - সিমুলেশন প্রকল্পে কোড কন্ট্রিবিউট করার মাধ্যমে গিটহাব ওয়ার্কফ্লো শিখুন।
-- [লিনাক্স ফাউন্ডেশন কর্তৃক এন্টারপ্রাইজের জন্য ওপেন সোর্স নির্দেশিকা ](https://www.linuxfoundation.org/resources/open-source-guides/) - ওপেন সোর্স প্রকল্পের জন্য লিনাক্স ফাউন্ডেশনের নির্দেশিকা।
+- [লিনাক্স ফাউন্ডেশন কর্তৃক এন্টারপ্রাইজের জন্য ওপেন সোর্স নির্দেশিকা ](https://www.linuxfoundation.org/resources/open-source-guides) - ওপেন সোর্স প্রকল্পের জন্য লিনাক্স ফাউন্ডেশনের নির্দেশিকা।
 - [CSS ট্রিকস: একটি ওপেন সোর্স শিষ্টাচার শেখার গাইড বই](https://css-tricks.com/open-source-etiquette-guidebook/) - ক্যান্ট সি ডড্ডস এবং সারাহ ড্র্যাসনারের লিখিত একটি ওপেন সোর্স শিষ্টাচার গাইডবুক।
 - [শিক্ষার্থীদের জন্য A টু Z রিসোর্সসমূহ](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - কলেজ ছাত্রদের জন্য একটি নতুন কোডিং ভাষা শেখার জন্য সংস্থান এবং সুযোগের বিশেষভাবে সংকলিত তালিকা।
 - [Pull Request Roulette](http://www.pullrequestroulette.com/) - এই সাইটে গিটহাবে হোস্ট করা ওপেন সোর্স প্রকল্পগুলির অন্তর্গত পর্যালোচনার জন্য জমা দেওয়া পুল রিকুয়েস্টগুলির একটি তালিকা রয়েছে।
@@ -107,7 +107,7 @@
 - [ আপনার উদারতাটিকে ওপেন সোর্সে ফিরিয়ে আনুন](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) by [@shanselman](https://github.com/shanselman)
 - [প্রথমবারের জন্য ওপেন সোর্সে প্রবেশ করা](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [ওপেন সোর্সে কীভাবে অবদান রাখবেন](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
-- [আপনার কোডে কীভাবে কোনও বাগ খুঁজে পাবেন](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
+- [আপনার কোডে কীভাবে কোনও বাগ খুঁজে পাবেন](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) by [@dougbradbury](https://twitter.com/dougbradbury)
 - [মার্কডাউন প্রভুত্ব করুন](https://docs.github.com/features/mastering-markdown/) by [@GitHub](https://github.com/github)
 - [প্রথম মিশন: কন্ট্রিবিউটরদের পৃষ্ঠা](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
 - [মাত্র ৫ মিনিটে কীভাবে আপনার প্রথম ওপেন সোর্স অবদান রাখবেন](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) by [@roshanjossey](https://github.com/Roshanjossey/)
@@ -158,7 +158,6 @@
 ## ওপেন সোর্স অবদানের উদ্যোগ
 
 - [Up For Grabs](https://up-for-grabs.net/) - প্রারম্ভিক-বন্ধুত্বপূর্ণ সমস্যাগুলির সাথে প্রকল্পগুলি ধারণ করে।
-- [First Timers Only](https://www.firsttimersonly.com/) - "কেবলমাত্র প্রথমবারের জন্য" লেবেলযুক্ত বাগগুলির একটি তালিকা।
 - [First Contributions](https://firstcontributions.github.io/) - ৫মিনিটের মধ্যে আপনার প্রথম ওপেন সোর্স অবদান রাখুন। অবদানের মাধ্যমে নতুনদের শুরু করতে সহায়তা করার জন্য একটি সরঞ্জাম এবং টিউটোরিয়াল। [এখানে](https://github.com/firstcontributes/first-contributes) সাইটের গিটহাব উৎস কোড রয়েছেএবং এই রিপোসিটোরিতে নিজেই অবদান রাখার সুযোগ নিন।
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - ওপেন সোর্স অবদানকে উত্সাহিত করার জন্য একটি প্রোগ্রাম অক্টোবর মাসে কমপক্ষে ৪টি পুল রিকুয়েস্ট করে টি-শার্ট এবং স্টিকারের মতো উপহারগুলি উপার্জন করুন।
 - [24 Pull Requests](https://24pullrequests.com) - ২৪ পুল রিকুয়েস্ট ডিসেম্বরের মাসে ওপেন সোর্স সহযোগিতার প্রচারের জন্য একটি প্রকল্প।

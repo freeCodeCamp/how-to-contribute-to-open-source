@@ -53,9 +53,9 @@
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - नवीन योगदानकर्त्यांसाठी चांगल्या बगसह प्रोजेक्ट्स एकत्रित करणारे आणि त्यांचे वर्णन करण्यासाठी लेबले लागू करणारे एक गिटहब रेपो.
 - [Open Source Guides](https://opensource.guide/) - लोक, समुदाय आणि कंपन्यांना ओपन सोर्स प्रोजेक्ट कसे वापरायचे आणि योगदान कसे द्यायचे हे शिकू इच्छिणाऱ्यांसाठी स्त्रोतांचे संग्रह.
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - गिटहब वर करा आणि काय करू नका.
-- [GitHub Guides](https://docs.github.com/) - गिटहब प्रभावीपणे कसे वापरावे याबद्दल मूलभूत मार्गदर्शक.
+- [GitHub Guides](https://docs.github.com/en) - गिटहब प्रभावीपणे कसे वापरावे याबद्दल मूलभूत मार्गदर्शक.
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - सिम्युलेशन प्रोजेक्टमध्ये कोडचे योगदान देऊन गिटहब चा कार्यप्रवाह शिकून घ्या.
-- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - लिनक्स फाऊंडेशनचे ओपन सोर्स प्रकल्पांसाठी मार्गदर्शक.
+- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides) - लिनक्स फाऊंडेशनचे ओपन सोर्स प्रकल्पांसाठी मार्गदर्शक.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - केंट सी. डॉड्स आणि सारा ड्रॅसनर यांनी लिहिलेले ओपन सोर्स शिष्टाचार मार्गदर्शक पुस्तिका.
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - नवीन कोडींग भाषा शिकण्यासाठी महाविद्यालयीन विद्यार्थ्यांसाठी स्त्रोत आणि संधींची निवडलेली यादी.
 - [Pull Request Roulette](http://www.pullrequestroulette.com/) - या साइटवर गिटहब वर आयोजित केलेल्या ओपन सोर्स प्रकल्पांच्या पुनरावलोकनासाठी ज़मा केलेल्या पुल विनंत्यांची यादी आहे.
@@ -99,7 +99,7 @@
 - [Bring Kindness Back to Open Source](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) द्वारा [@shanselman](https://github.com/shanselman)
 - [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) द्वारा [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) द्वारा [@GitHub](https://github.com/github)
-- [How to Find a Bug in Your Code](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) द्वारा [@dougbradbury](https://twitter.com/dougbradbury)
+- [How to Find a Bug in Your Code](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) द्वारा [@dougbradbury](https://twitter.com/dougbradbury)
 - [Mastering Markdown](https://docs.github.com/features/mastering-markdown/) द्वारा [@GitHub](https://github.com/github)
 - [First mission: Contributors page](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
 - [How to make your first Open Source contribution in just 5 minutes](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) द्वारा [@roshanjossey](https://github.com/Roshanjossey/)
@@ -145,7 +145,6 @@
 
 ## ओपन सोर्स योगदान उपक्रम
 - [Up For Grabs](https://up-for-grabs.net/) - नवशिक्या-अनुकूल समस्यांसह प्रकल्प आहेत
-- [First Timers Only](https://www.firsttimersonly.com/) - "first-timers-only" असे लेबल असलेल्या बगची सूची.
 - [First Contributions](https://firstcontributions.github.io/) - ५ मिनिटांत आपले प्रथम मुक्त स्त्रोत योगदान द्या. योगदानासह प्रारंभ करण्यास नवशिक्यांसाठी मदत करणारे एक साधन आणि ट्यूटोरियल [येथे](https://github.com/firstcontributions/first-contributions) साइटसाठी गिटहब स्त्रोत कोड आहे आणि रेपॉजिटरीमध्येच योगदान देण्याची संधी आहे.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - ओपन सोर्स योगदानास प्रोत्साहित करण्यासाठी एक कार्यक्रम. ऑक्टोबर महिन्यात कमीतकमी ४ पुल विनंत्या करुन टी-शर्ट आणि स्टिकरसारख्या भेटवस्तू मिळवा.
 - [24 Pull Requests](https://24pullrequests.com) - २४ पुल विनंत्या डिसेंबर महिन्यात ओपन सोर्स सहयोगास प्रोत्साहन देण्यासाठी एक प्रकल्प आहे.

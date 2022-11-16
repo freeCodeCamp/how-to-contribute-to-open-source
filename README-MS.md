@@ -53,9 +53,9 @@ Tutorial oleh DigitalOcean untuk membantu anda menuju kejayaan dalam menyumbang 
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - repo GitHub yang mengumpulkan projek dengan pepijat yang baik untuk penyumbang baru, dan menggunakan label untuk penjelasan.
 - [Open Source Guides](https://opensource.guide/) - Kumpulan sumber untuk individu, komuniti, dan syarikat yang ingin belajar bagaimana menjalankan dan menyumbang kepada projek Sumber Terbuka.
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Perkara yang patut dilakukan dan Perkara yang tidak patut dilakukan di Github.
-- [GitHub Guides](https://docs.github.com/) - panduan asas bagaimana menggunakan GitHub secara efektif.
+- [GitHub Guides](https://docs.github.com/en) - panduan asas bagaimana menggunakan GitHub secara efektif.
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Belajar aliran kerja GitHub dengan menyumbang kod  untuk projek simulasi.
-- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Panduan Linux Foundation untuk projek Sumber Terbuka.
+- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides) - Panduan Linux Foundation untuk projek Sumber Terbuka.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - Buku Open Source Etiquette Guidebook, karya Kent C. Dodds dan Sarah Drasner.
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Senarai sumber dan peluang untuk pelajar kolej mempelajari bahasa pengekodan baru.
 - [Pull Request Roulette](http://www.pullrequestroulette.com/) - Laman web ini mempunyai senarai 'pull request' yang dihantar untuk disemak semula milik projek Sumber Terbuka yang dihoskan di Github.
@@ -93,7 +93,7 @@ Cari pautan yang mengarahkan secara langsung kepada masalah yang sesuai untuk di
 - [Bring Kindness Back to Open Source](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) karya [@shanselman](https://github.com/shanselman)
 - [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) karya [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) karya [@GitHub](https://github.com/github)
-- [How to Find a Bug in Your Code](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) karya [@dougbradbury](https://twitter.com/dougbradbury)
+- [How to Find a Bug in Your Code](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) karya [@dougbradbury](https://twitter.com/dougbradbury)
 - [Mastering Markdown](https://docs.github.com/features/mastering-markdown/) karya [@GitHub](https://github.com/github)
 - [First mission: Contributors page](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) karya [@forCrowd](https://github.com/forCrowd)
 - [How to make your first Open Source contribution in just 5 minutes](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) karya [@roshanjossey](https://github.com/Roshanjossey/)
@@ -134,7 +134,6 @@ Cari pautan yang mengarahkan secara langsung kepada masalah yang sesuai untuk di
 
 ## Sumbangan inisiatif Sumber Terbuka
 - [Up For Grabs](https://up-for-grabs.net/) - Mengandungi isu projek yang mesra penyumbang baru.
-- [First Timers Only](https://www.firsttimersonly.com/) - Senarai pepijat yang dilabel "first-timer-only".
 - [First Contributions](https://firstcontributions.github.io/) - Buat sumbangan Sumber Terbuka pertama anda dalam 5 minit. Alat dan tutorial untuk membantu pemula memulakan dengan sumbangan. [Here](https://github.com/firstcontributions/first-contributions) adalah kod sumber GitHub untuk laman web dan peluang untuk memberikan sumbangan ke repositori itu sendiri.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Program untuk menggalakkan sumbangan Sumber Terbuka. Dapatkan hadiah seperti t-shirt dan pelekat dengan membuat sekurang-kurangnya 4 permintaan tarik pada bulan Oktober.
 - [24 Pull Requests](https://24pullrequests.com) - 24 permintaan tarik('pull request') adalah projek untuk mempromosikan kolaborasi Sumber Terbuka pada bulan Disember.

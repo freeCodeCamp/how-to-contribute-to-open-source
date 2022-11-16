@@ -48,9 +48,9 @@
 - [Φοβερό-για-αρχάριους](https://github.com/MunGell/awesome-for-beginners) - Ένα GitHub repository που συγκεντρώνει projects με bugs εύκολα για αρχάριους, εφαρμόζωντας ετικέτες (labels) για να τα περιγράψει.
 - [Οδηγοί για τον Ανοικτό Κώδικα](https://opensource.guide/) - Συλλογή από υλικό για άτομα, κοινότητες και εταιρίες που θέλουν να μάθουν πως να τρέξουν και να συνεισφέρουν σε ένα project Ανοικτού Κώδικα.
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Do's and Don'ts on GitHub.
-- [Οδηγοί GitHub](https://docs.github.com/) - Βασικοί οδηγοί για την αποτελεσματική χρήση του GitHub.
+- [Οδηγοί GitHub](https://docs.github.com/en) - Βασικοί οδηγοί για την αποτελεσματική χρήση του GitHub.
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Μάθε τη ροή που πρέπει να ακολουθείται στο GitHub, μέσω της συνεισφοράς κώδικα σε ένα project προσομείωσης.
-- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Οι οδηγοί του Linux Foundation για τα project Ανοικτού Κώδικα.
+- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides) - Οι οδηγοί του Linux Foundation για τα project Ανοικτού Κώδικα.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - Ένα Open Source Etiquette Guidebook, γραμμένο από τον Kent C. Dodds και την Sarah Drasner.
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Μία λίστα από υλικό και ευκαιρίες για φοιτητές να μάθουν μία νέα γλώσσα προγραμματισμού.
 - [Contributing to your First Open Source Project: A Practical Approach](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - Μία βήμα-προς-βήμα προσέγγιση για το πως να συνεισφέρεις σε ένα project Ανοικτού Κώδικα για πρώτη φορά, από τον [Abati Adewale](https://www.acekyd.com).
@@ -82,8 +82,8 @@
 - [Φέρτε πίσω την ευγένεια στις κοινότητες Ανοικτού Κώδικα](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) by [@shanselman](https://github.com/shanselman)
 - [Μπαίνοντας στον κόσμο του Ανοικτού Κώδικα για πρώτη φορά](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [Πως να συνεισφέρεις σε Ανοικτό Κώδικα](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
-- [Πως να βρεις bugs στον κώδικα σου](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
-- [Mastering Markdown](https://docs.github.com/features/mastering-markdown/) by [@GitHubGuides](https://docs.github.com/)
+- [Πως να βρεις bugs στον κώδικα σου](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) by [@dougbradbury](https://twitter.com/dougbradbury)
+- [Mastering Markdown](https://docs.github.com/features/mastering-markdown/) by [@GitHubGuides](https://docs.github.com/en)
 - [Πρώτο βήμα: Σελίδα με άτομα που συνεισφέρουν (contributors page)](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
 - [Πως να συνεισφέρεις σε Ανοικτό Κώδικα για πρώτη φορά, σε μόλις 5 λεπτά](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) by [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
 - [Hacktoberfest 2018: Πως μπορείς να πάρεις το δωρεάν μπλουζάκι - ακόμα κι αν είσαι νέος στο προγραμματισμό](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) by [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
