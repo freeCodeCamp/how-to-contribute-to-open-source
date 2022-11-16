@@ -81,7 +81,7 @@
 - [is:issue is:open label:up-for-grabs](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs&type=issues)
 - [is:issue is:open label:easy-fix](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy-fix&type=issues)
 - [is:issue is:open label:"beginner friendly"](https://github.com/search?q=beginner+friendly&state=open&type=Issues)
-- [is:issue is:open label:your-first-pr](https://github.com/search?q=your-first-pr&state=open&type=Issues)
+- [is:issue is:open label:your-first-pr](https://github.com/search?q=your+first+pr&type=Issues)
 
 ## Mozilla的贡献者生态系统
 - [Good First Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22[good%20first%20bug]%22&limit=0) - 开发者确认是可以比较好熟悉工程的bug。
