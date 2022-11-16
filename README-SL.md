@@ -119,7 +119,6 @@ Povezave, ki neposredno usmerjajo na primerne `issues`, s katerim lahko prispeva
 - [Naučite se Git in GitHub korak za korakom (v sistemu Windows)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) by [@ows-ali](https://ows-ali.medium.com/)
 - [Zakaj odprtokodna in kako?](https://careerkarma.com/blog/open-source-projects-for-beginners/) by [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
 - [Kako začeti z odprto kodo - avtor Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/)
-- [Katerim odprtokodnim projektom prispevati?](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to) by [@kentcdodds](https://github.com/kentcdodds)
 - [Poglobljeni uvodni vodnik za odprtokodno](https://developeraspire.hashnode.dev/an-immersive-introductory-guide-to-open-source) by [Franklin Okolie](https://twitter.com/DeveloperAspire)
 - [Začetek s prispevanjem k odprtokodnemu](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/) by [Zara Cooper](https://stackoverflow.blog/author/zara-cooper/)
 - [Vodnik za začetnike za odprtokodni prispevek](https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj) by [Sudipto Ghosh](https://github.com/pydevsg)
