@@ -124,14 +124,14 @@ If you have questions or comments, please create an issue.
 > Helpful articles and blogs directed at new contributors on how to get started.
 
 - [Finding ways to contribute to open source on GitHub](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github) by [@GitHub](https://github.com/github)
-- [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
+- [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) by [@GitHub]
 - [How to find your first Open Source bug to fix](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) by [@Shubheksha](https://github.com/Shubheksha)
 - [First Timers Only](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
 - [Bring Kindness Back to Open Source](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) by [@shanselman](https://github.com/shanselman)
 - [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
-- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
+- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) by [@GitHub]
 - [How to Find a Bug in Your Code](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
-- [Mastering Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) by [@GitHub](https://github.com/github)
+- [Mastering Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) by [@GitHub]
 - [First mission: Contributors page](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705) by [@forCrowd](https://github.com/forCrowd)
 - [How to make your first Open Source contribution in just 5 minutes](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) by [@roshanjossey](https://github.com/Roshanjossey/)
 - [I just got my free Hacktoberfest shirt. Here’s a quick way you can get yours.](https://www.freecodecamp.org/news/i-just-got-my-free-hacktoberfest-shirt-heres-a-quick-way-you-can-get-yours-fa78d6e24307/) by [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
@@ -140,7 +140,7 @@ If you have questions or comments, please create an issue.
 - [Learn Git and GitHub Step By Step (on Windows)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) by [@ows-ali](https://ows-ali.medium.com/)
 - [Why Open Source and How?](https://careerkarma.com/blog/open-source-projects-for-beginners/) by [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
 - [How to get started with Open Source - By Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/)
-- [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to) by [@kentcdodds](https://github.com/kentcdodds)
+- [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to) by [@kentcdodds](https://twitter.com/kentcdodds)
 - [An immersive introductory guide to Open-source](https://developeraspire.hashnode.dev/an-immersive-introductory-guide-to-open-source) by [Franklin Okolie](https://twitter.com/DeveloperAspire)
 - [Getting started with contributing to open source](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/) by [Zara Cooper](https://stackoverflow.blog/author/zara-cooper/)
 - [Beginner's guide to open-source contribution](https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj) by [Sudipto Ghosh](https://github.com/pydevsg)
@@ -192,7 +192,6 @@ If you have questions or comments, please create an issue.
 > List of initiatives that aggregate beginner friendly issues to work on or seasonal events.
 
 - [Up For Grabs](https://up-for-grabs.net/) - Contains projects with beginner-friendly issues.
-- [First Timers Only](https://www.firsttimersonly.com/) - A list of bugs that are labelled "first-timers-only".
 - [First Contributions](https://firstcontributions.github.io/) - Make your first Open Source contribution in 5 minutes. A tool and tutorial to help beginners get started with contributions. [Here](https://github.com/firstcontributions/first-contributions) is the GitHub source code for the site and opportunity to make a contribution to the repository itself.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - A program to encourage Open Source contributions. Earn gifts like t-shirts and stickers by making at least 4 pull requests in the month of October.
 - [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests is a project to promote Open Source collaboration during the month of December.
@@ -223,4 +222,4 @@ If you have questions or comments, please create an issue.
 
 ## License
 
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a>Creative Commons Attribution-ShareAlike 4.0 International License</a>.
