@@ -90,7 +90,7 @@ GitHub இல் பங்களிக்க பொருத்தமான ச�
 - [First Timers Only](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
 - [Bring Kindness Back to Open Source](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) by [@shanselman](https://github.com/shanselman)
 - [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
-- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
+- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github/opensource.guide)
 - [How to Find a Bug in Your Code](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) by [@dougbradbury](https://twitter.com/dougbradbury)
 - [Mastering Markdown](https://docs.github.com/features/mastering-markdown/) by [@GitHub](https://github.com/github)
 - [First mission: Contributors page](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
@@ -137,4 +137,4 @@ GitHub இல் பங்களிக்க பொருத்தமான ச�
 - [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests என்பது டிசம்பர் மாதத்தில் திறந்த மூல ஒத்துழைப்பை மேம்படுத்துவதற்கான ஒரு திட்டமாகும்.
 
 ## உரிமம்
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a>Creative Commons Attribution-ShareAlike 4.0 International License</a>.

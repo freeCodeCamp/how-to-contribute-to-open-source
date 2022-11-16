@@ -90,7 +90,7 @@ Si vous avez des questions ou commentaires, veuillez créer un ticket.
 - [Novices exclusivement](https://kentcdodds.com/blog/first-timers-only) par [@kentcdodds](https://github.com/kentcdodds)
 - [Ramenons la gentillesse dans l'Open Source](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) par [@shanselman](https://github.com/shanselman)
 - [Aborder l'Open Source pour la première fois](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) par [@mcdonnelldean](https://github.com/mcdonnelldean)
-- [Comment contribuer à l'Open Source](https://opensource.guide/how-to-contribute/) par [@GitHub](https://github.com/github)
+- [Comment contribuer à l'Open Source](https://opensource.guide/how-to-contribute/) par [@GitHub](https://github.com/github/opensource.guide)
 - [Comment trouver un bug dans votre code](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) par [@dougbradbury](https://twitter.com/dougbradbury)
 - [Maîtriser le Markdown](https://docs.github.com/features/mastering-markdown/) par [@GitHubGuides](https://docs.github.com/en)
 - [Première mission : Page des contributeurs](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) par [@forCrowd](https://github.com/forCrowd)

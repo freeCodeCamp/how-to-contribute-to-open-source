@@ -81,7 +81,7 @@
 - [Μόνο για αρχάριους](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
 - [Φέρτε πίσω την ευγένεια στις κοινότητες Ανοικτού Κώδικα](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) by [@shanselman](https://github.com/shanselman)
 - [Μπαίνοντας στον κόσμο του Ανοικτού Κώδικα για πρώτη φορά](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
-- [Πως να συνεισφέρεις σε Ανοικτό Κώδικα](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
+- [Πως να συνεισφέρεις σε Ανοικτό Κώδικα](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github/docs)
 - [Πως να βρεις bugs στον κώδικα σου](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) by [@dougbradbury](https://twitter.com/dougbradbury)
 - [Mastering Markdown](https://docs.github.com/features/mastering-markdown/) by [@GitHubGuides](https://docs.github.com/en)
 - [Πρώτο βήμα: Σελίδα με άτομα που συνεισφέρουν (contributors page)](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)

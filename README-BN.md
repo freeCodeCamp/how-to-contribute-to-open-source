@@ -106,9 +106,9 @@
 - [শুধুমাত্র প্রথম Timers-দের জন্য](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
 - [ আপনার উদারতাটিকে ওপেন সোর্সে ফিরিয়ে আনুন](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) by [@shanselman](https://github.com/shanselman)
 - [প্রথমবারের জন্য ওপেন সোর্সে প্রবেশ করা](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
-- [ওপেন সোর্সে কীভাবে অবদান রাখবেন](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
+- [ওপেন সোর্সে কীভাবে অবদান রাখবেন](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github/opensource.guide)
 - [আপনার কোডে কীভাবে কোনও বাগ খুঁজে পাবেন](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) by [@dougbradbury](https://twitter.com/dougbradbury)
-- [মার্কডাউন প্রভুত্ব করুন](https://docs.github.com/features/mastering-markdown/) by [@GitHub](https://github.com/github)
+- [মার্কডাউন প্রভুত্ব করুন](https://docs.github.com/features/mastering-markdown/) by [@GitHub](https://github.com/github/docs)
 - [প্রথম মিশন: কন্ট্রিবিউটরদের পৃষ্ঠা](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
 - [মাত্র ৫ মিনিটে কীভাবে আপনার প্রথম ওপেন সোর্স অবদান রাখবেন](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) by [@roshanjossey](https://github.com/Roshanjossey/)
 - [Hacktoberfest 2019: আপনি কীভাবে আপনার ফ্রি শার্টটি পেতে পারেন - আপনি কোডিংয়ে নতুন হয়ে থাকলেও](https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b/) by [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
@@ -169,4 +169,4 @@
 
 ## লাইসেন্স
 
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />এই কাজটি <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>  এর অধীনে লাইসেন্স প্রাপ্ত।
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />এই কাজটি <a>Creative Commons Attribution-ShareAlike 4.0 International License</a>  এর অধীনে লাইসেন্স প্রাপ্ত।

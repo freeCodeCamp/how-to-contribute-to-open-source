@@ -91,7 +91,7 @@ GitHub에서 기여할 만한 적절한 이슈를 직접적으로 가리키는 �
 - [First Timers Only](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
 - [Bring Kindness Back to Open Source](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) by [@shanselman](https://github.com/shanselman)
 - [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
-- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
+- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github/opensource.guide)
 - [How to Find a Bug in Your Code](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) by [@dougbradbury](https://twitter.com/dougbradbury)
 - [Mastering Markdown](https://docs.github.com/features/mastering-markdown/) by [@GitHubGuides](https://docs.github.com/en)
 - [First mission: Contributors page](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)

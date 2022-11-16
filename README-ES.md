@@ -81,7 +81,7 @@ Lista de enlaces convenientes para principiantes que apuntan a `issues` en GitHu
 - [Solo para principiantes](https://kentcdodds.com/blog/first-timers-only) por [@kentcdodds](https://github.com/kentcdodds)
 - [Trayendo de vuelta la amabilidad al código abierto](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) por [@shanselman](https://github.com/shanselman)
 - [Entrando en el código abierto por primera vez](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) por [@mcdonnelldean](https://github.com/mcdonnelldean)
-- [Cómo contribuir al código abierto](https://opensource.guide/how-to-contribute/) por [@GitHub](https://github.com/github)
+- [Cómo contribuir al código abierto](https://opensource.guide/how-to-contribute/) por [@GitHub](https://github.com/github/docs)
 - [Cómo encontrar errores en tu código](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) por [@dougbradbury](https://twitter.com/dougbradbury)
 - [Dominando el Markdown](https://docs.github.com/features/mastering-markdown/) por [@GitHubGuides](https://docs.github.com/en)
 - [Primera misión: Página de colaboradores](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) por [@forCrowd](https://github.com/forCrowd)

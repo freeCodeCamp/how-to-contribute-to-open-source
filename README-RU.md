@@ -79,7 +79,7 @@
 - [is:issue is:open label:starter](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Astarter)
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 - [is:issue is:open label:easy-fix](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy-fix&type=issues)
-- [is:issue is:open label:"beginner friendly"](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22beginner+friendly%22&type=issues)
+- [is:issue is:open label:"beginner friendly"](https://github.com/search?q=beginner+friendly&state=open&type=Issues)
 - [is:issue is:open label:your-first-pr](https://github.com/search?q=your-first-pr&state=open&type=Issues)
 
 ## Экосистема контрибьюторов Mozilla
@@ -97,7 +97,7 @@
 - ["Только новички"](https://kentcdodds.com/blog/first-timers-only) OT [@kentcdodds](https://github.com/kentcdodds)
 - ["Принесите доброту в открытый исходный код"](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) by [@shanselman](https://github.com/shanselman)
 - ["Вступление в Open Source в первый раз"](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
-- ["Как внести вклад в открытый исходный код"](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
+- ["Как внести вклад в открытый исходный код"](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github/opensource.guide)
 - ["Как найти ошибку в коде"](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) by [@dougbradbury](https://twitter.com/dougbradbury)
 - ["Освоение Markdown"](https://docs.github.com/features/mastering-markdown/) by [@GitHubGuides](https://docs.github.com/en)
 - ["Первая миссия: страница разработчиков"](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)

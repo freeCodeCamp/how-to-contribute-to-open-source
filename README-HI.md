@@ -90,9 +90,9 @@
 - [केवल पहले टाइमर](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
 - [ओपन सोर्स पर दया लाएं](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) by [@shanselman](https://github.com/shanselman)
 - [पहली बार ओपन सोर्स में हो रही है](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
-- [ओपन सोर्स के लिए योगदान कैसे करें](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
+- [ओपन सोर्स के लिए योगदान कैसे करें](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github/opensource.guide)
 - [कैसे अपने कोड में एक बग को खोजने के लिए](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) by [@dougbradbury](https://twitter.com/dougbradbury)
-- [मास्टरींग मार्कडाउन](https://docs.github.com/features/mastering-markdown/) by [@GitHub](https://github.com/github)
+- [मास्टरींग मार्कडाउन](https://docs.github.com/features/mastering-markdown/) by [@GitHub](https://github.com/github/docs)
 - [पहला मिशन: योगदानकर्ता पृष्ठ](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
 - [सिर्फ 5 मिनट में अपना पहला ओपन सोर्स योगदान कैसे करें](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) by [@roshanjossey](https://github.com/Roshanjossey/)
 - [Hacktoberfest 2019: आप अपनी मुफ्त शर्ट कैसे प्राप्त कर सकते हैं - भले ही आप कोडिंग में नए हों](https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b/) by [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
@@ -137,4 +137,4 @@
 - [24 Pull Requests](https://24pullrequests.com) -24 पुल अनुरोध दिसंबर महीने के दौरान ओपन सोर्स सहयोग को बढ़ावा देने के लिए एक परियोजना है।
 
 ## लाइसेंस
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />इस काम के तहत लाइसेंस प्राप्त है। <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">क्रिएटिव कॉमन्स एट्रिब्यूशन-शेयरअलाइल 4.0 इंटरनेशनल लाइसेंस</a>।
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />इस काम के तहत लाइसेंस प्राप्त है। <a>क्रिएटिव कॉमन्स एट्रिब्यूशन-शेयरअलाइल 4.0 इंटरनेशनल लाइसेंस</a>।

@@ -98,9 +98,9 @@
 - [First Timers Only](https://kentcdodds.com/blog/first-timers-only) द्वारा [@kentcdodds](https://github.com/kentcdodds)
 - [Bring Kindness Back to Open Source](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) द्वारा [@shanselman](https://github.com/shanselman)
 - [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) द्वारा [@mcdonnelldean](https://github.com/mcdonnelldean)
-- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) द्वारा [@GitHub](https://github.com/github)
+- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) द्वारा [@GitHub](https://github.com/github/opensource.guide)
 - [How to Find a Bug in Your Code](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) द्वारा [@dougbradbury](https://twitter.com/dougbradbury)
-- [Mastering Markdown](https://docs.github.com/features/mastering-markdown/) द्वारा [@GitHub](https://github.com/github)
+- [Mastering Markdown](https://docs.github.com/features/mastering-markdown/) द्वारा [@GitHub](https://github.com/github/docs)
 - [First mission: Contributors page](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
 - [How to make your first Open Source contribution in just 5 minutes](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) द्वारा [@roshanjossey](https://github.com/Roshanjossey/)
 - [Hacktoberfest 2019: How you can get your free shirt — even if you’re new to coding](https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b/) द्वारा [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
@@ -151,4 +151,4 @@
 - [Ovio](https://ovio.org) - सहयोगी-अनुकूल प्रकल्पांची क्युरेटरीकृत निवड असलेले एक व्यासपीठ. हे एक [शक्तिशाली समस्या शोध साधन आहे](https://ovio.org/issues) आणि आपण नंतर प्रकल्प आणि समस्या जतन करूया.
 
 ## परवाना
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />हे काम अंतर्गत परवानाकृत आहे <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />हे काम अंतर्गत परवानाकृत आहे <a>Creative Commons Attribution-ShareAlike 4.0 International License</a>.

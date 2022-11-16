@@ -87,7 +87,7 @@ Pesquise por links diretos para issues no GitHub.
 - [Apenas para iniciantes](https://kentcdodds.com/blog/first-timers-only) por [@kentcdodds](https://github.com/kentcdodds)
 - [Tragam a cordialidade de volta ao Open Source](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) por [@shanselman](https://github.com/shanselman)
 - [Mergulhando no Open Source pela primeira vez](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) por [@mcdonnelldean](https://github.com/mcdonnelldean)
-- [Como contribuir com Open Source](https://opensource.guide/how-to-contribute/) por [@GitHub](https://github.com/github)
+- [Como contribuir com Open Source](https://opensource.guide/how-to-contribute/) por [@GitHub](https://github.com/github/opensource.guide)
 - [Como encontrar um bug no seu código](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) por [@dougbradbury](https://twitter.com/dougbradbury)
 - [Dominando Markdown](https://docs.github.com/features/mastering-markdown/) por [@GitHubGuides](https://docs.github.com/en)
 - [Primeira missão: Página de Contribuidores](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) por [@forCrowd](https://github.com/forCrowd)

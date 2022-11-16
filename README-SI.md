@@ -89,7 +89,7 @@ GitHub හි දායක වීමට සුදුසු issues වෙත ස�
 - [is:issue is:open label:starter](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Astarter&type=issues)
 - [is:issue is:open label:up-for-grabs](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs&type=issues)
 - [is:issue is:open label:easy-fix](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy-fix&type=issues)
-- [is:issue is:open label:"beginner friendly"](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22beginner+friendly%22&type=issues)
+- [is:issue is:open label:"beginner friendly"](https://github.com/search?q=beginner+friendly&state=open&type=Issues)
 - [is:issue is:open label:your-first-pr](https://github.com/search?q=your-first-pr&state=open&type=Issues)
 
 ## Mozilla හි දායකත්ව පද්ධතිය
@@ -109,9 +109,9 @@ GitHub හි දායක වීමට සුදුසු issues වෙත ස�
 - [First Timers Only](https://kentcdodds.com/blog/first-timers-only), රචනය: [@kentcdodds](https://github.com/kentcdodds)
 - [Bring Kindness Back to Open Source](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source), රචනය: [@shanselman](https://github.com/shanselman)
 - [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/), රචනය: [@mcdonnelldean](https://github.com/mcdonnelldean)
-- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/), රචනය: [@GitHub](https://github.com/github)
+- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/), රචනය: [@GitHub](https://github.com/github/opensource.guide)
 - [How to Find a Bug in Your Code](https://8thlight.com/insights/how-to-find-a-bug-in-your-code), රචනය: [@dougbradbury](https://twitter.com/dougbradbury)
-- [Mastering Markdown](https://docs.github.com/features/mastering-markdown/), රචනය: [@GitHub](https://github.com/github)
+- [Mastering Markdown](https://docs.github.com/features/mastering-markdown/), රචනය: [@GitHub](https://github.com/githubhttps://github.com/github/docs)
 - [First mission: Contributors page](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29), රචනය: [@forCrowd](https://github.com/forCrowd)
 - [How to make your first Open Source contribution in just 5 minutes](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/), රචනය: [@roshanjossey](https://github.com/Roshanjossey/)
 - [I just got my free Hacktoberfest shirt. Here’s a quick way you can get yours.](https://www.freecodecamp.org/news/i-just-got-my-free-hacktoberfest-shirt-heres-a-quick-way-you-can-get-yours-fa78d6e24307/), රචනය: [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
@@ -180,4 +180,4 @@ GitHub හි දායක වීමට සුදුසු issues වෙත ස�
 
 ## බලපත්‍රය
 
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />මෙම ව්‍යාපෘතිය <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a> යටතේ බලපත්‍රගත කර ඇත.
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />මෙම ව්‍යාපෘතිය <a>Creative Commons Attribution-ShareAlike 4.0 International License</a> යටතේ බලපත්‍රගත කර ඇත.

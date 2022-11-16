@@ -103,7 +103,7 @@ Direkt olarak uygun issuelara referans veren katkı sağlanabilecek arama bağla
 - [İlk Defa Açık Kaynağa başlayacaklar için](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
 - [Açık Kaynağa iyiliği Geri Getirmek](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) yazan [@shanselman](https://github.com/shanselman)
 - [İlk defa Açık Kaynağın içine girmek](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) yazan [@mcdonnelldean](https://github.com/mcdonnelldean)
-- [Açık Kaynağa Nasıl Katkı Sağlanır](https://opensource.guide/how-to-contribute/) yazan [@GitHub](https://github.com/github)
+- [Açık Kaynağa Nasıl Katkı Sağlanır](https://opensource.guide/how-to-contribute/) yazan [@GitHub](https://github.com/github/opensource.guide)
 - [Kodunuzda Bug'ı Nasıl Bulabilirsiniz?](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) yazan [@dougbradbury](https://twitter.com/dougbradbury)
 - [Markdownda Uzmanlaşmak](https://docs.github.com/features/mastering-markdown/) by [@GitHubGuides](https://docs.github.com/en)
 - [İlk Görev: Katkı Sağlayıcı Sayfası](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) yazan [@forCrowd](https://github.com/forCrowd)

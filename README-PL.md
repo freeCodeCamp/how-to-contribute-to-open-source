@@ -104,9 +104,9 @@ Linki wyszukiwania które wskazują na kwestie skierowane dla początkujących. 
 - [First Timers Only](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
 - [Bring Kindness Back to Open Source](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) by [@shanselman](https://github.com/shanselman)
 - [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
-- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
+- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github/opensource.guide)
 - [How to Find a Bug in Your Code](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) by [@dougbradbury](https://twitter.com/dougbradbury)
-- [Mastering Markdown](https://docs.github.com/features/mastering-markdown/) by [@GitHub](https://github.com/github)
+- [Mastering Markdown](https://docs.github.com/features/mastering-markdown/) by [@GitHub](https://github.com/github/docs)
 - [First mission: Contributors page](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
 - [How to make your first Open Source contribution in just 5 minutes](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) by [@roshanjossey](https://github.com/Roshanjossey/)
 - [Hacktoberfest 2019: How you can get your free shirt — even if you’re new to coding](https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b/) by [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
@@ -155,4 +155,4 @@ Linki wyszukiwania które wskazują na kwestie skierowane dla początkujących. 
 - [24 Pull Requests](https://24pullrequests.com) - jest to projekt stworzony do promowania współpracy Open Source w Grudniu. 
 
 ## Licencja
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />Ta praca jest licencjonowana za pomocą <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />Ta praca jest licencjonowana za pomocą <a>Creative Commons Attribution-ShareAlike 4.0 International License</a>.

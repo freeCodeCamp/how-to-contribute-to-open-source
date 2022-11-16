@@ -105,7 +105,7 @@
 - [is:issue is:open label:starter](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Astarter&type=issues)
 - [is:issue is:open label:up-for-grabs](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs&type=issues)
 - [is:issue is:open label:easy-fix](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy-fix&type=issues)
-- [is:issue is:open label:"beginner friendly"](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22beginner+friendly%22&type=issues)
+- [is:issue is:open label:"beginner friendly"](https://github.com/search?q=beginner+friendly&state=open&type=Issues)
 - [is:issue is:open label:your-first-pr](https://github.com/search?q=your-first-pr&state=open&type=Issues)
 
 ## Mozillaનું યોગદાનકર્તા ઇકોસિસ્ટમ
@@ -125,14 +125,13 @@
 > કેવી રીતે પ્રારંભ કરવું તે અંગે નવા યોગદાનકર્તાઓ પર નિર્દેશિત મદદરૂપ લેખો અને બ્લોગ્સ.
 
 - [GitHub પર ઓપન સોર્સમાં યોગદાન આપવાની રીતો શોધવી](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source- ઓન-ગીથબ) દ્વારા [@GitHub](https://github.com/github)
-- [@GitHub](https://github.com/github) દ્વારા [તમારો પ્રથમ ઓપન સોર્સ પ્રોજેક્ટ કેવી રીતે પસંદ કરવો (અને તેમાં યોગદાન આપવું)](https://github.com/collections/choosing-projects)
 - [ફિક્સ કરવા માટે તમારી પ્રથમ ઓપન સોર્સ બગ કેવી રીતે શોધવી](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/ ) [@Shubheksha](https://github.com/Shubheksha) દ્વારા
 - [First Timers Only](https://kentcdodds.com/blog/first-timers-only) [@kentcdodds](https://github.com/kentcdodds) દ્વારા
 - [Bring Kindness Back to Open Source](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) દ્વારા [ @shanselman](https://github.com/shanselman)
 - [પ્રથમ વખત ઓપન સોર્સમાં પ્રવેશ મેળવવો](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) [@mcdonnelldean](https:// /github.com/mcdonnelldean)
-- [કેવી રીતે ઓપન સોર્સમાં યોગદાન આપવું](https://opensource.guide/how-to-contribute/) [@GitHub](https://github.com/github) દ્વારા
+- [કેવી રીતે ઓપન સોર્સમાં યોગદાન આપવું](https://opensource.guide/how-to-contribute/) [@GitHub](https://github.com/github/opensource.guide) દ્વારા
 - [તમારા કોડમાં બગ કેવી રીતે શોધવી](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) દ્વારા [ @dougbradbury](https://twitter.com/dougbradbury)
-- [માર્કડાઉનમાં નિપુણતા મેળવવી](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) [@GitHub](https://github.com/github) દ્વારા
+- [માર્કડાઉનમાં નિપુણતા મેળવવી](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) [@GitHub](https://github.com/github/docs) દ્વારા
 - [પ્રથમ મિશન: યોગદાનકર્તાઓનું પૃષ્ઠ](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705) [@forCrowd](https://github.com/forCrowd) દ્વારા
 - [ફક્ત 5 મિનિટમાં તમારું પ્રથમ ઓપન સોર્સ યોગદાન કેવી રીતે બનાવવું](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5- મિનિટ-aaad1fc59c9a/) [@roshanjossey](https://github.com/Roshanjossey/) દ્વારા
 - [મને હમણાં જ મારો મફત હેકટોબરફેસ્ટ શર્ટ મળ્યો. અહીં એક ઝડપી રીત છે જે તમે તમારું મેળવી શકો છો.](https://www.freecodecamp.org/news/i-just-got-my-free-hacktoberfest-shirt-heres-a-quick-way-you-can-get -yours-fa78d6e24307/) [@quincylarson] દ્વારા(https://www.freecodecamp.org/news/author/quincylarson/)
@@ -222,4 +221,4 @@
 
 ## લાઇસન્સ
 
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />આ કાર્યને <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />આ કાર્યને <a>Creative Commons Attribution-ShareAlike 4.0 International License</a>.

@@ -75,7 +75,7 @@ Github上での貢献に適切な問題を表示しているリンクを直接�
 - [Mozillaをはじめよう](https://twitter.com/StartMozilla) - Mozillaエコシステム初心者の貢献者に最適な問題についてツイートするツイッターアカウント
 
 ## オープンソース貢献初心者に有益な記事
-- [最初のオープンソースの選び方（貢献の仕方)](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
+- [最初のオープンソースの選び方（貢献の仕方)](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github/docs)
 - [オープンソースで修正するバグの最初の見つけ方](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) by [@Shubheksha](https://github.com/Shubheksha)
 - [初心者限定](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
 - [オープンソースに優しさを](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) by [@shanselman](https://github.com/shanselman)

@@ -81,7 +81,7 @@ Se hai domande o commenti, per favore crea un issue.
 - ["Solo per i principianti"](https://kentcdodds.com/blog/first-timers-only) di [@kentcdodds](https://github.com/kentcdodds)
 - ["Porta la gentilezza nell'open source"](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) di [@shanselman](https://github.com/shanselman)
 - ["Entrare nell'Open Source per la prima volta"](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) di [@mcdonnelldean](https://github.com/mcdonnelldean)
-- ["Come contribuire all'open source"](https://opensource.guide/how-to-contribute/) di [@GitHub](https://github.com/github)
+- ["Come contribuire all'open source"](https://opensource.guide/how-to-contribute/) di [@GitHub](https://github.com/github/opensource.guide)
 - ["Come trovare un bug nel codice"](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) by [@dougbradbury](https://twitter.com/dougbradbury)
 - ["Padroneggiare il Markdown"](https://docs.github.com/features/mastering-markdown/) di [@GitHubGuides](https://docs.github.com/en)
 - ["La prima missione: La pagina dei contributors"](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) di [@forCrowd](https://github.com/forCrowd)

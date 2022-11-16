@@ -118,9 +118,9 @@
 - [למתחילים בלבד](https://kentcdodds.com/blog/first-timers-only) ע״י [kentcdodds@](https://github.com/kentcdodds)
 - [החזירו טוב לב חזרה לקוד פתוח](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) ע״י [shanselman@](https://github.com/shanselman)
 - [נכנסים לקוד פתוח בפעם הראשונה](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) ע״י [mcdonnelldean@](https://github.com/mcdonnelldean)
-- [כיצד לתרום לקוד פתוח](https://opensource.guide/how-to-contribute/) ע״י [GitHub@](https://github.com/github)
+- [כיצד לתרום לקוד פתוח](https://opensource.guide/how-to-contribute/) ע״י [GitHub@](https://github.com/github/opensource.guide)
 - [כיצד למצוא באג בקוד שלכם](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) ע״י [dougbradbury@](https://twitter.com/dougbradbury)
-- [Mastering Markdown](https://docs.github.com/features/mastering-markdown/) ע״י [GitHub@](https://github.com/github)
+- [Mastering Markdown](https://docs.github.com/features/mastering-markdown/) ע״י [GitHub@](https://github.com/github/docs)
 - [משימה ראשונה: עמוד התורמים](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) ע״י [forCrowd@](https://github.com/forCrowd)
 - [כיצד לתרום בפעם הראשונה לקוד פתוח ב-5 דקות](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) ע״י [roshanjossey@](https://github.com/Roshanjossey/)
 - [Hacktoberfest 2019: כיצד לקבל חולצה חינם אפילו אם אתם מתכנתים חדשים](https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b/) ע״י [quincylarson@](https://www.freecodecamp.org/news/author/quincylarson/)
@@ -187,7 +187,7 @@
 ## רישיון
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />פרוייקט זה נכתב תחת רישיון 
 
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a>Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 </p>
 </div>
