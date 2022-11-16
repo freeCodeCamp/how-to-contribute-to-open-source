@@ -55,7 +55,7 @@
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - GitHub repo الذي يكدس المشاريع مع أخطاء جيدة للمساهمين الجدد ، ويطبق تسميات لوصفها.
 - [Open Source Guides](https://opensource.guide/) - مجموعة من الموارد للأفراد والمجتمعات والشركات الذين يرغبون في تعلم كيفية تشغيل مشروع مفتوح المصدر والمساهمة فيه.
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - افعل ولا تفعل على جيثب.
-- [GitHub Guides](https://docs.github.com/en) -إرشادات أساسية حول كيفية استخدام GitHub بشكل فعال.
+- [GitHub Guides](https://docs.github.com/) -إرشادات أساسية حول كيفية استخدام GitHub بشكل فعال.
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - تعرف على سير عمل GitHub من خلال المساهمة برمز في مشروع محاكاة.
 - [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - أدلة مؤسسة Linux لمشاريع المصدر المفتوح.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - دليل آداب السلوك المفتوح المصدر ، بقلم كينت سي دودز وسارة دراسنر.
