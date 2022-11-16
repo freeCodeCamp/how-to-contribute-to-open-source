@@ -44,7 +44,7 @@ Issues can be submitted by anyone - either seasoned developers or newbies.
 
     If you are making changes to the `README.md` file, you would need to have
     Markdown knowledge. Visit
-    [here to read about GitHub Markdown](https://guides.github.com/features/mastering-markdown/)
+    [here to read about GitHub Markdown](https://docs.github.com/features/mastering-markdown/)
     and
     [here to practice](http://www.markdowntutorial.com/).
 
@@ -169,6 +169,6 @@ Lastly, we want to link to beginner-friendly labels. These are typically `Good F
 
 - [Pro GIT Book](https://git-scm.com/book/en/v2)
 
-- [Try Git](https://try.github.io/)
+- [Try Git](https://docs.github.com/en/get-started/quickstart/set-up-git)
 
 - [Git/ Git Hub on Windows](https://www.youtube.com/watch?v=J_Clau1bYco)

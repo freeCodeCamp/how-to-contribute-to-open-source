@@ -50,7 +50,7 @@
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - புதிய பங்களிப்பாளர்களுக்கு நல்ல பிழைகள் கொண்ட திட்டங்களை சேகரிக்கும் ஒரு கிட்ஹப் ரெப்போ, அவற்றை விவரிக்க லேபிள்களைப் பயன்படுத்துகிறது.
 - [Open Source Guides](https://opensource.guide/) - திறந்த மூல திட்டத்திற்கு எவ்வாறு இயங்குவது மற்றும் பங்களிப்பது என்பதை அறிய விரும்பும் தனிநபர்கள், சமூகங்கள் மற்றும் நிறுவனங்களுக்கான ஆதாரங்களின் சேகரிப்பு.
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - கிட்ஹப்பில் செய்ய வேண்டியவை மற்றும் செய்யக்கூடாதவை.
-- [GitHub Guides](https://guides.github.com/) - GitHub ஐ எவ்வாறு திறம்பட பயன்படுத்துவது என்பதற்கான அடிப்படை வழிகாட்டிகள்.
+- [GitHub Guides](https://docs.github.com/) - GitHub ஐ எவ்வாறு திறம்பட பயன்படுத்துவது என்பதற்கான அடிப்படை வழிகாட்டிகள்.
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Learn the GitHub workflow by contributing code to a simulation project.
 - [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - திறமூல திட்டங்களுக்கு லினக்ஸ் அறக்கட்டளையின் வழிகாட்டிகள்.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - An Open Source Etiquette Guidebook, written by Kent C. Dodds And Sarah Drasner.
@@ -77,7 +77,7 @@ GitHub இல் பங்களிக்க பொருத்தமான ச�
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
 ## மொஸில்லாவின் பங்களிப்பாளர் சுற்றுச்சூழல் அமைப்பு
-- [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - டெவலப்பர்கள், திட்டத்திற்கு ஒரு நல்ல அறிமுகமாக அடையாளம் கண்ட பிழைகள்.
+- [Good First Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22[good%20first%20bug]%22&limit=0) - டெவலப்பர்கள், திட்டத்திற்கு ஒரு நல்ல அறிமுகமாக அடையாளம் கண்ட பிழைகள்.
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs that have a mentor assigned who will be there on IRC to help you when you get stuck while working on a fix.
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - பக்ஸில்லாவில் பிழைகள் கண்டுபிடிக்க அர்ப்பணிக்கப்பட்ட ஒரு தளம்.
 - [Firefox DevTools](http://firefox-dev.tools/) - a site dedicated to bugs filed for the developer tools in the Firefox browser.
@@ -92,8 +92,8 @@ GitHub இல் பங்களிக்க பொருத்தமான ச�
 - [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
 - [How to Find a Bug in Your Code](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
-- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) by [@GitHub](https://github.com/github)
-- [First mission: Contributors page](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
+- [Mastering Markdown](https://docs.github.com/features/mastering-markdown/) by [@GitHub](https://github.com/github)
+- [First mission: Contributors page](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
 - [How to make your first Open Source contribution in just 5 minutes](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) by [@roshanjossey](https://github.com/Roshanjossey/)
 - [Hacktoberfest 2019: How you can get your free shirt — even if you’re new to coding](https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b/) by [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
 - [A Bitter Guide To Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
@@ -101,11 +101,11 @@ GitHub இல் பங்களிக்க பொருத்தமான ச�
 - [Learn Git and GitHub Step By Step (on Windows)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) by [@ows-ali](https://medium.com/@ows_ali)
 - [Why Open Source and How?](https://careerkarma.com/blog/open-source-projects-for-beginners/) by [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
 - [How to get started with Open Source - By Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/)
-- [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) by Kent C. Dodds
+- [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to) by Kent C. Dodds
 
 ## Version Control பயன்படுத்துதல்
 - [Think Like (a) Git](https://think-like-a-git.net/) - Git introduction for "advanced beginners," but are still struggling, in order to give you a simple strategy to safely experiment with git.
-- [Try Git](https://try.github.io/) - Learn Git in 15 minutes from within your browser for free.
+- [Try Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - Learn Git in 15 minutes from within your browser for free.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - A useful minimum set of commands for Everyday Git.
 - [Oh shit, git!](https://ohshitgit.com/) - how to get out of common `git` mistakes described in plain English; also see [Dangit, git!](https://dangitgit.com/) for the page without swears.
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) - various tutorials on using `git`.

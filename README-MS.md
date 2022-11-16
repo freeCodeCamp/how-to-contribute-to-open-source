@@ -53,7 +53,7 @@ Tutorial oleh DigitalOcean untuk membantu anda menuju kejayaan dalam menyumbang 
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - repo GitHub yang mengumpulkan projek dengan pepijat yang baik untuk penyumbang baru, dan menggunakan label untuk penjelasan.
 - [Open Source Guides](https://opensource.guide/) - Kumpulan sumber untuk individu, komuniti, dan syarikat yang ingin belajar bagaimana menjalankan dan menyumbang kepada projek Sumber Terbuka.
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Perkara yang patut dilakukan dan Perkara yang tidak patut dilakukan di Github.
-- [GitHub Guides](https://guides.github.com/) - panduan asas bagaimana menggunakan GitHub secara efektif.
+- [GitHub Guides](https://docs.github.com/) - panduan asas bagaimana menggunakan GitHub secara efektif.
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Belajar aliran kerja GitHub dengan menyumbang kod  untuk projek simulasi.
 - [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Panduan Linux Foundation untuk projek Sumber Terbuka.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - Buku Open Source Etiquette Guidebook, karya Kent C. Dodds dan Sarah Drasner.
@@ -79,7 +79,7 @@ Cari pautan yang mengarahkan secara langsung kepada masalah yang sesuai untuk di
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
 ## Ekosistem penyumbang Mozilla
-- [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - pepijat yang telah dikenal pasti oleh pemaju sebagai pengenalan yang baik untuk projek ini.
+- [Good First Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22[good%20first%20bug]%22&limit=0) - pepijat yang telah dikenal pasti oleh pemaju sebagai pengenalan yang baik untuk projek ini.
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - pepijat yang mempunyai mentor yang ditugaskan yang akan berada di IRC untuk membantu anda apabila anda rasa tidak produktif semasa menyelesaikan masalah.
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - laman web yang dikhaskan untuk mencari pepijat di Bugzilla.
 - [Firefox DevTools](http://firefox-dev.tools/) - laman web yang dikhaskan untuk bug yang difailkan untuk alat pembangun('Developer Tools') dalam penyemak imbas('browser') Firefox.
@@ -94,8 +94,8 @@ Cari pautan yang mengarahkan secara langsung kepada masalah yang sesuai untuk di
 - [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) karya [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) karya [@GitHub](https://github.com/github)
 - [How to Find a Bug in Your Code](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) karya [@dougbradbury](https://twitter.com/dougbradbury)
-- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) karya [@GitHub](https://github.com/github)
-- [First mission: Contributors page](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) karya [@forCrowd](https://github.com/forCrowd)
+- [Mastering Markdown](https://docs.github.com/features/mastering-markdown/) karya [@GitHub](https://github.com/github)
+- [First mission: Contributors page](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) karya [@forCrowd](https://github.com/forCrowd)
 - [How to make your first Open Source contribution in just 5 minutes](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) karya [@roshanjossey](https://github.com/Roshanjossey/)
 - [Hacktoberfest 2019: How you can get your free shirt — even if you’re new to coding](https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b/) karya [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
 - [A Bitter Guide To Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) karya [@ken_wheeler](https://medium.com/@ken_wheeler)
@@ -103,11 +103,11 @@ Cari pautan yang mengarahkan secara langsung kepada masalah yang sesuai untuk di
 - [Learn Git and GitHub Step By Step (on Windows)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) karya [@ows-ali](https://medium.com/@ows_ali)
 - [Why Open Source and How?](https://careerkarma.com/blog/open-source-projects-for-beginners/) karya [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
 - [How to get started with Open Source - By Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/)
-- [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) karya Kent C. Dodds
+- [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to) karya Kent C. Dodds
 
 ## Menggunakan Kawalan Versi
 - [Think Like (a) Git](https://think-like-a-git.net/) - Pengenalan Git untuk "pemula maju", tetapi masih bersusah-payah, untuk memberi anda strategi mudah untuk bereksperimen dengan selamat dengan git.
-- [Try Git](https://try.github.io/) - Belajar Git dalam 15 minit dalam penyemak imbas('browser') anda secara percuma.
+- [Try Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - Belajar Git dalam 15 minit dalam penyemak imbas('browser') anda secara percuma.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Satu set perintah minimum yang berguna untuk Everyday Git.
 - [Oh shit, git!](https://ohshitgit.com/) - cara mengatasi kesalahan `git` yang dijelaskan dalam bahasa Inggeris biasa; lihat juga [Dangit, git!](https://dangitgit.com/) untuk halaman tanpa carutan.
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) - pelbagai tutorial tentang penggunaan `git`.

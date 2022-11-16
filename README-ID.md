@@ -50,7 +50,7 @@ Jika Anda memiliki pertanyaan atau komentar, silahkan membuat issue baru.
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - Sebuah repositori GitHub yang berisi proyek dengan bug ringan untuk para kontributor baru, dan menggunakan label sebagai penjelasannya.
 - [Open Source Guides](https://opensource.guide/) - Koleksi sumber daya untuk individu, komunitas, dan perusahaan yang berniat untuk mempelajari bagaimana menjalankan dan berkontribusi pada proyek Open Source.
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Hal yang diperbolehkan dan tidak diperbolehkan di GitHub.
-- [GitHub Guides](https://guides.github.com/) - Pengantar dasar dalam pengunaan GitHub secara efektif.
+- [GitHub Guides](https://docs.github.com/) - Pengantar dasar dalam pengunaan GitHub secara efektif.
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Pelajari alur kerja GitHub dengan berkontribusi ke proyek simulasi.
 - [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Pengantar yang dibuat oleh Linux Foundation mengenai proyek Open Source.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - Sebuah buku pengantar etiket dalam berkontribusi ke Open Source, ditulis oleh Kent C. Dodds dan Sarah Drasner.
@@ -82,7 +82,7 @@ Link pencarian yang mengarah langsung ke _issue_ yang sesuai untuk berkontribusi
 
 ## Ekosistem Kontributor Mozilla
 
-- [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - Kumpulan bug yang telah diidentifikasi oleh para pengembang perangkat lunak dan baik digunakan sebagai pengenalan pada proyek.
+- [Good First Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22[good%20first%20bug]%22&limit=0) - Kumpulan bug yang telah diidentifikasi oleh para pengembang perangkat lunak dan baik digunakan sebagai pengenalan pada proyek.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/MDN/Contribute) - Membantu tim dokumentasi laman MDN untuk mendokumentasikan halaman web dengan memperbaiki isu pada konten dan bug.
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - Berisi kumpulan bug yang dipedomankan oleh mentor dan mereka nantinya membantu anda untuk memperbaiki bug jika anda merasa kesulitan.
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - Sebuah situs web yang didedikasikan untuk menemukan bug pada bugzilla.
@@ -99,8 +99,8 @@ Link pencarian yang mengarah langsung ke _issue_ yang sesuai untuk berkontribusi
 - [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) ditulis oleh [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) ditulis oleh [@GitHub](https://github.com/github)
 - [How to Find a Bug in Your Code](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) ditulis oleh [@dougbradbury](https://twitter.com/dougbradbury)
-- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) ditulis oleh [@GitHub](https://github.com/github)
-- [First mission: Contributors page](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) ditulis oleh [@forCrowd](https://github.com/forCrowd)
+- [Mastering Markdown](https://docs.github.com/features/mastering-markdown/) ditulis oleh [@GitHub](https://github.com/github)
+- [First mission: Contributors page](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) ditulis oleh [@forCrowd](https://github.com/forCrowd)
 - [How to make your first Open Source contribution in just 5 minutes](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) ditulis oleh [@roshanjossey](https://github.com/Roshanjossey/)
 - [Hacktoberfest 2019: How you can get your free shirt — even if you’re new to coding](https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b/) ditulis oleh [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
 - [A Bitter Guide To Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) ditulis oleh [@ken_wheeler](https://medium.com/@ken_wheeler)
@@ -108,7 +108,7 @@ Link pencarian yang mengarah langsung ke _issue_ yang sesuai untuk berkontribusi
 - [Learn Git and GitHub Step By Step (on Windows)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) ditulis oleh [@ows-ali](https://medium.com/@ows_ali)
 - [Why Open Source and How?](https://careerkarma.com/blog/open-source-projects-for-beginners/) ditulis oleh [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
 - [How to get started with Open Source - Ditulis oleh Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/)
-- [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) ditulis oleh Kent C. Dodds
+- [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to) ditulis oleh Kent C. Dodds
 - [An immersive introductory guide to Open-source](https://developeraspire.hashnode.dev/an-immersive-introductory-guide-to-open-source) ditulis oleh [Franklin Okolie](https://twitter.com/DeveloperAspire)
 - [Getting started with contributing to open source](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/) ditulis oleh [Zara Cooper](https://stackoverflow.blog/author/zara-cooper/)
 - [Beginner's guide to open-source contribution](https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj) ditulis oleh [Sudipto Ghosh](https://github.com/pydevsg)
@@ -117,7 +117,7 @@ Link pencarian yang mengarah langsung ke _issue_ yang sesuai untuk berkontribusi
 ## Menggunakan Version Control
 
 - [Think Like (a) Git](https://think-like-a-git.net/) - Pengenalan Git untuk pemula tingkat lanjut yang masih kesulitan agar dapat mempelajari strategi yang simpel untuk bereksperimen dengan Git secara aman.
-- [Try Git](https://try.github.io/) - Belajar Git dalam 15 menit dari Browser secara gratis.
+- [Try Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - Belajar Git dalam 15 menit dari Browser secara gratis.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Kumpulan perintah yang berguna untuk pemakaian Git dalam sehari-hari.
 - [Oh shit, git!](https://ohshitgit.com/) - bagaimana cara menghindari kesalahan umum saat mengunakan `git`, dideskripsikan dalam Bahasa Inggris; baca juga [Dangit, git!](https://dangitgit.com/) untuk situs web tanpa kata kasar.
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) - Berbagai petunjuk dalam menggunakan `git`.

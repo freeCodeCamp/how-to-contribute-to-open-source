@@ -63,7 +63,7 @@ Jeżeli masz jakiekolwiek pytania bądź komentarz stwórz odpowiedni Issue *(an
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - repozytorium na GitHubie, które gromadzi projekty z dobrymi bugami dla początkujących kontrybutorów i stosuje etykiety do ich opisywania.
 - [Open Source Guides](https://opensource.guide/) - Zbiór poradników dla wszystkich, którzy chcą się nauczyć, jak kontrybuować do projektów otwartego oprogramowania.
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Co robić i czego nie robić na GitHubie.
-- [GitHub Guides](https://guides.github.com/) - Podstawowy poradnik jak używać GitHuba efektywnie.
+- [GitHub Guides](https://docs.github.com/) - Podstawowy poradnik jak używać GitHuba efektywnie.
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) -  Naucz się jak działa GitHub poprzez kontrybuowanie do projektów symulowanych.
 - [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Poradnik od Fundacji Linuxa dla projektów otwartego oprogramowania.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - Przewodnik po otwartym oprogramowaniu napisany przez Kent C. Dodds i Sarah Drasner.
@@ -90,7 +90,7 @@ Linki wyszukiwania które wskazują na kwestie skierowane dla początkujących. 
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
 ## Środowisko kontrybucji Mozilli
-- [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - bugi, które programiści uznali za dobre wprowadzenie do projektu
+- [Good First Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22[good%20first%20bug]%22&limit=0) - bugi, które programiści uznali za dobre wprowadzenie do projektu
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugi które mają przypisanego mentora, który będzie na IRC aby pomóc ci, kiedy utkniesz podczas naprawiania tego błędu.
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - Strona dedykowana do znajdowania błędów na Bugzilli.
 - [Firefox DevTools](http://firefox-dev.tools/) - Strona dedykowania do znajdowania błędów dla profesjonalnych narzędzi przeznaczonych na przeglądarkę Firefox.
@@ -106,8 +106,8 @@ Linki wyszukiwania które wskazują na kwestie skierowane dla początkujących. 
 - [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
 - [How to Find a Bug in Your Code](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
-- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) by [@GitHub](https://github.com/github)
-- [First mission: Contributors page](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
+- [Mastering Markdown](https://docs.github.com/features/mastering-markdown/) by [@GitHub](https://github.com/github)
+- [First mission: Contributors page](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
 - [How to make your first Open Source contribution in just 5 minutes](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) by [@roshanjossey](https://github.com/Roshanjossey/)
 - [Hacktoberfest 2019: How you can get your free shirt — even if you’re new to coding](https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b/) by [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
 - [A Bitter Guide To Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
@@ -115,13 +115,13 @@ Linki wyszukiwania które wskazują na kwestie skierowane dla początkujących. 
 - [Learn Git and GitHub Step By Step (on Windows)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) by [@ows-ali](https://medium.com/@ows_ali)
 - [Why Open Source and How?](https://careerkarma.com/blog/open-source-projects-for-beginners/) by [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
 - [How to get started with Open Source - By Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/)
-- [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) by Kent C. Dodds
+- [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to) by Kent C. Dodds
 
 ## Używanie kontroli wersji
 - [Wprowadzenie do kontroli wersji](https://git-scm.com/book/pl/v2/Pierwsze-kroki-Wprowadzenie-do-kontroli-wersji) **[PL]**
 - [Poradnik dla chcących poznaćsystem kontroli wersji](https://microgeek.eu/viewtopic.php?t=852) **[PL]**
 - [Think Like (a) Git](https://think-like-a-git.net/) - Wstęp do systemu kontroli wersji Git dla ,,zaawansowanych początkujących'', którzy ciąglę napotykają się na  problemy. Głównym celem jest przedstawienie prostej strategii eksperymentowania z gitem. 
-- [Try Git](https://try.github.io/) - Naucz się Gita w 15 minut ze swojej przeglądarki za darmo.
+- [Try Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - Naucz się Gita w 15 minut ze swojej przeglądarki za darmo.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Uzyteczny minimalny zbiór komend potrzebnych do codziennego używania Gita.
 - [Oh shit, git!](https://ohshitgit.com/) - Jak rozwiązać pospolite problemy, które możęsz napotkać podczas używania gita. Zobacz również [Dangit, git!](https://dangitgit.com/) stronę bez przekleństw.
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) - Różne poradniki o używaniu systemu kontroli wersji Git.

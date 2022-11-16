@@ -55,7 +55,7 @@ Wenn du Fragen oder Kommentare hast, eröffne bitte ein neues Issue.
 - [Open Source Guides](https://opensource.guide/) - eine Sammlung von Materialien für Einzelpersonen, Gruppen und Unternehmen, die lernen wollen, wie man
   Open-Source-Projekte selbst erstellt oder zu ihnen beiträgt.
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Regeln für das Verhalten auf GitHub
-- [GitHub Guides](https://guides.github.com/) - grundsätzliche Einführungen zur effizienten Nutzung von GitHub.
+- [GitHub Guides](https://docs.github.com/) - grundsätzliche Einführungen zur effizienten Nutzung von GitHub.
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Die GitHub-Arbeitsweise lernen durch Beiträge für ein simuliertes Tutorial-Projekt.
 - [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Die Einführung der Linux
   Foundation in Open-Source-Projekte.
@@ -84,7 +84,7 @@ Suchbegriffe, die direkt auf für Einsteiger\*innen geeignete Issues auf GitHub 
 
 ## Mozillas Open-Source-Ökosystem
 
-- [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - Bugs, die Entwickler\*innen als gute Einstiegsübungen zum Mozilla-Projekt
+- [Good First Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22[good%20first%20bug]%22&limit=0) - Bugs, die Entwickler\*innen als gute Einstiegsübungen zum Mozilla-Projekt
   ansehen.
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - Bugs, die von Mentor\*innen betreut werden, welche dir helfen, wenn du bei
   der Behebung des Bugs nicht mehr weiterkommst.
@@ -103,8 +103,8 @@ Suchbegriffe, die direkt auf für Einsteiger\*innen geeignete Issues auf GitHub 
 - [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) von [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) von [@GitHub](https://github.com/github)
 - [How to Find a Bug in Your Code](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) von [@dougbradbury](https://twitter.com/dougbradbury)
-- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) von [@GitHubGuides](https://guides.github.com/)
-- [First mission: Contributors page](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) von [@forCrowd](https://github.com/forCrowd)
+- [Mastering Markdown](https://docs.github.com/features/mastering-markdown/) von [@GitHubGuides](https://docs.github.com/)
+- [First mission: Contributors page](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) von [@forCrowd](https://github.com/forCrowd)
 - [How to make your first Open Source contribution in just 5 minutes](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) von [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
 - [Hacktoberfest 2018: How you can get your free shirt — even if you’re new to coding](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) von [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
 - [A Bitter Guide To Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) von [@ken_wheeler](https://medium.com/@ken_wheeler)
@@ -115,7 +115,7 @@ Suchbegriffe, die direkt auf für Einsteiger\*innen geeignete Issues auf GitHub 
 
 - [Think Like (a) Git](https://think-like-a-git.net/) - Git-Einführung für "Fortgeschrittene Anfänger\*innen", welche ihnen eine Strategie an die Hand gibt, um
   problemlos und sicher mit Git zu experimentieren.
-- [Try Git](https://try.github.io/) - Git lernen innerhalb von fünfzehn Minuten aus dem Browser heraus, kostenlos.
+- [Try Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - Git lernen innerhalb von fünfzehn Minuten aus dem Browser heraus, kostenlos.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Eine hilfreiche Minimalversion der grundsätzlichsten Git-Kommandos.
 - [Oh shit, git!](http://ohshitgit.com/) - wie man die typischsten Git-Fehler vermeidet.
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/) - zahlreiche Tutorials über die Nutzung von `git`.

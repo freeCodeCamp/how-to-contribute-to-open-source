@@ -49,7 +49,7 @@ Dacă aveți întrebări sau comentarii, vă rugăm să creați o problemă (iss
 - [Minunat pentru începători(Awesome-for-beginners)](https://github.com/MunGell/awesome-for-beginners) - un depozit (repo) GitHub care îmbogățește proiectele cu erori/bug-uri bune pentru noii colaboratori și aplică etichete pentru a le descrie.
 - [Ghiduri cu surse deschise (Open Source)](https://opensource.guide/) - Colecție de resurse pentru persoane fizice, comunități și companii care doresc să învețe cum să ruleze și să contribuie la un proiect open source.
 - [45 Github probleme Pro și Contra](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Pro și Contra pe GitHub.
-- [Ghiduri GitHub](https://guides.github.com/) - ghiduri de bază privind utilizarea eficientă a GitHub-ului.
+- [Ghiduri GitHub](https://docs.github.com/) - ghiduri de bază privind utilizarea eficientă a GitHub-ului.
 - [Primele Contribuții](https://firstcontributions.github.io/) - Faceți prima dvs. contribuție la open source în 5 minute. Un instrument și un tutorial pentru a ajuta începătorii să înceapă contribuțiile.
 - [Contribuiți la Open Source](https://github.com/danthareja/contribute-to-open-source) - Aflați fluxul de lucru GitHub contribuind la codul unui proiect de simulare.
 - [Ghidul open source al Fundației Linux pentru întreprinderi](https://www.linuxfoundation.org/resources/open-source-guides/) - Ghidul Fundației Linux pentru proiecte cu sursă deschisă (open source).
@@ -67,7 +67,7 @@ Căutați linkuri care indică direct problemele potrivite pentru a contribui la
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs) disponibile
 
 ## Ecosistemul contributorului Mozilla
-- [Erori/Bug-uri bune pentru început](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - bug-uri pe care programatorii le-au identificat ca o bună introducere în proiect.
+- [Erori/Bug-uri bune pentru început](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22[good%20first%20bug]%22&limit=0) - bug-uri pe care programatorii le-au identificat ca o bună introducere în proiect.
 - [Bug-uri mentorate](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bug-uri care au un mentor desemnat care va fi acolo pe IRC pentru a vă ajuta atunci când rămâneți blocați în timp ce lucrați pentru al fixa.
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - un site dedicat găsirii de bug-uri pe Bugzilla.
 - [Firefox instrumente pentru programatori (DevTools)](http://firefox-dev.tools/) - un site dedicat erorilor indexate pentru instrumentele de programare din browserul Firefox.
@@ -82,14 +82,14 @@ Căutați linkuri care indică direct problemele potrivite pentru a contribui la
 - ["Intrarea în Open Source pentru prima dată"](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) de către [@mcdonnelldean](https://github.com/mcdonnelldean)
 - ["Cum să contribuiți la Open Source"](https://opensource.guide/how-to-contribute/) de către [@GitHub](https://github.com/github)
 - ["Cum să găsești un bug în codul tău"](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) de către [@dougbradbury](https://twitter.com/dougbradbury)
-- ["Stăpânirea Markdown-ului"](https://guides.github.com/features/mastering-markdown/) de către [@GitHubGuides](https://guides.github.com/)
-- ["Prima misiune: pagina contribuitorilor"](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) de către [@forCrowd](https://github.com/forCrowd)
+- ["Stăpânirea Markdown-ului"](https://docs.github.com/features/mastering-markdown/) de către [@GitHubGuides](https://docs.github.com/)
+- ["Prima misiune: pagina contribuitorilor"](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) de către [@forCrowd](https://github.com/forCrowd)
 - ["Cum să faceți prima dvs. contribuție open source în doar 5 minute"](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) de către [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
 - ["Hacktoberfest 2018: Cum poți câștiga un tricou gratis - chiar dacă ești nou la programare"](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) de către [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
 
 ## Utilizarea controlului versiunii (version control)
 - [Gandește ca (un) stupid (Git)](https://think-like-a-git.net/) - Introducerea la Git pentru „începătorii avansați“, dar care încă mai au probleme, cu scopul de a vă oferi o strategie simplă pentru a experimenta în siguranță cu git.
-- [Încercați Git](https://try.github.io/) - Învață Git în 15 minute din browser-ul tău gratuit.
+- [Încercați Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - Învață Git în 15 minute din browser-ul tău gratuit.
 - [Git zilmic](https://git-scm.com/docs/giteveryday) - Un set util de comenzi pentru Git zilnic.
 - [Oh shit, git!](http://ohshitgit.com/) - cum să scapi de greșelile comune în "git" descrise în engleză simplă.
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/) - diverse tutoriale despre utilizarea "git"-ului.

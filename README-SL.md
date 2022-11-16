@@ -56,7 +56,7 @@ Tukaj je seznam virov za ljudi, ki so novi pri sodelovanju pri odprtokodnih proj
 - [Odlično za začetnike](https://github.com/MunGell/awesome-for-beginners) - GitHub, ki zbira projekte z dobrimi `bugs` za nove sodelavce in uporablja `labels`, da jih opiše.
 - [Odprtokodni vodiči](https://opensource.guide/) - Zbirka virov za posameznike, skupnosti in podjetja, ki se želijo naučiti voditi in prispevati k odprtokodnemu projektu.
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Kaj JA in kaj NE na GitHubu.
-- [GitHub vodiči](https://guides.github.com/) - Osnovni vodiči kako uporabljati GitHub učinkovito.
+- [GitHub vodiči](https://docs.github.com/) - Osnovni vodiči kako uporabljati GitHub učinkovito.
 - [Prispevanje odprtokodnim projektom](https://github.com/danthareja/contribute-to-open-source) - Naučite se delovnega poteka GitHub tako, da prispevate kodo k simulacijskemu projektu.
 - [Odprtokodni vodniki za podjetja Linux Foundation](https://www.linuxfoundation.org/resources/open-source-guides/) - Vodniki Fundacije Linux za odprtokodne projekte.
 - [CSS triki, odprtokodni vodnik za bonton](https://css-tricks.com/open-source-etiquette-guidebook/) - Odprtokodni vodnik po bontonu, ki sta ga napisala Kent C. Dodds in Sarah Drasner.
@@ -73,7 +73,7 @@ Tukaj je seznam virov za ljudi, ki so novi pri sodelovanju pri odprtokodnih proj
 - ["Opensoure-4-everyone" by Chryz-hub ](https://github.com/chryz-hub/opensource-4-everyone) - `Repo` za vse, kar je povezano z odprtokodnimi projekti. To je projekt, ki pomaga pri prepoznavnosti članstva v GitHubu, vaditi z osnovnimi in naprednimi ukazi git, začeti z odprtokodnim projekti in še več.
 - ["Open Advice"](http://open-advice.org/) - Zbirka znanja iz najrazličnejših projektov brezplačne programske opreme. Odgovarja na vprašanje, kaj bi 42 uglednih sodelavcev želelo vedeti, ko so začeli, da bi lahko dobili prednost, ne glede na to, kako in kje prispevate.
 - ["GitHub Learning Lab"](https://lab.github.com/) - Izboljšajte svoje sposobnosti z GitHub Learning Lab. Naš prijazen bot vas bo popeljal skozi vrsto zabavnih, praktičnih projektov, da se boste v kratkem času naučili veščin, ki jih potrebujete, in ob tem delil koristne povratne informacije.
-- ["Ten simple rules for helping newcomers become contributors to open projects"](https://doi.org/10.1371/journal.pcbi.1007296) - Ta članek zajema pravila, ki temeljijo na študijah številnih skupnosti in izkušnjah članov, voditeljev in opazovalcev.
+- ["Ten simple rules for helping newcomers become contributors to open projects"](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007296) - Ta članek zajema pravila, ki temeljijo na študijah številnih skupnosti in izkušnjah članov, voditeljev in opazovalcev.
 - ["Step-by-Step guide to contributing on GitHub"](https://www.dataschool.io/how-to-contribute-on-github/) - vodnik po korakih s podpornimi vizualnimi elementi in povezavami glede celotnega procesa prispevanja k odprtokodnemu projektu.
 
 ## Neposredni GitHub zadetki
@@ -93,7 +93,7 @@ Povezave, ki neposredno usmerjajo na primerne `issues`, s katerim lahko prispeva
 
 ## Mozilla ekosistem prispevanja
 
-- [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - `bugs` ki so jih razvijalci prepoznali kot dober uvod v projekt.
+- [Good First Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22[good%20first%20bug]%22&limit=0) - `bugs` ki so jih razvijalci prepoznali kot dober uvod v projekt.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/MDN/Contribute) - pomagajte skupini MDN Web Docs pri dokumentiranju spletne platforme, tako da odpravite težave z vsebino in napake platforme.
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - `bugs` ki imajo dodeljenega mentorja, ki vam bo pomagal, ko se vam zatakne med delom na popravku.
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - spletno mesto, namenjeno iskanju `bugs` na Bugzilli.
@@ -110,8 +110,8 @@ Povezave, ki neposredno usmerjajo na primerne `issues`, s katerim lahko prispeva
 - [Prvič z odprtokodnimi programi](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [Kako prispevati k odprtokodnim projektom](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
 - [Kako najti napake v svoji kodi](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
-- [Obvladovanje Markdowna](https://guides.github.com/features/mastering-markdown/) by [@GitHub](https://github.com/github)
-- [Prva misija: stran za sodelavce](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
+- [Obvladovanje Markdowna](https://docs.github.com/features/mastering-markdown/) by [@GitHub](https://github.com/github)
+- [Prva misija: stran za sodelavce](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
 - [Kako narediti svoj prvi odprtokodni prispevek v samo 5 minutah](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) by [@roshanjossey](https://github.com/Roshanjossey/)
 - [Pravkar sem dobil svojo brezplačno majico Hacktoberfest. Tukaj je hiter način, kako lahko dobite svojo.](https://www.freecodecamp.org/news/i-just-got-my-free-hacktoberfest-shirt-heres-a-quick-way-you-can-get-yours-fa78d6e24307/) by [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
 - [Grenak vodnik za odprto kodo](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
@@ -119,7 +119,7 @@ Povezave, ki neposredno usmerjajo na primerne `issues`, s katerim lahko prispeva
 - [Naučite se Git in GitHub korak za korakom (v sistemu Windows)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) by [@ows-ali](https://ows-ali.medium.com/)
 - [Zakaj odprtokodna in kako?](https://careerkarma.com/blog/open-source-projects-for-beginners/) by [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
 - [Kako začeti z odprto kodo - avtor Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/)
-- [Katerim odprtokodnim projektom prispevati?](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) by [@kentcdodds](https://github.com/kentcdodds)
+- [Katerim odprtokodnim projektom prispevati?](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to) by [@kentcdodds](https://github.com/kentcdodds)
 - [Poglobljeni uvodni vodnik za odprtokodno](https://developeraspire.hashnode.dev/an-immersive-introductory-guide-to-open-source) by [Franklin Okolie](https://twitter.com/DeveloperAspire)
 - [Začetek s prispevanjem k odprtokodnemu](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/) by [Zara Cooper](https://stackoverflow.blog/author/zara-cooper/)
 - [Vodnik za začetnike za odprtokodni prispevek](https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj) by [Sudipto Ghosh](https://github.com/pydevsg)
@@ -129,14 +129,14 @@ Povezave, ki neposredno usmerjajo na primerne `issues`, s katerim lahko prispeva
 ## Uporabljanje Version Control
 
 - [Think Like (a) Git](https://think-like-a-git.net/) - Git uvod za "napredne začetnike", da bi vam ponudili preprosto strategijo za varno eksperimentiranje z git.
-- [Try Git](https://try.github.io/) - Brezplačno se naučite Git v 15 minutah v svojem brskalniku.
+- [Try Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - Brezplačno se naučite Git v 15 minutah v svojem brskalniku.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Uporaben minimalni nabor ukazov za vsakodnevni Git.
 - [Oh shit, git!](https://ohshitgit.com/) - kako se znebiti pogostih `git` napak, opisanih v preprosti angleščini; glej tudi [Dangit, git!](https://dangitgit.com/) za stran brez kletvic.
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) - različni vodiči kako uporabljati `git`.
 - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
 - [freeCodeCamp's Wiki on Git Resources](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
 - [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - GitHub govori o tem, kako narediti `pull request`.
-- [GitHub Learning Resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) - Git in GitHub viri za učenje.
+- [GitHub Learning Resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources) - Git in GitHub viri za učenje.
 - [Pro Git](https://git-scm.com/book/en/v2) - Celotna knjiga Pro Git, ki sta jo napisala Scott Chacon in Ben Straub in izdala Apress.
 - [Git-it](https://github.com/jlord/git-it-electron) - Namizna aplikacija Git po korakih.
 - [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - Vodnik o tem, kaj storiti, ko gre kaj narobe.

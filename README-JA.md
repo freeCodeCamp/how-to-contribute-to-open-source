@@ -47,7 +47,7 @@
 - [初心者向けの素晴らしいもの](https://github.com/MunGell/awesome-for-beginners) - オープンソース貢献初心者のために良いバクを蓄えていおり、説明のラベルが付いているレポジトリー
 - [オープンソースガイド](https://opensource.guide/) - オープンソースに貢献の仕方を覚えたい個人、コミュニティ、企業向けのレポジトリーまとめ
 - [GithubのIssuesの45個のすること・してはいけないこと](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - GitHubですること・してはいけないこと
-- [GitHubガイド](https://guides.github.com/) - GitHubを効率的に使用するための基礎ガイド
+- [GitHubガイド](https://docs.github.com/) - GitHubを効率的に使用するための基礎ガイド
 - [オープンソース貢献](https://github.com/danthareja/contribute-to-open-source) - シュミレーションプロジェクトに貢献して、GitHubの作業の流れを学ぼう
 - [Linux Foundationの企業向けオープンソースガイド](https://www.linuxfoundation.org/resources/open-source-guides/) - オープンソースプロジェクトのLinux Foundationガイド
 - [オープンソースでのエチケットガイドブック、CSS裏技](https://css-tricks.com/open-source-etiquette-guidebook/) - Kent C. Dodds と Sarah Drasnerによるオープンソースでのエチケットガイドブック
@@ -67,7 +67,7 @@ Github上での貢献に適切な問題を表示しているリンクを直接�
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
 ## Mozillaの貢献エコシステム
-- [初心者向けバグ](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - 開発者がプロジェクトに良い導入だと認識しているバグ
+- [初心者向けバグ](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22[good%20first%20bug]%22&limit=0) - 開発者がプロジェクトに良い導入だと認識しているバグ
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs that have a mentor assigned who will be there on IRC to help you when you get stuck while working on fix.
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - Bugzillaでバグをさがすための献身的なサイト
 - [Firefox開発者ツールs](http://firefox-dev.tools/) - Firefoxブラウザの開発者ツール用のバグに献身的なサイト
@@ -82,8 +82,8 @@ Github上での貢献に適切な問題を表示しているリンクを直接�
 - [初めてのオープンソース参加](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [オープンソースの貢献方法](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
 - [自分のコードのバグの見つけ方](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
-- [Markdownをマスターする](https://guides.github.com/features/mastering-markdown/) by [@GitHubGuides](https://guides.github.com/)
-- [最初のミッション: 貢献者のページ](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
+- [Markdownをマスターする](https://docs.github.com/features/mastering-markdown/) by [@GitHubGuides](https://docs.github.com/)
+- [最初のミッション: 貢献者のページ](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
 - [たった5分で最初のオープンソース貢献を行う方法](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) by [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
 - [Hacktoberfest 2018: コーディング初心者の人が無料シャツの手に入れる仕方](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) by [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
 - [オープンソースへの辛辣なガイド](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
@@ -92,7 +92,7 @@ Github上での貢献に適切な問題を表示しているリンクを直接�
 
 ## バージョン管理の使用
 - [Gitのように考えよう](https://think-like-a-git.net/) - 少し前進したけどまだ奮闘中の初心者へ、Gitを安全に経験できるための簡単な作戦を与えるためのGit紹介
-- [Gitを使ってみよう](https://try.github.io/) - 無料でブラウザを使って、15分でGitを学ぼう
+- [Gitを使ってみよう](https://docs.github.com/en/get-started/quickstart/set-up-git) - 無料でブラウザを使って、15分でGitを学ぼう
 - [Gitの日々](https://git-scm.com/docs/giteveryday) - 毎日のGit生活のために必要な最低限の役立つコマンド一覧
 - [gitめ…](http://ohshitgit.com/) - gitで良く起こるミスを阻止する方法について、英語で説明
 - [アトラシアン社のGitチュートリアル](https://www.atlassian.com/git/tutorials/) - various tutorials on using `git`.

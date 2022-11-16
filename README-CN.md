@@ -49,7 +49,7 @@
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - 一个GitHub开源库，收集一些对新的贡献来说有不错的Bug进行贡献的工程，并且通过标签来进行描述。
 - [Open Source Guides](https://opensource.guide/) - 为希望学习怎样对开源项目进行贡献的个人，组织和公司收集的资源。
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - 在GitHub上什么该做什么不该做。
-- [GitHub Guides](https://guides.github.com/) -关于如何有效率的使用GitHub的基本指导。
+- [GitHub Guides](https://docs.github.com/) -关于如何有效率的使用GitHub的基本指导。
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - 通过为一个模拟的工程贡献来学习GitHub工作流。
 - [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Linux基金会改于开源项目的指南。
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - 一个开源规则指南, 由 Kent C. Dodds 和 Sarah Drasner 撰写.
@@ -67,7 +67,7 @@
 - ["Opensoure-4-everyone" by Chryz-hub ](https://github.com/chryz-hub/opensource-4-everyone) -一个跟开源有关的repository。这项目帮助Github成员透明度，基本和进阶Git Commands，如何开始开源贡献等等。
 - ["Open Advice"](http://open-advice.org/) - 广泛免费软件计划的知识收集，提供42个杰出貢獻者想一开始就知道的知识，从而帮助你无论何时何地也可以出力贡献。
 - ["GitHub Learning Lab"](https://lab.github.com/) - 用Github学习实验室升级你的Github技术吧！我们友善的机械人会带领你一系列有趣和实制的项目，让你可以增进你的技术和分享有助的回饋。
-- ["Ten simple rules for helping newcomers become contributors to open projects"](https://doi.org/10.1371/journal.pcbi.1007296) - 这文章包含从其他社团，成员经验，领导人和观察者收集回来的开源贡献者规则。
+- ["Ten simple rules for helping newcomers become contributors to open projects"](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007296) - 这文章包含从其他社团，成员经验，领导人和观察者收集回来的开源贡献者规则。
 - ["Step-by-Step guide to contributing on GitHub"](https://www.dataschool.io/how-to-contribute-on-github/) - 一个用视觉和结合一步一步带领你整个开源贡献的步骤
 
 ## GitHub上直接搜索
@@ -84,7 +84,7 @@
 - [is:issue is:open label:your-first-pr](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Ayour-first-pr&type=issues)
 
 ## Mozilla的贡献者生态系统
-- [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - 开发者确认是可以比较好熟悉工程的bug。
+- [Good First Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22[good%20first%20bug]%22&limit=0) - 开发者确认是可以比较好熟悉工程的bug。
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/MDN/Contribute) - 修理内容问题和Bugs，从而帮助MDN网路文件团队记录网路平台。
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - 当你在修复的时候遇到问题会有指定的人通过网上交流的方式为你的提供帮助的bug。
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - 专门发现在Bugzilla上bug的网站。
@@ -100,8 +100,8 @@
 - [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
 - [How to Find a Bug in Your Code](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
-- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) by [@GitHub](https://github.com/github)
-- [First mission: Contributors page](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
+- [Mastering Markdown](https://docs.github.com/features/mastering-markdown/) by [@GitHub](https://github.com/github)
+- [First mission: Contributors page](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
 - [How to make your first Open Source contribution in just 5 minutes](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) by [@roshanjossey](https://github.com/Roshanjossey/)
 - [I just got my free Hacktoberfest shirt. Here’s a quick way you can get yours.](https://www.freecodecamp.org/news/i-just-got-my-free-hacktoberfest-shirt-heres-a-quick-way-you-can-get-yours-fa78d6e24307/) by [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
 - [A Bitter Guide To Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
@@ -109,7 +109,7 @@
 - [Learn Git and GitHub Step By Step (on Windows)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) by [@ows-ali](https://ows-ali.medium.com/)
 - [Why Open Source and How?](https://careerkarma.com/blog/open-source-projects-for-beginners/) by [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
 - [How to get started with Open Source - By Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/)
-- [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) by [@kentcdodds](https://github.com/kentcdodds)
+- [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to) by [@kentcdodds](https://github.com/kentcdodds)
 - [An immersive introductory guide to Open-source](https://developeraspire.hashnode.dev/an-immersive-introductory-guide-to-open-source) by [Franklin Okolie](https://twitter.com/DeveloperAspire)
 - [Getting started with contributing to open source](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/) by [Zara Cooper](https://stackoverflow.blog/author/zara-cooper/)
 - [Beginner's guide to open-source contribution](https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj) by [Sudipto Ghosh](https://github.com/pydevsg)
@@ -119,7 +119,7 @@
 
 ## 使用版本控制
 - [Think Like (a) Git](https://think-like-a-git.net/) - 为“高阶初学者”提供的Git介绍，但是任然在努力为了给你一个简单的策略来安全地体验Git。
-- [Try Git](https://try.github.io/) - 免费在你的浏览器中15分钟内学会使用Git。
+- [Try Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - 免费在你的浏览器中15分钟内学会使用Git。
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - 一个又用的Everyday Git的命令最小集。
 - [Oh shit, git!](http://ohshitgit.com/) - 如何避免一般的用易懂的英语描述的`git`错误。
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/) - 各种各样的使用`git`的教程。

@@ -83,8 +83,8 @@ If you have questions or comments, please create an issue.
 - ["Getting Started with Open Source" by NumFocus](https://github.com/numfocus/getting-started-with-open-source) - a GitHub repo that helps contributors overcome barriers to entry in open-source.
 - ["Opensoure-4-everyone" by Chryz-hub](https://github.com/chryz-hub/opensource-4-everyone) - A repository on everything related to open source. This is a project to help with GitHub membership visibility, practice with basic and advance git commands, getting started with open source, and more.
 - ["Open Advice"](http://open-advice.org/) - Knowledge collection from a wide variety of Free Software projects. It answers the question what 42 prominent contributors would have liked to know when they started so you can get a head-start no matter how and where you contribute.
-- ["GitHub Skills"](https://skills.github.com) - Level up your skills with GitHub Skills. Our friendly bot will take you through a series of fun, practical projects to learn the skills you need in no time—and share helpful feedback along the way.
-- ["Ten simple rules for helping newcomers become contributors to open projects"](https://doi.org/10.1371/journal.pcbi.1007296) - This article covers rules based on studies of many communities and experiences of members, leaders, and observers.
+- ["GitHub Skills"](https:/https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007296/skills.github.com) - Level up your skills with GitHub Skills. Our friendly bot will take you through a series of fun, practical projects to learn the skills you need in no time—and share helpful feedback along the way.
+- ["Ten simple rules for helping newcomers become contributors to open projects"]() - This article covers rules based on studies of many communities and experiences of members, leaders, and observers.
 - ["Step-by-Step guide to contributing on GitHub"](https://www.dataschool.io/how-to-contribute-on-github/) - a step-by-step guide with supporting visuals and links regarding the whole process of contributing to an open source project.
 - [Open Source with Pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna) - This repo contains resources and materials to learn and get yourself started with Open Source, Git, and GitHub.
 - ["FOSS Community Acronyms"](https://github.com/d-edge/foss-acronyms) - This repo contains a list of abbreviations used within the FOSS (Free and Open Source) community, along with their definitions and usages.
@@ -124,12 +124,12 @@ If you have questions or comments, please create an issue.
 > Helpful articles and blogs directed at new contributors on how to get started.
 
 - [Finding ways to contribute to open source on GitHub](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github) by [@GitHub](https://github.com/github)
-- [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) by [@GitHub]
+- [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/collections)<!--this link need to change-->
 - [How to find your first Open Source bug to fix](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) by [@Shubheksha](https://github.com/Shubheksha)
 - [First Timers Only](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
 - [Bring Kindness Back to Open Source](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) by [@shanselman](https://github.com/shanselman)
 - [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
-- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) by [@GitHub]
+- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github/opensource.guide)
 - [How to Find a Bug in Your Code](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
 - [Mastering Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) by [@GitHub]
 - [First mission: Contributors page](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705) by [@forCrowd](https://github.com/forCrowd)

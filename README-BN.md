@@ -57,7 +57,7 @@
 - [নতুনদের জন্য দুর্দান্ত](https://github.com/MunGell/awesome-for-beginners) - একটি গিটহাব রিপোসিটোরি যা নতুন অবদানকারীদের জন্য ভাল বাগ সহ প্রকল্পগুলিকে সংগ্রহ করে এবং সেগুলি বর্ণনা করার জন্য লেবেল প্রয়োগ করে।
 - [ওপেন সোর্স নির্দেশিকা](https://opensource.guide/) - কোনও ওপেন সোর্স প্রকল্প কীভাবে চালনা এবং প্রকল্পগুলোতে অবদান রাখতে হয় তা শিখতে চায় এমন ব্যক্তি, সম্প্রদায় এবং সংস্থাগুলির জন্য সংস্থান সংগ্রহ।
 - [৪৫ গিটহাব ইস্যু : কি করবেন এবং কি করবেন না](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - গিটহাবে কি করবেন এবং কি করবেন না।
-- [গিটহাব নির্দেশিকা](https://guides.github.com/) - কীভাবে গিটহাবকে কার্যকরভাবে ব্যবহার করতে হবে তার প্রাথমিক নির্দেশিকা। 
+- [গিটহাব নির্দেশিকা](https://docs.github.com/) - কীভাবে গিটহাবকে কার্যকরভাবে ব্যবহার করতে হবে তার প্রাথমিক নির্দেশিকা। 
 - [ওপেন সোর্সে অবদান](https://github.com/danthareja/contribute-to-open-source) - সিমুলেশন প্রকল্পে কোড কন্ট্রিবিউট করার মাধ্যমে গিটহাব ওয়ার্কফ্লো শিখুন।
 - [লিনাক্স ফাউন্ডেশন কর্তৃক এন্টারপ্রাইজের জন্য ওপেন সোর্স নির্দেশিকা ](https://www.linuxfoundation.org/resources/open-source-guides/) - ওপেন সোর্স প্রকল্পের জন্য লিনাক্স ফাউন্ডেশনের নির্দেশিকা।
 - [CSS ট্রিকস: একটি ওপেন সোর্স শিষ্টাচার শেখার গাইড বই](https://css-tricks.com/open-source-etiquette-guidebook/) - ক্যান্ট সি ডড্ডস এবং সারাহ ড্র্যাসনারের লিখিত একটি ওপেন সোর্স শিষ্টাচার গাইডবুক।
@@ -74,7 +74,7 @@
 - [Chryz-hub দ্বারা রচিত "সবার জন্য ওপেনসোর্স"](https://github.com/chryz-hub/opensource-4-everyone) - ওপেন সোর্স এর সকল তথ্য নিয়ে গঠিত একটি রিপোজিটরি। এখানে গিটহাবের সদস্য নিয়ে, গিট এর বেসিক থেকে এডভান্সড লেভেল পর্যন্ত আলোচনা, ওপেন সোর্সে কাজ শুরু করার জন্য কি কি করতে হবে তার সবকিছু নিয়েই বিস্তারিত আলোচনা করা হয়েছে।
 - [মুক্ত উপদেশ](http://open-advice.org/) - অনেকগুলো বিনামূল্যে দেয়া সফটওয়্যার প্রজেক্ট থেকে নিয়ে এই উপদেশ ভান্ডার গঠিত। ৪২ জন দক্ষ কনট্রিবিউটররা কি জানতে চান, তারা যে ধরণের প্রজেক্টেই কনট্রিবিউট করতে চান না কেন সবকিছুর ক্ষেত্রেই এসব কাজে লাগবে।
 - ["গিটহাব শেখার ল্যাব"](https://lab.github.com/) - গিটহাব এর শেখার ল্যাব থেকে আপনার স্কিল ডেভলাপ করতে পারবেন। আমাদের বন্ধুসুলভ বট গুলো আনন্দের সাথে বিভিন্ন প্র্যাকটিকাল প্রজেক্টে কাজ করানোর মাধ্যমে আপনাকে অনেক কিছু শেখাবে। আপনি এসব শেখার সাথে আপনার মূল্যবান মতামত ও প্রদান করতে পারবেন।
-- ["নতুন কনট্রিবিউটরদের নতুন প্রজেক্টে কনট্রিবিউট করাকালীন গুরুত্তপূর্ণ ১০ টি নিয়ম"](https://doi.org/10.1371/journal.pcbi.1007296) - বিভিন্ন কমিউনিটির সদস্য সংখ্যা, দলনেতা সহ বিভিন্ন কিছুর সাথে মিল রেখে বেশ কিছু সাজেশন দিয়ে থাকে এই আর্টিকেলটি।
+- ["নতুন কনট্রিবিউটরদের নতুন প্রজেক্টে কনট্রিবিউট করাকালীন গুরুত্তপূর্ণ ১০ টি নিয়ম"](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007296) - বিভিন্ন কমিউনিটির সদস্য সংখ্যা, দলনেতা সহ বিভিন্ন কিছুর সাথে মিল রেখে বেশ কিছু সাজেশন দিয়ে থাকে এই আর্টিকেলটি।
 - ["গিটহাবে কনট্রিবিউট করার জন্য স্টেপ বাই স্টেপ গাইডলাইন"](https://www.dataschool.io/how-to-contribute-on-github/) - একটি ওপেন সোর্স প্রজেক্টে কাজ করার জন্য বিভিন্ন দরকারী লিংক এবং অন্যান্য রিসোর্স দ্বারা স্টেপ বাই স্টেপ পদ্ধতি বর্ণনা করা আছে।
 
 ## সরাসরি গিটহাব অনুসন্ধান
@@ -91,7 +91,7 @@
 
 ## মজিলায় কনট্রিবিউট করার ইকোসিস্টেম
 
-- [ভাল প্রথম বাগ](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - কিছু বাগ যা ডেভলাপারেরা তাদের প্রজেক্টের জন্য একটি ভাল ভূমিকা হিসাবে চিহ্নিত করেছেন।
+- [ভাল প্রথম বাগ](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22[good%20first%20bug]%22&limit=0) - কিছু বাগ যা ডেভলাপারেরা তাদের প্রজেক্টের জন্য একটি ভাল ভূমিকা হিসাবে চিহ্নিত করেছেন।
 - [এমডিএন ওয়েব বাগ](https://developer.mozilla.org/en-US/docs/MDN/Contribute) - কনটেন্ট ইস্যু এবং প্লাটফর্মে থাকা বাগ গুলো ফিক্স করার মাধ্যমে এমডিএন এর ওয়েব ডক্স টীমকে সাহায্য করতে পারেন।
 - [মেন্টরড বাগ](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - কিছু বাগ যাদের জন্য একজন পরামর্শদাতা নিয়োগ পেয়েছেন যিনি IRC-তে থাকবেন এবং যখন আপনি কোনও কাজ করার সময় আটকে পড়লে আপনাকে তিনি সহায়তা করবেন।
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - Bugzilla-তে বাগ অনুসন্ধান করার জন্য উত্সর্গীকৃত একটি সাইট।
@@ -108,8 +108,8 @@
 - [প্রথমবারের জন্য ওপেন সোর্সে প্রবেশ করা](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [ওপেন সোর্সে কীভাবে অবদান রাখবেন](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
 - [আপনার কোডে কীভাবে কোনও বাগ খুঁজে পাবেন](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
-- [মার্কডাউন প্রভুত্ব করুন](https://guides.github.com/features/mastering-markdown/) by [@GitHub](https://github.com/github)
-- [প্রথম মিশন: কন্ট্রিবিউটরদের পৃষ্ঠা](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
+- [মার্কডাউন প্রভুত্ব করুন](https://docs.github.com/features/mastering-markdown/) by [@GitHub](https://github.com/github)
+- [প্রথম মিশন: কন্ট্রিবিউটরদের পৃষ্ঠা](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
 - [মাত্র ৫ মিনিটে কীভাবে আপনার প্রথম ওপেন সোর্স অবদান রাখবেন](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) by [@roshanjossey](https://github.com/Roshanjossey/)
 - [Hacktoberfest 2019: আপনি কীভাবে আপনার ফ্রি শার্টটি পেতে পারেন - আপনি কোডিংয়ে নতুন হয়ে থাকলেও](https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b/) by [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
 - [ওপেন সোর্সের জন্য তিক্ত গাইড](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
@@ -117,7 +117,7 @@
 - [গিট এবং গিটহাব ধাপে ধাপে শিখুন (উইন্ডোজে)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) by [@ows-ali](https://medium.com/@ows_ali)
 - [কেন ওপেন সোর্স এবং কিভাবে?](https://careerkarma.com/blog/open-source-projects-for-beginners/) by [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
 - [ওপেন সোর্স দিয়ে কীভাবে শুরু করবেন - By Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/)
-- [কোন ওপেন সোর্সে আমার অবদান রাখা উচিৎ](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) by [@kentcdodds](https://github.com/kentcdodds)
+- [কোন ওপেন সোর্সে আমার অবদান রাখা উচিৎ](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to) by [@kentcdodds](https://github.com/kentcdodds)
 - [ওপেন সোর্সের জন্য একটি নিমজ্জিত পরিচায়ক নির্দেশিকা](https://developeraspire.hashnode.dev/an-immersive-introductory-guide-to-open-source) by [Franklin Okolie](https://twitter.com/DeveloperAspire)
 - [ওপেন সোর্সে অবদান রাখা শুরু করা](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/) by [Zara Cooper](https://stackoverflow.blog/author/zara-cooper/)
 - [ওপেন সোর্স অবদানের জন্য শিক্ষানবিস গাইড](https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj) by [Sudipto Ghosh](https://github.com/pydevsg)
@@ -128,7 +128,7 @@
 ## ভার্সন কন্ট্রোলের ব্যবহার
 
 - [Think Like (a) Git](https://think-like-a-git.net/) - গিটের সাথে নিরাপদে পরীক্ষা করার জন্য আপনাকে একটি সহজ কৌশল দেওয়ার জন্য "উন্নত সূচনাপ্রাপ্তদের" জন্য গিট-এর পরিচিতি।
-- [Try Git](https://try.github.io/) - আপনার ব্রাউজারের মধ্যে থেকে 15 মিনিটের মধ্যে বিনামূল্যে গিট শিখুন।
+- [Try Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - আপনার ব্রাউজারের মধ্যে থেকে 15 মিনিটের মধ্যে বিনামূল্যে গিট শিখুন।
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - প্রতিদিনের গিটের জন্য একটি কার্যকর সর্বনিম্ন কমান্ডের সেট।
 - [Oh shit, git!](https://ohshitgit.com/) - কীভাবে সরল ইংরেজিতে বর্ণিত সাধারণ `গিট` ভুল থেকে বেরিয়ে আসবেন; শপথ ছাড়াই পৃষ্ঠার জন্য [Dangit, git!] (https://dangitgit.com/) দেখুন।
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) - `গিট` ব্যবহার করার জন্য বিভিন্ন টিউটোরিয়াল।
