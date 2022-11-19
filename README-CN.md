@@ -67,7 +67,7 @@
 - ["Opensoure-4-everyone" by Chryz-hub ](https://github.com/chryz-hub/opensource-4-everyone) -一个跟开源有关的repository。这项目帮助Github成员透明度，基本和进阶Git Commands，如何开始开源贡献等等。
 - ["Open Advice"](http://open-advice.org/) - 广泛免费软件计划的知识收集，提供42个杰出貢獻者想一开始就知道的知识，从而帮助你无论何时何地也可以出力贡献。
 - ["GitHub Learning Lab"](https://lab.github.com/) - 用Github学习实验室升级你的Github技术吧！我们友善的机械人会带领你一系列有趣和实制的项目，让你可以增进你的技术和分享有助的回饋。
-- ["Ten simple rules for helping newcomers become contributors to open projects"](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007296) - 这文章包含从其他社团，成员经验，领导人和观察者收集回来的开源贡献者规则。
+- ["Ten simple rules for helping newcomers become contributors to open projects"](https://dx.plos.org/10.1371/journal.pcbi.1007296) - 这文章包含从其他社团，成员经验，领导人和观察者收集回来的开源贡献者规则。
 - ["Step-by-Step guide to contributing on GitHub"](https://www.dataschool.io/how-to-contribute-on-github/) - 一个用视觉和结合一步一步带领你整个开源贡献的步骤
 
 ## GitHub上直接搜索
