@@ -137,4 +137,4 @@ GitHub இல் பங்களிக்க பொருத்தமான ச�
 - [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests என்பது டிசம்பர் மாதத்தில் திறந்த மூல ஒத்துழைப்பை மேம்படுத்துவதற்கான ஒரு திட்டமாகும்.
 
 ## உரிமம்
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a>Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
