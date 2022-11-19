@@ -117,6 +117,7 @@
 - [গিট এবং গিটহাব ধাপে ধাপে শিখুন (উইন্ডোজে)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) by [@ows-ali](https://medium.com/@ows_ali)
 - [কেন ওপেন সোর্স এবং কিভাবে?](https://careerkarma.com/blog/open-source-projects-for-beginners/) by [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
 - [ওপেন সোর্স দিয়ে কীভাবে শুরু করবেন - By Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/)
+- [কোন ওপেন সোর্সে আমার অবদান রাখা উচিৎ](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) by [@kentcdodds](https://github.com/kentcdodds)
 - [ওপেন সোর্সের জন্য একটি নিমজ্জিত পরিচায়ক নির্দেশিকা](https://developeraspire.hashnode.dev/an-immersive-introductory-guide-to-open-source) by [Franklin Okolie](https://twitter.com/DeveloperAspire)
 - [ওপেন সোর্সে অবদান রাখা শুরু করা](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/) by [Zara Cooper](https://stackoverflow.blog/author/zara-cooper/)
 - [ওপেন সোর্স অবদানের জন্য শিক্ষানবিস গাইড](https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj) by [Sudipto Ghosh](https://github.com/pydevsg)
@@ -157,7 +158,7 @@
 ## ওপেন সোর্স অবদানের উদ্যোগ
 
 - [Up For Grabs](https://up-for-grabs.net/) - প্রারম্ভিক-বন্ধুত্বপূর্ণ সমস্যাগুলির সাথে প্রকল্পগুলি ধারণ করে।
-- [First Contributions](https://firstcontributions.github.io/) - ৫মিনিটের মধ্যে আপনার প্রথম ওপেন সোর্স অবদান রাখুন। অবদানের মাধ্যমে নতুনদের শুরু করতে সহায়তা করার জন্য একটি সরঞ্জাম এবং টিউটোরিয়াল। [এখানে](https://github.com/firstcontributes/first-contributes) সাইটের গিটহাব উৎস কোড রয়েছেএবং এই রিপোসিটোরিতে নিজেই অবদান রাখার সুযোগ নিন।
+- [First Contributions](https://www.firsttimersonly.com/) - ৫মিনিটের মধ্যে আপনার প্রথম ওপেন সোর্স অবদান রাখুন। অবদানের মাধ্যমে নতুনদের শুরু করতে সহায়তা করার জন্য একটি সরঞ্জাম এবং টিউটোরিয়াল। [এখানে](https://github.com/firstcontributes/first-contributes) সাইটের গিটহাব উৎস কোড রয়েছেএবং এই রিপোসিটোরিতে নিজেই অবদান রাখার সুযোগ নিন।
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - ওপেন সোর্স অবদানকে উত্সাহিত করার জন্য একটি প্রোগ্রাম অক্টোবর মাসে কমপক্ষে ৪টি পুল রিকুয়েস্ট করে টি-শার্ট এবং স্টিকারের মতো উপহারগুলি উপার্জন করুন।
 - [24 Pull Requests](https://24pullrequests.com) - ২৪ পুল রিকুয়েস্ট ডিসেম্বরের মাসে ওপেন সোর্স সহযোগিতার প্রচারের জন্য একটি প্রকল্প।
 - [Ovio](https://ovio.org) - অবদানকারী-বান্ধব প্রকল্পগুলির একটি সংযুক্ত নির্বাচনসহ প্ল্যাটফর্ম। এটির একটি [শক্তিশালী সমস্যা অনুসন্ধানের সরঞ্জাম](https://ovio.org/issues) রয়েছে এবং এখানে আপনি পরবর্তী প্রকল্পগুলি এবং সমস্যাগুলি সংরক্ষণ করতে পারবেন।
@@ -168,4 +169,4 @@
 
 ## লাইসেন্স
 
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />এই কাজটি <a>Creative Commons Attribution-ShareAlike 4.0 International License</a>  এর অধীনে লাইসেন্স প্রাপ্ত।
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />এই কাজটি <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>  এর অধীনে লাইসেন্স প্রাপ্ত।
