@@ -78,6 +78,7 @@ Lista de enlaces convenientes para principiantes que apuntan a `issues` en GitHu
 ## Artículos útiles para nuevos colaboradores de código abierto
 - [Cómo elegir (y contribuir en ) tu primer proyecto de código abierto](https://github.com/collections/choosing-projects) por [@GitHub](https://github.com/github)
 - [Cómo encontrar tu primer error de código abierto para solucionar](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) por [@Shubheksha](https://github.com/Shubheksha)
+- [Solo para principiantes](https://kentcdodds.com/blog/first-timers-only) por [@kentcdodds](https://github.com/kentcdodds)
 - [Trayendo de vuelta la amabilidad al código abierto](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) por [@shanselman](https://github.com/shanselman)
 - [Entrando en el código abierto por primera vez](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) por [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [Cómo contribuir al código abierto](https://opensource.guide/how-to-contribute/) por [@GitHub](https://github.com/github/docs)

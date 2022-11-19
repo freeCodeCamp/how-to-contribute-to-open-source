@@ -87,6 +87,7 @@ Si vous avez des questions ou commentaires, veuillez créer un ticket.
 > Blogues et articles qui aident les nouveaux arrivés à faire leurs premières contributions.
 - [Comment choisir (et contribuer à) votre premier projet Open Source](https://github.com/collections/choosing-projects) par [@GitHub](https://github.com/github)
 - [Comment trouver votre premier bug Open Source à résoudre](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) par [@Shubheksha](https://github.com/Shubheksha)
+- [Novices exclusivement](https://kentcdodds.com/blog/first-timers-only) par [@kentcdodds](https://github.com/kentcdodds)
 - [Ramenons la gentillesse dans l'Open Source](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) par [@shanselman](https://github.com/shanselman)
 - [Aborder l'Open Source pour la première fois](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) par [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [Comment contribuer à l'Open Source](https://opensource.guide/how-to-contribute/) par [@GitHub](https://github.com/github/opensource.guide)
