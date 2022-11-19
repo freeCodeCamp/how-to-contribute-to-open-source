@@ -137,4 +137,4 @@
 - [24 Pull Requests](https://24pullrequests.com) -24 पुल अनुरोध दिसंबर महीने के दौरान ओपन सोर्स सहयोग को बढ़ावा देने के लिए एक परियोजना है।
 
 ## लाइसेंस
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />इस काम के तहत लाइसेंस प्राप्त है। <a>क्रिएटिव कॉमन्स एट्रिब्यूशन-शेयरअलाइल 4.0 इंटरनेशनल लाइसेंस</a>।
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />इस काम के तहत लाइसेंस प्राप्त है। <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">क्रिएटिव कॉमन्स एट्रिब्यूशन-शेयरअलाइल 4.0 इंटरनेशनल लाइसेंस</a>।

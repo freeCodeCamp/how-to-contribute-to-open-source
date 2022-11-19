@@ -139,5 +139,4 @@ Cari pautan yang mengarahkan secara langsung kepada masalah yang sesuai untuk di
 - [24 Pull Requests](https://24pullrequests.com) - 24 permintaan tarik('pull request') adalah projek untuk mempromosikan kolaborasi Sumber Terbuka pada bulan Disember.
 
 ## Lesen
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />Kerja ini dilesen dan dibawah hak cipta <a>Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />Kerja ini dilesen dan dibawah hak cipta <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.

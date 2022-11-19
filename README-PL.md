@@ -155,4 +155,4 @@ Linki wyszukiwania które wskazują na kwestie skierowane dla początkujących. 
 - [24 Pull Requests](https://24pullrequests.com) - jest to projekt stworzony do promowania współpracy Open Source w Grudniu. 
 
 ## Licencja
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />Ta praca jest licencjonowana za pomocą <a>Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />Ta praca jest licencjonowana za pomocą <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
