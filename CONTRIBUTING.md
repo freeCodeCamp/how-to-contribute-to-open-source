@@ -44,7 +44,7 @@ Issues can be submitted by anyone - either seasoned developers or newbies.
 
     If you are making changes to the `README.md` file, you would need to have
     Markdown knowledge. Visit
-    [here to read about GitHub Markdown](https://docs.github.com/features/mastering-markdown/)
+    [here to read about GitHub Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
     and
     [here to practice](http://www.markdowntutorial.com/).
 
