@@ -146,6 +146,7 @@ Link pencarian yang mengarah langsung ke _issue_ yang sesuai untuk berkontribusi
 ## Kontribusi Inisiatif Open Source
 
 - [Up For Grabs](https://up-for-grabs.net/) - Berisi proyek dengan issue yang ramah untuk pemula.
+- [First Timers Only](https://www.firsttimersonly.com/) - Daftar bug yang diberi label "first-timers-only".
 - [First Contributions](https://firstcontributions.github.io/) - Buat kontribusi Open Source pertama anda dalam 5 menit. Sebuah alat dan panduan yang membantu para pemula untuk mulai berkontribusi. [Berikut](https://github.com/firstcontributions/first-contributions) adalah source code dari GitHub, anda juga berkesempatan untuk berkontribusi ke repositori itu sendiri.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Sebuah program yang mendorong kontribusi Open Source. Dapatkan hadiah seperti kaos dan stiker dengan membuat setidaknya 4 pull request di bulan Oktober.
 - [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests adalah sebuah proyek untuk mempromosikan kolaborasi Open Source menjelang bulan Desember.

@@ -134,6 +134,7 @@ Cari pautan yang mengarahkan secara langsung kepada masalah yang sesuai untuk di
 
 ## Sumbangan inisiatif Sumber Terbuka
 - [Up For Grabs](https://up-for-grabs.net/) - Mengandungi isu projek yang mesra penyumbang baru.
+- [First Timers Only](https://www.firsttimersonly.com/) - Senarai pepijat yang dilabel "first-timer-only".
 - [First Contributions](https://firstcontributions.github.io/) - Buat sumbangan Sumber Terbuka pertama anda dalam 5 minit. Alat dan tutorial untuk membantu pemula memulakan dengan sumbangan. [Here](https://github.com/firstcontributions/first-contributions) adalah kod sumber GitHub untuk laman web dan peluang untuk memberikan sumbangan ke repositori itu sendiri.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Program untuk menggalakkan sumbangan Sumber Terbuka. Dapatkan hadiah seperti t-shirt dan pelekat dengan membuat sekurang-kurangnya 4 permintaan tarik pada bulan Oktober.
 - [24 Pull Requests](https://24pullrequests.com) - 24 permintaan tarik('pull request') adalah projek untuk mempromosikan kolaborasi Sumber Terbuka pada bulan Disember.

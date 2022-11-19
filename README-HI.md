@@ -132,6 +132,7 @@
 
 ## ओपन सोर्स योगदान पहल
 - [Up For Grabs](https://up-for-grabs.net/) - शुरुआत के अनुकूल मुद्दों के साथ परियोजनाएं शामिल हैं
+- [First Timers Only](https://www.firsttimersonly.com/) - bugs की एक सूची जिसे "first-timers-only" लेबल किया जाता है।
 - [First Contributions](https://firstcontributions.github.io/) - 5 मिनट में अपना पहला ओपन सोर्स योगदान दें। एक उपकरण और ट्यूटोरियल शुरुआती योगदान करने में मदद करने के लिए। [यहाँ](https://github.com/firstcontributions/first-contributions) साइट के लिए GitHub स्रोत कोड है और स्वयं भंडार में योगदान करने का अवसर है।
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - ओपन सोर्स योगदान को प्रोत्साहित करने के लिए एक कार्यक्रम। अक्टूबर के महीने में कम से कम 4 पुल अनुरोध करके टी-शर्ट और स्टिकर जैसे उपहार अर्जित करें।
 - [24 Pull Requests](https://24pullrequests.com) -24 पुल अनुरोध दिसंबर महीने के दौरान ओपन सोर्स सहयोग को बढ़ावा देने के लिए एक परियोजना है।

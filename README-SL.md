@@ -159,6 +159,7 @@ Povezave, ki neposredno usmerjajo na primerne `issues`, s katerim lahko prispeva
 
 - [Up For Grabs](https://up-for-grabs.net/) - Vsebuje projekte z začetnikom prijaznimi težavami
 - [First Contributions](https://firstcontributions.github.io/) - Naredite svoj prvi odprtokodni prispevek v 5 minutah. Orodje in vadnica za pomoč začetnikom pri začetku dela s prispevki. [Tukaj](https://github.com/firstcontributions/first-contributions) je izvorna koda GitHub za spletno mesto in priložnost, da prispevate k samemu repozitoriju.
+- [First Timers Only](https://www.firsttimersonly.com/) - Seznam hroščev, ki so označeni kot "samo za začetnike".
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Program za spodbujanje odprtokodnih prispevkov. Prislužite si darila, kot so majice in nalepke, tako da naredite vsaj 4 `pull request` v mesecu oktobru.
 - [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests je projekt za spodbujanje odprtokodnega sodelovanja v mesecu decembru.
 - [Ovio](https://ovio.org) - Platforma z izbranim izborom sodelujočim prijaznih projektov. Ima [zmogljivo orodje za iskanje težav] (https://ovio.org/issues) in vam omogoča, da projekte in težave shranite za pozneje.

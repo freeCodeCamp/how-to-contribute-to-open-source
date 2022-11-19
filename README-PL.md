@@ -150,6 +150,7 @@ Linki wyszukiwania które wskazują na kwestie skierowane dla początkujących. 
 
 ## Inicjatywy kontrybucji w otwartym oprogramowaniu
 - [Up For Grabs](https://up-for-grabs.net/) - Zawiera projekty z zagadnieniami dla początkujących.
+- [First Timers Only](https://www.firsttimersonly.com/) - Lista błędów oznaczonych dla tych co dopiero zaczynają *(ang. first timers only)*
 - [First Contributions](https://firstcontributions.github.io/) - Stwórz swoją pierwszą kontrybucje do projektu Open Source w 5 minut. Narzedzie i poradnik stworzony, aby pomóc początkującym zacząć przygodę z kontrybuowaniem. [Tutaj ANG](https://github.com/firstcontributions/first-contributions) [Tutaj PL](https://github.com/firstcontributions/first-contributions/blob/master/translations/README.pl.md) jest to kod źródłowy GitHuba, który pozwala wykonać swoją pierwszą kontrybucję do repozytorium.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Program zachęcający do kontrybuowania w projektach Open Source. Zarób prezenty takie jak koszulki czy naklejki za co najmniej 4 Pull Requesty w Październiku.
 - [24 Pull Requests](https://24pullrequests.com) - jest to projekt stworzony do promowania współpracy Open Source w Grudniu. 
