@@ -119,6 +119,7 @@ Povezave, ki neposredno usmerjajo na primerne `issues`, s katerim lahko prispeva
 - [Zakaj odprtokodna in kako?](https://careerkarma.com/blog/open-source-projects-for-beginners/) by [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
 - [Kako začeti z odprto kodo - avtor Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/)
 - [Poglobljeni uvodni vodnik za odprtokodno](https://developeraspire.hashnode.dev/an-immersive-introductory-guide-to-open-source) by [Franklin Okolie](https://twitter.com/DeveloperAspire)
+- [Katerim odprtokodnim projektom prispevati?](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) by [@kentcdodds](https://github.com/kentcdodds)
 - [Začetek s prispevanjem k odprtokodnemu](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/) by [Zara Cooper](https://stackoverflow.blog/author/zara-cooper/)
 - [Vodnik za začetnike za odprtokodni prispevek](https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj) by [Sudipto Ghosh](https://github.com/pydevsg)
 - [8 načinov brez kodiranja, kako prispevati k odprtokodni kodi](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code) by [OpenSource](https://twitter.com/OpenSourceWay)
@@ -177,4 +178,4 @@ Povezave, ki neposredno usmerjajo na primerne `issues`, s katerim lahko prispeva
 
 ## Licenca
 
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a>Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
