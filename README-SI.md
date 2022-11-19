@@ -120,6 +120,7 @@ GitHub හි දායක වීමට සුදුසු issues වෙත ස�
 - [Why Open Source and How?](https://careerkarma.com/blog/open-source-projects-for-beginners/), රචනය: [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
 - [How to get started with Open Source - By Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/)
 - [An immersive introductory guide to Open-source](https://developeraspire.hashnode.dev/an-immersive-introductory-guide-to-open-source), රචනය: [Franklin Okolie](https://twitter.com/DeveloperAspire)
+- [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/), රචනය: [@kentcdodds](https://github.com/kentcdodds)
 - [Getting started with contributing to open source](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/), රචනය: [Zara Cooper](https://stackoverflow.blog/author/zara-cooper/)
 - [Beginner's guide to open-source contribution](https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj), රචනය: [Sudipto Ghosh](https://github.com/pydevsg)
 - [8 non-code ways to contribute to open source](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code), රචනය: [OpenSource](https://twitter.com/OpenSourceWay)
@@ -178,4 +179,4 @@ GitHub හි දායක වීමට සුදුසු issues වෙත ස�
 
 ## බලපත්‍රය
 
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />මෙම ව්‍යාපෘතිය <a>Creative Commons Attribution-ShareAlike 4.0 International License</a> යටතේ බලපත්‍රගත කර ඇත.
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />මෙම ව්‍යාපෘතිය <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a> යටතේ බලපත්‍රගත කර ඇත.
