@@ -187,7 +187,7 @@
 - [First Contributions](https://firstcontributions.github.io/) - בצעו את התרומה הראשונה שלכם לקוד פתוח תוך 5 דקות. כלי ומדריך שיעזור למתחילים לתרום. תוכלו למצוא את קוד המקור של האתר [כאן](https://github.com/firstcontributions/first-contributions), נצלו את ההזדמנות לתרום ל-repository עצמו.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - תוכנית לעידוד תרומה לקוד פתוח. זכו בפרסים כגון חולצות ומדבקות על ידי פתיחת לפחות 4 pull requests במהלך חודש אוקטובר.
 - [24 Pull Requests](https://24pullrequests.com) - הפרויקט 24 Pull Requests הינו פרויקט לעידוד שיתוף פעולה בקוד פתוח במהלך חודש אוקטובר.
-- [Up For Grabs](https://up-for-grabs.net/) - מכיל פרויקטים עם issues המתאימים למתחילים.2
+- [Up For Grabs](https://up-for-grabs.net/) - מכיל פרויקטים עם issues המתאימים למתחילים.23
 
 </p>
 </div>
