@@ -58,6 +58,7 @@
 <p>
 
 ## תרומה לקוד פתוח באופן כללי
+
 - [המדריך המלא לתרומה לקוד פתוח](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) על ידי [DoomHammerNG@](https://twitter.com/DoomHammerNG)
 - [מבוא לקוד פתוח](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - מדריכים על ידי Digital Ocean לתרומה כאן בגיטהאב.
 - [Issuehub.io](http://issuehub.pro/) - כלי לחיפוש issues בגיטהאב לפי תווית ושפה.
@@ -85,7 +86,9 @@
 <p>
 
 ## חיפוש ישיר בגיטהאב
+
 העזרו בלינקים כדי למצוא issues מתאימים לתרומה בגיטהאב.
+
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
 - [is:issue is:open label:first-timers-only](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
@@ -100,6 +103,7 @@
 <p>
 
 ## אקוסיסטם התורמים של מוזילה
+
 - [באגים ראשונים טובים](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - באגים שמפתחים מצאו שיכולים להתאים בכניסה ראשונית לפרויקט.
 - [באגים עם מנטור](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - באגים שיש להם מנטורים המשוייכים עליהם, ניתן לפנות אליהם דרך IRC במקרה שנתקעתם במהלך תיקון הבאג.
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - אתר המוקדש כולו למציאת באגים ב-Bugzilla.
@@ -113,6 +117,7 @@
 <p>
 
 ## מאמרים שימושיים לתורמי קוד פתוח חדשים
+
 - [כיצד לבחור (ולתרום) לפרויקט הקוד הפתוח הראשון שלך](https://github.com/collections/choosing-projects) ע״י [GitHub@](https://github.com/github)
 - [כיצד למצוא את הבאג הראשון שלך לתיקון בקוד פתוח](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) ע״י [Shubheksha@](https://github.com/Shubheksha)
 - [למתחילים בלבד](https://kentcdodds.com/blog/first-timers-only) ע״י [kentcdodds@](https://github.com/kentcdodds)
@@ -137,6 +142,7 @@
 <p>
 
 ## שימוש ב-Version Control
+
 - [Think Like (a) Git](https://think-like-a-git.net/) - מדריך גיט ל״מתחילים מתקדמים״ מתקשים, המחפשים אסטרטגיה פשוטה להתנסות עם גיט.
 - [Try Git](https://try.github.io/) - למדו גיט ב-15 דקות ישירות מהדפדפן בחינם.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - סט מינימלי שימושי של פקודות לשימוש גיט יומיומי
@@ -161,10 +167,11 @@
 <p>
 
 ## ספרים בנושא קוד פתוח
+
 - [יצירת תוכנה בקוד פתוח](https://producingoss.com/) - זהו ספר על הצד האנושי של פיתוח קוד פתוח. הספר מתאר כיצד פרויקטים מוצלחים עובדים, ציפיות האנשים והמפתחים ותרבות תוכנה חינמית.
 - [סדרת ספרי קוד פתוח](https://opensource.com/resources/ebooks) - למדו עוד על קוד פתוח ועל תנועת הקוד הפתוח בעזרת רשימה מקיפה של ספרים אלקטרונים מ-https://opensource.com.
-- [Software Release Practice HOWTO](https://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - מדריך המתאר מהם הכללים לשחרור נכון עבור לינוקס ופרויקטי קוד פתוח אחרים. על ידי שמירה על כללים אלו, תקלו על משתמשים לבנות את הקוד שלכם ולהשתמש בו. כמו כן, מפתחים אחרים יוכלו להבין את הקוד שלכם, לעבוד איתו ולשפר אותו. 
-- [קוד פתוח 2.0: אבולוציה מתמשכת](https://archive.org/details/opensources2.000diborich) (2005) - קוד פתוח 2.0 הינו אוסף מאמרים מעמיקים ומעוררי מחשבה של מנהיגי הטכנולוגיה של היום הממשיכים לצבוע את תמונת האבולוציה שפותחה בספר מ-1999, קוד פתוח: קולות מן המהפכה.  
+- [Software Release Practice HOWTO](https://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - מדריך המתאר מהם הכללים לשחרור נכון עבור לינוקס ופרויקטי קוד פתוח אחרים. על ידי שמירה על כללים אלו, תקלו על משתמשים לבנות את הקוד שלכם ולהשתמש בו. כמו כן, מפתחים אחרים יוכלו להבין את הקוד שלכם, לעבוד איתו ולשפר אותו.
+- [קוד פתוח 2.0: אבולוציה מתמשכת](https://archive.org/details/opensources2.000diborich) (2005) - קוד פתוח 2.0 הינו אוסף מאמרים מעמיקים ומעוררי מחשבה של מנהיגי הטכנולוגיה של היום הממשיכים לצבוע את תמונת האבולוציה שפותחה בספר מ-1999, קוד פתוח: קולות מן המהפכה.
 - [הארכיטקטורה של אפליקציות קוד פתוח](http://www.aosabook.org/en/git.html) - מגוון היבטים המתארים כיצד גיט עובד מתחת למנוע כדי לאפשר workflows מבוזרים וכיצד אלו שונים ממערכות version controls אחרים (VCSs).
 - [קודים פתוחים: קולות ממהפכת הקוד הפתוח](https://www.oreilly.com/openbook/opensources/book/) - מאמרים מחלוצי הקוד הפתוח כמו Linus Torvalds (לינוקס), Larry Wall (פרל) ו-Richard Stallman (GNU).
 
@@ -174,11 +181,13 @@
 <p>
 
 ## יוזמות לתרומת קוד פתוח
+
 - [Up For Grabs](https://up-for-grabs.net/) - מכיל פרויקטים עם issues המתאימים למתחילים.
 - [First Timers Only](https://www.firsttimersonly.com/) - רשימה של באגים המתוייגים כ-״first-timers-only".
 - [First Contributions](https://firstcontributions.github.io/) - בצעו את התרומה הראשונה שלכם לקוד פתוח תוך 5 דקות. כלי ומדריך שיעזור למתחילים לתרום. תוכלו למצוא את קוד המקור של האתר [כאן](https://github.com/firstcontributions/first-contributions), נצלו את ההזדמנות לתרום ל-repository עצמו.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - תוכנית לעידוד תרומה לקוד פתוח. זכו בפרסים כגון חולצות ומדבקות על ידי פתיחת לפחות 4 pull requests במהלך חודש אוקטובר.
 - [24 Pull Requests](https://24pullrequests.com) - הפרויקט 24 Pull Requests הינו פרויקט לעידוד שיתוף פעולה בקוד פתוח במהלך חודש אוקטובר.
+- [Up For Grabs](https://up-for-grabs.net/) - מכיל פרויקטים עם issues המתאימים למתחילים.23
 
 </p>
 </div>
@@ -186,7 +195,8 @@
 <p>
 
 ## רישיון
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />פרוייקט זה נכתב תחת רישיון 
+
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />פרוייקט זה נכתב תחת רישיון
 
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
