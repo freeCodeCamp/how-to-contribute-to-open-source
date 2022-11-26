@@ -58,10 +58,11 @@ Eğer bir sorunuz veya yorumunuz varsa lütfen "issue" oluşturun.
 - [Versiyon Kontrol Kullanmak](#Versiyon-Kontrol-Kullanmak)
 - [Açık Kaynak Kitapları](#Açık-Kaynak-Kitapları)
 - [Açık Kaynağa katkı girişimleri](#Açık-Kaynağa-katkı-girişimleri)
+- [Katılabileceğiniz açık kaynak programları](#Katılabileceğiniz-Açık-kaynaklı-programlar)
 - [Lisans](#Lisans)
 
 ## Genel olarak Açık Kaynağa katkı sağlamak
-- [Açık Kaynağa katkı sağlamak hakkında açıklayıcı kılavuz](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
+- [Açık Kaynağa katkı sağlamak hakkında açıklayıcı kılavuz](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) yazan [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [Açık Kaynağa Giriş](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - DigitalOcean tarafından hazırlanan GitHub'da başarılı katkı için yolunda kılavuz olacak dersler 
 - [Issuehub.io](http://issuehub.pro/) - GitHub issuelarını etiket ve dile göre aramak için araç
 - [Code Triage](https://www.codetriage.com/) - Dil bazlı filtrelenmiş popüler repoları ve issueları bulmak için gayet hoş başka bir araç 
