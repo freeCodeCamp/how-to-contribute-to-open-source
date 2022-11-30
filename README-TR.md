@@ -58,6 +58,7 @@ Eğer bir sorunuz veya yorumunuz varsa lütfen "issue" oluşturun.
 - [Versiyon Kontrol Kullanmak](#Versiyon-Kontrol-Kullanmak)
 - [Açık Kaynak Kitapları](#Açık-Kaynak-Kitapları)
 - [Açık Kaynağa katkı girişimleri](#Açık-Kaynağa-katkı-girişimleri)
+- [Katılabileceğiniz açık kaynak programları](#Katılabileceğiniz-Açık-kaynaklı-programlar)
 - [Lisans](#Lisans)
 
 ## Genel olarak Açık Kaynağa katkı sağlamak
