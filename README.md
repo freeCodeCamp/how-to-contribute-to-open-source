@@ -31,7 +31,7 @@
 </details>
 <!-- Do not translate this -->
 
-# Welcome newbie Open Source contributors!
+# Welcome Newbie Open Source Contributors!
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
@@ -57,7 +57,7 @@ If you have questions or comments, please create an issue.
 
 ## Contributing to Open Source in general
 
-> Articles and resources that discuss the world and culture of open source.
+> Articles and resources that discuss the world and culture of Open Source.
 
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG).
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials by DigitalOcean to guide you on your way to contribution success here on GitHub.
@@ -178,7 +178,7 @@ If you have questions or comments, please create an issue.
 
 ## Open Source books
 
-> Books on all things open source: the culture, history, best practices, etc.
+> Books on all things Open Source: The Culture, History, Best Practices, etc.
 
 - [Producing Open Source Software](https://producingoss.com/) - Producing Open Source Software is a book about the human side of Open Source development. It describes how successful projects operate, the expectations of users and developers, and the culture of free software.
 - [The Architecture of Open Source Applications](https://www.aosabook.org/en/index.html) - The authors of twenty-four open source applications explain how their software is structured, and why. From web servers and compilers to health record management systems, they are covered here to help you become a better developer.
