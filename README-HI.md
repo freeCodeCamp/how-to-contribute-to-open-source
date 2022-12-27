@@ -28,7 +28,7 @@
 [![Check Resources](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml/badge.svg)](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml)
 
 
-यह उन लोगों के लिए संसाधनों की एक सूची हैं जो ओपन सोर्स में योगदान करने में नए हैं।
+यह उन लोगों के लिए संसाधनों की एक सूची है जो ओपन सोर्स में योगदान करने में नए हैं।
 
 यदि आपको अतिरिक्त संसाधन मिलते हैं, तो कृपया एक पुल रिक्वेस्ट के द्वारा योगदान करें।
 
