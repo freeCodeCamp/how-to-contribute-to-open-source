@@ -22,7 +22,7 @@
 </details>
 <!-- Do not translate this -->
 
-# مرحبًا بالمساهمين المبتدئين للمصادر المفتوحة!
+# مرحبًا بالمساهمين الجدد فى البرامج مفتوحة المصدر!
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
@@ -30,7 +30,7 @@
 
 هذه قائمة بالموارد للأشخاص الجدد في المساهمة في المصادر المفتوحة.
 
-إذا وجدت موارد إضافية ، يرجى المساهمة بانشاء طلب السحب.
+إذا وجدت موارد إضافية ، تكرم بانشاء طلب السحب.
 
 إذا كانت لديك أسئلة أو تعليقات ، يرجى إنشاء عرض المشكلة.
 
@@ -52,12 +52,12 @@
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) بواسطة [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - برامج تعليمية بواسطة DigitalOcean لإرشادك في طريقك إلى نجاح المساهمة هنا على GitHub.
 - [Code Triage](https://www.codetriage.com/) - أداة أخرى ، رائعة حقًا ، للعثور على المستودعات المشهورة والمشكلات المصفاة حسب اللغة.
-- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - GitHub repo الذي يكدس المشاريع مع أخطاء جيدة للمساهمين الجدد ، ويطبق تسميات لوصفها.
+- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - GitHub repo الذي يكدس المشاريع مع عرض مناقشات حول الاخطاء للمساهمين الجدد ، ويطبق تسميات لوصفها.
 - [Open Source Guides](https://opensource.guide/) - مجموعة من الموارد للأفراد والمجتمعات والشركات الذين يرغبون في تعلم كيفية تشغيل مشروع مفتوح المصدر والمساهمة فيه.
-- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - افعل ولا تفعل على جيثب.
+- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - افعل ولا تفعل على GitHub.
 - [GitHub Guides](https://guides.github.com/) -إرشادات أساسية حول كيفية استخدام GitHub بشكل فعال.
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - تعرف على سير عمل GitHub من خلال المساهمة برمز في مشروع محاكاة.
-- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - أدلة مؤسسة Linux لمشاريع المصدر المفتوح.
+- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - ارشادات لينكس فى مجال المصادر المفتوحه للمؤسسات.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - دليل آداب السلوك المفتوح المصدر ، بقلم كينت سي دودز وسارة دراسنر.
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - قائمة منتقاة من الموارد والفرص لطلاب الجامعات لتعلم لغة ترميز جديدة.
 - [Pull Request Roulette](http://www.pullrequestroulette.com/) - يحتوي هذا الموقع على قائمة بطلبات السحب المقدمة للمراجعة والتي تنتمي إلى مشاريع مفتوحة المصدر مستضافة على Github.
@@ -71,10 +71,10 @@
   لنبدأ Lets Git في عالم مفتوح المصدر ، بدءًا من الملعب مفتوح المصدر. مصممة خصيصا لأغراض التعليم والخبرة العملية.
 - ["Getting Started with Open Source" by NumFocus](https://github.com/numfocus/getting-started-with-open-source) -برنامج GitHub repo الذي يساعد المساهمين على التغلب على العوائق التي تحول دون الدخول في المصادر المفتوحة.
 - ["Opensoure-4-everyone" by Chryz-hub ](https://github.com/chryz-hub/opensource-4-everyone) -مستودع لكل ما يتعلق بالمصادر المفتوحة. هذا مشروع للمساعدة في رؤية عضوية GitHub ، والتدرب على أوامر git الأساسية والمتقدمة ، والبدء بمصدر مفتوح ، والمزيد.
-- ["Open Advice"](http://open-advice.org/) -جمع المعرفة من مجموعة متنوعة من مشاريع البرمجيات الحرة. يجيب على السؤال الذي كان يرغب 42 من المساهمين البارزين في معرفته عندما بدأوا حتى تتمكن من الحصول على السبق بغض النظر عن كيفية ومكان المساهمة.
+- ["Open Advice"](http://open-advice.org/) -جمع المعرفة من مجموعة متنوعة من مشاريع البرمجيات الحرة. يجيب على السؤال الذي كان يرغب العديد من المساهمين البارزين في معرفته عندما بدأوا حتى تتمكن من الحصول على السبق بغض النظر عن كيفية ومكان المساهمة.
 - ["GitHub Learning Lab"](https://lab.github.com/) -ارفع مستوى مهاراتك مع GitHub Learning Lab. سيأخذك برنامج الروبوت الودود الخاص بنا عبر سلسلة من المرح والمشاريع العملية لتعلم المهارات التي تحتاجها في وقت قصير - ومشاركة التعليقات المفيدة على طول الطريق.
 - ["Ten simple rules for helping newcomers become contributors to open projects"](https://doi.org/10.1371/journal.pcbi.1007296) - تتناول هذه المقالة القواعد المستندة إلى دراسات العديد من المجتمعات وتجارب الأعضاء والقادة والمراقبين.
-- ["Step-by-Step guide to contributing on GitHub"](https://www.dataschool.io/how-to-contribute-on-github/) -دليل خطوة بخطوة مع دعم مرئيات وروابط بخصوص العملية الكاملة للمساهمة في مشروع مفتوح المصدر.
+- ["Step-by-Step guide to contributing on GitHub"](https://www.dataschool.io/how-to-contribute-on-github/) -دليل خطوة بخطوة مع تقديم فيديوهات وروابط بخصوص العملية الكاملة للمساهمة في مشروع مفتوح المصدر.
 
 ## عمليات البحث المباشرة على GitHub
 
@@ -95,16 +95,16 @@
 
 - [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - الأخطاء التي حددها المطورون على أنها مقدمة جيدة للمشروع.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/MDN/Contribute) -مساعدة فريق MDN Web Docs في توثيق منصة الويب عن طريق إصلاح مشكلات المحتوى وأخطاء النظام الأساسي.
-- [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - البق التي تم تعيين معلمها والذي سيكون هناك على IRC لمساعدتك عندما تتعثر أثناء العمل على الإصلاح.
+- [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - مساعدتك على اكتشاف واصلاح الاخطاء و الثغرات البرمجيه.
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) -موقع مخصص للبحث عن الأخطاء في Bugzilla.
-- [Firefox DevTools](http://firefox-dev.tools/) -موقع مخصص للأخطاء المودعة لأدوات المطور في متصفح Firefox.
+- [Firefox DevTools](http://firefox-dev.tools/) -يقدم ادوات رائعة تسهل عمل المطورين  Firefox متصفح.
 - [What Can I Do For Mozilla](https://whatcanidoformozilla.org/) - اكتشف ما يمكنك العمل عليه من خلال الإجابة على مجموعة من الأسئلة حول مجموعة مهاراتك واهتماماتك.
 - [Start Mozilla](https://twitter.com/StartMozilla) - حساب Twitter يقوم بالتغريد حول المشكلات المناسبة للمساهمين الجدد في نظام Mozilla البيئي.
 
 ## مقالات مفيدة للمساهمين الجدد في المصادر المفتوحة
 
-- [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) بواسطة [@GitHub](https://github.com/github)
-- [How to find your first Open Source bug to fix](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) بواسطة [@Shubheksha](https://github.com/Shubheksha)
+- [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) بواسطة [@GitHub](https://github.com/github) كيف تختار للمرة الاولى مشروع مفتوح المصدر كى تشارك فيه
+- [How to find your first Open Source bug to fix](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) بواسطة [@Shubheksha](https://github.com/Shubheksha)  كيف تجد للمرة الاولى الخطأ البرمجى الذى يمكنك علاجه فى احد المشاريع مفتوحة المصدر
 - [First Timers Only](https://kentcdodds.com/blog/first-timers-only) بواسطة [@kentcdodds](https://github.com/kentcdodds)
 - [Bring Kindness Back to Open Source](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) بواسطة [@shanselman](https://github.com/shanselman)
 - [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) بواسطة [@mcdonnelldean](https://github.com/mcdonnelldean)
@@ -112,14 +112,15 @@
 - [How to Find a Bug in Your Code](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) بواسطة [@dougbradbury](https://twitter.com/dougbradbury)
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) بواسطة [@GitHub](https://github.com/github)
 - [First mission: Contributors page](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) بواسطة [@forCrowd](https://github.com/forCrowd)
-- [How to make your first Open Source contribution in just 5 minutes](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) بواسطة [@roshanjossey](https://github.com/Roshanjossey/)
+- [How to make your first Open Source contribution in just 5 minutes](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) بواسطة [@roshanjossey](https://github.com/Roshanjossey/) تعلم كيف تقدم مساهمتك الاولى فى المصادر المفتوحه فى خمس دقائق فقط .
+
 - [I just got my free Hacktoberfest shirt. Here’s a quick way you can get yours.](https://www.freecodecamp.org/news/i-just-got-my-free-hacktoberfest-shirt-heres-a-quick-way-you-can-get-yours-fa78d6e24307/) بواسطة [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
 - [A Bitter Guide To Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) بواسطة [@ken_wheeler](https://medium.com/@ken_wheeler)
 - [A junior developer’s step-by-step guide to contributing to Open Source for the first time](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) بواسطة [@LetaKeane](https://hackernoon.com/u/letakeane)
 - [Learn Git and GitHub Step By Step (on Windows)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) بواسطة [@ows-ali](https://ows-ali.medium.com/)
 - [Why Open Source and How?](https://careerkarma.com/blog/open-source-projects-for-beginners/) بواسطة [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
-- [How to get started with Open Source - By Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/)
-- [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) بواسطة [@kentcdodds](https://github.com/kentcdodds)
+- [How to get started with Open Source - By Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/) كيف تبدأ فى عالم المصادر المفتوحه .
+- [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) بواسطة [@kentcdodds](https://github.com/kentcdodds) ما هى المصادر المفتوحه التى يجب المشاركه فيها .
 - [An immersive introductory guide to Open-source](https://developeraspire.hashnode.dev/an-immersive-introductory-guide-to-open-source) بواسطة [Franklin Okolie](https://twitter.com/DeveloperAspire)
 - [Getting started with contributing to open source](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/) بواسطة [Zara Cooper](https://stackoverflow.blog/author/zara-cooper/)
 - [Beginner's guide to open-source contribution](https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj) بواسطة [Sudipto Ghosh](https://github.com/pydevsg)
@@ -127,7 +128,7 @@
 - [What is Open Source Software? OSS Explained in Plain English](https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/) بواسطة [Jessica Wilkins](https://www.freecodecamp.org/news/author/jessica-wilkins/)
 - [How to Start an Open Source Project on GitHub – Tips from Building My Trending Repo](https://www.freecodecamp.org/news/how-to-start-an-open-source-project-on-github-tips-from-building-my-trending-repo/) بواسطة [@Rishit-dagli](https://github.com/Rishit-dagli)
 
-## باستخدام التحكم في الإصدار
+## باستخدام نظام التحكم في الإصدار
 
 - [Think Like (a) Git](https://think-like-a-git.net/) - مقدمة Git لـ "المبتدئين المتقدمين" ، لكنهم ما زالوا يعانون ، من أجل إعطائك إستراتيجية بسيطة لتجربة git بأمان.
 - [Try Git](https://try.github.io/) -تعلم Git في 15 دقيقة من داخل متصفحك مجانًا.
