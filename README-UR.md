@@ -33,7 +33,6 @@
 
 # نئے اوپن سورس تعاون کنندگان کو خوش آمدید!
 
-
 [![پل کی درخواستیں خوش آمدید](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://makeapullrequest.com)
 [![پہلی بار صرف دوستانہ](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
 [![وسائل چیک کریں۔](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml/badge.svg)](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml)
