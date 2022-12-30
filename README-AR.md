@@ -54,8 +54,10 @@
 - [Code Triage](https://www.codetriage.com/) - أداة أخرى ، رائعة حقًا ، للعثور على المستودعات المشهورة والمشكلات المصفاة حسب اللغة.
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - GitHub repo الذي يكدس المشاريع مع عرض مناقشات حول الاخطاء للمساهمين الجدد ، ويطبق تسميات لوصفها.
 - [Open Source Guides](https://opensource.guide/) - مجموعة من الموارد للأفراد والمجتمعات والشركات الذين يرغبون في تعلم كيفية تشغيل مشروع مفتوح المصدر والمساهمة فيه.
+
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - افعل ولا تفعل على GitHub.
 - [GitHub Guides](https://guides.github.com/) -إرشادات أساسية حول كيفية استخدام GitHub بشكل فعال.
+
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - تعرف على سير عمل GitHub من خلال المساهمة برمز في مشروع محاكاة.
 - [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - ارشادات لينكس فى مجال المصادر المفتوحه للمؤسسات.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - دليل آداب السلوك المفتوح المصدر ، بقلم كينت سي دودز وسارة دراسنر.
@@ -75,6 +77,8 @@
 - ["GitHub Learning Lab"](https://lab.github.com/) -ارفع مستوى مهاراتك مع GitHub Learning Lab. سيأخذك برنامج الروبوت الودود الخاص بنا عبر سلسلة من المرح والمشاريع العملية لتعلم المهارات التي تحتاجها في وقت قصير - ومشاركة التعليقات المفيدة على طول الطريق.
 - ["Ten simple rules for helping newcomers become contributors to open projects"](https://doi.org/10.1371/journal.pcbi.1007296) - تتناول هذه المقالة القواعد المستندة إلى دراسات العديد من المجتمعات وتجارب الأعضاء والقادة والمراقبين.
 - ["Step-by-Step guide to contributing on GitHub"](https://www.dataschool.io/how-to-contribute-on-github/) -دليل خطوة بخطوة مع تقديم فيديوهات وروابط بخصوص العملية الكاملة للمساهمة في مشروع مفتوح المصدر.
+- [Open Source with Pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna) - مستودع يحتوي على مصادر ومواد لتعلم وبدأ المشاركة في المشاريع مفتوحة المصدر
+
 
 ## عمليات البحث المباشرة على GitHub
 
@@ -93,7 +97,7 @@
 
 ## النظام البيئي للمساهمين في Mozilla
 
-- [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - الأخطاء التي حددها المطورون على أنها مقدمة جيدة للمشروع.
+- [Good First Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22[good%20first%20bug]%22&limit=0) - الأخطاء التي حددها المطورون على أنها مقدمة جيدة للمشروع.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/MDN/Contribute) -مساعدة فريق MDN Web Docs في توثيق منصة الويب عن طريق إصلاح مشكلات المحتوى وأخطاء النظام الأساسي.
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - مساعدتك على اكتشاف واصلاح الاخطاء و الثغرات البرمجيه.
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) -موقع مخصص للبحث عن الأخطاء في Bugzilla.
@@ -113,7 +117,6 @@
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) بواسطة [@GitHub](https://github.com/github)
 - [First mission: Contributors page](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) بواسطة [@forCrowd](https://github.com/forCrowd)
 - [How to make your first Open Source contribution in just 5 minutes](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) بواسطة [@roshanjossey](https://github.com/Roshanjossey/) تعلم كيف تقدم مساهمتك الاولى فى المصادر المفتوحه فى خمس دقائق فقط .
-
 - [I just got my free Hacktoberfest shirt. Here’s a quick way you can get yours.](https://www.freecodecamp.org/news/i-just-got-my-free-hacktoberfest-shirt-heres-a-quick-way-you-can-get-yours-fa78d6e24307/) بواسطة [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
 - [A Bitter Guide To Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) بواسطة [@ken_wheeler](https://medium.com/@ken_wheeler)
 - [A junior developer’s step-by-step guide to contributing to Open Source for the first time](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) بواسطة [@LetaKeane](https://hackernoon.com/u/letakeane)
@@ -131,14 +134,14 @@
 ## باستخدام نظام التحكم في الإصدار
 
 - [Think Like (a) Git](https://think-like-a-git.net/) - مقدمة Git لـ "المبتدئين المتقدمين" ، لكنهم ما زالوا يعانون ، من أجل إعطائك إستراتيجية بسيطة لتجربة git بأمان.
-- [Try Git](https://try.github.io/) -تعلم Git في 15 دقيقة من داخل متصفحك مجانًا.
+- [Try Git](https://docs.github.com/en/get-started/quickstart/set-up-git ) -تعلم Git في 15 دقيقة من داخل متصفحك مجانًا.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) -الحد الأدنى من مجموعة الأوامر المفيدة لـ Everyday Git.
 - [Oh shit, git!](https://ohshitgit.com/) - كيفية الخروج من الأمور المشتركة `git` وصفت الأخطاء بلغة إنجليزية بسيطة ؛ انظر أيضا [Dangit, git!](https://dangitgit.com/) للصفحة بدون أقسم.
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) -دروس متنوعة حول استخدام "git".
 - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
 - [freeCodeCamp's Wiki on Git Resources](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
 - [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - يتحدث GitHub عن كيفية تقديم طلب سحب.
-- [GitHub Learning Resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) - موارد التعلم Git و GitHub.
+- [GitHub Learning Resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources) - موارد التعلم Git و GitHub.
 - [Pro Git](https://git-scm.com/book/en/v2) - كتاب Pro Git بأكمله ، كتبه سكوت تشاكون وبن ستراوب ونشرته أبرس.
 - [Git-it](https://github.com/jlord/git-it-electron) - خطوة بخطوة تطبيق Git التعليمي لسطح المكتب.
 - [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) -دليل حول ما يجب القيام به عندما تسوء الأمور.
@@ -163,7 +166,6 @@
 - [Up For Grabs](https://up-for-grabs.net/) - يحتوي على مشاريع ذات مواضيع صديقة للمبتدئين.
 - [First Timers Only](https://www.firsttimersonly.com/) - قائمة بالأخطاء التي تم تصنيفها "لأول مرة فقط".
 - [First Contributions](https://firstcontributions.github.io/) - قم بأول مساهمة مفتوحة المصدر لك في 5 دقائق. أداة وبرنامج تعليمي لمساعدة المبتدئين على البدء في المساهمات. [Here](https://github.com/firstcontributions/first-contributions)هو رمز مصدر GitHub للموقع والفرصة لتقديم مساهمة في المستودع نفسه.
-- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - برنامج لتشجيع المساهمات مفتوحة المصدر. اربح هدايا مثل القمصان والملصقات عن طريق تقديم 4 طلبات سحب على الأقل في شهر أكتوبر.
 - [24 Pull Requests](https://24pullrequests.com) - 24 طلبات السحب هو مشروع لتعزيز التعاون مفتوح المصدر خلال شهر ديسمبر.
 - [Ovio](https://ovio.org) -منصة مع مجموعة منتقاة من المشاريع الصديقة للمساهمين. لديها [powerful issue search tool](https://ovio.org/issues)ودعنا نحفظ المشروعات والمشكلات لوقت لاحق.
 - [Google Summer of Code](https://summerofcode.withgoogle.com/) - برنامج مدفوع يتم تشغيله سنويًا بواسطة Google ويركز على جذب المزيد من مطوري الطلاب إلى تطوير البرمجيات مفتوحة المصدر.
@@ -178,7 +180,7 @@
 - [FossAsia](https://fossasia.org)
 - [MLH Fellowship](https://fellowship.mlh.io)
 - [Outreachy](https://www.outreachy.org)
-- [Hacktoberfest](https://hacktoberfest.digitalocean.com)
+- [Hacktoberfest](https://hacktoberfest.com/) - برنامج لتشجيع المساهمات مفتوحة المصدر. اربح هدايا مثل القمصان والملصقات عن طريق تقديم 4 طلبات سحب على الأقل في شهر أكتوبر.
 - [CNCF](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
 - [Microsoft Reinforcement learning](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
 

@@ -129,7 +129,7 @@
 - [למדו גיט וגיטהאב צעד אחר צעד (על ווינדוס)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) ע״י [ows-ali@](https://medium.com/@ows_ali)
 - [למה קוד פתוח ואיך?](https://careerkarma.com/blog/open-source-projects-for-beginners/) ע״י [james-gallagher@](https://careerkarma.com/blog/author/jamesgallagher/)
 - [כיצד להתחיל עם קוד פתוח](https://www.hackerearth.com/getstarted-opensource/) ע״י Sayan Chowdhury
-- [לאיזה קוד פתוח כדי לתרום](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) ע״י Kent C. Dodds
+- [לאיזה קוד פתוח כדאי לתרום](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) ע״י Kent C. Dodds
 
 </p>
 </div>
