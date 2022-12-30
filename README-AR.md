@@ -40,7 +40,7 @@
 - [Direct GitHub searches](#عمليات-البحث-المباشرة-على-github)
 - [Mozilla's contributor ecosystem](#النظام-البيئي-للمساهمين-في-mozilla)
 - [Useful articles for new Open Source contributors](#مقالات-مفيدة-للمساهمين-الجدد-في-المصادر-المفتوحة)
-- [Using Version Control](#باستخدام نظام-التحكم-في-الإصدار)
+- [Using Version Control](#باستخدام-نظام-التحكم-في-الإصدار)
 - [Open Source books](#كتب-مفتوحة-المصدر)
 - [Open Source contribution initiatives](#مبادرات-مساهمة-المصدر-المفتوح)
 - [Open Source programs to participate in](#برامج-مفتوحة-المصدر-للمشاركة-فيها)
