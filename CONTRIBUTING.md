@@ -7,6 +7,7 @@ Issues can be submitted by anyone - either seasoned developers or newbies.
 
 **Contents**
 
+- [Choosing an Issue](#choosing-an-issue)
 - [Getting Started](#getting-started)
 - [Submitting a Pull Request](#submitting-a-pull-request)
 - [Adding to the Main README](#adding-to-the-main-readme)
@@ -14,6 +15,31 @@ Issues can be submitted by anyone - either seasoned developers or newbies.
 - [Adding to the Project File](#adding-to-the-project-file)
 - [Notation and terminology](#notation-and-terminology)
 - [Helpful Resources](#helpful-resources)
+
+## Choosing an Issue
+
+Before getting started and setup with contributing, you'll want to look at and choose an issue to work on. Here is a basic workflow you want to work from:
+
+1. Search through issues
+2. Find issue you want to work on
+3. Check if someone else has already worked on and made a pull request on said issue
+4. (Optional) Double check pull requests for someone who has worked on the pull request
+
+If you have gotten that far, then you can go ahead and work on the issue. Below are more detailed instructions based on the basic workflow above.
+
+You can find open issue [here](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/issues).
+
+Once you've found an issue you want to work on, take a look at the issue to see if anyone else has made a pull request for this issue yet.
+
+You can tell if someone has correctly referenced and worked on an issue if in the issue you find some text saying, the following:
+
+>  This was referenced on ____
+
+where that `____` is the date and below it is the pull request of another individual working on that issue. [Here](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/issues/822) is an example of what this looks like.
+
+To be extra sure no one has worked on it, you can [take a look at the pull requests](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/pulls) as well to see if anyone has made a similar pull request.
+
+If you've gotten this far, then you can continue on with the next section on "Getting Started" to working on your first pull request and contribution to our repository.
 
 ### Getting Started
 
