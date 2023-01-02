@@ -24,7 +24,7 @@
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 [![Check Resources](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml/badge.svg)](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml)
 
-Dies ist eine Liste mit Materialien für Menschen, die neu in der
+Dies ist eine Liste mit Materialien für alle, die neu in der
 Open-Source-Welt sind und selbst etwas beitragen möchten.
 
 Wenn du weitere nützliche Materialien findest, starte bitte einen Pull Request.
@@ -49,14 +49,14 @@ Wenn du Fragen oder Kommentare hast, eröffne bitte ein neues Issue.
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials von DigitalOcean, die dich beim
   erfolgreichen Erstellen von Beiträgen auf GitHub anleiten.
 - [Issuehub.io](http://issuehub.pro/) - ein Tool, um auf GitHub nach Issues mit speziellen Labeln und Sprachen zu suchen.
-- [Code Triage](https://www.codetriage.com/) - noch ein sehr schönes Tool, um nach Sprache sortiert beliebte Repositorys und Issues zu finden. -
+- [Code Triage](https://www.codetriage.com/) - noch ein sehr schönes Tool, um nach Sprache sortiert beliebte Repositories und Issues zu finden. -
   [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - ein GitHub-Repository, das Projekte mit guten Einsteiger\*innen-Bugs sammelt und
   mit entsprechenden Labels versieht.
-- [Open Source Guides](https://opensource.guide/) - eine Sammlung von Materialien für Einzelpersonen, Gruppen und Unternehmen, die lernen wollen, wie man
+- [Open Source Guides](https://opensource.guide/) - eine Sammlung von Materialien für Einzelpersonen, Gruppen und Unternehmen, die lernen wollen wie man
   Open-Source-Projekte selbst erstellt oder zu ihnen beiträgt.
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Regeln für das Verhalten auf GitHub
 - [GitHub Guides](https://guides.github.com/) - grundsätzliche Einführungen zur effizienten Nutzung von GitHub.
-- [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Die GitHub-Arbeitsweise lernen durch Beiträge für ein simuliertes Tutorial-Projekt.
+- [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - den Workflow auf GitHub durch Beiträge in einem simulierten Tutorial-Projekt lernen.
 - [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Die Einführung der Linux
   Foundation in Open-Source-Projekte.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - Ein Open-Source-Knigge von Kent C. Dodds und Sarah Drasner.
@@ -94,7 +94,7 @@ Suchbegriffe, die direkt auf für Einsteiger\*innen geeignete Issues auf GitHub 
   Interessen heraus, wo du helfen kannst.
 - [Start Mozilla](https://twitter.com/StartMozilla) - ein Twitter-Account der über Issues twittert, die gut geeignet für neue Entwickler\*innen sind.
 
-## Nützliche Artikel für Open-Source-Mitarbeiterinnen
+## Nützliche Artikel für Open-Source-Mitarbeiter\*innen
 
 - [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) von [@GitHub](https://github.com/github)
 - [How to find your first Open Source bug to fix](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) von [@Shubheksha](https://github.com/Shubheksha)
