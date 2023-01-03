@@ -73,7 +73,7 @@
 - ["Opensoure-4-everyone" by Chryz-hub ](https://github.com/chryz-hub/opensource-4-everyone) -مستودع لكل ما يتعلق بالمصادر المفتوحة. هذا مشروع للمساعدة في رؤية عضوية GitHub ، والتدرب على أوامر git الأساسية والمتقدمة ، والبدء بمصدر مفتوح ، والمزيد.
 - ["Open Advice"](http://open-advice.org/) -جمع المعرفة من مجموعة متنوعة من مشاريع البرمجيات الحرة. يجيب على السؤال الذي كان يرغب 42 من المساهمين البارزين في معرفته عندما بدأوا حتى تتمكن من الحصول على السبق بغض النظر عن كيفية ومكان المساهمة.
 - ["GitHub Learning Lab"](https://skills.github.com) -ارفع مستوى مهاراتك مع GitHub Learning Lab. سيأخذك برنامج الروبوت الودود الخاص بنا عبر سلسلة من المرح والمشاريع العملية لتعلم المهارات التي تحتاجها في وقت قصير - ومشاركة التعليقات المفيدة على طول الطريق.
-- ["Ten simple rules for helping newcomers become contributors to open projects"](https://journals.plos.org/plosone/doi?id=10.1371/journal.pcbi.1007296) - تتناول هذه المقالة القواعد المستندة إلى دراسات العديد من المجتمعات وتجارب الأعضاء والقادة والمراقبين.
+- ["Ten simple rules for helping newcomers become contributors to open projects"](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007296) - تتناول هذه المقالة القواعد المستندة إلى دراسات العديد من المجتمعات وتجارب الأعضاء والقادة والمراقبين.
 - ["Step-by-Step guide to contributing on GitHub"](https://www.dataschool.io/how-to-contribute-on-github/) -دليل خطوة بخطوة مع دعم مرئيات وروابط بخصوص العملية الكاملة للمساهمة في مشروع مفتوح المصدر.
 - [Open Source with Pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna) - مستودع يحتوي على مصادر ومواد لتعلم وبدأ المشاركة في المشاريع مفتوحة المصدر
 
