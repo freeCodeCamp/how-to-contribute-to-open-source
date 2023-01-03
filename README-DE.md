@@ -55,9 +55,9 @@ Wenn du Fragen oder Kommentare hast, eröffne bitte ein neues Issue.
 - [Open Source Guides](https://opensource.guide/) - eine Sammlung von Materialien für Einzelpersonen, Gruppen und Unternehmen, die lernen wollen wie man
   Open-Source-Projekte selbst erstellt oder zu ihnen beiträgt.
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Regeln für das Verhalten auf GitHub
-- [GitHub Guides](https://guides.github.com/) - grundsätzliche Einführungen zur effizienten Nutzung von GitHub.
+- [GitHub Guides](https://docs.github.com/de) - Einführung in die effizienten Nutzung von GitHub.
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - den Workflow auf GitHub durch Beiträge in einem simulierten Tutorial-Projekt lernen.
-- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Die Einführung der Linux
+- [Linux Foundation's Open Source Guides for the Enterprise](https://linuxfoundation.eu/de-de/) - Die Einführung der Linux
   Foundation in Open-Source-Projekte.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - Ein Open-Source-Knigge von Kent C. Dodds und Sarah Drasner.
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - kuratierte Liste von Materialien und Möglichkeiten für
@@ -65,8 +65,6 @@ Wenn du Fragen oder Kommentare hast, eröffne bitte ein neues Issue.
 - [Contributing to your First Open Source Project: A Practical
   Approach](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - eine Schritt-für-Schritt-Anleitung zum
   Beitragen zu deinem ersten Open-Source-Projekt von [Abati Adewale](https://www.acekyd.com).
-- [Pull Request Roulette](http://www.pullrequestroulette.com/) - diese Seite enthält eine Liste mit Pull-Requests, die zur Open-Source-Community auf GitHub
-  gehören und überprüft werden müssen.
 - ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) -
   eine Schritt-für-Schritt-Videoanleitung darüber, wie man Beiträge zu Open-Source-Projekten auf GitHub leistet.
 
