@@ -30,9 +30,9 @@ jobs:
           gem install awesome_bot
           awesome_bot \
             -f README*.md \ 
-            --allow-ssl \
+            # --allow-ssl \
             --allow 302,429 \
-            --white-list firsttimersonly.com,github.com/github,creativecommons.org/licenses/by-sa/4.0,github.com/kentcdodds
+            --white-list https://www.firsttimersonly.com/,https://github.com/github,https://creativecommons.org/licenses/by-sa/4.0/,https://github.com/kentcdodds
 
 #      - name: Run Danger
 #        uses: MeilCli/danger-action@v5
