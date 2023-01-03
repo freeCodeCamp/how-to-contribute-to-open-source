@@ -101,7 +101,7 @@ Suchbegriffe, die direkt auf für Einsteiger\*innen geeignete Issues auf GitHub 
 - [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) von [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) von [@GitHub](https://github.com/github)
 - [How to Find a Bug in Your Code](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) von [@dougbradbury](https://twitter.com/dougbradbury)
-- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) von [@GitHubGuides](https://guides.github.com/)
+- [Mastering Markdown](https://docs.github.com/de/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) von [@GitHubGuides](https://docs.github.com/de)
 - [First mission: Contributors page](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) von [@forCrowd](https://github.com/forCrowd)
 - [How to make your first Open Source contribution in just 5 minutes](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) von [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
 - [Hacktoberfest 2018: How you can get your free shirt — even if you’re new to coding](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) von [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
@@ -113,7 +113,7 @@ Suchbegriffe, die direkt auf für Einsteiger\*innen geeignete Issues auf GitHub 
 
 - [Think Like (a) Git](https://think-like-a-git.net/) - Git-Einführung für "Fortgeschrittene Anfänger\*innen", welche ihnen eine Strategie an die Hand gibt, um
   problemlos und sicher mit Git zu experimentieren.
-- [Try Git](https://try.github.io/) - Git lernen innerhalb von fünfzehn Minuten aus dem Browser heraus, kostenlos.
+- [Try Git](https://docs.github.com/de/get-started/quickstart/set-up-git) - Git lernen innerhalb von fünfzehn Minuten aus dem Browser heraus, kostenlos.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Eine hilfreiche Minimalversion der grundsätzlichsten Git-Kommandos.
 - [Oh shit, git!](http://ohshitgit.com/) - wie man die typischsten Git-Fehler vermeidet.
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/) - zahlreiche Tutorials über die Nutzung von `git`.
