@@ -1,24 +1,32 @@
 <!-- Do not translate this -->
-
 <details>
   <summary>
   <strong> Прочетете това ръководство и на други езици </strong>
 </summary>
   <ul>
-  <li><a href="./README.md"> English </a></li>
-  <li><a href="./README-MR.md"> मराठी </a></li>
-  <li><a href="./README-BN.md"> বাংলা </a></li>
-  <li><a href="./README-CN.md"> 中文 </a></li>
-  <li><a href="./README-RU.md"> русский </a></li>
-  <li><a href="./README-BG.md"> български </a></li>
-  <li><a href="./README-RO.md"> Românesc </a></li>
-  <li><a href="./README-IT.md"> Italiano </a></li>
-  <li><a href="./README-ES.md"> Español </a></li>
-  <li><a href="./README-pt-BR.md"> Português (BR) </a></li>
-  <li><a href="./README-DE.md"> Deutsch </a></li>
-  <li><a href="./README-GR.md"> Ελληνικά </a></li>
-  <li><a href="./README-FR.md"> Français </a></li>
-  <li><a href="./README-KO.md"> 한국어 </a></li>
+   <li><a href="./README.md"> English </a></li>
+        <li><a href="./README-MR.md"> मराठी </a></li>
+        <li><a href="./README-BN.md"> বাংলা </a></li>
+        <li><a href="./README-CN.md"> 中文 </a></li>
+        <li><a href="./README-RU.md"> русский </a></li>
+        <li><a href="./README-RO.md"> Românesc </a></li>
+        <li><a href="./README-IT.md"> Italiano </a></li>
+        <li><a href="./README-ID.md"> Indonesia </a></li>
+        <li><a href="./README-ES.md"> Español </a></li>
+        <li><a href="./README-pt-BR.md"> Português (BR) </a></li>
+        <li><a href="./README-DE.md"> Deutsch </a></li>
+        <li><a href="./README-HE.md"> עברית </a></li>
+        <li><a href="./README-GR.md"> Ελληνικά </a></li>
+        <li><a href="./README-FR.md"> Français </a></li>
+        <li><a href="./README-TR.md"> Turkish </a></li>
+        <li><a href="./README-KO.md"> 한국어 </a></li>
+        <li><a href="./README-JA.md"> 日本語 </a></li>
+        <li><a href="./README-HI.md"> हिंदी </a></li>
+        <li><a href="./README-FA.md"> فارسی </a></li>
+        <li><a href="./README-UR.md">اردو </a></li>
+        <li><a href="./README-AR.md">اللغة العربية </a></li>
+        <li><a href="./README-TA.md">தமிழ்</a></li>
+        <li><a href="./README-NE.md">नेपाली</a></li>
 </ul>
 </details>
 
@@ -164,7 +172,15 @@ _Ресурси на български_
 - [Първи принос](https://firstcontributions.github.io/) - Дайте приноса си към Open Source само за 5 минути. Тук се съдържат инструмент и насоки как начинаещите да започнат да допринасят. [Тук линкът](https://github.com/firstcontributions/first-contributions) води към отворения код в GitHub на сайта и е предоставена възможност за принос към самото хранилище.
 - [Хактобер фест](https://hacktoberfest.digitalocean.com/) - Програма, която да окуражава доброволците. Можете да спечелите подаръци, като например тениски или стикери, ако направите най-малко 4 заявки за сливане(pull requests) през месец октомври.
 - [24 заявки за сливане(Pull Requests)](https://24pullrequests.com) - 24 заявки за сливане(Pull Requests) е проект, който иска да даде гласност на съвместната работа по Open Source проекти през месец декември.
-
+## инициативи за принос за Open Source
+- [За грабване](https://up-for-grabs.net/) - Contains projects with beginner-friendly issues.
+- [За първоляци](https://www.firsttimersonly.com/) - A list of bugs that are labelled "first-timers-only".
+- [Първи те вноски](https://firstcontributions.github.io/) - Make your first Open Source contribution in 5 minutes. A tool and tutorial to help beginners get started with contributions. [Here](https://github.com/firstcontributions/first-contributions) is the GitHub source code for the site and opportunity to make a contribution to the repository itself.
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - A program to encourage Open Source contributions. Earn gifts like t-shirts and stickers by making at least 4 pull requests in the month of October.
+- [24 Заявки за изтегляне](https://24pullrequests.com) - 24 Pull Requests is a project to promote Open Source collaboration during the month of December.
+- [Ovio](https://ovio.org) - A platform with a curated selection of contributor-friendly projects. It has a [powerful issue search tool](https://ovio.org/issues) and let's you save projects and issues for later.
+- [Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) - This is a tutorial to help first-time contributors to participate in a simple and easy project and get comfortable in using GitHub.
+- [Open Source Комитет за посрещане](https://www.oswc.is/) - The Open Source Welcome Committee (OSWC) helps newcomers join the extraordinary world of Open Source. Come submit your open-source projects with us!
 ## Лицензи
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)<br>
