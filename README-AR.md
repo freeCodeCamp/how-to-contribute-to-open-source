@@ -55,12 +55,12 @@
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - GitHub repo الذي يكدس المشاريع مع أخطاء جيدة للمساهمين الجدد ، ويطبق تسميات لوصفها.
 - [Open Source Guides](https://opensource.guide/) - مجموعة من الموارد للأفراد والمجتمعات والشركات الذين يرغبون في تعلم كيفية تشغيل مشروع مفتوح المصدر والمساهمة فيه.
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - افعل ولا تفعل على جيثب.
-- [GitHub Guides](https://docs.github.com/) -إرشادات أساسية حول كيفية استخدام GitHub بشكل فعال.
+- [GitHub Guides](https://docs.github.com/en) -إرشادات أساسية حول كيفية استخدام GitHub بشكل فعال.
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - تعرف على سير عمل GitHub من خلال المساهمة برمز في مشروع محاكاة.
-- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - أدلة مؤسسة Linux لمشاريع المصدر المفتوح.
+- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides) - أدلة مؤسسة Linux لمشاريع المصدر المفتوح.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - دليل آداب السلوك المفتوح المصدر ، بقلم كينت سي دودز وسارة دراسنر.
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - قائمة منتقاة من الموارد والفرص لطلاب الجامعات لتعلم لغة ترميز جديدة.
-- [Pull Request Roulette](http://www.pullrequestroulette.com/) - يحتوي هذا الموقع على قائمة بطلبات السحب المقدمة للمراجعة والتي تنتمي إلى مشاريع مفتوحة المصدر مستضافة على Github.
+- Pull Request Roulette - يحتوي هذا الموقع على قائمة بطلبات السحب المقدمة للمراجعة والتي تنتمي إلى مشاريع مفتوحة المصدر مستضافة على Github.
 - ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - دليل فيديو خطوة بخطوة حول كيفية البدء في المساهمة في مشاريع مفتوحة المصدر على GitHub.
 - [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) -تغطي هذه الإرشادات التفصيلية لمساهمة مفتوحة المصدر كل شيء بدءًا من اختيار مشروع مناسب ، والعمل على مشكلة ما ، إلى دمج العلاقات العامة.
 - ["How to Contribute to Open Source Project by" Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - إنهم يركزون على التفاصيل الجوهرية للمساهمة في طلب سحب (PR) لمشروع شخص آخر على GitHub.
@@ -72,8 +72,8 @@
 - ["Getting Started with Open Source" by NumFocus](https://github.com/numfocus/getting-started-with-open-source) -برنامج GitHub repo الذي يساعد المساهمين على التغلب على العوائق التي تحول دون الدخول في المصادر المفتوحة.
 - ["Opensoure-4-everyone" by Chryz-hub ](https://github.com/chryz-hub/opensource-4-everyone) -مستودع لكل ما يتعلق بالمصادر المفتوحة. هذا مشروع للمساعدة في رؤية عضوية GitHub ، والتدرب على أوامر git الأساسية والمتقدمة ، والبدء بمصدر مفتوح ، والمزيد.
 - ["Open Advice"](http://open-advice.org/) -جمع المعرفة من مجموعة متنوعة من مشاريع البرمجيات الحرة. يجيب على السؤال الذي كان يرغب 42 من المساهمين البارزين في معرفته عندما بدأوا حتى تتمكن من الحصول على السبق بغض النظر عن كيفية ومكان المساهمة.
-- ["GitHub Learning Lab"](https://lab.github.com/) -ارفع مستوى مهاراتك مع GitHub Learning Lab. سيأخذك برنامج الروبوت الودود الخاص بنا عبر سلسلة من المرح والمشاريع العملية لتعلم المهارات التي تحتاجها في وقت قصير - ومشاركة التعليقات المفيدة على طول الطريق.
-- ["Ten simple rules for helping newcomers become contributors to open projects"](https://doi.org/10.1371/journal.pcbi.1007296) - تتناول هذه المقالة القواعد المستندة إلى دراسات العديد من المجتمعات وتجارب الأعضاء والقادة والمراقبين.
+- ["GitHub Learning Lab"](https://github.com/marketplace/github-learning-lab) -ارفع مستوى مهاراتك مع GitHub Learning Lab. سيأخذك برنامج الروبوت الودود الخاص بنا عبر سلسلة من المرح والمشاريع العملية لتعلم المهارات التي تحتاجها في وقت قصير - ومشاركة التعليقات المفيدة على طول الطريق.
+- ["Ten simple rules for helping newcomers become contributors to open projects"](https://dx.plos.org/10.1371/journal.pcbi.1007296) - تتناول هذه المقالة القواعد المستندة إلى دراسات العديد من المجتمعات وتجارب الأعضاء والقادة والمراقبين.
 - ["Step-by-Step guide to contributing on GitHub"](https://www.dataschool.io/how-to-contribute-on-github/) -دليل خطوة بخطوة مع دعم مرئيات وروابط بخصوص العملية الكاملة للمساهمة في مشروع مفتوح المصدر.
 - [Open Source with Pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna) - مستودع يحتوي على مصادر ومواد لتعلم وبدأ المشاركة في المشاريع مفتوحة المصدر
 
@@ -110,8 +110,8 @@
 - [Bring Kindness Back to Open Source](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) بواسطة [@shanselman](https://github.com/shanselman)
 - [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) بواسطة [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) بواسطة [@GitHub](https://github.com/github)
-- [How to Find a Bug in Your Code](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) بواسطة [@dougbradbury](https://twitter.com/dougbradbury)
-- [Mastering Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) بواسطة [@GitHub](https://github.com/github)
+- [How to Find a Bug in Your Code](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) بواسطة [@dougbradbury](https://twitter.com/dougbradbury)
+- [Mastering Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) بواسطة [@GitHub](https://github.com/github)
 - [First mission: Contributors page](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705 ) بواسطة [@forCrowd](https://github.com/forCrowd)
 - [How to make your first Open Source contribution in just 5 minutes](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) بواسطة [@roshanjossey](https://github.com/Roshanjossey/)
 - [I just got my free Hacktoberfest shirt. Here’s a quick way you can get yours.](https://www.freecodecamp.org/news/i-just-got-my-free-hacktoberfest-shirt-heres-a-quick-way-you-can-get-yours-fa78d6e24307/) بواسطة [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
