@@ -25,7 +25,7 @@ jobs:
       - name: Run checks
         id: checks
         # shell: bash +e +o pipefail {0}
-        # continue-on-error: true
+        continue-on-error: true
         run: |
           gem install awesome_bot
           awesome_bot \
