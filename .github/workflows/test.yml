@@ -30,7 +30,7 @@ jobs:
           gem install awesome_bot
           awesome_bot \
             -f README*.md \ 
-            # --allow-ssl \
+            --allow-ssl \
             --allow 302,429 \
             --white-list https://www.firsttimersonly.com/,https://github.com/github,https://creativecommons.org/licenses/by-sa/4.0/,https://github.com/kentcdodds
 
