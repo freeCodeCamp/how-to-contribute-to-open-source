@@ -73,7 +73,7 @@
 - ["Opensoure-4-everyone" by Chryz-hub ](https://github.com/chryz-hub/opensource-4-everyone) -مستودع لكل ما يتعلق بالمصادر المفتوحة. هذا مشروع للمساعدة في رؤية عضوية GitHub ، والتدرب على أوامر git الأساسية والمتقدمة ، والبدء بمصدر مفتوح ، والمزيد.
 - ["Open Advice"](http://open-advice.org/) -جمع المعرفة من مجموعة متنوعة من مشاريع البرمجيات الحرة. يجيب على السؤال الذي كان يرغب 42 من المساهمين البارزين في معرفته عندما بدأوا حتى تتمكن من الحصول على السبق بغض النظر عن كيفية ومكان المساهمة.
 - ["GitHub Learning Lab"](https://github.com/marketplace/github-learning-lab) -ارفع مستوى مهاراتك مع GitHub Learning Lab. سيأخذك برنامج الروبوت الودود الخاص بنا عبر سلسلة من المرح والمشاريع العملية لتعلم المهارات التي تحتاجها في وقت قصير - ومشاركة التعليقات المفيدة على طول الطريق.
-- ["Ten simple rules for helping newcomers become contributors to open projects"](https://dx.plos.org/10.1371/journal.pcbi.1007296) - تتناول هذه المقالة القواعد المستندة إلى دراسات العديد من المجتمعات وتجارب الأعضاء والقادة والمراقبين.
+- ["Ten simple rules for helping newcomers become contributors to open projects"](https://journals.plos.org/plosone/doi?id=10.1371/journal.pcbi.1007296) - تتناول هذه المقالة القواعد المستندة إلى دراسات العديد من المجتمعات وتجارب الأعضاء والقادة والمراقبين.
 - ["Step-by-Step guide to contributing on GitHub"](https://www.dataschool.io/how-to-contribute-on-github/) -دليل خطوة بخطوة مع دعم مرئيات وروابط بخصوص العملية الكاملة للمساهمة في مشروع مفتوح المصدر.
 - [Open Source with Pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna) - مستودع يحتوي على مصادر ومواد لتعلم وبدأ المشاركة في المشاريع مفتوحة المصدر
 
@@ -104,9 +104,9 @@
 
 ## مقالات مفيدة للمساهمين الجدد في المصادر المفتوحة
 
-- [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) بواسطة [@GitHub](https://github.com/github)
+- [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) بواسطة
 - [How to find your first Open Source bug to fix](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) بواسطة [@Shubheksha](https://github.com/Shubheksha)
-- [First Timers Only](https://kentcdodds.com/blog/first-timers-only) بواسطة [@kentcdodds](https://github.com/kentcdodds)
+- [First Timers Only](https://kentcdodds.com/blog/first-timers-only) بواسطة 
 - [Bring Kindness Back to Open Source](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) بواسطة [@shanselman](https://github.com/shanselman)
 - [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) بواسطة [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) بواسطة [@GitHub](https://github.com/github)
@@ -161,7 +161,7 @@
 ## مبادرات مساهمة المصدر المفتوح
 
 - [Up For Grabs](https://up-for-grabs.net/) - يحتوي على مشاريع ذات مواضيع صديقة للمبتدئين.
-- [First Timers Only](https://www.firsttimersonly.com/) - قائمة بالأخطاء التي تم تصنيفها "لأول مرة فقط".
+- [First Timers Only]() - قائمة بالأخطاء التي تم تصنيفها "لأول مرة فقط".
 - [First Contributions](https://firstcontributions.github.io/) - قم بأول مساهمة مفتوحة المصدر لك في 5 دقائق. أداة وبرنامج تعليمي لمساعدة المبتدئين على البدء في المساهمات. [Here](https://github.com/firstcontributions/first-contributions)هو رمز مصدر GitHub للموقع والفرصة لتقديم مساهمة في المستودع نفسه.
 - [24 Pull Requests](https://24pullrequests.com) - 24 طلبات السحب هو مشروع لتعزيز التعاون مفتوح المصدر خلال شهر ديسمبر.
 - [Ovio](https://ovio.org) -منصة مع مجموعة منتقاة من المشاريع الصديقة للمساهمين. لديها [powerful issue search tool](https://ovio.org/issues)ودعنا نحفظ المشروعات والمشكلات لوقت لاحق.
@@ -183,4 +183,4 @@
 
 ## License
 
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />هذا العمل مرخص بموجب أ <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 الرخصة الدولية</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />هذا العمل مرخص بموجب أ <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 الرخصة الدولية</a>.
