@@ -47,15 +47,15 @@
 
 **સામગ્રી**
 
-- [સામાન્ય રીતે ઓપન સોર્સમાં યોગદાન આપવું](#contributing-to-open-source-in-general)
-- [ડાયરેક્ટ GitHub શોધ](#direct-github-searchs)
-- [મોઝિલાનું યોગદાનકર્તા ઇકોસિસ્ટમ](#mozillas-contributor-ecosystem)
-- [નવા ઓપન સોર્સ યોગદાનકર્તાઓ માટે ઉપયોગી લેખો](#useful-articles-for-new-open-source-contributors)
-- [વર્ઝન કંટ્રોલનો ઉપયોગ કરીને](#using-version-control)
+- [સામાન્ય રીતે ઓપન સોર્સમાં યોગદાન આપવું](#સામાન્ય-રીતે-ઓપન-સોર્સમાં-યોગદાન-આપવું)
+- [ડાયરેક્ટ GitHub શોધ](#ડાયરેક્ટ-github-શોધ)
+- [મોઝિલાનું યોગદાનકર્તા ઇકોસિસ્ટમ](#મોઝિલાનું-યોગદાન-આપનાર-ઇકોસિસ્ટમ)
+- [નવા ઓપન સોર્સ યોગદાનકર્તાઓ માટે ઉપયોગી લેખો](#નવા-ઓપન-સોર્સ-યોગદાનકર્તાઓ-માટે-ઉપયોગી-લેખો)
+- [વર્ઝન કંટ્રોલનો ઉપયોગ કરીને](#સંસ્કરણ-નિયંત્રણનો-ઉપયોગ-કરીને)
 - [ખુલ્લા સ્ત્રોત પુસ્તકો](#ઓપન-સોર્સ-પુસ્તકો)
-- [ઓપન સોર્સ યોગદાન પહેલ](#open-source-contribution-initiatives)
-- [ભાગ લેવા માટે ઓપન સોર્સ પ્રોગ્રામ્સ](#open-source-programs-to-participate-in)
-- [લાઈસન્સ](#લાઈસન્સ)
+- [ઓપન સોર્સ યોગદાન પહેલ](#ઓપન-સોર્સ-યોગદાન-પહેલ)
+- [ભાગ લેવા માટે ઓપન સોર્સ પ્રોગ્રામ્સ](#ભાગ-લેવા-માટે-ઓપન-સોર્સ-પ્રોગ્રામ્સ)
+- [લાઈસન્સ](#license)
 
 ## સામાન્ય રીતે ઓપન સોર્સમાં યોગદાન આપવું
 
@@ -145,11 +145,11 @@
 - [કેમ ઓપન સોર્સ અને કેવી રીતે?](https://careerkarma.com/blog/open-source-projects-for-beginners/) by [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
 - [ઓપન સોર્સ સાથે કેવી રીતે શરૂઆત કરવી - By સયાન ચૌધરી ](https://www.hackerearth.com/getstarted-opensource/)
 - [મારે કયા ઓપન-સોર્સમાં યોગદાન આપવું જોઈએ](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to) by [@kentcdodds](https://github.com/kentcdodds)
-- [ઓપન-સોર્સ માટે એક ઇમર્સિવ પ્રારંભિક માર્ગદર્શિકા](https://developeraspire.hashnode.dev/an-immersive-introductory-guide-to-open-source) by [Franklin Okolie](https://twitter.com/DeveloperAspire)
-- [ઓપન સોર્સમાં યોગદાન સાથે શરૂઆત કરવી](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/) by [Zara Cooper](https://stackoverflow.blog/author/zara-cooper/)
-- [ઓપન-સોર્સ યોગદાન માટે પ્રારંભિક માર્ગદર્શિકા](https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj) by [Sudipto Ghosh](https://github.com/pydevsg)
+- [ઓપન-સોર્સ માટે એક ઇમર્સિવ પ્રારંભિક માર્ગદર્શિકા](https://developeraspire.hashnode.dev/an-immersive-introductory-guide-to-open-source) by [@Franklin Okolie](https://twitter.com/DeveloperAspire)
+- [ઓપન સોર્સમાં યોગદાન સાથે શરૂઆત કરવી](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/) by [@Zara Cooper](https://stackoverflow.blog/author/zara-cooper/)
+- [ઓપન-સોર્સ યોગદાન માટે પ્રારંભિક માર્ગદર્શિકા](https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj) by [@Sudipto Ghosh](https://github.com/pydevsg)
 - [ઓપન સોર્સમાં યોગદાન આપવાની 8 બિન-કોડ રીતો](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code) by [OpenSource](https://twitter.com/OpenSourceWay)
-- [ઓપન સોર્સ સોફ્ટવેર શું છે? OSS સાદા ગુજરાતીમા સમજાવ્યું](https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/) by [Jessica Wilkins](https://www.freecodecamp.org/news/author/jessica-wilkins/)
+- [ઓપન સોર્સ સોફ્ટવેર શું છે? OSS સાદા ગુજરાતીમા સમજાવ્યું](https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/) by [@Jessica Wilkins](https://www.freecodecamp.org/news/author/jessica-wilkins/)
 - [ગીટહબ પર ઓપન સોર્સ પ્રોજેક્ટ કેવી રીતે શરૂ કરવો - My Trending Repo બનાવવાની ટિપ્સ](https://www.freecodecamp.org/news/how-to-start-an-open-source-project-on-github-tips-from-building-my-trending-repo/) by [@Rishit-dagli](https://github.com/Rishit-dagli)
 
 ## સંસ્કરણ નિયંત્રણનો ઉપયોગ કરીને
