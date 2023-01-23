@@ -50,10 +50,10 @@ Se hai domande o commenti, per favore crea un issue.
 - [Awesome-for-beginners(Meraviglioso-per-principianti)](https://github.com/MunGell/awesome-for-beginners) - una repository GitHub che raccoglie progetti con bug buoni per nuovi contributors e a cui applica etichette per descriverli.
 - [Guide per l'Open Source Guides](https://opensource.guide/) - Raccolta di risorse per singoli, comunità e aziende che desiderano imparare a come eseguire e contribuire ad un progetto open source.
 - [45 Github problemi i Pro e i Contro](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Cosa fare e non fare su GitHub.
-- [Guide GitHub](https://guides.github.com/) - guide di base su come utilizzare GitHub in modo efficace.
+- [Guide GitHub](https://docs.github.com/en) - guide di base su come utilizzare GitHub in modo efficace.
 - [Il primo contributo](https://firstcontributions.github.io/) - Crea il tuo primo contributo open source in 5 minuti. Uno strumento ed un tutorial per aiutare i principianti ad iniziare a contribuire.
 - [Contribuisci all'open source](https://github.com/danthareja/contribute-to-open-source) - Impara il flusso di lavoro GitHub contribuendo con il codice ad un progetto simulato.
-- [Guide all'open source di Linux Foundation per le Aziende](https://www.linuxfoundation.org/resources/open-source-guides/) - Le guide della Fondazione Linux per progetti open source.
+- [Guide all'open source di Linux Foundation per le Aziende](https://www.linuxfoundation.org/resources/open-source-guides) - Le guide della Fondazione Linux per progetti open source.
 - [Trucchi CSS: una guida all'etichetta per l'open source](https://css-tricks.com/open-source-etiquette-guidebook/) - Una guida all'etichetta nell'open source, scritta da Kent C. Dodds e Sarah Drasner.
 
 ## Ricerche GitHub dirette
@@ -68,7 +68,7 @@ Se hai domande o commenti, per favore crea un issue.
 
 
 ## L'ecosistema del contributore di Mozilla
-- [bug buoni per iniziare](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - bug che gli sviluppatori hanno identificato come una buona introduzione al progetto.
+- [bug buoni per iniziare](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22[good%20first%20bug]%22&limit=0) - bug che gli sviluppatori hanno identificato come una buona introduzione al progetto.
 - [Bug con mentori](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bug a cui è stato assegnato un mentore che sarà presente su IRC per aiutarti quando rimani bloccato mentre lavori sulla correzione.
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - un sito dedicato alla ricerca di bug su Bugzilla.
 - [Strumenti Firefox per programmatori/sviluppatori DevTools](http://firefox-dev.tools/) - un sito dedicato ai bug archiviati per gli strumenti di sviluppo nel browser Firefox.
@@ -81,16 +81,16 @@ Se hai domande o commenti, per favore crea un issue.
 - ["Solo per i principianti"](https://kentcdodds.com/blog/first-timers-only) di [@kentcdodds](https://github.com/kentcdodds)
 - ["Porta la gentilezza nell'open source"](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) di [@shanselman](https://github.com/shanselman)
 - ["Entrare nell'Open Source per la prima volta"](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) di [@mcdonnelldean](https://github.com/mcdonnelldean)
-- ["Come contribuire all'open source"](https://opensource.guide/how-to-contribute/) di [@GitHub](https://github.com/github)
-- ["Come trovare un bug nel codice"](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
-- ["Padroneggiare il Markdown"](https://guides.github.com/features/mastering-markdown/) di [@GitHubGuides](https://guides.github.com/)
-- ["La prima missione: La pagina dei contributors"](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) di [@forCrowd](https://github.com/forCrowd)
+- ["Come contribuire all'open source"](https://opensource.guide/how-to-contribute/) di [@GitHub](https://github.com/github/opensource.guide)
+- ["Come trovare un bug nel codice"](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) by [@dougbradbury](https://twitter.com/dougbradbury)
+- ["Padroneggiare il Markdown"](https://docs.github.com/features/mastering-markdown/) di [@GitHubGuides](https://docs.github.com/en)
+- ["La prima missione: La pagina dei contributors"](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) di [@forCrowd](https://github.com/forCrowd)
 - ["Come rendere il tuo primo contributo open source in soli 5 minuti"](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) di [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
 - ["Hacktoberfest 2018: Come puoi ottenere la tua maglietta gratis — anche se sei nuovo nella programazione"](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) di [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
 
 ## L'uso del version control
 - [Pensa come (un) Git (stupido)](https://think-like-a-git.net/) - L'Introduzione a Git per "principianti avanzati", che hanno ancora qualche difficoltà, al fine di darti una semplice strategia per sperimentare in sicurezza con git.
-- [Prova Git](https://try.github.io/) - Impara Git in 15 minuti dal tuo browser gratuitamente.
+- [Prova Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - Impara Git in 15 minuti dal tuo browser gratuitamente.
 - [Ogni giorno Git](https://git-scm.com/docs/giteveryday) - Un utile set minimo di comandi per Git da usare ogni giorno.
 - [Oh mio Dio, git!](http://ohshitgit.com/) - come uscire dagli errori di `git` comuni descritti in inglese semplice.
 - [Atlassian Git Tutoriali](https://www.atlassian.com/git/tutorials/) - vari tutorial sull'uso di `git`.

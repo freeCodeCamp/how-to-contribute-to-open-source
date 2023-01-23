@@ -72,7 +72,7 @@
 - ["Getting Started with Open Source" by NumFocus](https://github.com/numfocus/getting-started-with-open-source) -برنامج GitHub repo الذي يساعد المساهمين على التغلب على العوائق التي تحول دون الدخول في المصادر المفتوحة.
 - ["Opensoure-4-everyone" by Chryz-hub ](https://github.com/chryz-hub/opensource-4-everyone) -مستودع لكل ما يتعلق بالمصادر المفتوحة. هذا مشروع للمساعدة في رؤية عضوية GitHub ، والتدرب على أوامر git الأساسية والمتقدمة ، والبدء بمصدر مفتوح ، والمزيد.
 - ["Open Advice"](http://open-advice.org/) -جمع المعرفة من مجموعة متنوعة من مشاريع البرمجيات الحرة. يجيب على السؤال الذي كان يرغب 42 من المساهمين البارزين في معرفته عندما بدأوا حتى تتمكن من الحصول على السبق بغض النظر عن كيفية ومكان المساهمة.
-- ["GitHub Learning Lab"](https://github.com/marketplace/github-learning-lab) -ارفع مستوى مهاراتك مع GitHub Learning Lab. سيأخذك برنامج الروبوت الودود الخاص بنا عبر سلسلة من المرح والمشاريع العملية لتعلم المهارات التي تحتاجها في وقت قصير - ومشاركة التعليقات المفيدة على طول الطريق.
+- ["GitHub Learning Lab"](https://github.com/apps/github-learning-lab) -ارفع مستوى مهاراتك مع GitHub Learning Lab. سيأخذك برنامج الروبوت الودود الخاص بنا عبر سلسلة من المرح والمشاريع العملية لتعلم المهارات التي تحتاجها في وقت قصير - ومشاركة التعليقات المفيدة على طول الطريق.
 - ["Ten simple rules for helping newcomers become contributors to open projects"](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007296) - تتناول هذه المقالة القواعد المستندة إلى دراسات العديد من المجتمعات وتجارب الأعضاء والقادة والمراقبين.
 - ["Step-by-Step guide to contributing on GitHub"](https://www.dataschool.io/how-to-contribute-on-github/) -دليل خطوة بخطوة مع دعم مرئيات وروابط بخصوص العملية الكاملة للمساهمة في مشروع مفتوح المصدر.
 - [Open Source with Pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna) - مستودع يحتوي على مصادر ومواد لتعلم وبدأ المشاركة في المشاريع مفتوحة المصدر
@@ -89,7 +89,7 @@
 - [is:issue is:open label:starter](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Astarter&type=issues)
 - [is:issue is:open label:up-for-grabs](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs&type=issues)
 - [is:issue is:open label:easy-fix](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy-fix&type=issues)
-- [is:issue is:open label:"beginner friendly"](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22beginner+friendly%22&type=issues)
+- [is:issue is:open label:"beginner friendly"](https://github.com/search?q=beginner+friendly&state=open&type=Issues)
 
 ## النظام البيئي للمساهمين في Mozilla
 
@@ -119,8 +119,8 @@
 - [Learn Git and GitHub Step By Step (on Windows)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) بواسطة [@ows-ali](https://ows-ali.medium.com/)
 - [Why Open Source and How?](https://careerkarma.com/blog/open-source-projects-for-beginners/) بواسطة [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
 - [How to get started with Open Source - By Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/)
-- [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to) بواسطة [@kentcdodds](https://github.com/kentcdodds)
 - [An immersive introductory guide to Open-source](https://developeraspire.hashnode.dev/an-immersive-introductory-guide-to-open-source) بواسطة [Franklin Okolie](https://twitter.com/DeveloperAspire)
+- [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to) بواسطة [@kentcdodds](https://github.com/kentcdodds)
 - [Getting started with contributing to open source](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/) بواسطة [Zara Cooper](https://stackoverflow.blog/author/zara-cooper/)
 - [Beginner's guide to open-source contribution](https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj) بواسطة [Sudipto Ghosh](https://github.com/pydevsg)
 - [8 non-code ways to contribute to open source](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code) بواسطة [OpenSource](https://twitter.com/OpenSourceWay)
@@ -160,8 +160,8 @@
 ## مبادرات مساهمة المصدر المفتوح
 
 - [Up For Grabs](https://up-for-grabs.net/) - يحتوي على مشاريع ذات مواضيع صديقة للمبتدئين.
-- [First Timers Only]() - قائمة بالأخطاء التي تم تصنيفها "لأول مرة فقط".
 - [First Contributions](https://firstcontributions.github.io/) - قم بأول مساهمة مفتوحة المصدر لك في 5 دقائق. أداة وبرنامج تعليمي لمساعدة المبتدئين على البدء في المساهمات. [Here](https://github.com/firstcontributions/first-contributions)هو رمز مصدر GitHub للموقع والفرصة لتقديم مساهمة في المستودع نفسه.
+- [First Timers Only](https://www.firsttimersonly.com/) - قائمة بالأخطاء التي تم تصنيفها "لأول مرة فقط".
 - [24 Pull Requests](https://24pullrequests.com) - 24 طلبات السحب هو مشروع لتعزيز التعاون مفتوح المصدر خلال شهر ديسمبر.
 - [Ovio](https://ovio.org) -منصة مع مجموعة منتقاة من المشاريع الصديقة للمساهمين. لديها [powerful issue search tool](https://ovio.org/issues)ودعنا نحفظ المشروعات والمشكلات لوقت لاحق.
 - [Google Summer of Code](https://summerofcode.withgoogle.com/) - برنامج مدفوع يتم تشغيله سنويًا بواسطة Google ويركز على جذب المزيد من مطوري الطلاب إلى تطوير البرمجيات مفتوحة المصدر.

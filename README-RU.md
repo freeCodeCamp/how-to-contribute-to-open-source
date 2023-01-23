@@ -48,9 +48,9 @@
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - Репозиторий GitHub, который собирает проекты с хорошими багами для новичков и использует ярлыки для их описания.
 - [Подборка ресурсов open source](https://opensource.guide/) - Подборка ресурсов для людей, сообществ и компаний, которые хотят научиться вносить вклад в проекты с открытым исходным кодом.
 - [Как нужно и не нужно делать - 45 примеров](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Как нужно и не нужно делать на GitHub.
-- [Базовое руководство GitHub](https://guides.github.com/) - Базовое руководство о том, как эффективно использовать GitHub.
+- [Базовое руководство GitHub](https://docs.github.com/en) - Базовое руководство о том, как эффективно использовать GitHub.
 - [Участвуйте в open source проектах](https://github.com/danthareja/contribute-to-open-source) - Осваивайте рабочий процесс GitHub, добавляя код в проект-симулятор.
-- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Руководство по открытому исходному коду от Linux Foundation для предприятий.
+- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides) - Руководство по открытому исходному коду от Linux Foundation для предприятий.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - Руководство по этикету в работе с открытым исходным кодом от Kent C. Dodds и Sarah Drasner.
 - [Ресурсы для студентов от А до Я](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Список ресурсов и возможностей для студентов по изучению нового языка программирования.
 - [Вклад в ваш первый проект с открытым исходным кодом: практический подход](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - Пошаговое руководство, как сделать свой первый вклад в Open Source от [Abati Adewale](https://www.acekyd.com).
@@ -66,7 +66,7 @@
 - ["Открытый код для всех" от Chryz-hub ](https://github.com/chryz-hub/opensource-4-everyone) - это репозиторий, в котором находится всё, что связано с открытым кодом. Это проект создан для того, чтобы помочь с видимостью в GitHub, помочь попрактиковаться с базовыми и расширенными командами в GitHub, начать разработку с исходным кодом и т.д.
 - ["Open Advice"](http://open-advice.org/) - Сборник знаний из различных источников. Отвечает на вопрос - что бы хотели знать 42 выдающихся участника проекта, когда они начинали, чтобы это дало им преимущество, независимо от того, как и где в контрибьютите.
 - ["GitHub Learning Lab"](https://lab.github.com/) - Повысьте свои скилы в GitHub Learning Lab. Наш дружелюбный бот проведет вас через серию веселых практических проектов, чтобы вы могли быстрее освоить необходимые навыки, а так же поделиться полезным фидбеком.
-- ["Десять простых правил, которые помогут новичкам стать разработчиками в открытых проектах"](https://doi.org/10.1371/journal.pcbi.1007296) - В этой статье рассматриваются правила, основанные на исследованиях многих сообществ и опыте участников, лидеров и наблюдателей.
+- ["Десять простых правил, которые помогут новичкам стать разработчиками в открытых проектах"](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007296) - В этой статье рассматриваются правила, основанные на исследованиях многих сообществ и опыте участников, лидеров и наблюдателей.
 - ["Шаг-за-шагом гайд как контрибьютить в GitHub"](https://www.dataschool.io/how-to-contribute-on-github/) - пошаговое руководство с вспомогательными визуальными эффектами и ссылками, касающимися всего процесса участия в проекте с открытым исходным кодом.
 
 ## Прямой поиск на GitHub
@@ -79,11 +79,10 @@
 - [is:issue is:open label:starter](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Astarter)
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 - [is:issue is:open label:easy-fix](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy-fix&type=issues)
-- [is:issue is:open label:"beginner friendly"](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22beginner+friendly%22&type=issues)
-- [is:issue is:open label:your-first-pr](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Ayour-first-pr&type=issues)
+- [is:issue is:open label:"beginner friendly"](https://github.com/search?q=beginner+friendly&state=open&type=Issues)
 
 ## Экосистема контрибьюторов Mozilla
-- [Хорошие первые ошибки](https://bugzil.la/sw:%22[good%20first%20bug]%22) - ошибки, которые разработчики определили как хорошее введение в проект.
+- [Хорошие первые ошибки](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22[good%20first%20bug]%22) - ошибки, которые разработчики определили как хорошее введение в проект.
 - [MDN Web Docs](https://developer.mozilla.org/ru/docs/MDN/Contribute) - помогите команде веб-документации MDN в документировании веб-платформы, исправляя проблемы с контентом и ошибки платформы.
 - [Ошибки с наставником](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - ошибки, на которых назначен наставник, который поможет в IRC, если у вас появятся трудности во время работы над исправлением.
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/)- сайт, посвященный поиску ошибок в Bugzilla.
@@ -97,18 +96,18 @@
 - ["Только новички"](https://kentcdodds.com/blog/first-timers-only) OT [@kentcdodds](https://github.com/kentcdodds)
 - ["Принесите доброту в открытый исходный код"](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) by [@shanselman](https://github.com/shanselman)
 - ["Вступление в Open Source в первый раз"](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
-- ["Как внести вклад в открытый исходный код"](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
-- ["Как найти ошибку в коде"](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
-- ["Освоение Markdown"](https://guides.github.com/features/mastering-markdown/) by [@GitHubGuides](https://guides.github.com/)
-- ["Первая миссия: страница разработчиков"](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
+- ["Как внести вклад в открытый исходный код"](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github/opensource.guide)
+- ["Как найти ошибку в коде"](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) by [@dougbradbury](https://twitter.com/dougbradbury)
+- ["Освоение Markdown"](https://docs.github.com/features/mastering-markdown/) by [@GitHubGuides](https://docs.github.com/en)
+- ["Первая миссия: страница разработчиков"](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
 - ["Как сделать первый вклад с открытым исходным кодом всего за 5 минут"](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) by [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
 - ["Hacktoberfest 2018: Как можно получить бесплатную рубашку - даже если вы новичок"](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) by [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
 - ["Руководство Bitter по Open Source"](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
 - ["Пошаговое руководство junior разработчика, чтобы вносить вклад в открытый исходный код в первый раз"](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) by [@LetaKeane](http://www.letakeane.com/)
 - [Учим Git и GitHub Шаг за шагом(на Windows)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) by [@ows-ali](https://ows-ali.medium.com/)
 - [Почему Open Source и Как?](https://careerkarma.com/blog/open-source-projects-for-beginners/) by [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
-- [Что я должен разрабатывать в open source](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) by [@kentcdodds](https://github.com/kentcdodds)
 - [Захватывающее вводно руководство в Open-source](https://developeraspire.hashnode.dev/an-immersive-introductory-guide-to-open-source) by [Franklin Okolie](https://twitter.com/DeveloperAspire)
+- [Что я должен разрабатывать в open source](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) by [@kentcdodds](https://github.com/kentcdodds)
 - [Начнём разрабатывать в open source](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/) by [Zara Cooper](https://stackoverflow.blog/author/zara-cooper/)
 - [Гайд для новичков в open source](https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj) by [Sudipto Ghosh](https://github.com/pydevsg)
 - [ 8 способов без использования кода внести свой вклад в open source](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code) by [OpenSource](https://twitter.com/OpenSourceWay)
@@ -116,7 +115,7 @@
 
 ## Использование контроля версий
 - [Подумайте как (a) Git](https://think-like-a-git.net/) - Введение Git для «продвинутых новичков», но все еще борется, чтобы дать вам простую стратегию безопасного экспериментирования с git.
-- [Попробуйте Git](https://try.github.io/) - Бесплатно выучите Git за 15 минут через свой браузер.
+- [Попробуйте Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - Бесплатно выучите Git за 15 минут через свой браузер.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Полезный минимальный набор команд для Everyday Git.
 - [Вот, дерьмо, гит!](http://ohshitgit.com/) - как выйти из обычных ошибок `git`, описанных на простом английском языке.
 - [Учебники Atlassian Git](https://www.atlassian.com/git/tutorials/) - различные руководства по использованию `git`.

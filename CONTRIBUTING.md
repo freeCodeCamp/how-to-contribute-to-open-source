@@ -71,7 +71,7 @@ If you've gotten this far, then you can continue on with the next section on "Ge
 
     If you are making changes to the `README.md` file, you would need to have
     Markdown knowledge. Visit
-    [here to read about GitHub Markdown](https://guides.github.com/features/mastering-markdown/)
+    [here to read about GitHub Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
     and
     [here to practice](http://www.markdowntutorial.com/).
 
@@ -208,6 +208,6 @@ This section will list any notations, terminology, or words that we will keep co
 
 - [Pro GIT Book](https://git-scm.com/book/en/v2)
 
-- [Try Git](https://try.github.io/)
+- [Try Git](https://docs.github.com/en/get-started/quickstart/set-up-git)
 
 - [Git/ Git Hub on Windows](https://www.youtube.com/watch?v=J_Clau1bYco)
