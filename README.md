@@ -31,7 +31,7 @@
 </details>
 <!-- Do not translate this -->
 
-# Welcome newbie Open Source contributors!
+# Welcome Newbie Open Source Contributors!
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
@@ -39,7 +39,7 @@
 
 This is a list of resources for people who are new to contributing to Open Source.
 
-If you find additional resources, please contribute a pull request.
+If you find additional resources, please create a pull request.
 
 If you have questions or comments, please create an issue.
 
@@ -57,7 +57,7 @@ If you have questions or comments, please create an issue.
 
 ## Contributing to Open Source in general
 
-> Articles and resources that discuss the world and culture of open source.
+> Articles and resources that discuss the world and culture of Open Source.
 
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG).
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials by DigitalOcean to guide you on your way to contribution success here on GitHub.
@@ -71,7 +71,6 @@ If you have questions or comments, please create an issue.
 - [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides) - The Linux Foundation's guides to Open Source projects.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - An Open Source Etiquette Guidebook, written by Kent C. Dodds And Sarah Drasner.
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Curated list of resources and opportunities for college students to learn a new coding language.
-- [Pull Request Roulette](http://www.pullrequestroulette.com/) - This site has a list of pull requests submitted for review belonging to Open Source projects hosted on Github.
 - ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - A step-by-step video guide of how to start contributing to Open Source projects on GitHub.
 - [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - This walkthrough of an open source contribution covers everything from picking a suitable project, working on an issue, to getting the PR merged in.
 - ["How to Contribute to Open Source Project" by Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - They are focusing on the nitty-gritty of contributing a pull request (PR) to someone else’s project on GitHub.
@@ -89,6 +88,7 @@ If you have questions or comments, please create an issue.
 - [Open Source with Pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna) - This repo contains resources and materials to learn and get yourself started with Open Source, Git, and GitHub.
 - ["FOSS Community Acronyms"](https://github.com/d-edge/foss-acronyms) - This repo contains a list of abbreviations used within the FOSS (Free and Open Source) community, along with their definitions and usages.
 - ["Open Source Fiesta - Open Source Fiesta"](https://zubi.gitbook.io/open-source-fiesta/) - Step-by-step instruction on how to contribute to GitHub repositories, and includes a git command line cheatsheet.
+- ["6 Best Practices to Manage Pull Request Creation and Feedback"](https://doordash.engineering/2022/08/23/6-best-practices-to-manage-pull-request-creation-and-feedback/) from Jenna Kiyasu, software engineer at DoorDash Engineering.
 - ["Contribute to the Open-Source Community"](https://arijitgoswami.hashnode.dev/contribute-to-the-open-source-community) - Advantages of open-source software, how to understand the inner workings of an open-source project and make the first contribution. 
 - ["Complete Guide to Open Source - How to Contribute"](https://www.youtube.com/watch?v=yzeVMecydCE) (41:52) - Learn why and how to contribute to open source software with Eddie Jaoude.
 
@@ -177,7 +177,7 @@ If you have questions or comments, please create an issue.
 
 ## Open Source books
 
-> Books on all things open source: the culture, history, best practices, etc.
+> Books on all things Open Source: The Culture, History, Best Practices, etc.
 
 - [Producing Open Source Software](https://producingoss.com/) - Producing Open Source Software is a book about the human side of Open Source development. It describes how successful projects operate, the expectations of users and developers, and the culture of free software.
 - [The Architecture of Open Source Applications](https://www.aosabook.org/en/index.html) - The authors of twenty-four open source applications explain how their software is structured, and why. From web servers and compilers to health record management systems, they are covered here to help you become a better developer.
@@ -204,21 +204,25 @@ If you have questions or comments, please create an issue.
 > A program, internship, or fellowship hosted by a community to help match beginning contributors with mentors and resources to contribute to open source software projects.
 
 - [All Linux Foundation (LF) Mentorships](https://mentorship.lfx.linuxfoundation.org/#projects_all)
-- [Cloud Native Computing Foundation](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
 - [Beginner friendly Open Source programs with their timelines](https://github.com/arpit456jain/Open-Source-Programs)
+- [Cloud Native Computing Foundation](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
 - [FossAsia](https://fossasia.org)
 - [Free Software Foundation (FSF) Internship](https://www.fsf.org/volunteer/internships)
 - [Google Summer of Code](https://summerofcode.withgoogle.com/) - An annually run paid program by Google focused on bringing more student developers into open-source software development.
+- [Girlscript Summer of Code](https://gssoc.girlscript.tech/) - A three-month-long Open-Source Program conducted every summer by the Girlscript Foundation. With constant efforts, participants contribute to numerous projects under the extreme guidance of skilled mentors over these months. With such exposure, students begin to contribute to real-world projects from the comfort of their homes.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com)
+- [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN) - If you’re into the blockchain, this is for you. You can contribute to Hyperledger. This mentorship program allows you to get practical exposure to Hyperledger open source development.You will be allotted mentors who are quite active in the Hyperledger developers community.
 - [LF Networking Mentorship](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program)
 - [Microsoft Reinforcement Learning](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
+- [Major League Hacking (MLH) Fellowship](https://fellowship.mlh.io/) - A remote internship alternative for aspiring technologists where they build, or contribute to open-source projects.
 - [Open Summer of Code](https://osoc.be/students)
+- [Open Mainframe](https://www.openmainframeproject.org/all-projects/mentorship-program) - Open Mainframe Project also has its own open-source program and the mentees will be able to expand their knowledge on the mainframe technology
 - [Outreachy](https://www.outreachy.org)
 - [Processing Foundation Internship](https://processingfoundation.org/fellowships/)
-- [Social Summer of Code](https://ssoc.devfolio.co/) - Social foundation offers this two-month long summer program for students to learn about the open-source culture and get involved in the community. Participants contribute to real-life projects under the guidance of experienced mentors.
-- [Girlscript Summer of Code](https://gssoc.girlscript.tech/) - A three-month-long Open-Source Program conducted every summer by the Girlscript Foundation. With constant efforts, participants contribute to numerous projects under the extreme guidance of skilled mentors over these months. With such exposure, students begin to contribute to real-world projects from the comfort of their homes.
 - [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) - A global fellowship program for women and non-binary coders where they work on existing open-source projects and expand their skillset.
-- [Major League Hacking (MLH) Fellowship](https://fellowship.mlh.io/) - A remote internship alternative for aspiring technologists where they build, or contribute to open-source projects.
+- [Redox OS Summer of Code](https://www.redox-os.org/rsoc/) - The Redox OS Summer of Code is the primary use of donations to the Redox OS project. Students are selected who have already demonstrated a desire and ability to contribute to Redox OS
+- [Social Summer of Code](https://ssoc.devfolio.co/) - Social foundation offers this two-month long summer program for students to learn about the open-source culture and get involved in the community. Participants contribute to real-life projects under the guidance of experienced mentors.
+- [Season of KDE](https://season.kde.org/) - The Season of KDE, hosted by the KDE community, is an outreach program for all individuals across the world. KDE is an international free software community that develops free and open-source software and you can contribute to KDE through the Season of KDE program
 
 ## License
 
