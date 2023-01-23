@@ -55,9 +55,9 @@ Wenn du Fragen oder Kommentare hast, eröffne bitte ein neues Issue.
 - [Open Source Guides](https://opensource.guide/) - eine Sammlung von Materialien für Einzelpersonen, Gruppen und Unternehmen, die lernen wollen wie man
   Open-Source-Projekte selbst erstellt oder zu ihnen beiträgt.
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Regeln für das Verhalten auf GitHub
-- [GitHub Guides](https://docs.github.com/de) - Einführung in die effizienten Nutzung von GitHub.
-- [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - den Workflow auf GitHub durch Beiträge in einem simulierten Tutorial-Projekt lernen.
-- [Linux Foundation's Open Source Guides for the Enterprise](https://linuxfoundation.eu/de-de/) - Die Einführung der Linux
+- [GitHub Guides](https://docs.github.com/en) - grundsätzliche Einführungen zur effizienten Nutzung von GitHub.
+- [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Die GitHub-Arbeitsweise lernen durch Beiträge für ein simuliertes Tutorial-Projekt.
+- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Die Einführung der Linux
   Foundation in Open-Source-Projekte.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - Ein Open-Source-Knigge von Kent C. Dodds und Sarah Drasner.
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - kuratierte Liste von Materialien und Möglichkeiten für
@@ -82,7 +82,7 @@ Suchbegriffe, die direkt auf für Einsteiger\*innen geeignete Issues auf GitHub 
 
 ## Mozillas Open-Source-Ökosystem
 
-- [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - Bugs, die Entwickler\*innen als gute Einstiegsübungen zum Mozilla-Projekt
+- [Good First Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22[good%20first%20bug]%22&limit=0) - Bugs, die Entwickler\*innen als gute Einstiegsübungen zum Mozilla-Projekt
   ansehen.
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - Bugs, die von Mentor\*innen betreut werden, welche dir helfen, wenn du bei
   der Behebung des Bugs nicht mehr weiterkommst.
@@ -99,7 +99,7 @@ Suchbegriffe, die direkt auf für Einsteiger\*innen geeignete Issues auf GitHub 
 - [First Timers Only](https://kentcdodds.com/blog/first-timers-only) von [@kentcdodds](https://github.com/kentcdodds)
 - [Bring Kindness Back to Open Source](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) von [@shanselman](https://github.com/shanselman)
 - [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) von [@mcdonnelldean](https://github.com/mcdonnelldean)
-- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) von [@GitHub](https://github.com/github)
+- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) von [@GitHub](https://github.com/github/opensource.guide)
 - [How to Find a Bug in Your Code](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) von [@dougbradbury](https://twitter.com/dougbradbury)
 - [Mastering Markdown](https://docs.github.com/de/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) von [@GitHubGuides](https://docs.github.com/de)
 - [First mission: Contributors page](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) von [@forCrowd](https://github.com/forCrowd)

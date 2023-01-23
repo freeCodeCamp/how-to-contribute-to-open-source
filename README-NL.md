@@ -62,7 +62,7 @@ Zoek links die rechtstreeks verwijzen naar geschikte problemen om aan bij te dra
 
 ## Versie control gebruiken**
 
-- [Try Git](https://try.github.io/) - Leer gratis Git in 15 minuten vanuit je browser.
+- [Try Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - Leer gratis Git in 15 minuten vanuit je browser.
 
 ## Open Source boeken**
 

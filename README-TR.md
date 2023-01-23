@@ -68,10 +68,10 @@ Eğer bir sorunuz veya yorumunuz varsa lütfen "issue" oluşturun.
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - Uygun bugları etiketler uygulayarak repoları toplamış olan faydalı bir repo 
 - [Open Source Guides](https://opensource.guide/) - Bireyler, topluluklar ve şirketler için Açık Kaynağa nasıl katkı sağlayacakları konusunda yardımcı kaynakların toplandığı koleksiyon
 - [Yapılması ve yapılmaması gereken 45 Github konusu](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Github'da yapılması ve yapılmaması gerekenler
-- [GitHub Kılavuzları](https://guides.github.com/) - Github'u nasıl daha etkili kullanılabileceğini ihtiva eden kılavuzlar
+- [GitHub Kılavuzları](https://docs.github.com/en) - Github'u nasıl daha etkili kullanılabileceğini ihtiva eden kılavuzlar
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - 
 Simülasyon prosine kod katkısı sağlayarak GitHub dinamiklerini öğren
-- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Açık kaynak projeler için Linux Vakfı kılavuzları
+- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides) - Açık kaynak projeler için Linux Vakfı kılavuzları
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - Kent C. Dodds ve Sarah Drasner tarafından yazılan Açık Kaynak görgü kuralları
 - [Öğrenciler için A'dan Z'ye Kaynaklar](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Öğrenciler için yeni bir kodlama dilini öğrenirlerken kullanabilecekleri kaynak listesi
 - [İlk Açık Kaynak projene katkı sağlarken: Pratik Bir Bakış Açısı](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - İlk Açık Kaynak projene katkı sağlarken adım adım bakış açısı   
@@ -90,7 +90,7 @@ Direkt olarak uygun issuelara referans veren katkı sağlanabilecek arama bağla
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
 ## Mozilla'nın contributor ekosistemi
-- [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - İyi bir başlangıç olarak tanımlanmış bug'lar 
+- [Good First Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22[good%20first%20bug]%22&limit=0) - İyi bir başlangıç olarak tanımlanmış bug'lar 
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - Üzerinde çalışırken sıkıştığında sohbet aracılığı ile yardım alabileceğin, mentörler tarafından atanmış bug'lar
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - Bugzilla üzerinden bug bulabileceğiniz websitesi.
 - [Firefox DevTools](http://firefox-dev.tools/) - Firefox tarayıcı içerisinde bug bulabileceğiniz ve inceleyebileceğiniz araçlar 
@@ -103,10 +103,10 @@ Direkt olarak uygun issuelara referans veren katkı sağlanabilecek arama bağla
 - [İlk Defa Açık Kaynağa başlayacaklar için](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
 - [Açık Kaynağa iyiliği Geri Getirmek](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) yazan [@shanselman](https://github.com/shanselman)
 - [İlk defa Açık Kaynağın içine girmek](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) yazan [@mcdonnelldean](https://github.com/mcdonnelldean)
-- [Açık Kaynağa Nasıl Katkı Sağlanır](https://opensource.guide/how-to-contribute/) yazan [@GitHub](https://github.com/github)
-- [Kodunuzda Bug'ı Nasıl Bulabilirsiniz?](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) yazan [@dougbradbury](https://twitter.com/dougbradbury)
-- [Markdownda Uzmanlaşmak](https://guides.github.com/features/mastering-markdown/) by [@GitHubGuides](https://guides.github.com/)
-- [İlk Görev: Katkı Sağlayıcı Sayfası](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) yazan [@forCrowd](https://github.com/forCrowd)
+- [Açık Kaynağa Nasıl Katkı Sağlanır](https://opensource.guide/how-to-contribute/) yazan [@GitHub](https://github.com/github/opensource.guide)
+- [Kodunuzda Bug'ı Nasıl Bulabilirsiniz?](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) yazan [@dougbradbury](https://twitter.com/dougbradbury)
+- [Markdownda Uzmanlaşmak](https://docs.github.com/features/mastering-markdown/) by [@GitHubGuides](https://docs.github.com/en)
+- [İlk Görev: Katkı Sağlayıcı Sayfası](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) yazan [@forCrowd](https://github.com/forCrowd)
 - [5 Dakika İçerisinde Açık Kaynağa Nasıl Katkı Sağlarsın](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) yazan [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
 - [Hacktoberfest 2018: Nasıl ücretsiz t-shirt alırsın — Kodlama Yeni Olsan Dahi](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) yazan [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
 - [Açık Kaynak için Acı Kılavuz](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) yazan [@ken_wheeler](https://medium.com/@ken_wheeler)
@@ -123,7 +123,7 @@ Direkt olarak uygun issuelara referans veren katkı sağlanabilecek arama bağla
 
 ## Versiyon Kontrol Kullanmak
 - [Git Gibi Düşünmek](https://think-like-a-git.net/) - İleri Seviye Yeni Başlayan olup bazı noktalarda zorlananlar için güvenli bir deneyim sağlamaları için basit stratejiler veren Git Tanıtımı
-- [Git'i Dene](https://try.github.io/) - Ücretsiz olarak tarayıcın üzerinde 15 dakikada Git Öğren
+- [Git'i Dene](https://docs.github.com/en/get-started/quickstart/set-up-git) - Ücretsiz olarak tarayıcın üzerinde 15 dakikada Git Öğren
 - [Her Gün "Git"](https://git-scm.com/docs/giteveryday) - Her gün ihtiyaç duyabileceğiniz kullanışlı komutlar
 - [Oh shit, git!](http://ohshitgit.com/) - Düz bir ingilizce ile anlatılmış "Git kullanırken yapılan ortak hatalardan nasıl kaçınırsın" kılavuzu
 - [Atlassian'ın Git Dersleri](https://www.atlassian.com/git/tutorials/) - Çeşitli git kullanma kılavuzları.
