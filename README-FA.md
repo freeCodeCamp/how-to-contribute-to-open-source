@@ -163,12 +163,61 @@
 
 </p>
 </div>
+
+    
 <div dir="rtl" style="direction:rtl;text-align:right;">
 <p>
 
+## برنامه‌های منبع باز برای مشارکت
+> یک برنامه، کارآموزی یا کمک هزینه تحصیلی که توسط یک جامعه میزبانی می‌شود تا به تطبیق مشارکت‌کنندگان مبتدی با مربیان و منابعی برای مشارکت در پروژه‌های نرم‌افزار منبع باز کمک کند.
+</p>
+</div>
 
+<div>
+<p>
+    
+- [All Linux Foundation (LF) Mentorships](https://mentorship.lfx.linuxfoundation.org/#projects_all)
+- [Beginner friendly Open Source programs with their timelines](https://github.com/arpit456jain/Open-Source-Programs)
+- [Cloud Native Computing Foundation](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
+- [FossAsia](https://fossasia.org)
+- [Free Software Foundation (FSF) Internship](https://www.fsf.org/volunteer/internships)
+- [Google Summer of Code](https://summerofcode.withgoogle.com/) -
+    .برنامه‌ای که سالانه توسط گوگل اجرا می‌شود و تمرکز آن جذب دانش‌آموزان بیشتر به توسعه نرم‌افزار منبع باز است
+- [Girlscript Summer of Code](https://gssoc.girlscript.tech/) -
+یک برنامه منبع باز سه ماهه که هر تابستان توسط بنیاد Girlscript انجام می‌شود.
+    با تلاش‌های مداوم، شرکت کنندگان در این چند ماه تحت هدایت مستقیم و مدام مربیان ماهر به پروژه‌های متعددی کمک می‌کنند. با قرار گرفتن در معرض چنین شرایطی، دانش‌آموزان به راحتی شروع به مشارکت در پروژه‌های دنیای واقعی در خانه خود خواهند کرد.
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com)
+- [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN) - 
+    اگر اهل بلاک چین هستید، این برای شماست. شما می توانید به Hyperledger کمک کنید. این برنامه راهنمایی به شما امکان می دهد تا با توسعه منبع باز Hyperledger آشنا شوید. به شما مربیانی اختصاص داده می شود که در جامعه توسعه دهندگان Hyperledger کاملاً فعال هستند.
+- [LF Networking Mentorship](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program)
+- [Microsoft Reinforcement Learning](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
+- [Major League Hacking (MLH) Fellowship](https://fellowship.mlh.io/) - 
+    یک جایگزین کارآموزی از راه دور برای فن‌شناسان مشتاق در جایی که می‌سازند یا در پروژه‌های منبع باز مشارکت می‌کنند.
+- [Open Summer of Code](https://osoc.be/students)
+- [Open Mainframe](https://www.openmainframeproject.org/all-projects/mentorship-program) -
+    پروژه Open Mainframeنیز برنامه منبع باز خود را دارد و شاگردان قادر خواهند بود دانش خود را در مورد فناوری مین فریم گسترش دهند.
+    
+- [Outreachy](https://www.outreachy.org)
+- [Processing Foundation Internship](https://processingfoundation.org/fellowships/)
+- [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) -
+    یک برنامه کمک هزینه جهانی برای زنان و کدنویسان غیر باینری که در آن بر روی پروژه های منبع باز موجود کار می کنند و مهارت های خود را گسترش می دهند.
+- [Redox OS Summer of Code](https://www.redox-os.org/rsoc/) -
+    Redox OS Summer of Code اولین استفاده از کمک های مالی برای پروژه Redox OS است. دانش آموزانی انتخاب می شوند که قبلاً تمایل و توانایی خود را برای مشارکت در سیستم عامل Redox نشان داده اند
+- [Social Summer of Code](https://ssoc.devfolio.co/) -
+    بنیاد اجتماعی این برنامه تابستانی دو ماهه را برای دانش‌آموزان ارائه می‌کند تا با فرهنگ منبع باز آشنا شوند و در جامعه مشارکت کنند. شرکت کنندگان تحت هدایت مربیان با تجربه در پروژه های واقعی مشارکت می کنند.
+- [Season of KDE](https://season.kde.org/) -
+    فصل KDE که توسط جامعه KDE میزبانی می‌شود، یک برنامه ارتباطی برای همه افراد در سراسر جهان است. KDE یک جامعه نرم‌افزار آزاد بین‌المللی است که نرم‌افزار رایگان و منبع باز توسعه می‌دهد و شما می‌توانید از طریق برنامه Season of KDE به KDE کمک کنید.
+    
+</p>
+</div>
+
+<div dir="rtl" style="direction:rtl;text-align:right;">
+<p>
+    
 ## مجوز
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />این کار تحت مجوز <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a> منتشر شده است.
+    
+    
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /><br /></a>این کار تحت مجوز <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a> منتشر شده است.
 </p>
 </div>
 
