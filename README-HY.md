@@ -43,6 +43,8 @@
 
 ## Կատարեք ձեր ներդրումը սկզբնական բաց կոդում (անգլերեն հոդվածներ)
 
+> Հոդվածներ և նյութեր, որոնք քննարկում են Open Source աշխարհը և կուլտուրան:
+
 - [Ամբողջական ուղեցույց, ինչպես աջակցել սկզբնական բաց կոդին](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) հեղինակ՝ [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [Սկզբնական բաց կոդի ներածություն](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Վարպետության դասեր DigitalOcean-ի կողմից, որոնք կօգնեն ձեզ հաջողությամբ մասնակցություն ունենալ open source պրոյեկտներին GitHub-ում:
 - [SourceSort](https://www.sourcesort.com) - Սկզբնական բաց կոդով պրոյեկտների հավաքածու, որոնք ունեն աջակցության կարիք, որոնման հնարավորությամբ և այնպիսի չափորոշիչներով, ինչպիսիք են առաոջին PR-ների ընդունման մակարդակը և արձագանքման ժամանակը, որոնք կարող են ունենալ որոշիչ նշանակություն նոր մասնակիցների համար:
@@ -68,12 +70,12 @@
 - [<< Բաց կոդի հետ աշխատանքի սկիզբը>> NumFocus-ի կողմից](https://github.com/numfocus/getting-started-with-open-source) - Այս ռեպոզիտորիան օգնում է ծրագրավորողներին հաղթահարել open source մուտք գործելու բոլոր խոչընդոտները:
 - [<<Բաց կոդ բոլորի համար>> Chryz-hub-ի կողմից](https://github.com/chryz-hub/opensource-4-everyone) - Այս ռեպոզիտորիայում կարող եք գտնել ամեն ինչ կապված բաց կոդի հետ: Այս պրոյեկտը ստեղծվել է որպեսզի օգնի փորձ ձեռք բերել GitHub-ի հիմնական և տարածված հրամաններով աշխատանքում, սկսել աշխատանք կոդի հետ և այլն:
 - ["Open Advice"](http://open-advice.org/) - Գիտելիքների հավաքածու տարբեր աղբյուրներից: Այն պատասխանում է այն հարցին, թե ինչ կցանկանային իմանալ պրոյեկտի 42 հողինակավոր մասնակիցները սկսելուց առաջ, որպեսզի դուք կարողանաք առաջնահերթություն ստանալ անկախ նրանից, թե ինչպես և որտեղ եք ներդրում անում:
-- ["GitHub Skills"](https://skills.github.com) - Բարձրացրեք ձեր հմտությունները GitHub Skills-ի միջոցով: Մեր ընկերասեր բոտը ձեզ կտանի մի շարք զվարճալի, գործնական նախագծերի միջոցով, կօգնի կարճ ժամանակում սովորել ձեզ անհրաժեշտ հմտությունները և այդ ընթացքում կկիսվի օգտակար կարծիքներով:
+- ["GitHub Skills"](https://skills.github.com) - Բարձրացրեք ձեր հմտությունները GitHub Skills-ի միջոցով: Մեր ընկերասեր բոտը ձեզ կտանի մի շարք զվարճալի, գործնական նախագծերի միջով, կօգնի կարճ ժամանակում սովորել ձեզ անհրաժեշտ հմտությունները և այդ ընթացքում կկիսվի օգտակար կարծիքներով:
 - [<<10 պարզ կանոն որոնք կօգնեն սկսնակներին դառնալ contributor բաց պրոյեկտներում>>](https://doi.org/10.1371/journal.pcbi.1007296) - Այս հոդվածը ներառում է կանոններ, որոնք հիմնված են բազմաթիվ խմբերի ուսումնասիրությունների և տարբեր լիդերների և դիտորդների փորձի վրա:
-- [<<Քայլ առ քայլ ուղեցույց GitHub-ում աջակցության համար>>](https://www.dataschool.io/how-to-contribute-on-github/) - a step-by-step guide with supporting visuals and links regarding the whole process of contributing to an open source project.Քայլ առ քայլ ուղեցույց 
-- [Open Source with Pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna) - This repo contains resources and materials to learn and get yourself started with Open Source, Git, and GitHub.
-- ["FOSS Community Acronyms"](https://github.com/d-edge/foss-acronyms) - This repo contains a list of abbreviations used within the FOSS (Free and Open Source) community, along with their definitions and usages.
-- ["Open Source Fiesta - Open Source Fiesta"](https://zubi.gitbook.io/open-source-fiesta/) - Step-by-step instruction on how to contribute to GitHub repositories, and includes a git command line cheatsheet.
-- ["6 Best Practices to Manage Pull Request Creation and Feedback"](https://doordash.engineering/2022/08/23/6-best-practices-to-manage-pull-request-creation-and-feedback/) from Jenna Kiyasu, software engineer at DoorDash Engineering.
-- ["Contribute to the Open-Source Community"](https://arijitgoswami.hashnode.dev/contribute-to-the-open-source-community) - Advantages of open-source software, how to understand the inner workings of an open-source project and make the first contribution.
-- ["Complete Guide to Open Source - How to Contribute"](https://www.youtube.com/watch?v=yzeVMecydCE) (41:52) - Learn why and how to contribute to open source software with Eddie Jaoude.
+- [<<Քայլ առ քայլ ուղեցույց GitHub-ում աջակցության համար>>](https://www.dataschool.io/how-to-contribute-on-github/) - Քայլ առ քայլ ուղեցույց open source պրոյեկտների աջակցության համար, տարբեր հղումներով և վիզուալ պատկերներով:
+- [Open Source with Pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna) - Այս ռեպոզիտորիան պարունակում է ռեսուրսներ և նյութեր, որպեսզի ինքնուրույն սկսեք աշխատանքը Open Source, Git, և GitHub-ի հետ: 
+- ["FOSS Community Acronyms"](https://github.com/d-edge/foss-acronyms) - Այս ռեպոզիտորիան պարունակում է հապավումների ցանկ իրենց նշանակության և օգտագործման հետ մեկտեղ, որոնք օգտագործվում են FOSS (Free and Open Source) հասարակությունում:
+- ["Open Source Fiesta - Open Source Fiesta"](https://zubi.gitbook.io/open-source-fiesta/) - Քայլ առ քայլ ուղեցույց ինչպես աջակցել GitHub ռեպոզիտորիաներին, այն պարունակում է նաև git հրամանների նշումներ:
+- [<<6 լավագույն փորձ, ինչպես կառավարել Pull Request-ների ստեղծումը և հետադարձ կապը>>](https://doordash.engineering/2022/08/23/6-best-practices-to-manage-pull-request-creation-and-feedback/) Jenna Kiyasu-ի կողմից, software engineer DoorDash Engineering ընկերությունում.
+- ["Contribute to the Open-Source Community"](https://arijitgoswami.hashnode.dev/contribute-to-the-open-source-community) - Օpen-source ծրագրի առավելությունները, ինչպես հասկանալ open-source պրոյեկտի ներքին աշխատանքը և կատարել առաջին ներդրումը: 
+- ["Complete Guide to Open Source - How to Contribute"](https://www.youtube.com/watch?v=yzeVMecydCE) (41:52) - Սովորել ինչու և ինչպես ներդրում կատարել open source ծրագրում Eddie Jaoude-ի հետ:
