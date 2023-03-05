@@ -79,3 +79,18 @@
 - [<<6 լավագույն փորձ, ինչպես կառավարել Pull Request-ների ստեղծումը և հետադարձ կապը>>](https://doordash.engineering/2022/08/23/6-best-practices-to-manage-pull-request-creation-and-feedback/) Jenna Kiyasu-ի կողմից, software engineer DoorDash Engineering ընկերությունում.
 - ["Contribute to the Open-Source Community"](https://arijitgoswami.hashnode.dev/contribute-to-the-open-source-community) - Օpen-source ծրագրի առավելությունները, ինչպես հասկանալ open-source պրոյեկտի ներքին աշխատանքը և կատարել առաջին ներդրումը: 
 - ["Complete Guide to Open Source - How to Contribute"](https://www.youtube.com/watch?v=yzeVMecydCE) (41:52) - Սովորել ինչու և ինչպես ներդրում կատարել open source ծրագրում Eddie Jaoude-ի հետ:
+
+## Որոնումներ GitHub-ում
+
+> Որոնման հղումներ GitHub-ում, որոնք հարմար են աջակցության համար: 
+
+- [is:issue is:open label:beginner](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Abeginner&type=issues)
+- [is:issue is:open label:easy](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy&type=issues)
+- [is:issue is:open label:first-timers-only](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only&type=issues)
+- [is:issue is:open label:good-first-bug](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Agood-first-bug&type=issues)
+- [is:issue is:open label:"good first issue"](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&type=issues)
+- [is:issue is:open label:starter](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Astarter&type=issues)
+- [is:issue is:open label:up-for-grabs](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs&type=issues)
+- [is:issue is:open label:easy-fix](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy-fix&type=issues)
+- [is:issue is:open label:"beginner friendly"](https://github.com/search?q=beginner+friendly&state=open&type=Issues)
+
