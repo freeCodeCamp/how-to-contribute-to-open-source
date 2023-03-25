@@ -73,16 +73,16 @@
 - ["GitHub Skills"](https://skills.github.com) - Բարձրացրեք ձեր հմտությունները GitHub Skills-ի միջոցով: Մեր ընկերասեր բոտը ձեզ կտանի մի շարք զվարճալի, գործնական նախագծերի միջով, կօգնի կարճ ժամանակում սովորել ձեզ անհրաժեշտ հմտությունները և այդ ընթացքում կկիսվի օգտակար կարծիքներով:
 - [<<10 պարզ կանոն որոնք կօգնեն սկսնակներին դառնալ contributor բաց պրոյեկտներում>>](https://doi.org/10.1371/journal.pcbi.1007296) - Այս հոդվածը ներառում է կանոններ, որոնք հիմնված են բազմաթիվ խմբերի ուսումնասիրությունների և տարբեր լիդերների և դիտորդների փորձի վրա:
 - [<<Քայլ առ քայլ ուղեցույց GitHub-ում աջակցության համար>>](https://www.dataschool.io/how-to-contribute-on-github/) - Քայլ առ քայլ ուղեցույց open source պրոյեկտների աջակցության համար, տարբեր հղումներով և վիզուալ պատկերներով:
-- [Open Source with Pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna) - Այս ռեպոզիտորիան պարունակում է ռեսուրսներ և նյութեր, որպեսզի ինքնուրույն սկսեք աշխատանքը Open Source, Git, և GitHub-ի հետ: 
+- [Open Source with Pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna) - Այս ռեպոզիտորիան պարունակում է ռեսուրսներ և նյութեր, որպեսզի ինքնուրույն սկսեք աշխատանքը Open Source, Git, և GitHub-ի հետ:
 - ["FOSS Community Acronyms"](https://github.com/d-edge/foss-acronyms) - Այս ռեպոզիտորիան պարունակում է հապավումների ցանկ իրենց նշանակության և օգտագործման հետ մեկտեղ, որոնք օգտագործվում են FOSS (Free and Open Source) հասարակությունում:
 - ["Open Source Fiesta - Open Source Fiesta"](https://zubi.gitbook.io/open-source-fiesta/) - Քայլ առ քայլ ուղեցույց ինչպես աջակցել GitHub ռեպոզիտորիաներին, այն պարունակում է նաև git հրամանների նշումներ:
 - [<<6 լավագույն փորձ, ինչպես կառավարել Pull Request-ների ստեղծումը և հետադարձ կապը>>](https://doordash.engineering/2022/08/23/6-best-practices-to-manage-pull-request-creation-and-feedback/) Jenna Kiyasu-ի կողմից, software engineer DoorDash Engineering ընկերությունում.
-- ["Contribute to the Open-Source Community"](https://arijitgoswami.hashnode.dev/contribute-to-the-open-source-community) - Օpen-source ծրագրի առավելությունները, ինչպես հասկանալ open-source պրոյեկտի ներքին աշխատանքը և կատարել առաջին ներդրումը: 
+- ["Contribute to the Open-Source Community"](https://arijitgoswami.hashnode.dev/contribute-to-the-open-source-community) - Օpen-source ծրագրի առավելությունները, ինչպես հասկանալ open-source պրոյեկտի ներքին աշխատանքը և կատարել առաջին ներդրումը:
 - ["Complete Guide to Open Source - How to Contribute"](https://www.youtube.com/watch?v=yzeVMecydCE) (41:52) - Սովորել ինչու և ինչպես ներդրում կատարել open source ծրագրում Eddie Jaoude-ի հետ:
 
 ## Որոնումներ GitHub-ում
 
-> Որոնման հղումներ GitHub-ում, որոնք հարմար են աջակցության համար: 
+> Որոնման հղումներ GitHub-ում, որոնք հարմար են աջակցության համար:
 
 - [is:issue is:open label:beginner](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Abeginner&type=issues)
 - [is:issue is:open label:easy](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy&type=issues)
@@ -94,3 +94,71 @@
 - [is:issue is:open label:easy-fix](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy-fix&type=issues)
 - [is:issue is:open label:"beginner friendly"](https://github.com/search?q=beginner+friendly&state=open&type=Issues)
 
+## Մոզիլլայի աջակիցների Էկոհամակարգը
+
+> Mozilla֊ն տալիս է հնարավորություն աջակցելու իր open source պրոյեկտներին
+
+- [Good First Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=good-first-bug) - Կոդի սխալներ, որոնք դեվելոփերների կողմից համարվել են լավ սկիզբ պրոյեկտին ծանոթանալու համար։
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/MDN/Contribute) - Օգնեք MDN Web Docs թիմին վեբ հարթակի դոկումենտացիայի ստեղծման, պլատֆորմի բագերի վերացման և կոնտենտի հետ կապված սխալների վերացման հարցում։
+- [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - Բագեր, որոնք ունեն մենթոր ով գտնվում է IRC օնլայն չատում և պատրաստ է ձեզ օգնել եթե դուք դժվարանում եք առաջ շարժվել։
+- [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - Կայք, որը նախատեսված է Bugzilla֊ով բագեր գտնելու համար։
+- [Firefox DevTools](https://firefox-dev.tools/) - Կայք, որը նախատեսված է Firefox բրաուզերի՝ բագեր գտնելու դեվելոփերների համար նախատեսված գործիքներին։
+- [What Can I Do For Mozilla](https://whatcanidoformozilla.org/) - Պարզեք, թե ինչի վրա կարող եք աշխատել՝ պատասխանելով ձեր հմտությունների և հետաքրքրությունների վերաբերյալ մի շարք հարցերի:
+- [Start Mozilla](https://twitter.com/StartMozilla) - Twitter-ի հաշիվ, որը թվիթ է գրում Mozilla-ի էկոհամակարգում նոր ներդրողների համար ընկալելի խնդիրների մասին:
+
+## Օգտակար հոդվածներ Open Source֊ի նոր աջակիցների համար
+
+> Օգտակար հոդվածներ և բլոգներ՝ ինչպես սկսել Open Source֊ի աջակցությունը
+
+- [Գտնել ուղիներ գիտհաբում open source֊ի աջակցության համար](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github) by [@GitHub](https://github.com/github)
+- [ Ինչպես ընտրել(և աջակցել) ձեր առաջին Open Source պրոյեկտը](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/collections)
+- [Ինչպես գնտել ձեր առաջին Open Source բագը](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) by [@Shubheksha](https://github.com/Shubheksha)
+- [ՄԻայն սկսնակների համար](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
+- [Վերդարձրեք բարությունը Open Source֊ին](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) by [@shanselman](https://github.com/shanselman)
+- [Երբ առաջին անգամ մտնում ես Open Source](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
+- [Ինչպես աջակցել Open Source֊ին](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github/opensource.guide)
+- [Ինչպես գտնել բագը ձեր կոդում](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) by [@dougbradbury](https://twitter.com/dougbradbury)
+- [Յուրացրեք Markdown֊ը](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) by [@GitHub](https://github.com/github/docs)
+- [Առաջին առաջադրանքը։ Աջակիցների էջ](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705) by [@forCrowd](https://github.com/forCrowd)
+- [Ինչպես կատարել ձեր առաջին Open Source աջակցությունը, ընդամենը 5 րոպեում](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) by [@roshanjossey](https://github.com/Roshanjossey/)
+- [Ես ձեռք եմ բերել իմ անվճար Hacktoberfest շապիկը․ Ահա արագ ճանապարհ ինչպես կարող եք նույնը անել դուք ](https://www.freecodecamp.org/news/i-just-got-my-free-hacktoberfest-shirt-heres-a-quick-way-you-can-get-yours-fa78d6e24307/) by [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
+- [Open Source ուղեցույց](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
+- [Քայլ առ քայլ ուղեցույց սկսնակ ծրագրավորողների համար, ինչպես աջակցել Open Source֊ին](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) by [@LetaKeane](https://hackernoon.com/u/letakeane)
+- [Սովորեք գիտը և գիտհաբը քայլ առ քայլ](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) by [@ows-ali](https://ows-ali.medium.com/)
+- [Ինչու՞ Open Source և ինչպես՞](https://careerkarma.com/blog/open-source-projects-for-beginners/) by [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
+- [Ինչպես սկսել աջակցել Open Source֊ին - Sayan Chowdhury֊ի կողմից](https://www.hackerearth.com/getstarted-opensource/)
+- [Ինչ Open Source պրոյեկտի ես պետք է աջակցեմ](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to) by [@kentcdodds](https://twitter.com/kentcdodds)
+- [Open-source հետաքրքիր ուղեցույց](https://developeraspire.hashnode.dev/an-immersive-introductory-guide-to-open-source) by [Franklin Okolie](https://twitter.com/DeveloperAspire)
+- [Սկսել open source֊ի աջակցությունը](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/) by [Zara Cooper](https://stackoverflow.blog/author/zara-cooper/)
+- [Սկսնակների ուղեցույց open source֊ի աջակցության համար](https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj) by [Sudipto Ghosh](https://github.com/pydevsg)
+- [8 եղանակ, ինչպես աջակցել open source֊ին առանց կոդ գրելու](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code) by [OpenSource](https://twitter.com/OpenSourceWay)
+- [Ինչ է open source ծրագիրը։OSS֊ի բացատրությունը պարզ անգլերենով](https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/) by [Jessica Wilkins](https://www.freecodecamp.org/news/author/jessica-wilkins/)
+- [Ինչպես սկսել Open Source պրոյեկտ գիտհաբում ֊ խորհուրդներ թրենդային ռեպոզիտորիա ստեղծելու մասին ](https://www.freecodecamp.org/news/how-to-start-an-open-source-project-on-github-tips-from-building-my-trending-repo/) by [@Rishit-dagli](https://github.com/Rishit-dagli)
+
+# Տարբերակների վերահսկման օգտագործումը
+
+> Տարբեր մակարդակների դասեր և ռեսուրսներ տարբերակների վերահսկման օգտագործման մասին, մասնավորպաես Git֊ի և GitHub֊ի։
+
+- [Video tutorial for Git and Github by Harvard University](https://www.youtube.com/watch?v=NcoBAfJ6l2Q) - Դաս Harvard ինստիտիտուտի կողմից, հատված նրանց CS50 Web Development կուրսից Git֊ը և GitHub֊ը հասկանալու և նրանցով աշխատելու համար։
+- [Think Like (a) Git](https://think-like-a-git.net/) - Գիտ ներածություն առաջադեմ սկսնակների համար, թե ինչպես ապահով կերպով փորձարկումներ անել գիտում։
+- [Quickstart - Set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - Սովորեք ինչպես տեղադրել գիտ֊ը լոկալ համակարգում, անցնել աուտենտիֆիկացիա։
+- [Everyday Git](https://git-scm.com/docs/giteveryday) - Գիտ օգտակար հրամանների ցանկ, որոնք անհրաժեշտ են ամենօրյա օգտագործման համար։
+- [Oh shit, git!](https://ohshitgit.com/) - Ինչպես խուսափել տարածված `git` սխալներից ; Կարող եք տեսնել նաև հետևյալ էջերը [Dangit, git!](https://dangitgit.com/).
+- [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) - տարբեր դասեր `git֊ի` օգտագործման մասին.
+- [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
+- [freeCodeCamp's Wiki on Git Resources](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
+- [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - Ինչպես ստեղծել pull request Գիտհաբում։
+- [Quickstart - GitHub Learning Resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources) - Git և GitHub ուսանելու ռեսուրսներ.
+- [Pro Git](https://git-scm.com/book/en/v2) - Գիրք ամբողջությամբ գիտի մասին։
+- [Git-it](https://github.com/jlord/git-it-electron) ֊ Քայլ առ քայլ ուղեցույց, թե ինճպես աշխատել desktop app֊ի հետ գիտով։
+- [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - Ինչպես վարվել, երբ ինչ որ բան չի ընթանում նախատեսված կերպով։
+- [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - Իսպաներեն ուղեցույց git֊ի և GitHub֊ի մասին։
+- [Git Kraken](https://www.gitkraken.com/git-client) - Վիզուալ, միջպլատֆորմային և ինտերակտիվ «git» հավելված՝ տարբերակների վերահսկման համար:
+- [Git Tips](https://github.com/git-tips/tips) - Collection of most commonly used git tips and tricks.
+- [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - Commit Often, Perfect Later, Publish Once: Git Best Practices.
+- [Git Interactive Tutorial](https://learngitbranching.js.org/) - Learn Git in the most visual and interactive way.
+- [Git Cheat Sheets](https://devhints.io/?q=git) - Ավելի հաճախ օգտագործվող գիտ հնարքների և խորհուրդների հավաքածու։
+- [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics) (1:12:39) - Ամբողջական Git և GitHub ուղեցույց [Kunal Kushwaha֊ի կողմից](https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw).
+- [A Tutorial Introduction to Git](https://git-scm.com/docs/gittutorial) - Սկսնակների ուղեցույց Git֊ի կողմից.
+- [First Aid Git](https://firstaidgit.io/#/) - Git-ի ամենահաճախ տրվող հարցերի հավաքածու: Այս հարցերի պատասխանները հավաքվել են անձնական փորձից, Stackoverflow-ից և Git-ի պաշտոնական փաստաթղթերից:
+- [Git by Susan Potter](https://www.aosabook.org/en/git.html) - Ցույց տվեք, թե ինչպես են Git-ի տարբեր տեխնիկական ասպեկտները աշխատում թաքնված՝ որպեսզի ապահովեն տարբեր աշխատանքային պրոցեսների ընթացքը, և ինչպես է այն տարբերվում այլ տարբերակների կառավարման համակարգերից (VCS):
