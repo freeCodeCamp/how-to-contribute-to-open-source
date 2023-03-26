@@ -162,3 +162,56 @@
 - [A Tutorial Introduction to Git](https://git-scm.com/docs/gittutorial) - Սկսնակների ուղեցույց Git֊ի կողմից.
 - [First Aid Git](https://firstaidgit.io/#/) - Git-ի ամենահաճախ տրվող հարցերի հավաքածու: Այս հարցերի պատասխանները հավաքվել են անձնական փորձից, Stackoverflow-ից և Git-ի պաշտոնական փաստաթղթերից:
 - [Git by Susan Potter](https://www.aosabook.org/en/git.html) - Ցույց տվեք, թե ինչպես են Git-ի տարբեր տեխնիկական ասպեկտները աշխատում թաքնված՝ որպեսզի ապահովեն տարբեր աշխատանքային պրոցեսների ընթացքը, և ինչպես է այն տարբերվում այլ տարբերակների կառավարման համակարգերից (VCS):
+
+## Open Source գրքեր
+
+> Գրքեր Open Source֊ի մասին. Մշակույթ, պատմություն, լավագույն պրակտիկա և այլն:
+
+- [Producing Open Source Software](https://producingoss.com/) - Open Source ծրագրային ապահովման արտադրությունը գիրք է Open Source մշակման մարդկային կողմի մասին: Այն նկարագրում է, թե ինչպես են գործում հաջող նախագծերը, օգտատերերի և մշակողների ակնկալիքները և ազատ ծրագրային ապահովման մշակույթը:
+- [The Architecture of Open Source Applications](https://www.aosabook.org/en/index.html) - 24 open source հավելվածների հեղինակները բացատրում են թե ինչպես է կառուցված իրենց ծրագիրը և ինչու։ Սկսած web server֊ներից և compiler֊ներից մինչև առողջապահական գրառումների կառավարման համակարգեր, որոնք ներկայացված են այստեղ՝ օգնելու ձեզ դառնալ ավելի լավ ծրագրավորող:
+- [Open Source Book Series](https://opensource.com/resources/ebooks) - Իմացեք ավելին Open Source֊ի և Open Source աճող շարժման մասին՝ անվճար էլեկտրոնային գրքերի eBooks֊ի միջոցով https://opensource.com.
+- [Software Release Practice HOWTO](https://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - Այս HOWTO֊ն նկարագրում է Linux֊ի նախագծերի թողարկման լավ պրակտիկաների ինչպես նաև այլ Open-Source պրոյեկտների մասին։ Հետևելով այս գործելաոճին, դուք հնարավորինս կհեշտացնեք օգտատերերի համար ստեղծել ձեր կոդը և օգտագործել այն, իսկ մյուս ծրագրավորողներին կհասկանան ձեր կոդը և կհամագործակցեն ձեզ հետ՝ այն բարելավելու համար:
+- [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0-ն խորաթափանց և մտածելու տեղիք տվող էսսեների հավաքածու է այսօրվա տեխնոլոգիական առաջատարներից, որոնք շարունակում են նկարել էվոլյուցիոն պատկերը, որը ձևավորվել է 1999թ.՝ «Open Sources. ձայներ հեղափոխությունից» գրքում:
+- [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - Էսսեներ open-source պիոներների կողմից, ինչպիսիք են Լինուս Տորվալդսը (Linux), Լարի Ուոլը (Perl) և Ռիչարդ Սթոլմանը (GNU):
+
+## Open Source ներդրման նախաձեռնություններ
+
+> Նախաձեռնությունների ցանկ, որոնք համախմբում են սկսնակ ընկերական խնդիրները նրանց վրա աշխատելու համար։
+
+- [Up For Grabs](https://up-for-grabs.net/) - Պարունակում է պրոյեկտներ սկսնակ ընկերական խնդիրներով։
+- [First Contributions](https://firstcontributions.github.io/) - Կատարեք ձեր առաջին open source ներդրումը 5 րոպեում: Գործիք և ձեռնարկ, որը կօգնի սկսնակներին սկսել ներդրումներ կատարել։ [Այստեղ](https://github.com/firstcontributions/first-contributions) GitHub-ի սկզբնաղբյուրն է կայքի համար և հնարավորություն՝ ներդրում ունենալ հենց ռեպոզիտորիայում:
+- [First Timers Only](https://www.firsttimersonly.com/) - Սխալների ցանկ, որոնք պիտակավորված են «միայն առաջին անգամ» ներդրողների համար:
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Open Source ներդրումները խրախուսող ծրագիր: Ստացեք նվերներ, օրինակ՝ շապիկներ և պիտակներ՝ հոկտեմբերին կատարելով առնվազն 4 pull requests:
+- [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests-ը նախագիծ է, որը խթանում է բաց կոդով համագործակցությունը դեկտեմբեր ամսվա ընթացքում:
+- [Ovio](https://ovio.org) - Հարթակ՝ ներդրողների համար հարմար նախագծերի ընտրությամբ. Այն ունի [խնդիրների որոնման հզոր գործիք](https://ovio.org/issues) և թույլ է տալիս պահպանել նախագծերն ու խնդիրները հետագայի համար:
+- [Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) - Սա ձեռնարկ է, որն օգնում է առաջին անգամ մասնակցողներին մասնակցել պարզ և հեշտ նախագծին և հարմարավետ զգալ GitHub-ից օգտվելիս:
+- [Open Source Welcome Committee](https://www.oswc.is/) - Open Source Welcome Committee (OSWC) օգնում է նորեկներին միանալ Open Source արտասովոր աշխարհին: Եկեք ներկայացրեք ձեր Open Source նախագծերը մեզ հետ:
+
+## Open Source ծրագրերին մասնակցությունը
+
+> Ծրագիր, պրակտիկա կամ կրթաթոշակ, որը կազմակերպվում է համայնքի կողմից, որպեսզի օգնի սկսնակ մասնակիցներին համապատասխանեցնել մենթորներին և ռեսուրսներին, որպեսզի կատարեն իրենց ներդրումը open source նախագծերում:
+
+- [All Linux Foundation (LF) Mentorships](https://mentorship.lfx.linuxfoundation.org/#projects_all)
+- [Սկսնակների համար հարմար open source ծրագրեր իրենց ժամանակացույցով](https://github.com/arpit456jain/Open-Source-Programs)
+- [Cloud Native Computing Foundation](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
+- [FossAsia](https://fossasia.org)
+- [Free Software Foundation (FSF) Internship](https://www.fsf.org/volunteer/internships)
+- [Google Summer of Code](https://summerofcode.withgoogle.com/) - An annually run paid program by Google focused on bringing more student developers into open-source software development.Google-ի կողմից ամեն տարի իրականացվող վճարովի ծրագիր, որն ուղղված է ավելի շատ ուսանող դեվելոփերների ներգրացել open-source ծրագրային ապահովման գործում:
+- [Girlscript Summer of Code](https://gssoc.girlscript.tech/) - Երեք ամիս տևողությամբ Open-Source ծրագիր, որն իրականացվում է ամեն ամառ Girlscript հիմնադրամի կողմից: Այս ամիսների ընթացքում մասնակիցները հմուտ մենթորների ղեկավարության ներքո կատարում են իրենց ներդրումները բազմաթիվ նախագծերում: Այսպիսի աշխատանքից հետո ուսանողները սկսում են իրենց տներից նպաստել իրական աշխարհի նախագծերին:
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com)
+- [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN) - Եթե դուք զբաղվում եք բլոկչեյնով, սա ձեզ համար է: Դուք կարող եք նպաստել Hyperledger-ին: Այս մենթորության ծրագիրը թույլ է տալիս գործնական ծանոթանալ Hyperledger-ի բաց կոդով մշակմանը: Ձեզ կհատկացվեն մենթորներ, ովքեր բավականին ակտիվ են Hyperledger ծրագրավորողների համայնքում:
+- [LF Networking Mentorship](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program)
+- [Microsoft Reinforcement Learning](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
+- [Major League Hacking (MLH) Fellowship](https://fellowship.mlh.io/) - Հեռավոր պրակտիկայի այլընտրանք տեխնոլոգների համար, որտեղ նրանք կառուցում են կամ նպաստում բաց open-source նախագծերին:
+- [Open Summer of Code](https://osoc.be/students)
+- [Open Mainframe](https://www.openmainframeproject.org/all-projects/mentorship-program) - Open Mainframe Project-ն ունի նաև իր open-source ծրագիրը, և ուսանողները կկարողանան ընդլայնել իրենց գիտելիքները հիմնական տեխնոլոգիայի վերաբերյալ:
+- [Outreachy](https://www.outreachy.org)
+- [Processing Foundation Internship](https://processingfoundation.org/fellowships/)
+- [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) - Համաշխարհային կրթաթոշակային ծրագիր կանանց և ոչ երկուական կոդավորողների համար, որտեղ նրանք աշխատում են գոյություն ունեցող open-source նախագծերի վրա և ընդլայնում իրենց հմտությունները:
+- [Redox OS Summer of Code](https://www.redox-os.org/rsoc/) - Redox OS Summer of Code-ը Redox OS նախագծին նվիրատվությունների օգտագործումն է: Ընտրվում են այն ուսանողները, ովքեր արդեն իսկ ցանկություն և կարողություն են դրսևորել՝ նպաստելու Redox OS-ին
+- [Social Summer of Code](https://ssoc.devfolio.co/) - Սոցիալական հիմնադրամն առաջարկում է այս երկամսյա ամառային ծրագիրը ուսանողներին սովորելու open-source մշակույթը և ներգրավվելու համայնքում: Մասնակիցները մասնակցում են իրական կյանքի նախագծերին` փորձառու մենթորների ղեկավարությամբ:
+- [Season of KDE](https://season.kde.org/) - KDE-ի սեզոնը, որը հյուրընկալվում է KDE համայնքի կողմից, իրազեկման ծրագիր է բոլոր անհատների համար ամբողջ աշխարհում: KDE-ն ազատ ծրագրային ապահովման միջազգային համայնք է, որը մշակում է open-source ծրագրակազմ, և դուք կարող եք նպաստել KDE-ին KDE-ի սեզոնի ծրագրի միջոցով:
+
+## Լիցենզիա
+
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />Այս աշխատանքը լիցենզավորված է <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
