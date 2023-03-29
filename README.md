@@ -146,8 +146,9 @@ If you have questions or comments, please create an issue.
 - [8 non-code ways to contribute to open source](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code) by [OpenSource](https://twitter.com/OpenSourceWay)
 - [What is Open Source Software? OSS Explained in Plain English](https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/) by [Jessica Wilkins](https://www.freecodecamp.org/news/author/jessica-wilkins/)
 - [How to Start an Open Source Project on GitHub – Tips from Building My Trending Repo](https://www.freecodecamp.org/news/how-to-start-an-open-source-project-on-github-tips-from-building-my-trending-repo/) by [@Rishit-dagli](https://github.com/Rishit-dagli)
-
-## Using Version Control
+- [finding good first issues](
+https://community.codenewbie.org/bdougie/finding-good-first-issues-33a6
+## Using Version Control)
 
 > Tutorials and resources of varying levels on using version control, typically Git and GitHub.
 
