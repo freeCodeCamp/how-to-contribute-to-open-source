@@ -148,7 +148,7 @@ If you have questions or comments, please create an issue.
 - [How to Start an Open Source Project on GitHub – Tips from Building My Trending Repo](https://www.freecodecamp.org/news/how-to-start-an-open-source-project-on-github-tips-from-building-my-trending-repo/) by [@Rishit-dagli](https://github.com/Rishit-dagli)
 - [How to find good first issues By Brian doughals ](
 https://community.codenewbie.org/bdougie/finding-good-first-issues-33a6)
-## Using Version Control)
+## Using Version Control
 
 > Tutorials and resources of varying levels on using version control, typically Git and GitHub.
 
