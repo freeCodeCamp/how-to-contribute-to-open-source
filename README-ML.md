@@ -141,6 +141,32 @@
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - ഓപ്പൺ സോഴ്സ് സംഭാവനകളെ പ്രോത്സാഹിപ്പിക്കുന്നതിനുള്ള ഒരു പ്രോഗ്രാം. ഒക്ടോബർ മാസത്തിൽ കുറഞ്ഞത് 4 പുൾ അഭ്യർത്ഥനകൾ നടത്തി ടി-ഷർട്ടുകളും സ്റ്റിക്കറുകളും പോലുള്ള സമ്മാനങ്ങൾ നേടുക.
 - [24 Pull Requests](https://24pullrequests.com) - 24 പുൾ അഭ്യർത്ഥനകൾ ഡിസംബർ മാസത്തിൽ ഓപ്പൺ സോഴ്സ് സഹകരണം പ്രോത്സാഹിപ്പിക്കുന്നതിനുള്ള ഒരു പദ്ധതിയാണ്.
 - [Ovio](https://ovio.org) - സംഭാവക-സൗഹൃദ പ്രോജക്ടുകളുടെ ക്യൂറേറ്റഡ് തിരഞ്ഞെടുപ്പുള്ള ഒരു പ്ലാറ്റ്ഫോം. It has a [powerful issue search tool](https://ovio.org/issues) and പ്രോജക്റ്റുകളും പ്രശ്നങ്ങളും നിങ്ങൾക്ക് പിന്നീട് സംരക്ഷിക്കാം.
+- [Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) - ലളിതവും എളുപ്പവുമായ പ്രോജക്റ്റുകളിൽ പങ്കെടുത്ത് GitHub ഉപയോഗിക്കുന്നതിന് ആദ്യമായി സംഭാവന ചെയ്യുന്നവരെ സഹായിക്കുന്നതിനുള്ള ഒരു ട്യൂട്ടോറിയലാണിത്.
+- [Open Source Welcome Committee](https://www.oswc.is/) - ഓപ്പൺ സോഴ്‌സിന്റെ അസാധാരണ ലോകത്തിലേക്ക് പുതുതായി വരുന്നവരെ ഓപ്പൺ സോഴ്‌സ് സ്വാഗതസംഘം (OSWC) സഹായിക്കുന്നു. നിങ്ങളുടെ ഓപ്പൺ സോഴ്‌സ് പ്രോജക്‌റ്റുകൾ ഞങ്ങളോടൊപ്പം സമർപ്പിക്കൂ!
 
+## പങ്കെടുക്കാനുള്ള ഓപ്പൺ സോഴ്സ് പ്രോഗ്രാമുകൾ
+
+> ഓപ്പൺ സോഴ്സ് സോഫ്‌റ്റ്‌വെയർ പ്രോജക്‌ടുകളിലേക്ക് സംഭാവന നൽകുന്നതിന് തുടക്കക്കാരായ സംഭാവകരെ ഉപദേഷ്ടാക്കളും ഉറവിടങ്ങളുമായി പൊരുത്തപ്പെടുത്താൻ സഹായിക്കുന്നതിന് ഒരു കമ്മ്യൂണിറ്റി ഹോസ്റ്റ് ചെയ്യുന്ന ഒരു പ്രോഗ്രാം, ഇന്റേൺഷിപ്പ് അല്ലെങ്കിൽ ഫെലോഷിപ്പ്.
+
+- [All Linux Foundation (LF) Mentorships](https://mentorship.lfx.linuxfoundation.org/#projects_all)
+- [Beginner friendly Open Source programs with their timelines](https://github.com/arpit456jain/Open-Source-Programs)
+- [Cloud Native Computing Foundation](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
+- [FossAsia](https://fossasia.org)
+- [Free Software Foundation (FSF) Internship](https://www.fsf.org/volunteer/internships)
+- [Google Summer of Code](https://summerofcode.withgoogle.com/) - ഓപ്പൺ സോഴ്‌സ് സോഫ്‌റ്റ്‌വെയർ വികസനത്തിലേക്ക് കൂടുതൽ വിദ്യാർത്ഥി ഡെവലപ്പർമാരെ കൊണ്ടുവരുന്നതിൽ ശ്രദ്ധ കേന്ദ്രീകരിച്ച Google പ്രതിവർഷം നടത്തുന്ന പണമടച്ചുള്ള പ്രോഗ്രാം.
+- [Girlscript Summer of Code](https://gssoc.girlscript.tech/) - ഗേൾസ്ക്രിപ്റ്റ് ഫൗണ്ടേഷൻ എല്ലാ വേനൽക്കാലത്തും നടത്തുന്ന മൂന്ന് മാസത്തെ ഓപ്പൺ സോഴ്സ് പ്രോഗ്രാം. നിരന്തര പരിശ്രമത്തിലൂടെ, ഈ മാസങ്ങളിൽ വിദഗ്ധരായ ഉപദേശകരുടെ അങ്ങേയറ്റത്തെ മാർഗ്ഗനിർദ്ദേശത്തിൽ പങ്കെടുക്കുന്നവർ നിരവധി പ്രോജക്ടുകളിലേക്ക് സംഭാവന ചെയ്യുന്നു. അത്തരം എക്സ്പോഷർ ഉപയോഗിച്ച്, വിദ്യാർത്ഥികൾ അവരുടെ വീടിന്റെ സുഖസൗകര്യങ്ങളിൽ നിന്ന് യഥാർത്ഥ ലോക പ്രോജക്ടുകളിലേക്ക് സംഭാവന ചെയ്യാൻ തുടങ്ങുന്നു.
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com)
+- [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN) - നിങ്ങൾ ബ്ലോക്ക്ചെയിനിലാണെങ്കിൽ, ഇത് നിങ്ങൾക്കുള്ളതാണ്. നിങ്ങൾക്ക് ഹൈപ്പർലെഡ്ജറിൽ സംഭാവന ചെയ്യാം. ഹൈപ്പർലെഡ്ജർ ഓപ്പൺ സോഴ്‌സ് ഡെവലപ്‌മെന്റിലേക്ക് പ്രായോഗിക എക്സ്പോഷർ നേടാൻ ഈ മെന്റർഷിപ്പ് പ്രോഗ്രാം നിങ്ങളെ അനുവദിക്കുന്നു. ഹൈപ്പർലെഡ്ജർ ഡെവലപ്പേഴ്‌സ് കമ്മ്യൂണിറ്റിയിൽ വളരെ സജീവമായ മെന്റർമാരെ നിങ്ങൾക്ക് അനുവദിക്കും.
+- [LF Networking Mentorship](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program)
+- [Microsoft Reinforcement Learning](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
+- [Major League Hacking (MLH) Fellowship](https://fellowship.mlh.io/) - ഓപ്പൺ സോഴ്‌സ് പ്രോജക്‌റ്റുകൾ നിർമ്മിക്കുന്നതോ സംഭാവന ചെയ്യുന്നതോ ആയ ടെക്‌നോളജിസ്റ്റുകൾക്കായി ഒരു റിമോട്ട് ഇന്റേൺഷിപ്പ് ബദൽ.
+- [Open Summer of Code](https://osoc.be/students)
+- [Open Mainframe](https://www.openmainframeproject.org/all-projects/mentorship-program) - ഓപ്പൺ മെയിൻഫ്രെയിം പ്രോജക്റ്റിനും അതിന്റേതായ ഓപ്പൺ സോഴ്‌സ് പ്രോഗ്രാമുണ്ട്, മെയിൻഫ്രെയിം സാങ്കേതികവിദ്യയെക്കുറിച്ചുള്ള അറിവ് വിപുലീകരിക്കാൻ മെൻറികൾക്ക് കഴിയും.
+- [Outreachy](https://www.outreachy.org)
+- [Processing Foundation Internship](https://processingfoundation.org/fellowships/)
+- [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) - സ്ത്രീകൾക്കും നോൺ-ബൈനറി കോഡർമാർക്കുമുള്ള ഒരു ആഗോള ഫെലോഷിപ്പ് പ്രോഗ്രാം, അവിടെ അവർ നിലവിലുള്ള ഓപ്പൺ സോഴ്‌സ് പ്രോജക്റ്റുകളിൽ പ്രവർത്തിക്കുകയും അവരുടെ കഴിവുകൾ വികസിപ്പിക്കുകയും ചെയ്യുന്നു.
+- [Redox OS Summer of Code](https://www.redox-os.org/rsoc/) - റെഡോക്സ് ഒഎസ് പ്രോജക്റ്റിലേക്കുള്ള സംഭാവനകളുടെ പ്രാഥമിക ഉപയോഗമാണ് റെഡോക്സ് ഒഎസ് സമ്മർ ഓഫ് കോഡ്. Redox OS-ലേക്ക് സംഭാവന ചെയ്യാനുള്ള ആഗ്രഹവും കഴിവും ഇതിനകം പ്രകടിപ്പിച്ച വിദ്യാർത്ഥികളെ തിരഞ്ഞെടുത്തു
+- [Social Summer of Code](https://ssoc.devfolio.co/) - സോഷ്യൽ ഫൗണ്ടേഷൻ വിദ്യാർത്ഥികൾക്ക് ഓപ്പൺ സോഴ്‌സ് സംസ്‌കാരത്തെക്കുറിച്ച് പഠിക്കാനും സമൂഹത്തിൽ ഏർപ്പെടാനും ഈ രണ്ട് മാസത്തെ വേനൽക്കാല പരിപാടി വാഗ്ദാനം ചെയ്യുന്നു. പരിചയസമ്പന്നരായ ഉപദേഷ്ടാക്കളുടെ മാർഗ്ഗനിർദ്ദേശത്തിൽ പങ്കെടുക്കുന്നവർ യഥാർത്ഥ ജീവിത പദ്ധതികളിൽ സംഭാവന ചെയ്യുന്നു.
+- [Season of KDE](https://season.kde.org/) - കെ‌ഡി‌ഇ കമ്മ്യൂണിറ്റി ഹോസ്റ്റുചെയ്യുന്ന കെ‌ഡി‌ഇയുടെ സീസൺ, ലോകമെമ്പാടുമുള്ള എല്ലാ വ്യക്തികൾക്കും വേണ്ടിയുള്ള ഒരു ഔട്ട്‌റീച്ച് പ്രോഗ്രാമാണ്. സ്വതന്ത്രവും ഓപ്പൺ സോഴ്‌സ് സോഫ്‌റ്റ്‌വെയറും വികസിപ്പിക്കുന്ന ഒരു അന്തർദേശീയ സ്വതന്ത്ര സോഫ്റ്റ്‌വെയർ കമ്മ്യൂണിറ്റിയാണ് കെഡിഇ, സീസൺ ഓഫ് കെഡിഇ പ്രോഗ്രാമിലൂടെ നിങ്ങൾക്ക് കെഡിഇയിലേക്ക് സംഭാവന നൽകാം.
 ## അനുമതി 
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />ഈ പ്രവൃത്തിക്ക് ലൈസൻസ് നൽകിയിരിക്കുന്നത്<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
