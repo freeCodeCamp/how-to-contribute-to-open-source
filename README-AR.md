@@ -76,6 +76,11 @@
 - ["Ten simple rules for helping newcomers become contributors to open projects"](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007296) - تتناول هذه المقالة القواعد المستندة إلى دراسات العديد من المجتمعات وتجارب الأعضاء والقادة والمراقبين.
 - ["Step-by-Step guide to contributing on GitHub"](https://www.dataschool.io/how-to-contribute-on-github/) -دليل خطوة بخطوة مع دعم مرئيات وروابط بخصوص العملية الكاملة للمساهمة في مشروع مفتوح المصدر.
 - [Open Source with Pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna) - مستودع يحتوي على مصادر ومواد لتعلم وبدأ المشاركة في المشاريع مفتوحة المصدر
+- ["FOSS Community Acronyms"](https://github.com/d-edge/foss-acronyms) - يحتوي هذا الريبو على قائمة بالاختصارات المستخدمة في مجتمع البرمجيات الحرة والمفتوحة المصدر ، جنبًا إلى جنب مع تعريفاتها واستخداماتها.
+- ["Open Source Fiesta - Open Source Fiesta"](https://zubi.gitbook.io/open-source-fiesta/) إرشادات خطوة بخطوة حول كيفية المساهمة في مستودعات كيتهاب ، وتتضمن ورقة غش  لأوامر كيت.
+- ["6 Best Practices to Manage Pull Request Creation and Feedback"](https://doordash.engineering/2022/08/23/6-best-practices-to-manage-pull-request-creation-and-feedback/)  DoorDash Engineering من جينا كياسو ، مهندس برمجيات في
+- ["Contribute to the Open-Source Community" ](https://arijitgoswami.hashnode.dev/contribute-to-the-open-source-community) مزايا البرامج مفتوحة المصدر ، وكيفية فهم الأعمال الداخلية لمشروع مفتوح المصدر وتقديم المساهمة الأولى.
+- ["Complete Guide to Open Source - How to Contribute" ] (https://www.youtube.com/watch?v=yzeVMecydCE) (41:52) - Eddie Jaoude تعرف على سبب وكيفية المساهمة في البرامج مفتوحة المصدر مع .
 
 ## عمليات البحث المباشرة على GitHub
 
