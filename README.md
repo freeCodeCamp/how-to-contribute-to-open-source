@@ -146,6 +146,8 @@ If you have questions or comments, please create an issue.
 - [What is Open Source Software? OSS Explained in Plain English](https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/) by [Jessica Wilkins](https://www.freecodecamp.org/news/author/jessica-wilkins/)
 - [How to Start an Open Source Project on GitHub – Tips from Building My Trending Repo](https://www.freecodecamp.org/news/how-to-start-an-open-source-project-on-github-tips-from-building-my-trending-repo/) by [@Rishit-dagli](https://github.com/Rishit-dagli)
 - [Finding Good First Issues](https://community.codenewbie.org/bdougie/finding-good-first-issues-33a6) by [Brian Douglas](https://community.codenewbie.org/bdougie)
+- [How can I become an Open Source contributor? (The ultimate guide)](https://medium.com/@juliafmorgado/how-can-i-become-an-open-source-contributor-the-ultimate-guide-d746e380e011) by [Julia Furst Morgado](https://medium.com/@juliafmorgado)
+
 
 ## Using Version Control
 
@@ -174,6 +176,7 @@ If you have questions or comments, please create an issue.
 - [A Tutorial Introduction to Git](https://git-scm.com/docs/gittutorial) - A Tutorial for Beginners by Git.
 - [First Aid Git](https://firstaidgit.io/#/) - A searchable collection of the most frequently asked Git questions. Answers for these questions were collected from personal experience, Stackoverflow, and the official Git documentation.
 - [Git by Susan Potter](https://www.aosabook.org/en/git.html) - Show how various technical aspects of Git work under the covers to enable distributed workflows, and how it differs from other version control systems (VCSs).
+- [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE) -  A beginner friendly git video by Mosh that explain the fundmental commands and also uses intelligible illustration to aid comprehension.
 
 ## Open Source books
 
