@@ -1,1 +1,3 @@
 # From valentine
+
+added commands
