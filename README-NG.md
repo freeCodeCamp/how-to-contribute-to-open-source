@@ -114,3 +114,63 @@ If you get any questions or comments, no fear, create issue. We dey here to help
 - [Firefox DevTools](https://firefox-dev.tools/) - a site dedicated to bugs filed for the developer tools in the Firefox browser. Special website wey dem do to dey find bugs wey affect the developer tools for Mozilla Firefox browser.
 - [What Can I Do For Mozilla](https://whatcanidoformozilla.org/) -  Check make you see if anything or help dey wey you fit do as you dey answer small questions about your skills and the things wey dey interest you.
 - [Start Mozilla](https://twitter.com/StartMozilla) - Twitter account wey dey tweet about issues wey new contributors fit solve for their Mozilla platform.
+
+## Beta Articles For New People Wey Wan Contribute to Open Source
+
+> Helpful articles and blogs wey dey meant for new contributors on how dem fit take start.
+
+- [Finding ways to contribute to open source on GitHub](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github) by [@GitHub](https://github.com/github)
+- [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/collections)
+- [How to find your first Open Source bug to fix](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) by [@Shubheksha](https://github.com/Shubheksha)
+- [First Timers Only](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
+- [Bring Kindness Back to Open Source](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) by [@shanselman](https://github.com/shanselman)
+- [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
+- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github/opensource.guide)
+- [How to Find a Bug in Your Code](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) by [@dougbradbury](https://twitter.com/dougbradbury)
+- [Mastering Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) by [@GitHub](https://github.com/github/docs)
+- [First mission: Contributors page](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705) by [@forCrowd](https://github.com/forCrowd)
+- [How to make your first Open Source contribution in just 5 minutes](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) by [@roshanjossey](https://github.com/Roshanjossey/)
+- [I just got my free Hacktoberfest shirt. Here’s a quick way you can get yours.](https://www.freecodecamp.org/news/i-just-got-my-free-hacktoberfest-shirt-heres-a-quick-way-you-can-get-yours-fa78d6e24307/) by [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
+- [A Bitter Guide To Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
+- [A junior developer’s step-by-step guide to contributing to Open Source for the first time](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) by [@LetaKeane](https://hackernoon.com/u/letakeane)
+- [Learn Git and GitHub Step By Step (on Windows)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) by [@ows-ali](https://ows-ali.medium.com/)
+- [Why Open Source and How?](https://careerkarma.com/blog/open-source-projects-for-beginners/) by [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
+- [How to get started with Open Source - By Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/)
+- [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to) by [@kentcdodds](https://twitter.com/kentcdodds)
+- [An immersive introductory guide to Open-source](https://developeraspire.hashnode.dev/an-immersive-introductory-guide-to-open-source) by [Franklin Okolie](https://twitter.com/DeveloperAspire)
+- [Getting started with contributing to open source](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/) by [Zara Cooper](https://stackoverflow.blog/author/zara-cooper/)
+- [Beginner's guide to open-source contribution](https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj) by [Sudipto Ghosh](https://github.com/pydevsg)
+- [8 non-code ways to contribute to open source](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code) by [OpenSource](https://twitter.com/OpenSourceWay)
+- [What is Open Source Software? OSS Explained in Plain English](https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/) by [Jessica Wilkins](https://www.freecodecamp.org/news/author/jessica-wilkins/)
+- [How to Start an Open Source Project on GitHub – Tips from Building My Trending Repo](https://www.freecodecamp.org/news/how-to-start-an-open-source-project-on-github-tips-from-building-my-trending-repo/) by [@Rishit-dagli](https://github.com/Rishit-dagli)
+- [Finding Good First Issues](https://community.codenewbie.org/bdougie/finding-good-first-issues-33a6) by [Brian Douglas](https://community.codenewbie.org/bdougie)
+- [How can I become an Open Source contributor? (The ultimate guide)](https://medium.com/@juliafmorgado/how-can-i-become-an-open-source-contributor-the-ultimate-guide-d746e380e011) by [Julia Furst Morgado](https://medium.com/@juliafmorgado)
+
+## How Dem Take Dey Use Version Control
+
+> Tutorials and resources of different levels on how to use version control, especially Git and GitHub.
+
+- [Video tutorial for Git and Github by Harvard University](https://www.youtube.com/watch?v=NcoBAfJ6l2Q) - Tutorial by Harvard University, na part of their CS50 Web Development course on how you fit take understand Git and GitHub when you dey work with Git commands.
+- [Think Like (a) Git](https://think-like-a-git.net/) - Git introduction for "advanced beginners", wey still struggle, make you for take get simple strategy to safely do experiment with git.
+- [Quickstart - Set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - Learn how dem take dey set up Git locally plus how to set up authentication, along with things wey you fit do next on your learning journey.
+- [Everyday Git](https://git-scm.com/docs/giteveryday) - Small set of git commands wey you go most likely dey use everyday.
+- [Oh shit, git!](https://ohshitgit.com/) - How you fit take escape from common git wahala. You fit still check [Dangit, git!](https://dangitgit.com/)
+- [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) - various tutorials on how you fit use git.
+- [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
+- [freeCodeCamp's Wiki on Git Resources](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
+- [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - GitHub lesson on how to make pull request.
+- [Quickstart - GitHub Learning Resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources) - Git and GitHub learning resources.
+- [Pro Git](https://git-scm.com/book/en/v2) - The entire Pro Git book wey Scott Chacon and Ben Straub write and Apress come publish am.
+- [Git-it](https://github.com/jlord/git-it-electron) - Step by step Git tutorial about how to use thedesktop app.
+- [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - A guide about things wey you fit do when things don get as e be unto git level.
+- [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - A complete guide of slides about git and GitHub wey dem explain for Spanish.
+- [Git Kraken](https://www.gitkraken.com/git-client) - Visual, cross-platform, and interactive `git` desktop application for version control wey you fit install.
+- [Git Tips](https://github.com/git-tips/tips) - Collection of git tips and tricks wey people dey mostly use.
+- [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - Commit Often, Perfect Later, Publish Once: Git Best Practices.
+- [Git Interactive Tutorial](https://learngitbranching.js.org/) - Learn Git with picture wey go make the explanation dey clear.
+- [Git Cheat Sheets](https://devhints.io/?q=git) - Graphical cheat sheets about git.
+- [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics) (1:12:39) - Full Git and GitHub walkthrough by [Kunal Kushwaha](https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw).
+- [A Tutorial Introduction to Git](https://git-scm.com/docs/gittutorial) - Beginner tutorial wey git do.
+- [First Aid Git](https://firstaidgit.io/#/) - Searchable list of questions wey people dey mostly ask about git. Dem gather the answers from people personal experience, stackoverflow and the official git documentation.
+- [Git by Susan Potter](https://www.aosabook.org/en/git.html) - She show how technical parts of git dey really work so that person go fit understand the inner doings and how git take different from other version control systems(VCSs)
+- [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE) -  A beginner friendly git video by Mosh that explain the fundmental commands and also uses intelligible illustration to aid comprehension. Video for newcomer wey Mosh do about git, hom still use better picture take explain the basics of git.
