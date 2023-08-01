@@ -105,7 +105,7 @@ If you get any questions or comments, no fear, create issue. We dey here to help
 
 ## Open Source People Wey Dey Contribute to Mozilla
 
-> Mozilla don promise better internet plus the opportunity to still contribute to all e open-source projects
+> Mozilla don promise better internet plus the opportunity to still contribute to all their open-source projects
 
 - [Good First Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=good-first-bug) - bugs wey developers don identify as good starting point for the project.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/MDN/Contribute) - Help the MDN team document their web platform as you dey help them fix content issues and platform bugs.
@@ -173,4 +173,15 @@ If you get any questions or comments, no fear, create issue. We dey here to help
 - [A Tutorial Introduction to Git](https://git-scm.com/docs/gittutorial) - Beginner tutorial wey git do.
 - [First Aid Git](https://firstaidgit.io/#/) - Searchable list of questions wey people dey mostly ask about git. Dem gather the answers from people personal experience, stackoverflow and the official git documentation.
 - [Git by Susan Potter](https://www.aosabook.org/en/git.html) - She show how technical parts of git dey really work so that person go fit understand the inner doings and how git take different from other version control systems(VCSs)
-- [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE) -  A beginner friendly git video by Mosh that explain the fundmental commands and also uses intelligible illustration to aid comprehension. Video for newcomer wey Mosh do about git, hom still use better picture take explain the basics of git.
+- [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE) -  Newcomer video wey Mosh do about git, him still use better picture take explain the basics of git.
+
+# Open Source books
+
+> Books on everything wey concern Open Source: The Culture, History, Best Practices, etc.
+
+- [Producing Open Source Software](https://producingoss.com/) - Producing Open Source Software na book about the real side of open source development. E dey talk about how better projects dey operate, the things wey the users and developers dey expect, and the culture of free software.
+- [The Architecture of Open Source Applications](https://www.aosabook.org/en/index.html) - Twenty-four people wey don write open source applications talk about why and how dem dey take dey arrange their software. Dem talk about everything from web servers to compiler to health record management system, dem talk about all theses things so that you fit become better developer.
+- [Open Source Book Series](https://opensource.com/resources/ebooks) - Learn more about Open Source and the growing Open Source movement with a complete list of free eBooks from https://opensource.com.
+- [Software Release Practice HOWTO](https://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - This HOWTO dey  explain good release steps for Linux and other open source prokects. If you folllow these steps, e go dey easy for users to use your code and so that dem go fit help you join hand improve the code.
+- [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 na collection of beta essays from correct correct technology leaders wey go make you think. These essays na continuation of the better work wey one book wey dem dey call ***Open Sources: Voices from the Revolution*** been start
+- [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) -  Write-ups from senior men for open source like Linus Torvalds (Linux), Larry Wall (Perl), and Richard Stallman (GNU).
