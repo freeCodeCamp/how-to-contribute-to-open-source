@@ -102,3 +102,15 @@ If you get any questions or comments, no fear, create issue. We dey here to help
 - [is:issue is:open label:up-for-grabs](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs&type=issues)
 - [is:issue is:open label:easy-fix](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy-fix&type=issues)
 - [is:issue is:open label:"beginner friendly"](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22beginner+friendly%22&type=issues)
+
+## Open Source People Wey Dey Contribute to Mozilla
+
+> Mozilla don promise better internet plus the opportunity to still contribute to all e open-source projects
+
+- [Good First Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=good-first-bug) - bugs wey developers don identify as good starting point for the project.
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/MDN/Contribute) - Help the MDN team document their web platform as you dey help them fix content issues and platform bugs.
+- [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - Bugs wey get person wey fit help you if you hook as you dey work on any fix.
+- [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - Special website wey dem do to dey help Mozilla find bugs for their firefox browser.
+- [Firefox DevTools](https://firefox-dev.tools/) - a site dedicated to bugs filed for the developer tools in the Firefox browser. Special website wey dem do to dey find bugs wey affect the developer tools for Mozilla Firefox browser.
+- [What Can I Do For Mozilla](https://whatcanidoformozilla.org/) -  Check make you see if anything or help dey wey you fit do as you dey answer small questions about your skills and the things wey dey interest you.
+- [Start Mozilla](https://twitter.com/StartMozilla) - Twitter account wey dey tweet about issues wey new contributors fit solve for their Mozilla platform.
