@@ -30,5 +30,4 @@
     </ul>
 </details>
 <!-- Do not translate this -->
-
-# This one na for people wey just dey enter Open Source!
+Start here please
