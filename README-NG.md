@@ -89,7 +89,7 @@ If you get any questions or comments, no fear, create issue. We dey here to help
 - ["Contribute to the Open-Source Community"](https://arijitgoswami.hashnode.dev/contribute-to-the-open-source-community) - Advantages of open-source software, how to sabi the inner workings of any open source project and how to stiil make the first contribution.
 - ["Complete Guide to Open Source - How to Contribute"](https://www.youtube.com/watch?v=yzeVMecydCE) (41:52) - Follow Eddie Jaoude learn how dem take dey contribute to open source software
 
-## Search For Projects From GitHub
+## This one na labels wey go help you search for projects for GitHub.
 
 > Find links wey dey point directly to the right issues wey you fit contribute to for Github.
 
@@ -182,6 +182,49 @@ If you get any questions or comments, no fear, create issue. We dey here to help
 - [Producing Open Source Software](https://producingoss.com/) - Producing Open Source Software na book about the real side of open source development. E dey talk about how better projects dey operate, the things wey the users and developers dey expect, and the culture of free software.
 - [The Architecture of Open Source Applications](https://www.aosabook.org/en/index.html) - Twenty-four people wey don write open source applications talk about why and how dem dey take dey arrange their software. Dem talk about everything from web servers to compiler to health record management system, dem talk about all theses things so that you fit become better developer.
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - Learn more about Open Source and the growing Open Source movement with a complete list of free eBooks from https://opensource.com.
-- [Software Release Practice HOWTO](https://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - This HOWTO dey  explain good release steps for Linux and other open source prokects. If you folllow these steps, e go dey easy for users to use your code and so that dem go fit help you join hand improve the code.
+- [Software Release Practice HOWTO](https://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - This HOWTO dey  explain good release steps for Linux and other open source prokects. If you fit folllow these steps, e go dey easy for users to use your code and so that dem go fit help you join hand improve the code.
 - [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 na collection of beta essays from correct correct technology leaders wey go make you think. These essays na continuation of the better work wey one book wey dem dey call ***Open Sources: Voices from the Revolution*** been start
-- [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) -  Write-ups from senior men for open source like Linus Torvalds (Linux), Larry Wall (Perl), and Richard Stallman (GNU).
+- [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) -  Write-ups na from senior men for open source like Linus Torvalds (Linux), Larry Wall (Perl), and Richard Stallman (GNU).
+
+
+## Open Source contribution initiatives
+
+> List of initiatives that aggregate beginner friendly issues to work on or seasonal events.
+
+- [Up For Grabs](https://up-for-grabs.net/) - Contains projects with beginner-friendly issues.
+- [First Contributions](https://firstcontributions.github.io/) - Make your first Open Source contribution in 5 minutes. A tool and tutorial to help beginners get started with contributions. [Here](https://github.com/firstcontributions/first-contributions) is the GitHub source code for the site and opportunity to make a contribution to the repository itself.
+- [First Timers Only](https://www.firsttimersonly.com/) - A list of bugs that are labelled "first-timers-only".
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - A program to encourage Open Source contributions. Earn gifts like t-shirts and stickers by making at least 4 pull requests in the month of October.
+- [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests is a project to promote Open Source collaboration during the month of December.
+- [Ovio](https://ovio.org) - A platform with a curated selection of contributor-friendly projects. It has a [powerful issue search tool](https://ovio.org/issues) and let's you save projects and issues for later.
+- [Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) - This is a tutorial to help first-time contributors to participate in a simple and easy project and get comfortable in using GitHub.
+- [Open Source Welcome Committee](https://www.oswc.is/) - The Open Source Welcome Committee (OSWC) helps newcomers join the extraordinary world of Open Source. Come submit your open-source projects with us!
+
+## This one na different open source programs wey beginners fit participate for.
+
+> program, internship, or fellowship wey dey hosted by one community to help join beginning contributors with mentors and resources to contribute for  open source software projects.
+
+- [All Linux Foundation (LF) Mentorships](https://mentorship.lfx.linuxfoundation.org/#projects_all)
+- [Beginner friendly Open Source programs with their timelines](https://github.com/arpit456jain/Open-Source-Programs)
+- [Cloud Native Computing Foundation](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
+- [FossAsia](https://fossasia.org)
+- [Free Software Foundation (FSF) Internship](https://www.fsf.org/volunteer/internships)
+- [Google Summer of Code](https://summerofcode.withgoogle.com/) - program wey dey run every year and na paid program by Google wey dey focused on developers for open-source software development wey be students.
+- [Girlscript Summer of Code](https://gssoc.girlscript.tech/) - program wey dey last for 3 months for summer period and e dey conducted by the Girlscript Foundation. Participant for this program dey contribute wella to projects even as sabi mentors dey guide them. If person fit get this kind exposure, na just matter of time before the person begin dey contribute to real life project from the comfort of the person house.
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com)
+- [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN) - If you dey into blockchain, this program na for you. You fit contribute to Hyperledger. This mentorship program go allow you get practical exposure to Hyperledger open source development. You go join body with mentor wey dey very active for the Hyperledger development community.
+- [LF Networking Mentorship](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program)
+- [Microsoft Reinforcement Learning](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
+- [Major League Hacking (MLH) Fellowship](https://fellowship.mlh.io/) -  remote internship alternative for aspiring technologists where them dey build, or contribute to open-source projects.
+- [Open Summer of Code](https://osoc.be/students)
+- [Open Mainframe](https://www.openmainframeproject.org/all-projects/mentorship-program) - Open Mainframe Project also get him own open-source program and the mentees go get opportunity to better wetin dem sabi about mainframe technology.
+- [Outreachy](https://www.outreachy.org)
+- [Processing Foundation Internship](https://processingfoundation.org/fellowships/)
+- [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) - This one na global fellowship program for women and non-binary coders where them dey work on existing open-source projects and expand their sabi mentality and skillset.
+- [Redox OS Summer of Code](https://www.redox-os.org/rsoc/) - The Redox OS Summer of Code na wetin dem dey use for donations to the Redox OS project. Na students wey don show interest and sabi mentality to contribute one or two to Redox OS dem dey select.
+- [Social Summer of Code](https://ssoc.devfolio.co/) - Social foundation dey always offer this two-month long summer program for students to learn about the open-source culture and get involved for the community. Participants dey contribute to real-life projects under the guidance of sabi mentors.
+- [Season of KDE](https://season.kde.org/) - The Season of KDE, dey hosted by the KDE community, na outreach program for all individuals across the world. KDE also na international free software community wey dey develop free and open-source software and you fit contribute to KDE through the Season of KDE program.
+
+## License
+
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work dey licensed under <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
