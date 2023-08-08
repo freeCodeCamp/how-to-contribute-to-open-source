@@ -187,18 +187,19 @@ If you get any questions or comments, no fear, create issue. We dey here to help
 - [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) -  Write-ups na from senior men for open source like Linus Torvalds (Linux), Larry Wall (Perl), and Richard Stallman (GNU).
 
 
-## Open Source contribution initiatives
+## Open source projects wey beginners fit contribute to
 
-> List of initiatives that aggregate beginner friendly issues to work on or seasonal events.
 
-- [Up For Grabs](https://up-for-grabs.net/) - Contains projects with beginner-friendly issues.
-- [First Contributions](https://firstcontributions.github.io/) - Make your first Open Source contribution in 5 minutes. A tool and tutorial to help beginners get started with contributions. [Here](https://github.com/firstcontributions/first-contributions) is the GitHub source code for the site and opportunity to make a contribution to the repository itself.
-- [First Timers Only](https://www.firsttimersonly.com/) - A list of bugs that are labelled "first-timers-only".
-- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - A program to encourage Open Source contributions. Earn gifts like t-shirts and stickers by making at least 4 pull requests in the month of October.
-- [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests is a project to promote Open Source collaboration during the month of December.
-- [Ovio](https://ovio.org) - A platform with a curated selection of contributor-friendly projects. It has a [powerful issue search tool](https://ovio.org/issues) and let's you save projects and issues for later.
-- [Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) - This is a tutorial to help first-time contributors to participate in a simple and easy project and get comfortable in using GitHub.
-- [Open Source Welcome Committee](https://www.oswc.is/) - The Open Source Welcome Committee (OSWC) helps newcomers join the extraordinary world of Open Source. Come submit your open-source projects with us!
+> This one na list of initiatives wey dey gather beginner friendly issues to work on or seasonal events for open-source.
+
+- [Up For Grabs](https://up-for-grabs.net/) - This one carry projects wey get issues wey beginners fit handle.
+- [First Contributions](https://firstcontributions.github.io/) - You fit make your first contribution within 5 minutes. Na tool and lesson wey go help people wey no too sabi open-source to begin dey contribute for projects. [Here](https://github.com/firstcontributions/first-contributions) na GitHub source code wey dey for the site and go give beginners opportunity to make contribution for inside the repository.
+- [First Timers Only](https://www.firsttimersonly.com/) - This one na list of bugs wey dey labelled "first-timers-only".
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - This one na program wey dey encourage open source contribution. You fit win gift like t-shirts and stickers if you fit make at least 4 pull requests for october.
+- [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests na project wey dey promote Open Source collaboration for the month of December.
+- [Ovio](https://ovio.org) - na platform wey get curated selection of contributor-friendly projects. E get [powerful issue search tool](https://ovio.org/issues) and fit let you save projects and issues for later.
+- [Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) - This na tutorial wey go help first-time contributors to participate for inside simple and easy project and get comfortable when you dey use GitHub.
+- [Open Source Welcome Committee](https://www.oswc.is/) - The Open Source Welcome Committee (OSWC) dey help newcomers join the extraordinary world of Open Source. Come submit your open-source projects with us!
 
 ## This one na different open source programs wey beginners fit participate for.
 
