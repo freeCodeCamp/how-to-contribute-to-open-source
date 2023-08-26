@@ -49,22 +49,22 @@
 <p>
 
 ## مشارکت در منبع-باز بطور کلی
-- [The Definitive Guide to Contributing to Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
-- [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials by DigitalOcean to guide you on your way to contribution success here on GitHub.
-- [Issuehub.io](http://issuehub.pro/) - a tool for searching GitHub issues by label and language.
-- [Code Triage](https://www.codetriage.com/) - another, really nice, tool for finding popular repositories and issues filtered by language.
-- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - a GitHub repo that amasses projects with good bugs for new contributors, and applies labels to describe them.
-- [Open Source Guides](https://opensource.guide/) - Collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an Open Source project.
-- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Do's and Don'ts on GitHub.
-- [GitHub Guides](https://docs.github.com/en) - basic guides on how to use GitHub effectively.
-- [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Learn the GitHub workflow by contributing code to a simulation project.
-- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides) - The Linux Foundation's guides to Open Source projects.
-- [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - An Open Source Etiquette Guidebook, written by Kent C. Dodds And Sarah Drasner.
-- [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Curated list of resources and opportunities for college students to learn a new coding language.
-- [Contributing to your First Open Source Project: A Practical Approach](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - A step-by-step approach to contributing to your first Open Source project by [Abati Adewale](https://www.acekyd.com).
-- [Pull Request Roulette](http://www.pullrequestroulette.com/) - This site has a list of pull requests submitted for review belonging to Open Source projects hosted on Github.
-- ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - A step-by-step video guide of how to start contributing to Open Source projects on GitHub.
-- [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - This walkthrough of an open source contribution covers everything from picking a suitable project, working on an issue, to getting the PR merged in.
+- [راهنمای قطعی مشارکت در منبع باز](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) توسط [@DoomHammerNG](https://twitter.com/DoomHammerNG)
+- [مقدمه ای بر منبع باز](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - آموزش‌هایی توسط DigitalOcean برای راهنمایی شما در مسیر موفقیت در اینجا در GitHub.
+- [Issuehub.io](http://issuehub.pro/) - ابزاری برای جستجوی مسائل GitHub بر اساس برچسب و زبان.
+- [Code Triage](https://www.codetriage.com/) - یکی دیگر از ابزارهای بسیار خوب برای یافتن مخازن محبوب و مسائل فیلتر شده بر اساس زبان.
+- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - یک مخزن GitHub که پروژه‌های دارای اشکالات خوب را برای مشارکت‌کنندگان جدید جمع‌آوری می‌کند و برچسب‌هایی را برای توصیف آنها اعمال می‌کند.
+- [Open Source Guides](https://opensource.guide/) -مجموعه‌ای از منابع برای افراد، جوامع و شرکت‌هایی که می‌خواهند نحوه اجرا و مشارکت در یک پروژه منبع باز را بیاموزند.
+- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - بایدها و نبایدها در GitHub.
+- [GitHub Guides](https://docs.github.com/en) - راهنماهای اساسی در مورد نحوه استفاده موثر از GitHub.
+- [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - با مشارکت کد در یک پروژه شبیه سازی، گردش کار GitHub را بیاموزید.
+- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides) - راهنمای بنیاد لینوکس برای پروژه های منبع باز.
+- [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) -کتاب راهنمای آداب متن باز، نوشته Kent C. Dodds و Sarah Drasner .
+- [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - فهرستی از منابع و فرصت‌ها برای دانش‌آموزان برای یادگیری یک زبان برنامه‌نویسی جدید.
+- [Contributing to your First Open Source Project: A Practical Approach](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) -یک رویکرد گام به گام برای مشارکت در اولین پروژه منبع باز شما توسط [Abati Adewale](https://www.acekyd.com).
+- [Pull Request Roulette](http://www.pullrequestroulette.com/) - این سایت فهرستی از درخواست‌های کشش ارسال شده برای بررسی متعلق به پروژه‌های منبع باز میزبانی شده در Github دارد.
+- ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - راهنمای ویدیویی گام به گام نحوه شروع مشارکت در پروژه های منبع باز در GitHub.
+- [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - این راهنمای مشارکت منبع باز همه چیز را از انتخاب یک پروژه مناسب، کار روی یک موضوع تا ادغام روابط عمومی در بر می‌گیرد.
 
 </p>
 </div>
