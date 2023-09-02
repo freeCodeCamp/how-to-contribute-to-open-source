@@ -168,7 +168,7 @@
 
 > 关于开源的各种书籍：文化、历史、最佳实践等。
 
-- [Producing Open Source Software](https://producingoss.com/) - 《开源软件的生产》是一本关于开源开发的人性化方面的书籍。它描述了成功项目的运作方式，用户和开发者的期望以及自由软件文化。
+- [生产开源软件](https://producingoss.com/) - 《开源软件的生产》是一本关于开源开发的人性化方面的书籍。它描述了成功项目的运作方式，用户和开发者的期望以及自由软件文化。
 - [The Architecture of Open Source Applications](https://www.aosabook.org/en/index.html) - 24个开源应用程序的作者解释了他们的软件结构以及原因。从Web服务器和编译器到健康记录管理系统，这里都有涉及，旨在帮助您成为更好的开发者。
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - 通过 https://opensource.com，了解更多关于开源和不断发展的开源运动的信息，其中包括一份全面的免费电子书列表。
 - [Software Release Practice HOWTO](https://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - 本HOWTO介绍了Linux和其他开源项目的良好发布实践。通过遵循这些实践，您将使用户能够尽可能轻松地构建和使用您的代码，并使其他开发人员能够理解您的代码并与您合作改进它。
