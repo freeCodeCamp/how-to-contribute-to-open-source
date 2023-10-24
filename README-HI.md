@@ -1,7 +1,7 @@
 <!-- Do not translate this -->
 <details>
 <summary>
-<strong>इस गाइड को अन्य भाषाओं में पढ़ें</strong>
+<strong>इस निर्देश को अन्य भाषाओं में पढ़ें</strong>
 </summary>
     <ul>
         <li><a href="./README.md"> English </a></li>
@@ -22,18 +22,18 @@
 </details>
 <!-- Do not translate this -->
 
-# नौसिखिया ओपन सोर्स योगदानकर्ताओं का स्वागत है!
+# नौसिखिए ओपन सोर्स (Open Source) योगदानकर्ताओं का स्वागत है!
 
 [![अनुरोध का स्वागत करें](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![पहली बार केवल अनुकूल](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
 [![Check Resources](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml/badge.svg)](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml)
 
 
-यह उन लोगों के लिए संसाधनों की एक सूची है जो ओपन सोर्स में योगदान करने में नए हैं।
+यह उन लोगों के लिए संसाधनों की एक सूची है जो ओपन सोर्स (Open Source) में योगदान करने में नए हैं।
 
-यदि आपको अतिरिक्त संसाधन मिलते हैं, तो कृपया एक पुल रिक्वेस्ट के द्वारा योगदान करें।
+यदि आपको अतिरिक्त संसाधन मिलते हैं, तो कृपया एक पुल रिक्वेस्ट (Pull Request) द्वारा योगदान करें।
 
-यदि आपका कोई प्रश्न या टिप्पणी हैं, तो कृपया एक मुद्दा बनाएं।
+यदि आपका कोई प्रश्न या टिप्पणी हैं, तो कृपया एक मुद्दा (Issue) बनाएं।
 
 **अंतर्वस्तु**
 
@@ -47,18 +47,18 @@
 - [लाइसेंस](#license)
 
 ## सामान्य रूप से ओपन सोर्स में योगदान करना
-- [ओपन सोर्स में योगदान करने के लिए निश्चित गाइड](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
+- [ओपन सोर्स में योगदान करने के लिए निश्चित निर्देश](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [ओपन सोर्स के लिए एक परिचय](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - GitHub पर आपकी सफलता में आपका मार्गदर्शन करने के लिए DigitalOcean द्वारा ट्यूटोरियल।
-- [Issuehub.io](http://issuehub.io/) - लेबल और भाषा द्वारा GitHub मुद्दों को खोजने के लिए एक उपकरण।
-- [Code Triage](https://www.codetriage.com/) - लोकप्रिय रिपॉजिटरी और भाषा द्वारा फ़िल्टर किए गए मुद्दों को खोजने के लिए उपकरण।
-- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - एक GitHub रेपो जो नए योगदानकर्ताओं के लिए अच्छे बग्स के साथ प्रोजेक्ट एकत्र करता है, और उनका वर्णन करने के लिए लेबल लागू करता है।
-- [Open Source Guides](https://opensource.guide/) - उन व्यक्तियों, समुदायों और कंपनियों के लिए संसाधनों का संग्रह, जो ओपन सोर्स प्रोजेक्ट को चलाना और उसमें योगदान देना सीखना चाहते हैं।
-- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) -GitHub के Do's और Don'ts।
-- [GitHub Guides](https://docs.github.com/en) - GitHub का प्रभावी रूप से उपयोग करने के बारे में बुनियादी गाइड।
-- [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - एक सिमुलेशन परियोजना के लिए कोड का योगदान करके GitHub वर्कफ़्लो जानें।
-- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides) - लिनक्स फाउंडेशन के स्रोत स्रोत खोलने के लिए गाइड।
-- [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - केंट सी। डोड्स एंड सारा ड्रैसनर द्वारा लिखित एक ओपन सोर्स शिष्टाचार गाइडबुक।
-- [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - एक नई कोडिंग भाषा सीखने के लिए कॉलेज के छात्रों के लिए संसाधनों और अवसरों की घुमावदार सूची।
+- [Issuehub.io](http://issuehub.io/) - लेबल (Label) और भाषा द्वारा GitHub मुद्दों (Issues) को खोजने के लिए एक उपकरण।
+- [Code Triage](https://www.codetriage.com/) - लोकप्रिय रिपॉजिटरी (Repository) और भाषा द्वारा फ़िल्टर किए गए मुद्दों को खोजने के लिए उपकरण।
+- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - एक GitHub रेपो (Repository) जो नए योगदानकर्ताओं के लिए अच्छे बग्स (Bugs) के साथ प्रोजेक्ट एकत्र करता है, और उनका वर्णन करने के लिए लेबल (Label) लागू करता है।
+- [Open Source Guides](https://opensource.guide/) - उन व्यक्तियों, समुदायों और कंपनियों के लिए संसाधनों का संग्रह, जो ओपन सोर्स (Source) प्रोजेक्ट को चलाना और उसमें योगदान देना सीखना चाहते हैं।
+- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) -GitHub पर क्या करे और क्या ना करे (Do's और Don'ts)।
+- [GitHub Guides](https://docs.github.com/en) - GitHub का प्रभावी रूप से उपयोग करने के बारे में बुनियादी निर्देश।
+- [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - एक सिमुलेशन (Simulation) परियोजना के लिए कोड का योगदान करके GitHub वर्कफ़्लो (Workflow) जानें।
+- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides) - लिनक्स फाउंडेशन के सोर्स, ओपन सोर्स के लिए निर्देश।
+- [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - केंट सी डोड्स और सारा ड्रैसनर द्वारा लिखित एक ओपन सोर्स शिष्टाचार निर्देश पुस्तिका।
+- [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - एक नई कोडिंग भाषा सीखने के लिए कॉलेज के छात्रों के लिए संसाधनों और अवसरों की संग्रह सूची।
 - [Pull Request Roulette](http://www.pullrequestroulette.com/) - इस साइट में GitHub पर होस्ट किए गए ओपन सोर्स प्रोजेक्ट से संबंधित समीक्षा के लिए प्रस्तुत पुल अनुरोधों की एक सूची है।
 - ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - GitHub पर ओपन सोर्स परियोजनाओं में योगदान कैसे शुरू करें, इसका चरण-दर-चरण वीडियो गाइड।
 - [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - एक ओपन सोर्स योगदान के इस पूर्वाभ्यास में एक उपयुक्त प्रोजेक्ट को चुनने से लेकर एक मुद्दे पर काम करना, पीआर में विलय होने तक सब कुछ शामिल है।
@@ -98,7 +98,7 @@
 - [सिर्फ 5 मिनट में अपना पहला ओपन सोर्स योगदान कैसे करें](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) by [@roshanjossey](https://github.com/Roshanjossey/)
 - [Hacktoberfest 2019: आप अपनी मुफ्त शर्ट कैसे प्राप्त कर सकते हैं - भले ही आप कोडिंग में नए हों](https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b/) by [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
 - [एक बिटर गाइड टू ओपन सोर्स](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
-- [पहली बार ओपन सोर्स में योगदान करने के लिए एक जूनियर डेवलपर का चरण-दर-चरण गाइड](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) by [@LetaKeane](https://hackernoon.com/u/letakeane)
+- [पहली बार ओपन सोर्स में योगदान करने के लिए एक जूनियर डेवलपर का चरण-दर-चरण निर्देश](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) by [@LetaKeane](https://hackernoon.com/u/letakeane)
 - [Git और GitHub स्टेप बाय स्टेप (विंडोज पर) सीखें](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) by [@ows-ali](https://medium.com/@ows_ali)
 - [ओपन सोर्स और क्यों?](https://careerkarma.com/blog/open-source-projects-for-beginners/) by [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
 - [ओपन सोर्स से कैसे शुरुआत करें- बाय सयान चौधरी](https://www.hackerearth.com/getstarted-opensource/)
@@ -124,11 +124,11 @@
 - [Git Interactive Tutorial](https://learngitbranching.js.org/) - सबसे दृश्य और इंटरैक्टिव तरीके से Git सीखें।
 
 ## ओपन सोर्स पुस्तकें
-- [Producing Open Source Software](https://producingoss.com/) - ओपन सोर्स सॉफ्टवेयर का निर्माण ओपन सोर्स डेवलपमेंट के मानवीय पक्ष के बारे में एक किताब है। यह वर्णन करता है कि सफल परियोजनाएं कैसे संचालित होती हैं, उपयोगकर्ताओं और डेवलपर्स की अपेक्षाएं, और मुफ्त सॉफ्टवेयर की संस्कृति।
+- [Producing Open Source Software](https://producingoss.com/) - ओपन सोर्स सॉफ्टवेयर का निर्माण, ओपन सोर्स डेवलपमेंट के मानवीय पक्ष के बारे में एक किताब है। यह वर्णन करता है कि सफल परियोजनाएं कैसे संचालित होती हैं, उपयोगकर्ताओं और डेवलपर्स की अपेक्षाएं, और मुफ्त सॉफ्टवेयर की संस्कृति।
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - ओपन सोर्स और बढ़ते ओपन सोर्स आंदोलन के बारे में अधिक जानकारी के लिए https://opensource.com से मुफ्त ई-बुक्स की एक व्यापक सूची के साथ जानें।
 - [Software Release Practice HOWTO](https://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - यह HOWTO लिनक्स और अन्य ओपन-सोर्स परियोजनाओं के लिए अच्छी रिलीज प्रथाओं का वर्णन करता है। इन प्रथाओं का पालन करके, आप उपयोगकर्ताओं को अपना कोड बनाने और इसका उपयोग करने के लिए जितना संभव हो उतना आसान बना देंगे, और अन्य डेवलपर्स आपके कोड को समझने के लिए और इसे बेहतर बनाने के लिए आपके साथ सहयोग करेंगे।
 - [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - ओपन सोर्स २.० आज के प्रौद्योगिकी नेताओं के व्यावहारिक और विचारोत्तेजक निबंधों का एक संग्रह है, जो 1999 की पुस्तक, ओपन सोर्स: द रिव्यूज़ इन द रिवोल्यूशनरी में विकसित हुई विकासवादी तस्वीर को जारी रखता है।
-- [The Architecture of Open Source Applications](http://www.aosabook.org/en/git.html) - वितरित वर्कफ़्लोज़ को सक्षम करने के लिए कवर के तहत Git के विभिन्न पहलू काम करते हैं, और यह कैसे अन्य संस्करण नियंत्रण प्रणालियों (VCS) से भिन्न होता है।
+- [The Architecture of Open Source Applications](http://www.aosabook.org/en/git.html) - वितरित वर्कफ़्लोज़ (Workflows) को सक्षम करने के लिए कवर के तहत Git के विभिन्न पहलू काम करते हैं, और यह कैसे अन्य संस्करण नियंत्रण प्रणालियों (VCS) से भिन्न होते हैं।
 - [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - लिनस टॉर्वाल्ड्स (लिनक्स), लैरी वॉल (पर्ल), और रिचर्ड स्टेलमैन (जीएनयू) जैसे ओपन-सोर्स अग्रदूतों से निबंध।
 
 ## ओपन सोर्स योगदान पहल
@@ -136,7 +136,7 @@
 - [First Timers Only](https://www.firsttimersonly.com/) - bugs की एक सूची जिसे "first-timers-only" लेबल किया जाता है।
 - [First Contributions](https://firstcontributions.github.io/) - 5 मिनट में अपना पहला ओपन सोर्स योगदान दें। एक उपकरण और ट्यूटोरियल शुरुआती योगदान करने में मदद करने के लिए। [यहाँ](https://github.com/firstcontributions/first-contributions) साइट के लिए GitHub स्रोत कोड है और स्वयं भंडार में योगदान करने का अवसर है।
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - ओपन सोर्स योगदान को प्रोत्साहित करने के लिए एक कार्यक्रम। अक्टूबर के महीने में कम से कम 4 पुल अनुरोध करके टी-शर्ट और स्टिकर जैसे उपहार अर्जित करें।
-- [24 Pull Requests](https://24pullrequests.com) -24 पुल अनुरोध दिसंबर महीने के दौरान ओपन सोर्स सहयोग को बढ़ावा देने के लिए एक परियोजना है।
+- [24 Pull Requests](https://24pullrequests.com) -"24 Pull Requests" दिसंबर महीने के दौरान ओपन सोर्स सहयोग को बढ़ावा देने के लिए एक परियोजना है।
 
 ## लाइसेंस
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />इस काम के तहत लाइसेंस प्राप्त है। <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">क्रिएटिव कॉमन्स एट्रिब्यूशन-शेयरअलाइल 4.0 इंटरनेशनल लाइसेंस</a>।
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />इस काम का  लाइसेंस <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"> Creative Commons Attribution-ShareAlike 4.0 International License</a> के तहत प्राप्त है।
