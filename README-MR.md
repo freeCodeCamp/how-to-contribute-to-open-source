@@ -90,7 +90,6 @@
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - जेव्हा आपण फिक्सवर काम करत असताना अडखळलात तेव्हा आपल्याला मदत करण्यासाठी आयआरसी वरील सल्लागारांना नियुक्त केलेला असा बग.
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - बगज़िला वर बग शोधण्यासाठी समर्पित साइट.
 - [Firefox DevTools](http://firefox-dev.tools/) - फायरफॉक्स ब्राउझरमध्ये विकसक साधनांसाठी दाखल केलेल्या बगसाठी समर्पित साइट.
-- [What Can I Do For Mozilla](https://whatcanidoformozilla.org/) - आपल्या कौशल्याच्या संचाबद्दल आणि आवडींबद्दल अनेक प्रश्नांची उत्तरे देऊन आपण काय कार्य करू शकता ते ज़ाणून घ्या.
 - [Start Mozilla](https://twitter.com/StartMozilla) - एक ट्विटर अकाऊंट जे मोज़िला प्रणालीमध्ये नवीन योगदानकर्त्यांसाठी समस्यांची ट्वीट करते.
 
 ## नवीन ओपन सोर्स योगदानकर्त्यांसाठी उपयुक्त लेख

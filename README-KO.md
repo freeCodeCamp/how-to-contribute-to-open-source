@@ -82,7 +82,6 @@ GitHub에서 기여할 만한 적절한 이슈를 직접적으로 가리키는 �
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - 수정 작업을 하다가 막혔을 때 도와줄 수 있는 멘토가 IRC에 있는 버그들
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - Bugzilla 에서 버그를 찾기 위한 사이트
 - [Firefox DevTools](http://firefox-dev.tools/) - Firefox browser의 개발자 도구에 대해 접수된 버그에 대한 사이트 
-- [What Can I Do For Mozilla](http://whatcanidoformozilla.org/)  - 너의 기술과 흥미에 대한 여러개의 질문에 대답함으로서 Mozilla를 위해 무엇을 할 수 있는지 알아보세요.
 - [Start Mozilla](https://twitter.com/StartMozilla) - Mozilla 생태계를 처음 접하는 컨트리뷰터에게 적합한 이슈를 트윗하는 트위터 계정
 
 ## 새로운 오픈 소스 컨트리뷰터를 위한 유용한 기사

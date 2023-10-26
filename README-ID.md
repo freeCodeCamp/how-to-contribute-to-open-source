@@ -87,7 +87,6 @@ Link pencarian yang mengarah langsung ke _issue_ yang sesuai untuk berkontribusi
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - Berisi kumpulan bug yang dipedomankan oleh mentor dan mereka nantinya membantu anda untuk memperbaiki bug jika anda merasa kesulitan.
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - Sebuah situs web yang didedikasikan untuk menemukan bug pada bugzilla.
 - [Firefox DevTools](http://firefox-dev.tools/) - Sebuah situs web yang didedikasikan sebagai alat inspeksi kode untuk pengembang perangkan lunak peramban firefox.
-- [What Can I Do For Mozilla](https://whatcanidoformozilla.org/) - Cari tahu apa yang bisa anda kontribusikan dengan menjawab pertanyaan tentang kemampuan dan minat anda.
 - [Start Mozilla](https://twitter.com/StartMozilla) - Akun twitter yang membuat tweet tentang issue yang muncul dan cocok untuk kontibutor baru di ekosistem Mozilla.
 
 ## Artikel Bermanfaat Untuk Para Kontributor Proyek Open Source

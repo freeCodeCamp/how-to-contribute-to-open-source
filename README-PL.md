@@ -94,7 +94,6 @@ Linki wyszukiwania które wskazują na kwestie skierowane dla początkujących. 
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugi które mają przypisanego mentora, który będzie na IRC aby pomóc ci, kiedy utkniesz podczas naprawiania tego błędu.
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - Strona dedykowana do znajdowania błędów na Bugzilli.
 - [Firefox DevTools](http://firefox-dev.tools/) - Strona dedykowania do znajdowania błędów dla profesjonalnych narzędzi przeznaczonych na przeglądarkę Firefox.
-- [What Can I Do For Mozilla](https://whatcanidoformozilla.org/) -  Dowiedz się, nad czym możesz pracować poprzez odpowiedź na kilka pytań dotyczących twoich umiejętności i zainteresowań.
 - [Start Mozilla](https://twitter.com/StartMozilla) - Konto na Twitterze, które tweetuje na temat kwestii odpowiednich dla początkujących kontrybutorów w środowisku Mozilli.
 
 ## Użyteczne artykuły dla początkujących w kontrybuowaniu do otwartego oprogramowania

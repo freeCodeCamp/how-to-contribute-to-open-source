@@ -77,7 +77,6 @@ Pesquise por links diretos para issues no GitHub.
 - [Mentoria de Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - Bugs que possuem um mentor disponível para te ajudar caso você encontre dificuldades enquanto trabalha em uma solução.
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - Um site dedicado a encontrar bugs no Bugzilla.
 - [Firefox DevTools](http://firefox-dev.tools/) - Um site dedicado a bugs reportados para o DevTools no navegador Firefox.
-- [What Can I Do For Mozilla](http://whatcanidoformozilla.org/) - Responda perguntas a respeito das suas habilidades e interesses a fim de descobrir no que você pode trabalhar.
 - [Start Mozilla](https://twitter.com/StartMozilla) - Uma conta no Twitter que publica issues apropriadas a novos contribuidores no ecossistema da Mozilla.
 
 ## Artigos úteis para novos contribuidores
