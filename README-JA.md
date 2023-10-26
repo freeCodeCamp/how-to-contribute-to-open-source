@@ -71,7 +71,6 @@ Github上での貢献に適切な問題を表示しているリンクを直接�
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs that have a mentor assigned who will be there on IRC to help you when you get stuck while working on fix.
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - Bugzillaでバグをさがすための献身的なサイト
 - [Firefox開発者ツールs](http://firefox-dev.tools/) - Firefoxブラウザの開発者ツール用のバグに献身的なサイト
-- [Mozillaのためにできること](http://whatcanidoformozilla.org/) - 自分のスキルセットと興味についての筆問に答えて何ができるか明らかにしよう
 - [Mozillaをはじめよう](https://twitter.com/StartMozilla) - Mozillaエコシステム初心者の貢献者に最適な問題についてツイートするツイッターアカウント
 
 ## オープンソース貢献初心者に有益な記事

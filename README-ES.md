@@ -72,7 +72,6 @@ Lista de enlaces convenientes para principiantes que apuntan a `issues` en GitHu
 - [Issues asistidas por un mentor](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - `Issues` que tienen un mentor asignado el cual estará disponible mediante IRC para ayudarte mientras trabajas en ellas.
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - Un sitio donde encontrar `issues` de Bugzilla.
 - [Firefox DevTools](http://firefox-dev.tools/) - Un sitio dedicado donde encontrar `issues` archivados por la herramienta de desarrollo dentro del navegador Firefox.
-- [Qué puedo hacer por Mozilla](http://whatcanidoformozilla.org/) - Descubre en qué puedes trabajar contestando una serie de preguntas sobre tus habilidades e intereses.
 - [StartMozilla](https://twitter.com/StartMozilla) - Una cuenta de Twitter sobre temas específicos para nuevos colaboradores en el ecosistema de Mozilla.
 
 ## Artículos útiles para nuevos colaboradores de código abierto

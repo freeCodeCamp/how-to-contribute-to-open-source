@@ -88,7 +88,6 @@ Suchbegriffe, die direkt auf für Einsteiger\*innen geeignete Issues auf GitHub 
   der Behebung des Bugs nicht mehr weiterkommst.
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - eine Seite, die sich dem Finden von Bugs auf Bugzilla widmet.
 - [Firefox DevTools](http://firefox-dev.tools/) - eine Seite, die sich Bugs der Developer-Tools des Firefox-Browsers widmet.
-- [What Can I Do For Mozilla](http://whatcanidoformozilla.org/) - finde durch einen kurze Umfrage zu deinen Fähigkeiten und
   Interessen heraus, wo du helfen kannst.
 - [Start Mozilla](https://twitter.com/StartMozilla) - ein Twitter-Account der über Issues twittert, die gut geeignet für neue Entwickler\*innen sind.
 

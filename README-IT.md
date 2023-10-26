@@ -72,7 +72,6 @@ Se hai domande o commenti, per favore crea un issue.
 - [Bug con mentori](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bug a cui è stato assegnato un mentore che sarà presente su IRC per aiutarti quando rimani bloccato mentre lavori sulla correzione.
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - un sito dedicato alla ricerca di bug su Bugzilla.
 - [Strumenti Firefox per programmatori/sviluppatori DevTools](http://firefox-dev.tools/) - un sito dedicato ai bug archiviati per gli strumenti di sviluppo nel browser Firefox.
-- [Cosa posso fare per Mozilla](http://whatcanidoformozilla.org/) -  scopri su cosa puoi lavorare rispondendo a una serie di domande sul tuo set di abilità e sui tuoi interessi.
 - [Avvia Mozilla](https://twitter.com/StartMozilla) - un account Twitter che pubblica argomenti adatti per i contributors nuovi dell'ecosistema Mozilla.
 
 ## Articoli utili per i nuovi contributors all'open source
