@@ -29,7 +29,7 @@
 [![Check Resources](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml/badge.svg)](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml)
 
 
-यह उन लोगों के लिए संसाधनों की एक सूची है जो ओपन सोर्स (Open Source) में योगदान करने में नए हैं।
+यह उन लोगों के लिए संसाधनों की एक सूची है जो ओपन सोर्स में योगदान करने में नए हैं।
 
 यदि आपको अतिरिक्त संसाधन मिलते हैं, तो कृपया एक पुल रिक्वेस्ट (Pull Request) द्वारा योगदान करें।
 
@@ -60,13 +60,13 @@
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - केंट सी डोड्स और सारा ड्रैसनर द्वारा लिखित एक ओपन सोर्स शिष्टाचार निर्देश पुस्तिका।
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - एक नई कोडिंग भाषा सीखने के लिए कॉलेज के छात्रों के लिए संसाधनों और अवसरों की संग्रह सूची।
 - [Pull Request Roulette](http://www.pullrequestroulette.com/) - इस साइट में GitHub पर होस्ट किए गए ओपन सोर्स प्रोजेक्ट से संबंधित समीक्षा के लिए प्रस्तुत पुल अनुरोधों की एक सूची है।
-- ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - GitHub पर ओपन सोर्स परियोजनाओं में योगदान कैसे शुरू करें, इसका चरण-दर-चरण वीडियो गाइड।
+- ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - GitHub पर ओपन सोर्स परियोजनाओं में योगदान कैसे शुरू करें, इसका चरण-दर-चरण वीडियो निर्देश।
 - [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - एक ओपन सोर्स योगदान के इस पूर्वाभ्यास में एक उपयुक्त प्रोजेक्ट को चुनने से लेकर एक मुद्दे पर काम करना, पीआर में विलय होने तक सब कुछ शामिल है।
-- ["How to Contribute to Open Source Project by" Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - वे GitHub पर किसी और की परियोजना के लिए एक पुल अनुरोध (पीआर) का योगदान करने पर ध्यान केंद्रित कर रहे हैं।
+- ["How to Contribute to Open Source Project by" Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - वे GitHub पर किसी और की परियोजना के लिए एक पुल अनुरोध (PR) का योगदान करने पर ध्यान केंद्रित कर रहे हैं।
 - ["How to get started with Open Source by" Sayan Chowdhury](https://www.hackerearth.com:443/getstarted-opensource/) - यह लेख अपनी पसंदीदा भाषा रुचि के आधार पर नौसिखियों के लिए ओपन सोर्स में योगदान करने के लिए संसाधनों को शामिल करता है।
 - ["Browse good first issues to start contributing to open source"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) - GitHub अब आपको ओपन सोर्स में योगदान देना शुरू करने के लिए पहले अच्छे मुद्दे खोजने में मदद करता है।
 - ["How to Contribute to Open Source Project" by Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - यह व्यापक लेख व्यवसायों की ओर निर्देशित है (लेकिन व्यक्तिगत योगदानकर्ताओं के लिए भी उपयोगी है) जहां यह बात करता है कि क्यों, कैसे, और क्या-क्या ओपन-सोर्स प्रोजेक्ट्स में योगदान करना उचित है।
-- ["start-here-guidelines" by Andrei](https://github.com/zero-to-mastery/start-here-guidelines) - ओपनसोर्स खेल की दुनिया ओपनसोर्स प्लेग्राउंड में शुरू होती है। विशेष रूप से शिक्षा और व्यावहारिक अनुभव उद्देश्यों के लिए रचा गया हैं।
+- ["start-here-guidelines" by Andrei](https://github.com/zero-to-mastery/start-here-guidelines) - ओपन सोर्स खेल की दुनिया ओपन सोर्स प्लेग्राउंड में शुरू होती है। विशेष रूप से शिक्षा और व्यावहारिक अनुभव उद्देश्यों के लिए रचा गया हैं।
 
 ## सीधा GitHub पर खोजें
 खोज परिणाम जो सीधे GitHub पर योगदान करने के लिए उपयुक्त मुद्दों की ओर इशारा करते हैं।
@@ -79,8 +79,8 @@
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
 ## मोज़िला का योगदानकर्ता पारिस्थितिकी तंत्र
-- [Good First Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22[good%20first%20bug]%22&limit=0) - बग जो डेवलपर्स ने परियोजना के लिए एक अच्छा परिचय के रूप में पहचाना है।
-- [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - बग जो एक संरक्षक को सौंपा गया है, जो आईआरसी पर आपकी मदद करेगा जब आप एक फिक्स पर काम करते समय फंस जाते हैं।
+- [Good First Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22[good%20first%20bug]%22&limit=0) - बग (Bugs) जो डेवलपर्स (Developers) ने परियोजना के लिए एक अच्छा परिचय के रूप में पहचाना है।
+- [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - बग (Bug) जो एक संरक्षक को सौंपा गया है, जो आईआरसी (IRC) पर आपकी मदद करेगा जब आप एक फिक्स पर काम करते समय फंस जाते हैं।
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - Bugzilla पर बग ढूंढने के लिए समर्पित एक साइट।
 - [Firefox DevTools](http://firefox-dev.tools/) - फ़ायरफ़ॉक्स ब्राउज़र में डेवलपर टूल के लिए दायर की गई बग्स को समर्पित एक साइट।
 - [What Can I Do For Mozilla](https://whatcanidoformozilla.org/) - अपने कौशल सेट और रुचियों के बारे में सवालों के एक समूह का उत्तर देकर पता लगा सकते हैं कि आप क्या काम कर सकते हैं।
