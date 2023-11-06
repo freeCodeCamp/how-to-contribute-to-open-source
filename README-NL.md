@@ -4,90 +4,126 @@
 <strong> Read this guide in other languages </strong>
 </summary>
     <ul>
-        `<li><a href="./README-AR.md"> العربية </a></li>`
-        `<li><a href="./README-BG.md"> български </a></li>`
-        `<li><a href="./README-BN.md"> বাংলা </a></li>`
-        `<li><a href="./README-CN.md"> 中文 </a></li>`
-        `<li><a href="./README-DE.md"> Deutsch </a></li>`
-        `<li><a href="./README-ES.md"> Español </a></li>`
-        `<li><a href="./README-FA.md"> فارسی </a></li>`
-        `<li><a href="./README-FR.md"> Français </a></li>`
-        `<li><a href="./README-GR.md"> Ελληνικά </a></li>`
-        `<li><a href="./README-GU.md"> ગુજરાતી </a></li>`
-        `<li><a href="./README-HE.md"> עברית </a></li>`
-        `<li><a href="./README-HI.md"> हिन्दी </a></li>`
-        `<li><a href="./README-ID.md"> Bahasa Indonesia </a></li>`
-        `<li><a href="./README-IT.md"> Italiano </a></li>`
-        `<li><a href="./README-JA.md"> 日本語 </a></li>`
-        `<li><a href="./README-KO.md"> 한굵어 </a></li>`
-        `<li><a href="./README-ML.md"> മലയാളം </a></li>`
-        `<li><a href="./README-MR.md"> मराठी </a></li>`
-        `<li><a href="./README-MS.md"> Bahasa Malaysia </a></li>`
-        `<li><a href="./README-NE.md"> नेपाली </a></li>`
-        `<li><a href="./README-NL.md"> Nederlands </a></li>`
-        `<li><a href="./README-PL.md"> Polski </a></li>`
-        `<li><a href="./README-RO.md"> Românesc </a></li>`
-        `<li><a href="./README-RU.md"> русский </a></li>`
-        `<li><a href="./README-SI.md"> සිංහල </a></li>`
+        <li><a href="./README.md"> English </a></li>
+        <li><a href="./README-MR.md"> मराठी </a></li>
+        <li><a href="./README-BN.md"> বাংলা </a></li>
+        <li><a href="./README-CN.md"> 中文 </a></li>
+        <li><a href="./README-RU.md"> русский </a></li>
+        <li><a href="./README-RO.md"> Românesc </a></li>
+        <li><a href="./README-IT.md"> Italiano </a></li>
+        <li><a href="./README-ID.md"> Indonesia </a></li>
+        <li><a href="./README-ES.md"> Español </a></li>
+        <li><a href="./README-pt-BR.md"> Português (BR) </a></li>
+        <li><a href="./README-DE.md"> Deutsch </a></li>
+        <li><a href="./README-HE.md"> עברית </a></li>
+        <li><a href="./README-GR.md"> Ελληνικά </a></li>
+        <li><a href="./README-FR.md"> Français </a></li>
+        <li><a href="./README-TR.md"> Turkish </a></li>
+        <li><a href="./README-KO.md"> 한국어 </a></li>
+        <li><a href="./README-JA.md"> 日本語 </a></li>
+        <li><a href="./README-HI.md"> हिंदी </a></li>
+        <li><a href="./README-FA.md"> فارسی </a></li>
+        <li><a href="./README-UR.md">اردو </a></li>
+        <li><a href="./README-AR.md">اللغة العربية </a></li>
+        <li><a href="./README-TA.md">தமிழ்</a></li>
+        <li><a href="./README-NE.md">नेपाली</a></li>
     </ul>
 </details>
 <!-- Do not translate this -->
 
-# Welkom bij de Open Source Contributer Noobie!
+# Welkom Nieuwe Bijdragers aan Open Source!
 
-[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-[![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
-[![Check Resources](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml/badge.svg)](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml)
+[![Pull Requests Welkom](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://makeapullrequest.com)
+[![Eerstetijdsmedewerkers Vriendelijk](https://img.shields.io/badge/eerste--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
+[![Controleer Hulpbronnen](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml/badge.svg)](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml)
 
-Dit is een lijst met bronnen voor mensen die nog niet eerder hebben bijgedragen aan Open Source.
+Dit is een lijst van bronnen voor mensen die nieuw zijn in het bijdragen aan Open Source.
 
-Als je aanvullende bronnen vindt, kan je een pull-request indienen.
+Als je aanvullende bronnen vindt, maak dan een pull-aanvraag.
 
-Als je vragen of opmerkingen hebt, kan je een issue aanmaken.
+Als je vragen of opmerkingen hebt, maak dan een probleem aan.
 
-**Inhoud**
+**Inhoudsopgave**
 
-- [Bijdragen aan een Open Source project in het algemeen](#contributing-to-open-source-in-general)
-- [GitHub doorzoeken](#direct-github-searches)
-- [Het bijdragende ecosysteem van Mozilla](#mozillas-contributor-ecosystem)
-- [Handige artikelen voor nieuwe Open Source-bijdragers](#useful-articles-for-new-open-source-contributors)
-- [Versie control gebruiken](#using-version-control)
-- [Open Source boeken](#open-source-books)
-- [Open Source bijdrage-initiatieven](#open-source-contribution-initiatives)
-- [Licenties](#license)
+- [Bijdragen aan Open Source in het algemeen](#bijdragen-aan-open-source-in-het-algemeen)
+- [Directe GitHub-zoekopdrachten](#directe-github-zoekopdrachten)
+- [Het bijdrageneconomie van Mozilla](#het-bijdrageneconomie-van-mozilla)
+- [Nuttige artikelen voor nieuwe Open Source-bijdragers](#nuttige-artikelen-voor-nieuwe-open-source-bijdragers)
+- [Gebruik van Versiebeheer](#gebruik-van-versiebeheer)
+- [Boeken over Open Source](#boeken-over-open-source)
+- [Initiatieven voor Open Source-bijdragen](#initiatieven-voor-open-source-bijdragen)
+- [Open Source-programma's om aan deel te nemen](#open-source-programmas-om-aan-deel-te-nemen)
+- [Licentie](#licentie)
 
-## Bijdragen aan een Open Source project in het algemeen
+## Bijdragen aan Open Source in het algemeen
 
-## GitHub doorzoeken
+> Artikelen en bronnen die de wereld en cultuur van Open Source bespreken.
 
-Zoek links die rechtstreeks verwijzen naar geschikte problemen om aan bij te dragen.
+- [De Definitie van Open Source](https://opensource.org/osd) - De definitie van Open Source Software van de Open Source Initiative.
+- [Open Source Openbaring](http://vimeo.com/110806872) - Een documentairefilm van Vimeo over hoe Open Source-software wordt gemaakt.
+- [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/) - Het beroemde essay van Eric S. Raymond over de twee verschillende manieren om software te maken.
+- [Producing Open Source Software](http://producingoss.com/) - Een gratis boek van Karl Fogel over het produceren van Open Source Software.
+- [Mozilla Manifesto](https://www.mozilla.org/en-US/about/manifesto/) - Het manifest van Mozilla over de principes van het Open Web.
+- [Open Source als de Norm](https://hueniverse.com/2011/09/24/open-source-as-the-norm/) - Een blogpost over waarom Open Source de norm zou moeten zijn.
 
-- [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
-- [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
-- [is:issue is:open label:first-timers-only](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
-- [is:issue is:open label:good-first-bug](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Agood-first-bug)
-- [is:issue is:open label:"good first issue"](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A"good+first+issue")
-- [is:issue is:open label:starter](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Astarter)
-- [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
+## Directe GitHub-zoekopdrachten
 
-## Het bijdragende ecosysteem van Mozilla**
+> Zoekopdrachten waarmee je interessante Open Source-projecten kunt vinden om aan bij te dragen.
 
-## Versie control gebruiken**
+- [Eerstetijdsmedewerkersproblemen](https://github.com/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only) - Problemen die zijn gemarkeerd als 'eerste keer alleen'.
+- [Goede eerste bijdragen](https://github.com/issues?q=is%3Aopen+is%3Aissue+label%3Agood-first-issue) - Problemen die zijn gemarkeerd als 'goede eerste bijdragen'.
+- [First Contributions](https://github.com/firstcontributions/first-contributions) - Een project dat beginners helpt hun eerste bijdrage te maken.
+- [Eerstetijdsmedewerkers](http://www.firsttimersonly.com/) - Meer bronnen voor eerste keer medewerkers.
 
-- [Try Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - Leer gratis Git in 15 minuten vanuit je browser.
+## Het bijdrageneconomie van Mozilla
 
-## Open Source boeken**
+> Het bijdrageneconomie van Mozilla is een initiatief om mensen te helpen een financiële basis te vinden voor hun bijdragen aan Open Source-projecten.
 
-## Open Source bijdrage-initiatieven
-- [Up For Grabs](https://up-for-grabs.net/) - Bevat projecten met beginnersvriendelijke problemen
-- [First Timers Only](https://www.firsttimersonly.com/) - Een lijst met bugs die zijn gelabeld als "first-timers-only". 
-- [First Contributions](https://firstcontributions.github.io/) - Lever jouw eerste Open Source-bijdrage in 5 minuten. Een tool en tutorial om beginners op weg te helpen met bijdragen. [Hier](https://github.com/firstcontributions/first-contributions) is de GitHub-broncode voor de site en de mogelijkheid om een bijdrage te leveren aan de repository zelf.
-- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Een programma om Open Source-bijdragen aan te moedigen. Verdien cadeaus zoals t-shirts en stickers door ten minste vier pull requests in de maand oktober te doen.
-- [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests is een project om Open Source samenwerking te promoten in de maand december.
-- [Ovio](https://ovio.org) - Een platform met een samengestelde selectie van bijdragervriendelijke projecten. Het heeft een [krachtige tool voor het zoeken naar problemen] (https://ovio.org/issues) waarmee jij projecten en problemen kunt opslaan voor later.
+- [Mozilla Open Source Support (MOSS)](https://www.mozilla.org/en-US/moss/) - Een initiatief van Mozilla om financiële ondersteuning te bieden aan de Open Source-gemeenschap.
+- [Bijdrageneconomie van Mozilla](https://www.mozilla.org/en-US/moss/fund-awards/) - Informatie over de bijdrageneconomie van Mozilla en hoe je ervoor kunt solliciteren.
+- [Open Source-hulpmiddelen](https://www.mozilla.org/en-US/moss/open-source-tools/) - Hulpmiddelen die handig zijn voor Open Source-bijdragers.
 
-## Licenties
+## Nuttige artikelen voor nieuwe Open Source-bijdragers
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+> Nuttige artikelen die helpen bij het begrijpen van het proces van bijdragen aan Open Source-projecten.
 
+- [Uw eerste Open Source-bijdrage](https://medium.com/open-source-creation/how-to-make-your-first-open-source-contribution-in-just-5-minutes-2b2850cb2c8d) - Een snelle handleiding om je eerste Open Source-bijdrage te maken.
+- [Open Source-bijdragen voor beginners](https://opensource.guide/how-to-contribute/) - Een uitgebreide gids voor beginners over het bijdragen aan Open Source.
+- [Een bijdrage leveren aan Open Source-projecten](https://akrabat.com/contributing-to-open-source-projects/) - Tips en trucs voor het bijdragen aan Open Source-projecten.
+- [Open Source-richtlijnen](http://oss-watch.ac.uk/resources/opensourceguide) - Richtlijnen voor deelnemen aan Open Source-projecten.
+- [Hoe Open Source te doen](https://producingoss.com/en/index.html) - Een uitgebreide gids voor bijdragen aan Open Source-projecten.
 
+## Gebruik van Versiebeheer
+
+> Artikelen en bronnen die u helpen versiebeheer te begrijpen, zoals Git.
+
+- [Leer Git Branching](https://learngitbranching.js.org/) - Een interactieve tool om te leren over Git-vertakkingen.
+- [Git Documentation](https://git-scm.com/doc) - De officiële documentatie voor Git.
+- [Atlassian Git Tutorial](https://www.atlassian.com/git) - Een uitgebreide tutorial over Git.
+- [Pro Git](https://git-scm.com/book/en/v2) - Een gratis online boek over Git.
+
+## Boeken over Open Source
+
+> Boeken die dieper ingaan op Open Source-software en -cultuur.
+
+- [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition) - Een boek dat praktische tips en technieken geeft voor softwareontwikkeling.
+- [Producing Open Source Software](http://producingoss.com/) - Een gratis boek over het produceren van Open Source Software.
+- [Het Open Source-werkboek](https://www.amazon.com/Open-Source-Workbook/dp/1456411124) - Een werkboek dat je helpt bij het navigeren in Open Source-projecten.
+- [Smart Business for Smart Business](http://www.smartbusinessmovie.com/book/) - Een boek dat de economische voordelen van Open Source Software bespreekt.
+
+## Initiatieven voor Open Source-bijdragen
+
+> Specifieke initiatieven die mensen helpen bijdragen aan Open Source.
+
+- [Oktober](https://hacktoberfest.digitalocean.com/) - Een jaarlijks evenement dat mensen aanmoedigt bij te dragen aan Open Source-projecten.
+- [24 Pull Requests](https://24pullrequests.com/) - Een initiatief dat mensen aanmoedigt om in december bij te dragen aan Open Source-projecten.
+- [MLH Fellowship](https://fellowship.mlh.io/) - Een fellowship-programma dat mensen helpt bijdragen aan Open Source tijdens hun studie.
+- [Eerstetijdsmedewerkers](https://www.firsttimersonly.com/) - Een initiatief om beginners te helpen bijdragen aan Open Source.
+- [Google Summer of Code](https://summerofcode.withgoogle.com/) - Een programma dat studenten betaalt om bij te dragen aan Open Source-projecten.
+
+## Open Source-programma's om aan deel te nemen
+
+> Programma's waaraan je kunt deelnemen om ervaring op te doen met Open Source.
+
+- [Google Summer of Code](https://summerofcode.withgoogle.com/) - Een programma dat studenten betaalt om bij te dragen aan Open Source-projecten.
+- [Outreachy](https://www.outreachy.org/) - Een betaald stageprogramma voor mind
