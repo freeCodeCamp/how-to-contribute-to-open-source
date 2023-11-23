@@ -49,8 +49,8 @@ Wenn du Fragen oder Kommentare hast, eröffne bitte ein neues Issue.
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials von DigitalOcean, die dich beim
   erfolgreichen Erstellen von Beiträgen auf GitHub anleiten.
 - [Issuehub.io](http://issuehub.pro/) - ein Tool, um auf GitHub nach Issues mit speziellen Labeln und Sprachen zu suchen.
-- [Code Triage](https://www.codetriage.com/) - noch ein sehr schönes Tool, um nach Sprache sortiert beliebte Repositories und Issues zu finden. -
-  [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - ein GitHub-Repository, das Projekte mit guten Einsteiger\*innen-Bugs sammelt und
+- [Code Triage](https://www.codetriage.com/) - noch ein sehr schönes Tool, um nach Sprache sortiert beliebte Repositories und Issues zu finden.
+- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - ein GitHub-Repository, das Projekte mit guten Einsteiger\*innen-Bugs sammelt und
   mit entsprechenden Labels versieht.
 - [Open Source Guides](https://opensource.guide/) - eine Sammlung von Materialien für Einzelpersonen, Gruppen und Unternehmen, die lernen wollen wie man
   Open-Source-Projekte selbst erstellt oder zu ihnen beiträgt.
