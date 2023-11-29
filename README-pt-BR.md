@@ -1,22 +1,33 @@
-<table>
-    <tr>
-        <!-- Do not translate this table -->
-        <td><a href="./README.md"> English </a></td>
-        <td><a href="./README-MR.md"> मराठी </a></td>
-        <td><a href="./README-BN.md"> বাংলা </a></td>
-        <td><a href="./README-CN.md"> 中文 </a></td>
-        <td><a href="./README-RU.md"> русский </a></td>
-        <td><a href="./README-RO.md"> Românesc </a></td>
-        <td><a href="./README-IT.md"> Italiano </a></td>
-        <td><a href="./README-ES.md"> Español </a></td>
-        <td><a href="./README-pt-BR.md"> Português (BR) </a></td>
-        <td><a href="./README-DE.md"> Deutsch </a></td>
-        <td><a href="./README-GR.md"> Ελληνικά </a></td>
-        <td><a href="./README-FR.md"> Français </a></td>
-        <td><a href="./README-TR.md"> Turkish </a></td>
-        <td><a href="./README-KO.md"> 한국어 </a></td>
-    </tr>
-</table>
+<details>
+<summary>
+<strong> Leia este guia em outras línguas </strong>
+</summary>
+    <ul>
+        <li><a href="./README.md"> English </a></li>
+        <li><a href="./README-MR.md"> मराठी </a></li>
+        <li><a href="./README-BN.md"> বাংলা </a></li>
+        <li><a href="./README-CN.md"> 中文 </a></li>
+        <li><a href="./README-RU.md"> русский </a></li>
+        <li><a href="./README-RO.md"> Românesc </a></li>
+        <li><a href="./README-IT.md"> Italiano </a></li>
+        <li><a href="./README-ID.md"> Indonesia </a></li>
+        <li><a href="./README-ES.md"> Español </a></li>
+        <li><a href="./README-pt-BR.md"> Português (BR) </a></li>
+        <li><a href="./README-DE.md"> Deutsch </a></li>
+        <li><a href="./README-HE.md"> עברית </a></li>
+        <li><a href="./README-GR.md"> Ελληνικά </a></li>
+        <li><a href="./README-FR.md"> Français </a></li>
+        <li><a href="./README-TR.md"> Turkish </a></li>
+        <li><a href="./README-KO.md"> 한국어 </a></li>
+        <li><a href="./README-JA.md"> 日本語 </a></li>
+        <li><a href="./README-HI.md"> हिंदी </a></li>
+        <li><a href="./README-FA.md"> فارسی </a></li>
+        <li><a href="./README-UR.md">اردو </a></li>
+        <li><a href="./README-AR.md">اللغة العربية </a></li>
+        <li><a href="./README-TA.md">தமிழ்</a></li>
+        <li><a href="./README-NE.md">नेपाली</a></li>
+    </ul>
+</details>
 
 # Sejam bem-vindos novos contribuidores de Open Source!
 
@@ -43,6 +54,8 @@ Se você possui alguma dúvida ou comentário, por favor crie uma issue.
 
 ## Contribuindo com Open Source
 
+> Artigos e recursos que abordam sobre o mundo e a cultura Open Source.
+
 - [O Guia Definitivo para Contribuições Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) por [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [Uma Introdução ao Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutoriais da DigitalOcean para te guiar ao sucesso nas contribuições aqui no GitHub.
 - [Issuehub.io](http://issuehub.pro/) - Uma ferramenta para filtrar problemas por rótulos e linguagens no GitHub.
@@ -58,10 +71,15 @@ Se você possui alguma dúvida ou comentário, por favor crie uma issue.
 - [Contribuindo com o seu Primeiro Projeto Open Source: Uma Abordagem Prática](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - Um passo-a-passo de como contribuir com o seu primeiro projeto Open Source por [Abati Adewale](https://www.acekyd.com).
 - [Pull Request Roulette](http://www.pullrequestroulette.com/) - Este site possui uma lista de Pull Requests submetidos para revisão em projetos Open Source no GitHub.
 - ["Como Contribuir com um Projeto Open Source no GitHub" por Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - Um vídeo com o passo-a-passo de como começar a contribuir com projetos Open Source no GitHub.
-
+- [Contribuindo para projetos em Open Source: Passo-a-passo dinâmico do início ao fim](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - Guia sobre uma contribuição Open Source cobrindo tudo, desde escolher um projeto adequado, trabalhar em um problema e ter o Pull Request aprovado.
+- ["Como contribuir para projetos Open Source" por Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - Um profundamento nos detalhes sobre contribuir com um Pull Request para o projeto de algúem no GitHub.
+- ["Como começar um projeto Open Source" por Sayan Chowdhury](https://www.hackerearth.com:443/getstarted-opensource/) - Um artigo que cobre os aspectos de como contruibuir em projetos Open Source para iniciantes baseado em suas linguagens favoritas.
+- ["Encontre bons problemas para iniciantes para começar a contribuir em projetos Open Source"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) - O GitHub agora te ajuda a encontrar problemas para iniciantes para começar a contribuir em projetos Open Source.
+- ["Como contribuir para um projeto Open Source" por Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - Este artigo é direcionado para área de negócios (mas pode ser útil para contribuidores individuais) onde falam o por que, como, e o quais projetos Open Source contribuir.
+  
 ## Pesquisas Diretas no GitHub
 
-Pesquise por links diretos para issues no GitHub.
+> Pesquise por links diretos para issues no GitHub.
 
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
@@ -73,6 +91,8 @@ Pesquise por links diretos para issues no GitHub.
 
 ## Ambiente de Contribuidores da Mozilla
 
+> Mozilla se empenha por uma internet saudável e com isso, há várias oportunidades para contribuir em projetos Open Source.
+
 - [Primeiros Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22[good%20first%20bug]%22&limit=0) - Bugs que desenvolvedores identificaram como ótima introdução ao projeto.
 - [Mentoria de Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - Bugs que possuem um mentor disponível para te ajudar caso você encontre dificuldades enquanto trabalha em uma solução.
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - Um site dedicado a encontrar bugs no Bugzilla.
@@ -80,6 +100,8 @@ Pesquise por links diretos para issues no GitHub.
 - [Start Mozilla](https://twitter.com/StartMozilla) - Uma conta no Twitter que publica issues apropriadas a novos contribuidores no ecossistema da Mozilla.
 
 ## Artigos úteis para novos contribuidores
+
+> Artigos e blogs importantes que são direcionados à novos contribuidores em como começar.
 
 - [Como escolher (e contribuir com) o seu primeiro projeto Open Source](https://github.com/collections/choosing-projects) por [@GitHub](https://github.com/github)
 - [Como encontrar seu primeiro bug para resolver em um projeto Open Source](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) por [@Shubheksha](https://github.com/Shubheksha)
@@ -97,6 +119,8 @@ Pesquise por links diretos para issues no GitHub.
 - [Aprenda Git e GitHub Passo a Passo (no Windows)](https://medium.com/@ows_ali/be93518e06dc) por [@ows-ali](https://medium.com/@ows_ali)
 
 ## Usando ferramentas de Controle de Versões
+
+> Tutoriais e recursos de diferentes níveis de uso de Controle de Versão, como o Git e GitHub.
 
 - [Think Like (a) Git](https://think-like-a-git.net/) - Introdução a Git para "Iniciantes Avançados" que ainda têm dificuldades, a fim de proporcionar uma estratégia simples para experimentar Git de maneira segura.
 - [Try Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - Aprenda Git gratuitamente em 15 minutos a partir do seu navegador.
@@ -116,12 +140,16 @@ Pesquise por links diretos para issues no GitHub.
 
 ## Livros sobre Open Source
 
+> Livros sobre tudo de Open Source: Cultura, História, Boas Práticas e etc.
+
 - [Produzindo Software Open Source](http://producingoss.com/) - Produzindo Software Open Source é um livro sobre o lado humano do Open Source. Descreve como projetos bem sucedidos funcionam, as expectativas dos usuários e desenvolvedores e a cultura do software livre.
 - [Série de Livros Open Source](https://opensource.com/resources/ebooks) - Aprenda mais sobre Open Source e o seu crescente movimento com esta lista de eBooks gratuitos em https://opensource.com.
 - [Boas Práticas para Lançamento de Software](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - Este tutorial descreve as boas práticas para lançamento de software para Linux e outros projetos Open Source. Ao seguir essas práticas você permitirá que usuários usem seu software com facilidade e que desenvolvedores entendam seu código e contribuam para melhorá-lo.
 - [Open Sources 2.0: O Desenvolvimento Constante](https://archive.org/details/opensources2.000diborich) (2005) - Open Source 2.0 é uma coleção de dissertações intuitivas e instigantes escritas pelos líderes atuais no mercado de tecnologia que continuam a pincelar a cena evolucionista que se desenvolveu no livro de 1999, Open Sources: As Vozes da Revolução.
 
 ## Iniciativas para Contribuição em Open Source
+
+> Lista de iniciativas que agregam para iniciantes para trabalharem ou em eventos sazionais.
 
 - [Up For Grabs](http://up-for-grabs.net/#/) - Contém projetos com ótimos problemas para iniciantes.
 - [First Timers Only](http://www.firsttimersonly.com/) - Uma lista de bugs rotulados como "first-timers-only".
