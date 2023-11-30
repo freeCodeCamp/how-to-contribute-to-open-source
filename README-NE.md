@@ -5,6 +5,7 @@
         <td><a href="./README-MR.md"> मराठी </a></td>
         <td><a href="./README-BN.md"> বাংলা </a></td>
         <td><a href="./README-CN.md"> 中文 </a></td>
+        <td><a href="./README-UA.md"> українська </a></td>
         <td><a href="./README-RU.md"> русский </a></td>
         <td><a href="./README-RO.md"> Română </a></td>
         <td><a href="./README-IT.md"> Italiano </a></td>
