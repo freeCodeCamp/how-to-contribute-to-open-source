@@ -98,7 +98,6 @@
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - البق التي تم تعيين معلمها والذي سيكون هناك على IRC لمساعدتك عندما تتعثر أثناء العمل على الإصلاح.
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) -موقع مخصص للبحث عن الأخطاء في Bugzilla.
 - [Firefox DevTools](http://firefox-dev.tools/) -موقع مخصص للأخطاء المودعة لأدوات المطور في متصفح Firefox.
-- [What Can I Do For Mozilla](https://whatcanidoformozilla.org/) - اكتشف ما يمكنك العمل عليه من خلال الإجابة على مجموعة من الأسئلة حول مجموعة مهاراتك واهتماماتك.
 - [Start Mozilla](https://twitter.com/StartMozilla) - حساب Twitter يقوم بالتغريد حول المشكلات المناسبة للمساهمين الجدد في نظام Mozilla البيئي.
 
 ## مقالات مفيدة للمساهمين الجدد في المصادر المفتوحة

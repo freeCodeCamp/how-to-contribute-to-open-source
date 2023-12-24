@@ -83,7 +83,6 @@
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - बग जो एक संरक्षक को सौंपा गया है, जो आईआरसी पर आपकी मदद करेगा जब आप एक फिक्स पर काम करते समय फंस जाते हैं।
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - Bugzilla पर बग ढूंढने के लिए समर्पित एक साइट।
 - [Firefox DevTools](http://firefox-dev.tools/) - फ़ायरफ़ॉक्स ब्राउज़र में डेवलपर टूल के लिए दायर की गई बग्स को समर्पित एक साइट।
-- [What Can I Do For Mozilla](https://whatcanidoformozilla.org/) - अपने कौशल सेट और रुचियों के बारे में सवालों के एक समूह का उत्तर देकर पता लगा सकते हैं कि आप क्या काम कर सकते हैं।
 - [Start Mozilla](https://twitter.com/StartMozilla) - एक ट्विटर अकाउंट जो मुद्दों के बारे में ट्वीट करता है जो मोज़िला इकोसिस्टम के लिए योगदानकर्ताओं के लिए उपयुक्त है।
 ## नए ओपन सोर्स योगदानकर्ताओं के लिए उपयोगी लेख
 - [अपनी पहली ओपन सोर्स परियोजना को कैसे चुनें (और योगदान करें)](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)

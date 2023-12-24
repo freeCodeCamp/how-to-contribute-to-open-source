@@ -49,8 +49,8 @@ Wenn du Fragen oder Kommentare hast, eröffne bitte ein neues Issue.
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials von DigitalOcean, die dich beim
   erfolgreichen Erstellen von Beiträgen auf GitHub anleiten.
 - [Issuehub.io](http://issuehub.pro/) - ein Tool, um auf GitHub nach Issues mit speziellen Labeln und Sprachen zu suchen.
-- [Code Triage](https://www.codetriage.com/) - noch ein sehr schönes Tool, um nach Sprache sortiert beliebte Repositories und Issues zu finden. -
-  [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - ein GitHub-Repository, das Projekte mit guten Einsteiger\*innen-Bugs sammelt und
+- [Code Triage](https://www.codetriage.com/) - noch ein sehr schönes Tool, um nach Sprache sortiert beliebte Repositories und Issues zu finden.
+- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - ein GitHub-Repository, das Projekte mit guten Einsteiger\*innen-Bugs sammelt und
   mit entsprechenden Labels versieht.
 - [Open Source Guides](https://opensource.guide/) - eine Sammlung von Materialien für Einzelpersonen, Gruppen und Unternehmen, die lernen wollen wie man
   Open-Source-Projekte selbst erstellt oder zu ihnen beiträgt.
@@ -88,7 +88,6 @@ Suchbegriffe, die direkt auf für Einsteiger\*innen geeignete Issues auf GitHub 
   der Behebung des Bugs nicht mehr weiterkommst.
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - eine Seite, die sich dem Finden von Bugs auf Bugzilla widmet.
 - [Firefox DevTools](http://firefox-dev.tools/) - eine Seite, die sich Bugs der Developer-Tools des Firefox-Browsers widmet.
-- [What Can I Do For Mozilla](http://whatcanidoformozilla.org/) - finde durch einen kurze Umfrage zu deinen Fähigkeiten und
   Interessen heraus, wo du helfen kannst.
 - [Start Mozilla](https://twitter.com/StartMozilla) - ein Twitter-Account der über Issues twittert, die gut geeignet für neue Entwickler\*innen sind.
 

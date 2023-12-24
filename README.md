@@ -43,7 +43,7 @@ If you find additional resources, please create a pull request.
 
 If you have questions or comments, please create an issue.
 
-**Contents**
+**Table of Contents**
 
 - [Contributing to Open Source in general](#contributing-to-open-source-in-general)
 - [Direct GitHub searches](#direct-github-searches)
@@ -61,7 +61,7 @@ If you have questions or comments, please create an issue.
 
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG).
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials by DigitalOcean to guide you on your way to contribution success here on GitHub.
-- [Code Triage](https://www.codetriage.com/) - another, really nice, tool for finding popular repositories and issues filtered by language.
+- [Code Triage](https://www.codetriage.com/) - A tool for finding popular repositories and issues filtered by language.
 - [Forge Your Future with Open Source](https://pragprog.com/titles/vbopens/forge-your-future-with-open-source/) ($) - Book devoted to explaining open source, how to find a project, and how to start contributing. Inclusive of all roles in software development, not just programmers.
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - a GitHub repo that amasses projects with good bugs for new contributors, and applies labels to describe them.
 - [Open Source Guides](https://opensource.guide/) - Collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an Open Source project.
@@ -88,7 +88,7 @@ If you have questions or comments, please create an issue.
 - ["FOSS Community Acronyms"](https://github.com/d-edge/foss-acronyms) - This repo contains a list of abbreviations used within the FOSS (Free and Open Source) community, along with their definitions and usages.
 - ["Open Source Fiesta - Open Source Fiesta"](https://zubi.gitbook.io/open-source-fiesta/) - Step-by-step instruction on how to contribute to GitHub repositories, and includes a git command line cheatsheet.
 - ["6 Best Practices to Manage Pull Request Creation and Feedback"](https://doordash.engineering/2022/08/23/6-best-practices-to-manage-pull-request-creation-and-feedback/) from Jenna Kiyasu, software engineer at DoorDash Engineering.
-- ["Contribute to the Open-Source Community"](https://arijitgoswami.hashnode.dev/contribute-to-the-open-source-community) - Advantages of open-source software, how to understand the inner workings of an open-source project and make the first contribution. 
+- ["Contribute to the Open-Source Community"](https://arijitgoswami.hashnode.dev/contribute-to-the-open-source-community) - Advantages of open-source software, how to understand the inner workings of an open-source project and make the first contribution.
 - ["Complete Guide to Open Source - How to Contribute"](https://www.youtube.com/watch?v=yzeVMecydCE) (41:52) - Learn why and how to contribute to open source software with Eddie Jaoude.
 
 ## Direct GitHub searches
@@ -114,7 +114,6 @@ If you have questions or comments, please create an issue.
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs that have a mentor assigned who will be there on IRC to help you when you get stuck while working on a fix.
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - a site dedicated to finding bugs on Bugzilla.
 - [Firefox DevTools](https://firefox-dev.tools/) - a site dedicated to bugs filed for the developer tools in the Firefox browser.
-- [What Can I Do For Mozilla](https://whatcanidoformozilla.org/) - figure out what you can work on by answering a bunch of questions about your skill set and interests.
 - [Start Mozilla](https://twitter.com/StartMozilla) - a Twitter account that tweets about issues fit for contributors new to the Mozilla ecosystem.
 
 ## Useful articles for new Open Source contributors
@@ -146,6 +145,8 @@ If you have questions or comments, please create an issue.
 - [What is Open Source Software? OSS Explained in Plain English](https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/) by [Jessica Wilkins](https://www.freecodecamp.org/news/author/jessica-wilkins/)
 - [How to Start an Open Source Project on GitHub – Tips from Building My Trending Repo](https://www.freecodecamp.org/news/how-to-start-an-open-source-project-on-github-tips-from-building-my-trending-repo/) by [@Rishit-dagli](https://github.com/Rishit-dagli)
 - [Finding Good First Issues](https://community.codenewbie.org/bdougie/finding-good-first-issues-33a6) by [Brian Douglas](https://community.codenewbie.org/bdougie)
+- [How can I become an Open Source contributor? (The ultimate guide)](https://medium.com/@juliafmorgado/how-can-i-become-an-open-source-contributor-the-ultimate-guide-d746e380e011) by [Julia Furst Morgado](https://medium.com/@juliafmorgado)
+
 
 ## Using Version Control
 
@@ -174,6 +175,7 @@ If you have questions or comments, please create an issue.
 - [A Tutorial Introduction to Git](https://git-scm.com/docs/gittutorial) - A Tutorial for Beginners by Git.
 - [First Aid Git](https://firstaidgit.io/#/) - A searchable collection of the most frequently asked Git questions. Answers for these questions were collected from personal experience, Stackoverflow, and the official Git documentation.
 - [Git by Susan Potter](https://www.aosabook.org/en/git.html) - Show how various technical aspects of Git work under the covers to enable distributed workflows, and how it differs from other version control systems (VCSs).
+- [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE) -  A beginner friendly git video by Mosh that explain the fundmental commands and also uses intelligible illustration to aid comprehension.
 
 ## Open Source books
 
