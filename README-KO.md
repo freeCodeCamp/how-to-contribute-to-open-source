@@ -16,6 +16,7 @@
         <li><a href="./README-DE.md"> Deutsch </a></li>
         <li><a href="./README-GR.md"> Ελληνικά </a></li>
         <li><a href="./README-FR.md"> Français </a></li>
+        <li><a href="./README-TR.md"> Turkish </a></li>
         <li><a href="./README-KO.md"> 한국어 </a></li>
     </ul>
 </details>
@@ -51,7 +52,7 @@
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - DigitalOcean의 GitHub에서 기여를 성공할 수 있는 방법을 안내하는 튜토리얼
 - [SourceSort](https://www.sourcesort.com) - 도움을 필요로 하는 검색가능한 오픈 소스 프로젝트들의 모음집, 새로운 컨트리뷰터들에게 중요한 첫번째 PR 승인률과 반응 시간과 같은 수치들을 갖추고 있음
 - [Issuehub.io](http://issuehub.pro/) - 라벨과 언어로 GitHub 이슈들을 찾는 도구
-- [Code Triage](https://www.codetriage.com/) - 언어별로 필터링된 인기있는 레파지토리와 이슈들을 찾는 또 다른 좋은 도구
+- [Code Triage](https://www.codetriage.com/) - 언어별로 필터링된 인기 있는 레파지토리와 이슈들을 찾는 또 다른 좋은 도구
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - 새로운 컨트리뷰터를 위한 좋은 버그와 해당 버그를 설명하는 라벨을 모아둔 GitHub 레포지토리 
 - [Open Source Guides](https://opensource.guide/) - 오픈소스 프로젝트를 운영하고 기여하는 방법을 배우고 싶어하는 개인, 커뮤니티, 회사를 위한 리소스들의 모음집
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - GitHub에서 해야 할 것과 하지 말아야 할 것
@@ -60,7 +61,7 @@
 - [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides) - Linux Foundation의 오픈 소스 프로젝트 가이드
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - Kent C. Dodds와 Sarah Drasner의 오픈 소스 에티켓 가이드 북
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - 새로운 컴퓨터 언어를 배우는 대학생들을 위한 기회와 리소스가 정리된 목록 
-- [Contributing to your First Open Source Project: A Practical Approach](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - [Abati Adewale](https://www.acekyd.com)의 첫번째 오픈 소스 프로젝트에 기여하기 위한 단계별 접근 방식
+- [Contributing to your First Open Source Project: A Practical Approach](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - [Abati Adewale](https://www.acekyd.com)의 첫 번째 오픈 소스 프로젝트에 기여하기 위한 단계별 접근 방식
 - [Pull Request Roulette](http://www.pullrequestroulette.com/) - GitHub에서 호스팅 되는 오픈 소스 프로젝트의 리뷰를 필요로 하는 제출된 pull request들의 리스트가 정리된 사이트
 - ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - GitHub의 오픈 소스 프로젝트에 기여를 시작하는 방법에 대한 단계별 비디오 가이드
 - [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - 적절한 프로젝트를 선택하는 것부터, 이슈 해결, PR 병합하기까지 모든것을 다루는 단계별 오픈 소스 기여 연습
@@ -101,7 +102,7 @@ GitHub에서 기여할 만한 적절한 이슈를 직접적으로 가리키는 �
 - [Learn Git and GitHub Step By Step (on Windows)](https://medium.com/@ows_ali/be93518e06dc) by [@ows-ali](https://medium.com/@ows_ali)
 
 ## 버전 관리 사용하기
-- [Think Like (a) Git](https://think-like-a-git.net/) - 고급 초보자들을 위한 Git 소개, git에 대한 확실한 경험을 전달하기 위해 고군 분투중입니다.
+- [Think Like (a) Git](https://think-like-a-git.net/) - 고급 초보자들을 위한 Git 소개, git에 대한 확실한 경험을 전달하기 위해 고군분투 중입니다.
 - [Try Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - 브라우저에서 15분 이내에 Git을 무료로 배워보세요.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - 매일매일 Git을 사용하는데 유용한 최소한의 명령어들 모음
 - [Oh shit, git!](https://ohshitgit.com/) - 영어로 설명된 일반적인 git 실수에서 벗어나는 방법; 또한 [Dangit, git!](https://dangitgit.com/) 을 참조하세요.
