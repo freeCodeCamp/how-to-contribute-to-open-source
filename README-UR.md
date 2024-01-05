@@ -46,7 +46,7 @@
 **مشمولات**
 
 - [عام طور پر اوپن سورس میں تعاون کرنا](#عام-طور-پر-اوپن-سورس-میں-تعاون-کرنا)
-- [براہ راست گٹ ہب تلاش کریں۔](#براہ-راست-گٹ-ہب-تلاش-کریں)
+- [براہ راست گِٹ ہب تلاش کریں۔](#براہ-راست-گِٹ-ہب-تلاش-کریں)
 - [موزیلا کا تعاون کرنے والا ماحولیاتی نظام](#موزیلا-کا-تعاون-کرنے-والا-ماحولیاتی-نظام)
 - [نئے اوپن سورس تعاون کنندگان کے لیے مفید مضامین](#نئے-اوپن-سورس-تعاون-کنندگان-کے-لیے-مفید-مضامین)
 - [ورژن کنٹرول کا استعمال](#ورژن-کنٹرول-کا-استعمال)
@@ -65,31 +65,31 @@
 - [اوپن سورس کے ساتھ اپنا مستقبل بنائیں](https://pragprog.com/titles/vbopens/forge-your-future-with-open-source/) ($) - اوپن سورس کی وضاحت کرنے کے لیے وقف کردہ کتاب، پروجیکٹ کیسے تلاش کیا جائے، اور تعاون کیسے شروع کیا جائے۔ سافٹ ویئر ڈویلپمنٹ میں تمام کرداروں پر مشتمل، نہ صرف پروگرامرز۔
 - [ابتدائیوں کے لیے زبردست](https://github.com/MunGell/awesome-for-beginners) -ایک GitHub ریپو جو نئے شراکت داروں کے لیے اچھے کیڑے والے پروجیکٹس کو اکٹھا کرتا ہے، اور ان کی وضاحت کے لیے لیبل لگاتا ہے.
 - [اوپن سورس گائیڈز](https://opensource.guide/) - افراد، کمیونٹیز اور کمپنیوں کے لیے وسائل کا مجموعہ جو یہ سیکھنا چاہتے ہیں کہ اوپن سورس پروجیکٹ کو کیسے چلانا اور اس میں تعاون کرنا ہے۔
-- [45 گیتھب کیا اور نہ کرنے کے مسائل پیش کرتا ہے۔](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) -GitHub پر کیا کریں اور کیا نہ کریں۔
-- [گٹ ہب گائیڈز](https://docs.github.com/) -GitHub کو مؤثر طریقے سے استعمال کرنے کے بارے میں بنیادی رہنما۔
+- [45  گِٹ ہب کیا کرنے اور نہ کرنے کے مسائل پیش کرتا ہے۔](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) -GitHub پر کیا کریں اور کیا نہ کریں۔
+- [ گِٹ ہب گائیڈز](https://docs.github.com/) -GitHub کو مؤثر طریقے سے استعمال کرنے کے بارے میں بنیادی رہنما۔
 - [اوپن سورس میں تعاون کریں۔](https://github.com/danthareja/contribute-to-open-source) -سمولیشن پروجیکٹ میں کوڈ کا تعاون کرکے GitHub ورک فلو سیکھیں.
 - [انٹرپرائز کے لیے لینکس فاؤنڈیشن کے اوپن سورس گائیڈز](https://www.linuxfoundation.org/resources/open-source-guides/) -اوپن سورس پروجیکٹس کے لیے لینکس فاؤنڈیشن کے رہنما۔
 - [سی ایس ایس ٹرکس ایک اوپن سورس آداب گائیڈ بک](https://css-tricks.com/open-source-etiquette-guidebook/) -ایک اوپن سورس آداب گائیڈ بک، جو کینٹ سی ڈوڈز اور سارہ ڈریسنر نے لکھی ہے۔
 - [طلباء کے لیے A سے Z وسائل](https://github.com/dipakkr/A-to-Z-Resources-for-Students) -کالج کے طالب علموں کے لیے ایک نئی کوڈنگ لینگویج سیکھنے کے لیے وسائل اور مواقع کی مرتب کردہ فہرست۔
-- [درخواست رولیٹی ھیںچو](http://www.pullrequestroulette.com/) -اس سائٹ میں گیتھب پر میزبان اوپن سورس پروجیکٹس سے تعلق رکھنے والے جائزے کے لیے جمع کردہ پل کی درخواستوں کی فہرست ہے۔
-- [کے ذریعہEgghead.io "گٹ ہب پر اوپن سورس پروجیکٹ میں شراکت کیسے کریں۔"](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - GitHub پر اوپن سورس پروجیکٹس میں حصہ ڈالنا شروع کرنے کے بارے میں ایک مرحلہ وار ویڈیو گائیڈ۔
+- [درخواست رولیٹی ھیںچو](http://www.pullrequestroulette.com/) -اس سائٹ میں  گِٹ ہب پر میزبان اوپن سورس پروجیکٹس سے تعلق رکھنے والے جائزے کے لیے جمع کردہ پل کی درخواستوں کی فہرست ہے۔
+- [کے ذریعہEgghead.io " گِٹ ہب پر اوپن سورس پروجیکٹ میں شراکت کیسے کریں۔"](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - GitHub پر اوپن سورس پروجیکٹس میں حصہ ڈالنا شروع کرنے کے بارے میں ایک مرحلہ وار ویڈیو گائیڈ۔
 - [اوپن سورس میں تعاون کرنا: شروع سے آخر تک ایک لائیو واک تھرو](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) -اوپن سورس کنٹریبیوشن کا یہ واک تھرو کسی مناسب پروجیکٹ کو منتخب کرنے، کسی مسئلے پر کام کرنے سے لے کر PR کو ضم کرنے تک ہر چیز کا احاطہ کرتا ہے۔
-- [سارہ ڈراسنر کے ذریعہ "اوپن سورس پروجیکٹ میں شراکت کیسے کریں"](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) -وہ گٹ ہب پر کسی اور کے پروجیکٹ میں پل ریکوئسٹ (PR) کا حصہ ڈالنے پر توجہ مرکوز کر رہے ہیں۔
+- [سارہ ڈراسنر کے ذریعہ "اوپن سورس پروجیکٹ میں شراکت کیسے کریں"](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) -وہ گِٹ ہب پر کسی اور کے پروجیکٹ میں پل ریکوئسٹ (PR) کا حصہ ڈالنے پر توجہ مرکوز کر رہے ہیں۔
 - ["اوپن سورس کے ساتھ شروعات کیسے کی جائے" از سیان چودھری](https://www.hackerearth.com:443/getstarted-opensource/) -اس مضمون میں ابتدائی افراد کے لیے ان کی پسندیدہ زبان کی دلچسپی کی بنیاد پر اوپن سورس میں تعاون کرنے کے وسائل کا احاطہ کیا گیا ہے۔
 - ["اوپن سورس میں تعاون شروع کرنے کے لیے پہلے اچھے ایشوز کو براؤز کریں۔"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) -GitHub اب آپ کو اوپن سورس میں تعاون شروع کرنے کے لیے پہلے اچھے مسائل تلاش کرنے میں مدد کرتا ہے۔
 - [میرینا زیڈ کے ذریعہ "اوپن سورس پروجیکٹ میں شراکت کیسے کریں"](https://rubygarage.org/blog/how-contribute-to-open-source-projects) -یہ جامع مضمون کاروباروں کی طرف ہے (لیکن انفرادی تعاون کرنے والوں کے لیے اب بھی مفید ہے) جہاں یہ کیوں، کیسے، اور کون سے اوپن سورس پروجیکٹس میں تعاون کرنے کے بارے میں بات کرتا ہے۔
 - [آندرے کے ذریعہ "شروع یہاں سے رہنما خطوط"](https://github.com/zero-to-mastery/start-here-guidelines) -آئیے گِٹ کو اوپن سورس کی دنیا میں اوپن سورس پلے گراؤنڈ سے شروع کرنے دیں۔ خاص طور پر تعلیم اور عملی تجربے کے مقاصد کے لیے ڈیزائن کیا گیا ہے۔
 - ["اوپن سورس کے ساتھ شروع کرنا" بذریعہ NumFocus](https://github.com/numfocus/getting-started-with-open-source) -ایک GitHub ریپو جو تعاون کنندگان کو اوپن سورس میں داخلے کی راہ میں حائل رکاوٹوں کو دور کرنے میں مدد کرتا ہے۔
-- ["اوپنسور-4-ہر کوئی" بذریعہ Chryz-hub](https://github.com/chryz-hub/opensource-4-everyone) -اوپن سورس سے متعلق ہر چیز پر ایک ذخیرہ۔ یہ ایک پروجیکٹ ہے جس میں GitHub ممبرشپ کی مرئیت، بنیادی اور ایڈوانس گٹ کمانڈز کے ساتھ مشق، اوپن سورس کے ساتھ شروعات کرنے اور مزید بہت کچھ کرنے میں مدد ملتی ہے۔
+- ["اوپنسور-4-ہر کوئی" بذریعہ Chryz-hub](https://github.com/chryz-hub/opensource-4-everyone) -اوپن سورس سے متعلق ہر چیز پر ایک ذخیرہ۔ یہ ایک پروجیکٹ ہے جس میں GitHub ممبرشپ کی مرئیت، بنیادی اور ایڈوانس گِٹ کمانڈز کے ساتھ مشق، اوپن سورس کے ساتھ شروعات کرنے اور مزید بہت کچھ کرنے میں مدد ملتی ہے۔
 - ["مشورہ کھولیں۔"](http://open-advice.org/) -مفت سافٹ ویئر پروجیکٹس کی وسیع اقسام سے علم کا مجموعہ۔ یہ اس سوال کا جواب دیتا ہے کہ 42 نمایاں شراکت کنندگان یہ جاننا پسند کریں گے کہ انہوں نے کب شروعات کی ہے تاکہ آپ اس بات سے کوئی فرق نہیں پڑتا کہ آپ کہاں اور کیسے تعاون کرتے ہیں۔
-- ["گٹ ہب ہنر"](https://skills.github.com) -GitHub Skills کے ساتھ اپنی صلاحیتوں کو بلند کریں۔ ہمارا دوستانہ بوٹ آپ کو تفریحی، عملی منصوبوں کی ایک سیریز میں لے جائے گا تاکہ آپ کو ضرورت کے ہنر کو سیکھنے کے لیے بغیر کسی وقت کے — اور راستے میں مفید تاثرات کا اشتراک کریں۔
+- ["گِٹ ہب ہنر"](https://skills.github.com) -GitHub Skills کے ساتھ اپنی صلاحیتوں کو بلند کریں۔ ہمارا دوستانہ بوٹ آپ کو تفریحی، عملی منصوبوں کی ایک سیریز میں لے جائے گا تاکہ آپ کو ضرورت کے ہنر کو سیکھنے کے لیے بغیر کسی وقت کے — اور راستے میں مفید تاثرات کا اشتراک کریں۔
 - ["نئے آنے والوں کی مدد کے لیے دس آسان اصول پروجیکٹس کھولنے کے لیے شراکت دار بننے میں"](https://doi.org/10.1371/journal.pcbi.1007296) -یہ مضمون بہت سی برادریوں کے مطالعے اور اراکین، رہنماؤں اور مبصرین کے تجربات پر مبنی قواعد کا احاطہ کرتا ہے۔
-- ["گٹ ہب پر تعاون کرنے کے لیے مرحلہ وار گائیڈ"](https://www.dataschool.io/how-to-contribute-on-github/) -اوپن سورس پروجیکٹ میں تعاون کرنے کے پورے عمل سے متعلق معاون بصری اور لنکس کے ساتھ مرحلہ وار گائیڈ۔
+- ["گِٹ ہب پر تعاون کرنے کے لیے مرحلہ وار گائیڈ"](https://www.dataschool.io/how-to-contribute-on-github/) -اوپن سورس پروجیکٹ میں تعاون کرنے کے پورے عمل سے متعلق معاون بصری اور لنکس کے ساتھ مرحلہ وار گائیڈ۔
 - [پرادومنا کے ساتھ اوپن سورس](https://github.com/Pradumnasaraf/open-source-with-pradumna) -اس ریپو میں اوپن سورس، گِٹ، اور گِٹ ہب کے ساتھ سیکھنے اور اپنے آپ کو شروع کرنے کے لیے وسائل اور مواد شامل ہیں۔
 - ["کمیونٹیFOSS کے مخففات"](https://github.com/d-edge/foss-acronyms) -اس ریپو میں FOSS (مفت اور اوپن سورس) کمیونٹی کے اندر استعمال ہونے والے مخففات کی فہرست، ان کی تعریفوں اور استعمالات کے ساتھ شامل ہے۔
-- ["اوپن سورس فیسٹا - اوپن سورس فیسٹا"](https://zubi.gitbook.io/open-source-fiesta/) - گٹ ہب ریپوزٹریز میں حصہ ڈالنے کے طریقہ کے بارے میں مرحلہ وار ہدایات، اور اس میں گٹ کمانڈ لائن چیٹ شیٹ شامل ہے۔
+- ["اوپن سورس فیسٹا - اوپن سورس فیسٹا"](https://zubi.gitbook.io/open-source-fiesta/) - گِٹ ہب ریپوزٹریز میں حصہ ڈالنے کے طریقہ کے بارے میں مرحلہ وار ہدایات، اور اس میں گِٹ کمانڈ لائن چیٹ شیٹ شامل ہے۔
 
-## براہ راست گٹ ہب تلاش کریں۔
+## براہ راست گِٹ ہب تلاش کریں۔
 
 > وہ لنکس تلاش کریں جو GitHub پر تعاون کرنے کے لیے مناسب مسائل کی طرف براہ راست اشارہ کرتے ہیں۔
 
@@ -119,7 +119,7 @@
 
 > مددگار مضامین اور بلاگز نئے تعاون کنندگان کی طرف ہدایت کرتے ہیں کہ کیسے شروع کیا جائے۔
 
-- [گٹ ہب پر اوپن سورس میں حصہ ڈالنے کے طریقے تلاش کرنا](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github) بذریعہ [@GitHub](https://github.com/github)
+- [گِٹ ہب پر اوپن سورس میں حصہ ڈالنے کے طریقے تلاش کرنا](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github) بذریعہ [@GitHub](https://github.com/github)
 - [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) بذریعہ [@GitHub](https://github.com/github)
 - [ٹھیک کرنے کے لیے اپنا پہلا اوپن سورس بگ کیسے تلاش کریں۔](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) بذریعہ [@Shubheksha](https://github.com/Shubheksha)
 - [صرف فرسٹ ٹائمرز](https://kentcdodds.com/blog/first-timers-only) بذریعہ [@kentcdodds](https://github.com/kentcdodds)
@@ -133,7 +133,7 @@
 - [مجھے ابھی اپنی مفت ہیک ٹوبرفیسٹ شرٹ ملی ہے۔ یہاں ایک تیز طریقہ ہے جس سے آپ اپنا حاصل کرسکتے ہیں۔](https://www.freecodecamp.org/news/i-just-got-my-free-hacktoberfest-shirt-heres-a-quick-way-you-can-get-yours-fa78d6e24307/) بذریعہ [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
 - [اوپن سورس کے لیے ایک تلخ گائیڈ](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) بذریعہ [@ken_wheeler](https://medium.com/@ken_wheeler)
 - [پہلی بار اوپن سورس میں تعاون کرنے کے لیے ایک جونیئر ڈیولپر کی مرحلہ وار گائیڈ](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) بذریعہ [@LetaKeane](https://hackernoon.com/u/letakeane)
-- [گٹ اور گٹ ہب مرحلہ وار سیکھیں (ونڈوز پر)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) بذریعہ [@ows-ali](https://ows-ali.medium.com/)
+- [گِٹ اور گِٹ ہب مرحلہ وار سیکھیں (ونڈوز پر)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) بذریعہ [@ows-ali](https://ows-ali.medium.com/)
 - [اوپن سورس کیوں اور کیسے؟](https://careerkarma.com/blog/open-source-projects-for-beginners/) بذریعہ [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
 - [اوپن سورس کے ساتھ کیسے شروعات کی جائے - از سائان چودھری](https://www.hackerearth.com/getstarted-opensource/)
 - [مجھے کس اوپن سورس میں تعاون کرنا چاہیے۔](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to) بذریعہ [@kentcdodds](https://github.com/kentcdodds)
@@ -149,28 +149,28 @@
 > ورژن کنٹرول، عام طور پر Git اور GitHub استعمال کرنے پر مختلف سطحوں کے سبق اور وسائل۔
 
 - [ہارورڈ یونیورسٹی کے ذریعہ Git اور Github کے لئے ویڈیو ٹیوٹوریل](https://www.youtube.com/watch?v=NcoBAfJ6l2Q) -ہارورڈ یونیورسٹی کا ٹیوٹوریل، Git اور GitHub کو سمجھنے اور Git کمانڈز کے ساتھ کام کرنے پر ان کے CS50 ویب ڈویلپمنٹ کورس کا حصہ۔
-- [(ایک) گٹ کی طرح سوچیں۔](https://think-like-a-git.net/) -"اعلی درجے کے ابتدائی افراد" کے لیے گٹ کا تعارف، لیکن ابھی تک جدوجہد کر رہے ہیں، تاکہ آپ کو گٹ کے ساتھ محفوظ طریقے سے تجربہ کرنے کے لیے ایک آسان حکمت عملی فراہم کی جا سکے۔
+- [(ایک) گِٹ کی طرح سوچیں۔](https://think-like-a-git.net/) -"اعلی درجے کے ابتدائی افراد" کے لیے گِٹ کا تعارف، لیکن ابھی تک جدوجہد کر رہے ہیں، تاکہ آپ کو گِٹ کے ساتھ محفوظ طریقے سے تجربہ کرنے کے لیے ایک آسان حکمت عملی فراہم کی جا سکے۔
 - [سیٹ اپ کریں Quickstart - Git۔](https://docs.github.com/en/get-started/quickstart/set-up-git) -اپنے سیکھنے کے سفر کے اگلے مراحل کے ساتھ، مقامی طور پر Git کو ترتیب دینے اور تصدیق کرنے کا طریقہ سیکھیں۔
-- [روزانہ گٹ](https://git-scm.com/docs/giteveryday) - روزانہ گٹ کے لیے کم از کم کمانڈز کا ایک مفید سیٹ۔
-- [اوہ شٹ، گٹ!](https://ohshitgit.com/) - سادہ انگریزی میں بیان کردہ عام `git` غلطیوں سے کیسے نکلیں؛ بھی دیکھیں [Dangit, git!](https://dangitgit.com/)بغیر قسم کے صفحہ کے لیے۔
-- [سبق گٹ Atlassian](https://www.atlassian.com/git/tutorials) - استعمال کرنے پر مختلف سبق `git`.
-- [گٹ ہب گٹ چیٹ شیٹ](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
-- [گٹ وسائل پر فری کوڈ کیمپ کی وکی](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
-- [گٹ ہب فلو](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - GitHub بات کریں کہ پل کی درخواست کیسے کی جائے۔
+- [روزانہ گِٹ](https://git-scm.com/docs/giteveryday) - روزانہ گِٹ کے لیے کم از کم کمانڈز کا ایک مفید سیٹ۔
+- [اوہ شٹ، گِٹ!](https://ohshitgit.com/) - سادہ انگریزی میں بیان کردہ عام `git` غلطیوں سے کیسے نکلیں؛ بھی دیکھیں [Dangit, git!](https://dangitgit.com/)بغیر قسم کے صفحہ کے لیے۔
+- [سبق گِٹ Atlassian](https://www.atlassian.com/git/tutorials) - استعمال کرنے پر مختلف سبق `git`.
+- [گِٹ ہب گِٹ چیٹ شیٹ](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
+- [گِٹ وسائل پر فری کوڈ کیمپ کی وکی](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
+- [گِٹ ہب فلو](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - GitHub بات کریں کہ پل کی درخواست کیسے کی جائے۔
 - [سیکھنے کے وسائل Quickstart - GitHub](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources) -Git اور GitHub سیکھنے کے وسائل۔
-- [پرو گٹ](https://git-scm.com/book/en/v2) - پوری پرو گٹ کتاب، جو سکاٹ چاکن اور بین سٹراب نے لکھی ہے اور اپریس نے شائع کی ہے۔
-- [گٹ-اٹ](https://github.com/jlord/git-it-electron) - قدم بہ قدم گٹ ٹیوٹوریل ڈیسک ٹاپ ایپ۔
-- [گٹ کے لئے پرواز کے قواعد](https://github.com/k88hudson/git-flight-rules) -چیزیں غلط ہونے پر کیا کرنا ہے اس بارے میں ایک گائیڈ۔
-- [ہسپانوی میں ابتدائیوں کے لیے گٹ گائیڈ](https://platzi.github.io/git-slides/#/) -گٹ اور گٹ ہب کے بارے میں سلائیڈز کی مکمل گائیڈ ہسپانوی میں بیان کی گئی ہے۔ Una guía completa de diapositivas sobre git y GitHub explicadas en Español.
-- [گٹ کراکن](https://www.gitkraken.com/git-client) - ورژن کنٹرول کے لیے بصری، کراس پلیٹ فارم، اور انٹرایکٹو `git` ڈیسک ٹاپ ایپلیکیشن۔
-- [گٹ ٹپس](https://github.com/git-tips/tips) -سب سے زیادہ استعمال ہونے والے گٹ ٹپس اور ٹرکس کا مجموعہ۔
-- [گٹ بہترین پریکٹسز](https://sethrobertson.github.io/GitBestPractices/) - کثرت سے کمٹ کریں، بعد میں مکمل کریں، ایک بار شائع کریں: گٹ بہترین طرز عمل۔
-- [گٹ انٹرایکٹو ٹیوٹوریل](https://learngitbranching.js.org/) - گٹ کو انتہائی بصری اور انٹرایکٹو انداز میں سیکھیں۔
-- [گٹ چیٹ شیٹس](https://devhints.io/?q=git) -گٹ پر گرافیکل چیٹ شیٹس کا ایک سیٹ۔
-- [گٹ اور گٹ ہب ٹیوٹوریل مکمل کریں۔](https://www.youtube.com/watch?v=apGV9Kg7ics) (1:12:39) -مکمل Git اور GitHub واک تھرو بذریعہ [Kunal Kushwaha](https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw).
-- [گٹ کا ایک ٹیوٹوریل تعارف](https://git-scm.com/docs/gittutorial) -گٹ کے ذریعہ ابتدائیوں کے لئے ایک سبق۔
-- [فرسٹ ایڈ گٹ](https://firstaidgit.io/#/) -سب سے زیادہ پوچھے جانے والے Git سوالات کا ایک قابل تلاش مجموعہ۔ ان سوالات کے جوابات ذاتی تجربے، Stackoverflow، اور سرکاری Git دستاویزات سے جمع کیے گئے تھے۔
-- [سوسن پوٹر کے ذریعہ گٹ](https://www.aosabook.org/en/git.html) - دکھائیں کہ Git کے مختلف تکنیکی پہلو کس طرح تقسیم شدہ ورک فلو کو فعال کرنے کے لیے کور کے نیچے کام کرتے ہیں، اور یہ دوسرے ورژن کنٹرول سسٹم (VCSs) سے کیسے مختلف ہے۔
+- [پرو گِٹ](https://git-scm.com/book/en/v2) - پوری پرو گِٹ کتاب، جو سکاٹ چاکن اور بین سٹراب نے لکھی ہے اور اپریس نے شائع کی ہے۔
+- [گِٹ-اٹ](https://github.com/jlord/git-it-electron) - قدم بہ قدم گِٹ ٹیوٹوریل ڈیسک ٹاپ ایپ۔
+- [گِٹ کے لئے پرواز کے قواعد](https://github.com/k88hudson/git-flight-rules) -چیزیں غلط ہونے پر کیا کرنا ہے اس بارے میں ایک گائیڈ۔
+- [ہسپانوی میں ابتدائیوں کے لیے گِٹ گائیڈ](https://platzi.github.io/git-slides/#/) -گِٹ اور گِٹ ہب کے بارے میں سلائیڈز کی مکمل گائیڈ ہسپانوی میں بیان کی گئی ہے۔ Una guía completa de diapositivas sobre git y GitHub explicadas en Español.
+- [گِٹ کراکن](https://www.gitkraken.com/git-client) - ورژن کنٹرول کے لیے بصری، کراس پلیٹ فارم، اور انٹرایکٹو `git` ڈیسک ٹاپ ایپلیکیشن۔
+- [گِٹ ٹپس](https://github.com/git-tips/tips) -سب سے زیادہ استعمال ہونے والے گِٹ ٹپس اور ٹرکس کا مجموعہ۔
+- [گِٹ بہترین پریکٹسز](https://sethrobertson.github.io/GitBestPractices/) - کثرت سے کمٹ کریں، بعد میں مکمل کریں، ایک بار شائع کریں: گِٹ بہترین طرز عمل۔
+- [گِٹ انٹرایکٹو ٹیوٹوریل](https://learngitbranching.js.org/) - گِٹ کو انتہائی بصری اور انٹرایکٹو انداز میں سیکھیں۔
+- [گِٹ چیٹ شیٹس](https://devhints.io/?q=git) -گِٹ پر گرافیکل چیٹ شیٹس کا ایک سیٹ۔
+- [گِٹ اور گِٹ ہب ٹیوٹوریل مکمل کریں۔](https://www.youtube.com/watch?v=apGV9Kg7ics) (1:12:39) -مکمل Git اور GitHub واک تھرو بذریعہ [Kunal Kushwaha](https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw).
+- [گِٹ کا ایک ٹیوٹوریل تعارف](https://git-scm.com/docs/gittutorial) -گِٹ کے ذریعہ ابتدائیوں کے لئے ایک سبق۔
+- [فرسٹ ایڈ گِٹ](https://firstaidgit.io/#/) -سب سے زیادہ پوچھے جانے والے Git سوالات کا ایک قابل تلاش مجموعہ۔ ان سوالات کے جوابات ذاتی تجربے، Stackoverflow، اور سرکاری Git دستاویزات سے جمع کیے گئے تھے۔
+- [سوسن پوٹر کے ذریعہ گِٹ](https://www.aosabook.org/en/git.html) - دکھائیں کہ Git کے مختلف تکنیکی پہلو کس طرح تقسیم شدہ ورک فلو کو فعال کرنے کے لیے کور کے نیچے کام کرتے ہیں، اور یہ دوسرے ورژن کنٹرول سسٹم (VCSs) سے کیسے مختلف ہے۔
 
 ## اوپن سورس کتابیں۔
 
