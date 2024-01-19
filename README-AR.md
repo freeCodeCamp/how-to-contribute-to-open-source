@@ -95,10 +95,9 @@
 
 - [Good First Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22[good%20first%20bug]%22&limit=0) - الأخطاء التي حددها المطورون على أنها مقدمة جيدة للمشروع.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/MDN/Contribute) -مساعدة فريق MDN Web Docs في توثيق منصة الويب عن طريق إصلاح مشكلات المحتوى وأخطاء النظام الأساسي.
-- [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - البق التي تم تعيين معلمها والذي سيكون هناك على IRC لمساعدتك عندما تتعثر أثناء العمل على الإصلاح.
+- [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - الأخطاء البرمجية التي تم تعيين معلمها والذي سيكون هناك على IRC لمساعدتك عندما تتعثر أثناء العمل على الإصلاح.
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) -موقع مخصص للبحث عن الأخطاء في Bugzilla.
 - [Firefox DevTools](http://firefox-dev.tools/) -موقع مخصص للأخطاء المودعة لأدوات المطور في متصفح Firefox.
-- [What Can I Do For Mozilla](https://whatcanidoformozilla.org/) - اكتشف ما يمكنك العمل عليه من خلال الإجابة على مجموعة من الأسئلة حول مجموعة مهاراتك واهتماماتك.
 - [Start Mozilla](https://twitter.com/StartMozilla) - حساب Twitter يقوم بالتغريد حول المشكلات المناسبة للمساهمين الجدد في نظام Mozilla البيئي.
 
 ## مقالات مفيدة للمساهمين الجدد في المصادر المفتوحة

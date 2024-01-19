@@ -97,7 +97,6 @@ Simülasyon prosine kod katkısı sağlayarak GitHub dinamiklerini öğren
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - Üzerinde çalışırken sıkıştığında sohbet aracılığı ile yardım alabileceğin, mentörler tarafından atanmış bug'lar
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - Bugzilla üzerinden bug bulabileceğiniz websitesi.
 - [Firefox DevTools](http://firefox-dev.tools/) - Firefox tarayıcı içerisinde bug bulabileceğiniz ve inceleyebileceğiniz araçlar 
-- [Mozilla İçin Ne Yapabilirim?](http://whatcanidoformozilla.org/) - Sorulara cevap vererek ilgi alanına ve kabiliyetlerine uygun neyin üzerinde çalışabilirsin öğren. 
 - [Start Mozilla](https://twitter.com/StartMozilla) - Mozilla ekosisteminde yeni olan katkı sağlayıcıları için tweetler atan Twitter hesabı 
 
 ## Yeni Açık Kaynak Katkı Sağlayıcıları için faydalı makaleler 
