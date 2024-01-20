@@ -1,7 +1,7 @@
-<!-- Do not translate this -->
+<!-- Tafadhali usitafsiri hii -->
 <details>
 <summary>
-<strong> Soma mwongozo huu kwa lugha nyingine </strong>
+<strong> Tafsiri mwongozo huu kwa lugha nyingine </strong>
 </summary>
     <ul>
         <li><a href="./README.md"> Kiingereza </a></li>
@@ -18,7 +18,7 @@
         <li><a href="./README-HE.md"> עברית </a></li>
         <li><a href="./README-GR.md"> Ελληνικά </a></li>
         <li><a href="./README-FR.md"> Français </a></li>
-        <li><a href="./README-TR.md"> Turkish </a></li>
+        <li><a href="./README-TR.md"> Kituruki </a></li>
         <li><a href="./README-KO.md"> 한국어 </a></li>
         <li><a href="./README-JA.md"> 日本語 </a></li>
         <li><a href="./README-HI.md"> हिंदी </a></li>
@@ -29,17 +29,17 @@
         <li><a href="./README-NE.md">नेपाली</a></li>
     </ul>
 </details>
-<!-- Do not translate this -->
+<!-- Tafadhali usitafsiri hii -->
 
 # Karibu Wachangiaji Wapya wa Open Source!
 
-[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://makeapullrequest.com)
-[![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
-[![Check Resources](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml/badge.svg)](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml)
+[![Pull Requests Karibu](https://img.shields.io/badge/PRs-karibu-brightgreen.svg?style=flat)](https://makeapullrequest.com)
+[![first-timers-only Rafiki](https://img.shields.io/badge/first--timers--only-rafiki-blue.svg)](https://www.firsttimersonly.com/)
+[![Angalia Rasilmali](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml/badge.svg)](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml)
 
-Hii ni orodha ya rasilimali kwa watu wapya wanaochangia kwenye Open Source.
+Hii ni orodha ya rasilmali kwa watu wapya wanaochangia kwenye Open Source.
 
-Ikiwa unapata rasilimali zaidi, tafadhali tuma ombi la kuchangia.
+Ikiwa unapata rasilmali zaidi, tafadhali tuma ombi la kuchangia.
 
 Ikiwa una maswali au maoni, tafadhali jenga suala.
 
@@ -57,39 +57,39 @@ Ikiwa una maswali au maoni, tafadhali jenga suala.
 
 ## Kuchangia kwa Open Source kwa ujumla
 
-- [Open Source Guide](https://opensource.guide/) - Mwongozo wa hatua kwa hatua wa jinsi ya kuchangia kwenye miradi ya Open Source.
-- [First Timers Only](https://www.firsttimersonly.com/) - Rasilimali kwa watu wanaochangia kwa mara ya kwanza kwenye miradi ya Open Source.
-- [Up For Grabs](https://up-for-grabs.net/) - Orodha ya miradi ya Open Source inayotafuta mchango.
+- [Mwongozo wa Open Source](https://opensource.guide/) - Mwongozo wa hatua kwa hatua wa jinsi ya kuchangia kwenye miradi ya Open Source.
+- [Wachangiaji wa Mara ya Kwanza Pekee](https://www.firsttimersonly.com/) - Rasilmali kwa watu wanaochangia kwa mara ya kwanza kwenye miradi ya Open Source.
+- [Inapatikana Kuchukuliwa](https://up-for-grabs.net/) - Orodha ya miradi ya Open Source inayotafuta mchango.
 - [Awesome First Timers PR](https://github.com/MunGell/awesome-for-beginners) - Orodha ya PR zinazofaa kwa watu wanaochangia kwa mara ya kwanza.
 
 ## Maelezo ya moja kwa moja kutoka GitHub
 
 - [GitHub Explore](https://github.com/explore) - Kuchunguza miradi mingi ya Open Source kwenye GitHub.
-- [GitHub Help](https://help.github.com/) - Msaada wa GitHub na nyaraka.
-- [GitHub Learning Lab](https://lab.github.com/) - Maabara ya kujifunza ya GitHub.
+- [Msaada wa GitHub](https://help.github.com/) - Msaada wa GitHub na nyaraka.
+- [Maabara ya Kujifunza GitHub](https://lab.github.com/) - Maabara ya kujifunza ya GitHub.
 
 ## Ekosistemu ya mchango ya Mozilla
 
-- [Mozilla Developer Network (MDN)](https://developer.mozilla.org/) - Rasilimali nyingi kwa wavuti wa Open Web.
+- [Mozilla Developer Network (MDN)](https://developer.mozilla.org/) - Rasilmali nyingi kwa wavuti wa Open Web.
 - [Mozilla Developer Network (MDN) - Mwongozo wa Mchango](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Introduction) - Jinsi ya kuchangia kwenye MDN.
 
 ## Makala muhimu kwa watu wapya wachangiaji wa Open Source
 
-- [Your First PR](https://yourfirstpr.github.io/) - Jinsi ya kufanya PR yako ya kwanza kwenye GitHub.
-- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) - Mwongozo wa hatua kwa hatua wa kuchangia kwenye Open Source.
+- [PR Yako ya Kwanza](https://yourfirstpr.github.io/) - Jinsi ya kufanya PR yako ya kwanza kwenye GitHub.
+- [Jinsi ya Kuchangia kwenye Open Source](https://opensource.guide/how-to-contribute/) - Mwongozo wa hatua kwa hatua wa kuchangia kwenye Open Source.
 - [Anatomy of an Open Source Project](https://hacktoberfest.digitalocean.com/resources/anatomy-of-an-open-source-project) - Kuelewa miundo na mifumo ya miradi ya Open Source.
-- [A Beginner's Very Bumpy Journey Through The World of Open Source](https://robyn.io/2016/01/10/first-bump-in-the-road.html) - Safari ya mwanzo kwa ulimwengu wa Open Source.
-- [First Contributions](https://github.com/firstcontributions/first-contributions) - Mwongozo wa hatua kwa hatua wa kufanya mchango wako wa kwanza.
+- [Safari ya Mwanzo ya Mtu Mpya Katika Ulimwengu wa Open Source](https://robyn.io/2016/01/10/first-bump-in-the-road.html) - Safari ya mwanzo kwa ulimwengu wa Open Source.
+- [Mchango wa Kwanza](https://github.com/firstcontributions/first-contributions) - Mwongozo wa hatua kwa hatua wa kufanya mchango wako wa kwanza.
 
 ## Matumizi ya Udhibiti wa Toleo
 
 - [Git Official Documentation](https://git-scm.com/doc) - Nyaraka rasmi za Git.
-- [Pro Git Book](https://git-scm.com/book/en/v2) - Kitabu kamili cha Pro Git.
-- [Learn Git Branching](https://learngitbranching.js.org/) - Kujifunza matawi na ushirikiano wa Git.
+- [Kitabu cha Pro Git](https://git-scm.com/book/en/v2) - Kitabu kamili cha Pro Git.
+- [Kujifunza Kupeana Matawi](https://learngitbranching.js.org/) - Kujifunza matawi na ushirikiano wa Git.
 
 ## Vitabu vya Open Source
 
-- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-code-camp.md) - Orodha ya vitabu vya bure vya kujifunzia programu, pamoja na wale wa Open Source.
+- [Vitabu vya Programu Bure](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-code-camp.md) - Orodha ya vitabu vya bure vya kujifunzia programu, pamoja na wale wa Open Source.
 
 ## Vitengo vya Mchango wa Open Source
 
