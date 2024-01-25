@@ -31,14 +31,15 @@
 Αν έχετε ερωτήσεις ή σχόλια, δημιουργήστε ένα issue.
 
 **Περιεχόμενα**
-- [Γενικά για τη συνεισφορά Ανοικτού Κώδικα](#Γενικά-για-τη-συνεισφορά-Ανοικτού-Κώδικα)
+- [Γενικά για τη συνεισφορά Ανοικτού Κώδικα](#γενικά-για-τη-συνεισφορά-ανοικτού-κώδικα)
 - [Direct GitHub searches](#direct-github-searches)
 - [Mozilla's contributor ecosystem](#mozillas-contributor-ecosystem)
-- [Χρήσιμα άρθρα για αρχάριους στη συνεισφορά Ανοικτού Κώδικα](#Χρήσιμα-άρθρα-για-αρχάριους-στη-συνεισφορά-Ανοικτού-Κώδικα)
-- [Χρήση Version Control](#Χρήση-Version-Control)
-- [Βιβλία σχετικά με Ανοικτό κώδικα](#Βιβλία-σχετικά-με-Ανοικτό-κώδικα)
-- [Open Source contribution initiatives](#Open-Source-contribution-initiatives)
-- [Άδεια χρήσης](#Άδεια-χρήσης)
+- [Χρήσιμα άρθρα για αρχάριους στη συνεισφορά Ανοικτού Κώδικα](#χρήσιμα-άρθρα-για-αρχάριους-στη-συνεισφορά-ανοικτού-κώδικα)
+- [Χρήση Version Control](#χρήση-version-control)
+- [Βιβλία σχετικά με Ανοικτό κώδικα](#βιβλία-σχετικά-με-ανοικτό-κώδικα)
+- [Πρωτοβουλίες συνεισφοράς ανοιχτού κώδικα](#πρωτοβουλίες-συνεισφοράς-ανοιχτού-κώδικα)
+- [Προγράμματα ανοιχτού κώδικα για συμμετοχή](#προγράμματα-ανοιχτού-κώδικα-για-συμμετοχή)
+- [Άδεια χρήσης](#άδεια-χρήσης)
 
 ## Γενικά για τη συνεισφορά Ανοικτού Κώδικα
 - [The Definitive Guide to Contributing to Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
@@ -113,12 +114,30 @@
 - [Software Release Practice HOWTO](http://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - Αυτός ο οδηγός περιγράφει κάποιες καλές πρακτικές για έκδοση λογισμικού του Linux και άλλα projects Ανοικτού Κώδικα. Ακολουθώντας αυτές τις πρακτικές, κάνετε όσο το δυνατόν ευκολότερο για τους χρήστες να χρησιμοποιήσουν τον κώδικα σας, και για τους προγραμματιστές να τον καταλάβουν και να συνεργαστούν μαζί σας, με σκοπό να τον βελτιώσουν.
 - [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - Το "Open Sources 2.0" είναι μία συλλογή από εύστοχες και παραγωγικές προσπάθειες από τους ηγέτες της σημερινής τεχνολογίας. Συνεχίζει το έργο που ξεκίνησε στο βιβλίο του 1999, "Open Sources: Voices from the Revolution".
 
-## Open Source contribution initiatives
+## Πρωτοβουλίες συνεισφοράς ανοιχτού κώδικα
 - [Up For Grabs](http://up-for-grabs.net/#/) - Περιέχει projects με φιλικά-για-αρχάριους issues.
 - [First Timers Only](http://www.firsttimersonly.com/) - Μία λίστα από bugs μαρκαρισμένα ως "first-timers-only".
 - [First Contributions](https://firstcontributions.github.io/) - Κάνε την πρώτη σου συνεισφορά Ανοικτού Κώδικα σε 5 λεπτά. Ένα εργαλείο και οδηγός που βοηθάει τους νέους στον Ανοικτό Κώδικα να ξεκινήσουν.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Ένα πρόγραμμα που παροτρύνει τη συνεισφορά Ανοικτού Κώδικα. Κέρδισε δώρα, όπως μπλουζάκια και αυτοκόλλητα, κάνωντας τουλάχιστον 5 pull request τον Οκτώβριο.
 - [24 Pull Requests](https://24pullrequests.com) - Το "24 Pull Requests" είναι ένα προγραμμα που προωθεί τη συνεισφορά Ανοικτού Κώδικα για το μήνα Δεκέμβριο.
+
+## Προγράμματα ανοιχτού κώδικα για συμμετοχή
+- [All Linux Foundation (LF) Mentorships] (https://mentorship.lfx.linuxfoundation.org/#projects_all)
+- [Cloud Native Computing Foundation] (https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
+- [Προγράμματα ανοιχτού κώδικα φιλικά για αρχάριους με τα χρονοδιαγράμματα τους] (https://github.com/arpit456jain/Open-Source-Programs)
+- [FossAsia] (https://fossasia.org/)
+- [Free Software Foundation (FSF) Internship] (https://www.fsf.org/volunteer/internships)
+- [Google Κώδικας Καλοκαιριού] (https://summerofcode.withgoogle.com/) - Ένα πρόγραμμα που εκτελείται ετησίως επί πληρωμή από την Google επικεντρώνεται στην προσέλκυση περισσότερων μαθητών προγραμματισμού στην ανάπτυξη λογισμικού ανοιχτού κώδικα.
+- [Hacktoberfest] (https://hacktoberfest.digitalocean.com/)
+- [LF Networking Mentorship] (https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program)
+- [Microsoft Ενισχυτική Μάθηση] (https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
+- [Open Summer of Code] (https://osoc.be/students)
+- [Outreachy] (https://www.outreachy.org/)
+- [Processing Foundation Internship] (https://processingfoundation.org/fellowships/)
+- [Social Summer of Code] (https://ssoc.getsocialnow.co/) - Το κοινωνικό ίδρυμα προσφέρει αυτό το δίμηνο καλοκαιρινό πρόγραμμα στους μαθητές να μάθουν για την κουλτούρα του ανοιχτού κώδικα και να εμπλακούν στην κοινότητα. Οι συμμετέχοντες συμβάλλουν σε έργα της πραγματικής ζωής υπό την καθοδήγηση έμπειρων μεντόρων.
+- [Girlscript Summer of Code] (https://gssoc.girlscript.tech/) - Ένα τρίμηνο πρόγραμμα ανοιχτού κώδικα που διεξάγεται κάθε καλοκαίρι από το Girlscript Foundation. Με συνεχείς προσπάθειες, οι συμμετέχοντες συνεισφέρουν σε πολυάριθμα έργα υπό την ακραία καθοδήγηση ειδικευμένων συμβούλων κατά τη διάρκεια αυτών των μηνών. Με τέτοια έκθεση, οι μαθητές αρχίζουν να συνεισφέρουν σε έργα του πραγματικού κόσμου από την άνεση του σπιτιού τους.
+- [Rails Girls Summer of Code] (https://railsgirlssummerofcode.org/) - Ένα παγκόσμιο πρόγραμμα υποτροφιών για γυναίκες και non-binary προγραμματιστές όπου εργάζονται σε υπάρχοντα έργα ανοιχτού κώδικα και επεκτείνουν το σύνολο των δεξιοτήτων τους.
+- [Major League Hacking (MLH) Fellowship] (https://fellowship.mlh.io/) - Μια απομακρυσμένη εναλλακτική πρακτικής για τους επίδοξους τεχνολόγους όπου κατασκευάζουν ή συμβάλλουν σε έργα ανοιχτού κώδικα.
 
 ## Άδεια χρήσης
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Αυτό το έργο διανέμεται σύμφωνα με την <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International άδεια χρήσης</a>.
