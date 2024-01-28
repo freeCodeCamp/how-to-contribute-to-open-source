@@ -229,4 +229,4 @@ Ikiwa una maswali au maoni, tafadhali jenga suala (issue).
 
 ## Leseni
 
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Leseni ya Creative Commons" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />Kazi hii imeliswa chini ya <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Leseni ya Kimataifa ya Ushirikiano wa Utengenezaji wa Kazi za Ubunifu 4.0 ya Creative Commons</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Leseni ya Creative Commons" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />Kazi hii imeliswa chini ya <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Leseni ya Kimataifa ya Ushirikiano wa Utengenezaji wa Kazi za Ubunifu 4.0 ya Creative Commons</a>
