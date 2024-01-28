@@ -43,7 +43,6 @@ Ikiwa unapata rasilimali zaidi, tafadhali tengeneza ombi la pull.
 
 Ikiwa una maswali au maoni, tafadhali tengeneza suala.
 
-
 **Yaliyomo**
 
 - [Kuchangia kwenye Chanzo Huru kwa Ujumla](#contributing-to-open-source-in-general)
@@ -55,7 +54,6 @@ Ikiwa una maswali au maoni, tafadhali tengeneza suala.
 - [Michango ya Wazi kwa Wachangiaji](#open-source-contribution-initiatives)
 - [Programu za Chanzo Huru za Kushiriki](#open-source-programs-to-participate-in)
 - [Leseni](#license)
-
 
 ## Kuchangia kwenye Chanzo Huru kwa Ujumla
 
@@ -117,7 +115,6 @@ Ikiwa una maswali au maoni, tafadhali tengeneza suala.
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - tovuti iliyotolewa kwa kutafuta mende kwenye Bugzilla.
 - [Firefox DevTools](https://firefox-dev.tools/) - tovuti iliyotolewa kwa mende zilizoripotiwa kwa zana za waendelezaji kwenye kivinjari cha Firefox.
 - [Start Mozilla](https://twitter.com/StartMozilla) - akaunti ya Twitter inayotuma kuhusu masuala yanayofaa kwa wachangiaji wapya kwenye mfumo wa Mozilla.
-
 
 ## Vifungu Vyenye Manufaa kwa Wachangiaji Wapya wa Chanzo Huru
 
@@ -190,7 +187,6 @@ Ikiwa una maswali au maoni, tafadhali tengeneza suala.
 - [Open Sources 2.0: The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 ni mkusanyiko wa insha zenye ufahamu na zenye kichocheo kutoka kwa viongozi wa teknolojia leo ambao unaendelea kuchora picha ya mabadiliko yaliyotokea katika kitabu cha 1999, Open Sources: Voices from the Revolution.
 - [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - Insha kutoka kwa waasisi wa chanzo wazi kama Linus Torvalds (Linux), Larry Wall (Perl), na Richard Stallman (GNU).
 
-
 ## Juhudi za Kuchangia Chanzo Cha Wazi
 
 > Orodha ya juhudi zinazokusanya maswala rahisi ya kuanzia au matukio ya kila msimu.
@@ -229,11 +225,6 @@ Ikiwa una maswali au maoni, tafadhali tengeneza suala.
 - [Social Summer of Code](https://ssoc.devfolio.co/) - Msingi wa Jamii unatoa programu hii ya kiangazi ya miezi miwili kwa wanafunzi kujifunza juu ya utamaduni wa chanzo wazi na kushiriki katika jamii. Washiriki wanachangia miradi halisi chini ya mwongozo wa waalimu wenye uzoefu.
 - [Season of KDE](https://season.kde.org/) - Season of KDE, inayoandaliwa na jamii ya KDE, ni mpango wa kuwafikia watu binafsi ulimwenguni kote. KDE ni jamii ya programu huru na wazi inayotengeneza programu huru na ya chanzo wazi, na unaweza kuchangia kwa KDE kupitia mpango wa Season of KDE.
 
-
 ## Leseni
 
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />Kazi hii imeliswa chini ya <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-
-
-
-
