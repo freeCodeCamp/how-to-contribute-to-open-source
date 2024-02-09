@@ -1,6 +1,1 @@
-{
-  "plugins": [
-    "json",
-    "markdown"
-  ]
-}
+{"plugins":["json","markdown"]}
