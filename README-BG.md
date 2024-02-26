@@ -26,7 +26,7 @@
 
  # Добре дошли, доброволци на отворения код!
 
-[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/) [![Build Status](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
+[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/) [![Check Resources](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml/badge.svg)](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml)
 
 Това е списък с ресурси, предназначени за хора, които са нови в допринасянето към отворения код (Open Source).
 
@@ -34,16 +34,16 @@
 
 **Съдържание**
 
-- [Основи на допринасянето към отворения код(Open Source)](#contributing-to-open-source-in-general)
-- [Директно търсене в GitHub](#direct-github-searches)
-- [Еко системата на Mozilla за доброволен принос](#mozillas-contributor-ecosystem)
-- [Полезни статии за начинаещи Open Source доброволци](#useful-articles-for-new-open-source-contributors)
-- [Как да използваме контрол на версиите (Version Control)](#using-version-control)
-- [Книги за отворения код](#open-source-books)
-- [Инициативи за принос към Open Source](#open-source-contribution-initiatives)
-- [Лицензи](#license)
+- [Основи на допринасянето към отворения код Open Source](#Основи-на-допринасянето-към-отворения-код-Open-Source)
+- [Директно търсене в GitHub](#Директно-търсене-в-GitHub)
+- [Еко системата на Mozilla за доброволен принос](#Еко-системата-на-Mozilla-за-доброволен-принос)
+- [Полезни статии за начинаещи Open Source доброволци](#Полезни-статии-за-начинаещи-Open-Source-доброволци)
+- [Как да използваме контрол на версиите Version Control](#Как-да-използваме-контрол-на-версиите-Version-Control)
+- [Книги за отворения код](#Книги-за-отворения-код)
+- [Инициативи за принос към Open Source](#Инициативи-за-принос-към-Open-Source)
+- [Лицензи](#Лицензи)
 
-## Основи на допринасянето към отворения код(Open Source)
+## Основи на допринасянето към отворения код Open Source
 
 - [Пълно ръководство за допринасянето към Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 
@@ -61,7 +61,7 @@
 
 - [Github issue - 45 добри и лоши практики](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Какво да правим и какво не в GitHub.
 
-- [GitHub ръководства](https://guides.github.com/) - Кратки ръководства как да използваме ефективно GitHub.
+- [GitHub ръководства](https://docs.github.com/) - Кратки ръководства как да използваме ефективно GitHub.
 
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Научете начина на работа в GitHub чрез добавяне на код към проект-симулация.
 
@@ -97,11 +97,10 @@
 
 ## Еко системата на Mozilla за доброволен принос
 
-- [Стават за първи бъг (Good First Bugs)](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - Бъгове, които разработчиците са определили като подходящи за опознаване на Mozilla проекта.
+- [Стават за първи бъг (Good First Bugs)](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22[good%20first%20bug]%22&limit=0) - Бъгове, които разработчиците са определили като подходящи за опознаване на Mozilla проекта.
 - [Учебни бъгове](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - Учебни бъгове с предварително определен наставник, който е на разположение в чата (IRC), за да ви помогне, ако срещнете проблем, докато работите по отстраняване на бъга.
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - Сайт, посветен на намиране на бъгове в Bugzilla.
 - [Firefox инструменти за разработчици (DevTools)](http://firefox-dev.tools/) - Сайт, посветен на бъгове в инструментите за разработчици към браузера Firefox.
-- [Какво мога да работя в Mozilla](http://whatcanidoformozilla.org/) - Разберете каква работа би била подходяща за вас, като отговорите на няколко въпроса относно уменията и интерестите ви.
 - [Започни с Mozilla](https://twitter.com/StartMozilla) - Профил в Тwitter на тема issue-та, подходящи за прохождащи в Mozilla еко системата разработчици
 
 ## Полезни статии за начинаещи open source доброволци
@@ -111,10 +110,10 @@
 - [Само за начинаещи](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
 - [Нека върнем добрината (и толерантността) в Open Source](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) by [@shanselman](https://github.com/shanselman)
 - [Да навлезем в Open Source](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
-- [Как да допринесем към Open Source](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
+- [Как да допринесем към Open Source](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github/opensource.guide)
 - [Как да открием бъг в собствения си код](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
-- [Да усъвършенстваме Markdown](https://guides.github.com/features/mastering-markdown/) by [@GitHubGuides](https://guides.github.com/)
-- [Мисия първа: Страница на доброволците](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
+- [Да усъвършенстваме Markdown](https://docs.github.com/features/mastering-markdown/) by [@GitHubGuides](https://docs.github.com/)
+- [Мисия първа: Страница на доброволците](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
 - [Как да направите първия си Open Source принос само за 5 минути](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) by [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
 - [Хактобър фест 2019: Как да получите безплатна тениска -- дори и да сте нови в програмирането](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) by [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
 - [Наръчник на горчивия опит в Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
@@ -128,10 +127,10 @@ _Ресурси на български_
 - [Видео урок за GitHub](https://www.youtube.com/watch?v=jig4lzbzAgk)
 - [Git за професионалисти](https://git-scm.com//book/bg/v2) - Книгата "Git за професионалисти" с превод на български, написана от Scott Chacon и Ben Straub и издадена от Apress.
 
-## Как да използваме контрол на версиите (Version Control)
+## Как да използваме контрол на версиите Version Control
 
-- [Мисли като за Git](http://think-like-a-git.net/) - Въведение в Git, подгодящо за начинаещи с малки познания, но все още не знаещи много неща. Ресурсът ще ви даде проста и безопасна стратегия как да правите експерименти с Git
-- [Пробвайте Git](https://try.github.io/) - Научете безплатно Git за 15 минути, работейки само в браузера.
+- [Мисли като за Git](https://think-like-a-git.net/) - Въведение в Git, подгодящо за начинаещи с малки познания, но все още не знаещи много неща. Ресурсът ще ви даде проста и безопасна стратегия как да правите експерименти с Git
+- [Пробвайте Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - Научете безплатно Git за 15 минути, работейки само в браузера.
 - [Git за всеки ден](https://git-scm.com/docs/giteveryday) - Минималното количество полезни Git команди, използвани всеки ден
 - [О, по дяволите, git!](https://ohshitgit.com/) - Как да избегнем често срещани `git` грешки; обясени просто. (Вижте също и) [Проклятие, git!](https://dangitgit.com/) страницата без псувни.
 - [Git ръководства от Atlassian](https://www.atlassian.com/git/tutorials/) - Различни ръководства за употребата на `git`.

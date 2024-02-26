@@ -1,33 +1,47 @@
-<table>
-    <tr>
-        <!-- Do not translate this table -->
-        <td><a href="./README.md"> English </a></td>
-        <td><a href="./README-MR.md"> मराठी </a></td>
-        <td><a href="./README-CN.md"> 中文 </a></td>
-        <td><a href="./README-RU.md"> русский </a></td>
-        <td><a href="./README-RO.md"> Românesc </a></td>
-        <td><a href="./README-IT.md"> Italiano </a></td>
-        <td><a href="./README-ES.md"> Español </a></td>
-        <td><a href="./README-pt-BR.md"> Português (BR) </a></td>
-        <td><a href="./README-DE.md"> Deutsch </a></td>
-        <td><a href="./README-GR.md"> Ελληνικά </a></td>
-        <td><a href="./README-FR.md"> Français </a></td>
-        <td><a href="./README-TR.md"> Turkish </a></td>
-    </tr>
-</table>
-
+<!-- Do not translate this -->
+<details>
+<summary>
+<strong> Read this guide in other languages </strong>
+</summary>
+    <ul>
+        <li><a href="./README.md"> English </a></li>
+        <li><a href="./README-MR.md"> मराठी </a></li>
+        <li><a href="./README-BN.md"> বাংলা </a></li>
+        <li><a href="./README-CN.md"> 中文 </a></li>
+        <li><a href="./README-RU.md"> русский </a></li>
+        <li><a href="./README-RO.md"> Românesc </a></li>
+        <li><a href="./README-IT.md"> Italiano </a></li>
+        <li><a href="./README-ID.md"> Indonesia </a></li>
+        <li><a href="./README-ES.md"> Español </a></li>
+        <li><a href="./README-pt-BR.md"> Português (BR) </a></li>
+        <li><a href="./README-DE.md"> Deutsch </a></li>
+        <li><a href="./README-HE.md"> עברית </a></li>
+        <li><a href="./README-GR.md"> Ελληνικά </a></li>
+        <li><a href="./README-FR.md"> Français </a></li>
+        <li><a href="./README-TR.md"> Turkish </a></li>
+        <li><a href="./README-KO.md"> 한국어 </a></li>
+        <li><a href="./README-JA.md"> 日本語 </a></li>
+        <li><a href="./README-HI.md"> हिंदी </a></li>
+        <li><a href="./README-FA.md"> فارسی </a></li>
+        <li><a href="./README-UR.md">اردو </a></li>
+        <li><a href="./README-AR.md">اللغة العربية </a></li>
+        <li><a href="./README-TA.md">தமிழ்</a></li>
+        <li><a href="./README-NE.md">नेपाली</a></li>
+    </ul>
+</details>
+<!-- Do not translate this -->
 
 # Witamy początkujących kontrybutorów (współautorów)!
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
-[![Build Status](https://api.travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
+[![Check Resources](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml/badge.svg)](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml)
 
-Przedstawiona w tym dokumencie jest lista dla początkujących w kwestii wnoszeniu własnego wkładu (kontrybucja) do tzw. Otwartego Oprogramowania *(ang. contributing to Open Source)*
+Ten dokument jest listą źródeł dla osób chcących rozpocząć swoją przygodę z wkładem do projektów Open Source *(ang. contributing to Open Source)*
 
-Jeżeli posiadasz bądź znajdziesz niewymienione w tym dokumencie źródła, prosze dodaj [pull request](https://panizkomputerem.pl/pull-request/)
+Jeżeli posiadasz bądź znajdziesz niewymienione w tym dokumencie źródła, prosze stwórz [pull request](https://panizkomputerem.pl/pull-request/)
 
-Jeżeli masz jakiekolwiek pytania bądź komentarz stwórz kwestię *(ang. issue)* w tym repozytorium.
+Jeżeli masz jakiekolwiek pytania bądź komentarz stwórz odpowiedni Issue *(ang. issue)* w tym repozytorium.
 
 **Zawartość**
 
@@ -49,9 +63,9 @@ Jeżeli masz jakiekolwiek pytania bądź komentarz stwórz kwestię *(ang. issue
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - repozytorium na GitHubie, które gromadzi projekty z dobrymi bugami dla początkujących kontrybutorów i stosuje etykiety do ich opisywania.
 - [Open Source Guides](https://opensource.guide/) - Zbiór poradników dla wszystkich, którzy chcą się nauczyć, jak kontrybuować do projektów otwartego oprogramowania.
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Co robić i czego nie robić na GitHubie.
-- [GitHub Guides](https://guides.github.com/) - Podstawowy poradnik jak używać GitHuba efektywnie.
+- [GitHub Guides](https://docs.github.com/en) - Podstawowy poradnik jak używać GitHuba efektywnie.
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) -  Naucz się jak działa GitHub poprzez kontrybuowanie do projektów symulowanych.
-- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Poradnik od Fundacji Linuxa dla projektów otwartego oprogramowania.
+- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides) - Poradnik od Fundacji Linuxa dla projektów otwartego oprogramowania.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - Przewodnik po otwartym oprogramowaniu napisany przez Kent C. Dodds i Sarah Drasner.
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Uporządkowana lista poradników i możliwości dla studentów do nauki nowego języka programowania.
 - [Pull Request Roulette](http://www.pullrequestroulette.com/) - Ta strona zawiera listę pull requestów zgłoszonych do przejrzenia należących do projektów otwartego oprogramowania znajdujących się na GitHubie.
@@ -76,24 +90,23 @@ Linki wyszukiwania które wskazują na kwestie skierowane dla początkujących. 
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
 ## Środowisko kontrybucji Mozilli
-- [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - bugi, które programiści uznali za dobre wprowadzenie do projektu
+- [Good First Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22[good%20first%20bug]%22&limit=0) - bugi, które programiści uznali za dobre wprowadzenie do projektu
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugi które mają przypisanego mentora, który będzie na IRC aby pomóc ci, kiedy utkniesz podczas naprawiania tego błędu.
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - Strona dedykowana do znajdowania błędów na Bugzilli.
 - [Firefox DevTools](http://firefox-dev.tools/) - Strona dedykowania do znajdowania błędów dla profesjonalnych narzędzi przeznaczonych na przeglądarkę Firefox.
-- [What Can I Do For Mozilla](https://whatcanidoformozilla.org/) -  Dowiedz się, nad czym możesz pracować poprzez odpowiedź na kilka pytań dotyczących twoich umiejętności i zainteresowań.
 - [Start Mozilla](https://twitter.com/StartMozilla) - Konto na Twitterze, które tweetuje na temat kwestii odpowiednich dla początkujących kontrybutorów w środowisku Mozilli.
 
 ## Użyteczne artykuły dla początkujących w kontrybuowaniu do otwartego oprogramowania
 - [Poradnik o licencjonowaniu projektów Open Source](https://github.com/YetiForceCompany/guides/blob/master/pl/licenses/Poradnik_o_licencjonowaniu_projektow_open_source_YetiForce_v.1.0.pdf) **[PL]** by [Błażej Pabiszczak](https://www.linkedin.com/in/blazej-pabiszczak-yetiforce/)
 - [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
 - [How to find your first Open Source bug to fix](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) by [@Shubheksha](https://github.com/Shubheksha)
-- [First Timers Only](https://kentcdodds.com/blog/first-timers-only/) by [@kentcdodds](https://github.com/kentcdodds)
+- [First Timers Only](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
 - [Bring Kindness Back to Open Source](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) by [@shanselman](https://github.com/shanselman)
 - [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
-- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
-- [How to Find a Bug in Your Code](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
-- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) by [@GitHub](https://github.com/github)
-- [First mission: Contributors page](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
+- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github/opensource.guide)
+- [How to Find a Bug in Your Code](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) by [@dougbradbury](https://twitter.com/dougbradbury)
+- [Mastering Markdown](https://docs.github.com/features/mastering-markdown/) by [@GitHub](https://github.com/github/docs)
+- [First mission: Contributors page](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
 - [How to make your first Open Source contribution in just 5 minutes](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) by [@roshanjossey](https://github.com/Roshanjossey/)
 - [Hacktoberfest 2019: How you can get your free shirt — even if you’re new to coding](https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b/) by [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
 - [A Bitter Guide To Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
@@ -101,13 +114,13 @@ Linki wyszukiwania które wskazują na kwestie skierowane dla początkujących. 
 - [Learn Git and GitHub Step By Step (on Windows)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) by [@ows-ali](https://medium.com/@ows_ali)
 - [Why Open Source and How?](https://careerkarma.com/blog/open-source-projects-for-beginners/) by [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
 - [How to get started with Open Source - By Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/)
-- [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) by Kent C. Dodds
+- [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to) by Kent C. Dodds
 
 ## Używanie kontroli wersji
 - [Wprowadzenie do kontroli wersji](https://git-scm.com/book/pl/v2/Pierwsze-kroki-Wprowadzenie-do-kontroli-wersji) **[PL]**
-- [Poradnik dla chcących poznaćsystem kontroli wersji](https://microgeek.eu/viewtopic.php?t=852) **[PL]**
-- [Think Like (a) Git](http://think-like-a-git.net/) - Wstęp do systemu kontroli wersji Git dla ,,zaawansowanych początkujących'', którzy ciąglę napotykają się na  problemy. Głównym celem jest przedstawienie prostej strategii eksperymentowania z gitem. 
-- [Try Git](https://try.github.io/) - Naucz się Gita w 15 minut ze swojej przeglądarki za darmo.
+- [Poradnik dla chcących poznać system kontroli wersji](https://microgeek.eu/viewtopic.php?t=852) **[PL]**
+- [Think Like (a) Git](https://think-like-a-git.net/) - Wstęp do systemu kontroli wersji Git dla ,,zaawansowanych początkujących'', którzy ciąglę napotykają się na  problemy. Głównym celem jest przedstawienie prostej strategii eksperymentowania z gitem. 
+- [Try Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - Naucz się Gita w 15 minut ze swojej przeglądarki za darmo.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Uzyteczny minimalny zbiór komend potrzebnych do codziennego używania Gita.
 - [Oh shit, git!](https://ohshitgit.com/) - Jak rozwiązać pospolite problemy, które możęsz napotkać podczas używania gita. Zobacz również [Dangit, git!](https://dangitgit.com/) stronę bez przekleństw.
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) - Różne poradniki o używaniu systemu kontroli wersji Git.

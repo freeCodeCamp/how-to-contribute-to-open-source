@@ -33,7 +33,7 @@
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
-[![Build Status](https://api.travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
+[![Check Resources](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml/badge.svg)](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml)
 
 להלן רשימת מקורות עבור מתכנתים מתחילים המעוניינים לתרום לקוד פתוח
 
@@ -43,14 +43,14 @@
 
 **תוכן עניינים**
 
-- [תרומה לקוד פתוח באופן כללי](#contributing-to-open-source-in-general)
-- [חיפוש ישיר בגיטהאב](#direct-github-searches)
-- [אקוסיסטם התורמים של מוזילה](#mozillas-contributor-ecosystem)
-- [מאמרים שימושיים לתורמי קוד פתוח חדשים](#useful-articles-for-new-open-source-contributors)
-- [שימוש ב-Version Control](#using-version-control)
-- [ספרים בנושא קוד פתוח](#open-source-books)
-- [יוזמות לתרומת קוד פתוח](#open-source-contribution-initiatives)
-- [רישיון](#license)
+- [תרומה לקוד פתוח באופן כללי](#תרומה-לקוד-פתוח-באופן-כללי)
+- [חיפוש ישיר בגיטהאב](#חיפוש-ישיר-בגיטהאב)
+- [אקוסיסטם התורמים של מוזילה](#אקוסיסטם-התורמים-של-מוזילה)
+- [מאמרים שימושיים לתורמי קוד פתוח חדשים](#מאמרים-שימושיים-לתורמי-קוד-פתוח-חדשים)
+- [שימוש ב-Version Control](#שימוש-ב-Version-Control)
+- [ספרים בנושא קוד פתוח](#ספרים-בנושא-קוד-פתוח)
+- [יוזמות לתרומת קוד פתוח](#יוזמות-לתרומת-קוד-פתוח)
+- [רישיון](#רישיון)
 
 </p>
 </div>
@@ -65,9 +65,9 @@
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - גיטהאב repo מצויין האוגר פרוייקטים עם באגים מתאימים לתורמים חדשים. הבאגים מתוייגים עם תוויות מתאימות.
 - [מדריכי קוד פתוח](https://opensource.guide/) - אוסף של מקורות לאנשים, קהילות וחברות הרוצים ללמוד כיצד להפעיל ולתרום לפרוייקט קוד פתוח.
 - [45 גיטהאב issues - עשה ואל תעשה](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - עשה ואל תעשה בגיטהאב.
-- [מדריכי גיטהאב](https://guides.github.com/) - מדריכים בסיסיים על איך להשתמש בגיטהאב בצורה אפקטיבית.
+- [מדריכי גיטהאב](https://docs.github.com/en) - מדריכים בסיסיים על איך להשתמש בגיטהאב בצורה אפקטיבית.
 - [תרומה לקוד פתוח](https://github.com/danthareja/contribute-to-open-source) - למדו את הגיטהאב workflow על ידי תרומת קוד לפרויקט סימולציה.
-- [מדריכי קוד פתוח לחברות על ידי קרן לינוקס](https://www.linuxfoundation.org/resources/open-source-guides/) - המדריכים של קרן לינוקס לפרויקטים בקוד פתוח.
+- [מדריכי קוד פתוח לחברות על ידי קרן לינוקס](https://www.linuxfoundation.org/resources/open-source-guides) - המדריכים של קרן לינוקס לפרויקטים בקוד פתוח.
 - [מדריך קוד פתוח לכללי התנהגות של CSS Tricks](https://css-tricks.com/open-source-etiquette-guidebook/) - מדריך קוד פתוח לכללי התנהגות, מחברים Kent C. Dodds ו-Sarah Drasner.
 - [מקורות לסטודנטים מא׳ עד ת׳](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - רשימת מקורות והזדמנויות ללמידת שפת תכנות חדשה לסטודנטים.
 - [Pull Request Roulette](http://www.pullrequestroulette.com/) - אתר עם רשימת pull requests הנמצאים ב-review השייכים לפרויקטי קוד פתוח בגיטהאב.
@@ -100,11 +100,10 @@
 <p>
 
 ## אקוסיסטם התורמים של מוזילה
-- [באגים ראשונים טובים](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - באגים שמפתחים מצאו שיכולים להתאים בכניסה ראשונית לפרויקט.
+- [באגים ראשונים טובים](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22[good%20first%20bug]%22&limit=0) - באגים שמפתחים מצאו שיכולים להתאים בכניסה ראשונית לפרויקט.
 - [באגים עם מנטור](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - באגים שיש להם מנטורים המשוייכים עליהם, ניתן לפנות אליהם דרך IRC במקרה שנתקעתם במהלך תיקון הבאג.
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - אתר המוקדש כולו למציאת באגים ב-Bugzilla.
 - [Firefox DevTools](http://firefox-dev.tools/) - אתר המוקדש לבאגים של כלי המתכנת (developer tools) של הדפדפן פיירפוקס
-- [מה אני יכול לעשות למען מוזילה](https://whatcanidoformozilla.org/) - מצאו כיצד תוכלו לתרום על ידי מענה על מגוון שאלות על תחומי והעניין והידע שלכם.
 - [Start Mozilla](https://twitter.com/StartMozilla) - חשבון טוויטר המצייץ על issues המתאימים לתורמים חדשים לאקוסיסטם של מוזילה.
 
 </p>
@@ -115,13 +114,13 @@
 ## מאמרים שימושיים לתורמי קוד פתוח חדשים
 - [כיצד לבחור (ולתרום) לפרויקט הקוד הפתוח הראשון שלך](https://github.com/collections/choosing-projects) ע״י [GitHub@](https://github.com/github)
 - [כיצד למצוא את הבאג הראשון שלך לתיקון בקוד פתוח](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) ע״י [Shubheksha@](https://github.com/Shubheksha)
-- [למתחילים בלבד](https://kentcdodds.com/blog/first-timers-only/) ע״י [kentcdodds@](https://github.com/kentcdodds)
+- [למתחילים בלבד](https://kentcdodds.com/blog/first-timers-only) ע״י [kentcdodds@](https://github.com/kentcdodds)
 - [החזירו טוב לב חזרה לקוד פתוח](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) ע״י [shanselman@](https://github.com/shanselman)
 - [נכנסים לקוד פתוח בפעם הראשונה](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) ע״י [mcdonnelldean@](https://github.com/mcdonnelldean)
-- [כיצד לתרום לקוד פתוח](https://opensource.guide/how-to-contribute/) ע״י [GitHub@](https://github.com/github)
-- [כיצד למצוא באג בקוד שלכם](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) ע״י [dougbradbury@](https://twitter.com/dougbradbury)
-- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) ע״י [GitHub@](https://github.com/github)
-- [משימה ראשונה: עמוד התורמים](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) ע״י [forCrowd@](https://github.com/forCrowd)
+- [כיצד לתרום לקוד פתוח](https://opensource.guide/how-to-contribute/) ע״י [GitHub@](https://github.com/github/opensource.guide)
+- [כיצד למצוא באג בקוד שלכם](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) ע״י [dougbradbury@](https://twitter.com/dougbradbury)
+- [Mastering Markdown](https://docs.github.com/features/mastering-markdown/) ע״י [GitHub@](https://github.com/github/docs)
+- [משימה ראשונה: עמוד התורמים](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) ע״י [forCrowd@](https://github.com/forCrowd)
 - [כיצד לתרום בפעם הראשונה לקוד פתוח ב-5 דקות](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) ע״י [roshanjossey@](https://github.com/Roshanjossey/)
 - [Hacktoberfest 2019: כיצד לקבל חולצה חינם אפילו אם אתם מתכנתים חדשים](https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b/) ע״י [quincylarson@](https://www.freecodecamp.org/news/author/quincylarson/)
 - [מדריך מר לקוד פתוח](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) ע״י [ken_wheeler@](https://medium.com/@ken_wheeler)
@@ -129,7 +128,7 @@
 - [למדו גיט וגיטהאב צעד אחר צעד (על ווינדוס)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) ע״י [ows-ali@](https://medium.com/@ows_ali)
 - [למה קוד פתוח ואיך?](https://careerkarma.com/blog/open-source-projects-for-beginners/) ע״י [james-gallagher@](https://careerkarma.com/blog/author/jamesgallagher/)
 - [כיצד להתחיל עם קוד פתוח](https://www.hackerearth.com/getstarted-opensource/) ע״י Sayan Chowdhury
-- [לאיזה קוד פתוח כדי לתרום](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) ע״י Kent C. Dodds
+- [לאיזה קוד פתוח כדאי לתרום](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to) ע״י Kent C. Dodds
 
 </p>
 </div>
@@ -137,8 +136,8 @@
 <p>
 
 ## שימוש ב-Version Control
-- [Think Like (a) Git](http://think-like-a-git.net/) - מדריך גיט ל״מתחילים מתקדמים״ מתקשים, המחפשים אסטרטגיה פשוטה להתנסות עם גיט.
-- [Try Git](https://try.github.io/) - למדו גיט ב-15 דקות ישירות מהדפדפן בחינם.
+- [Think Like (a) Git](https://think-like-a-git.net/) - מדריך גיט ל״מתחילים מתקדמים״ מתקשים, המחפשים אסטרטגיה פשוטה להתנסות עם גיט.
+- [Try Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - למדו גיט ב-15 דקות ישירות מהדפדפן בחינם.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - סט מינימלי שימושי של פקודות לשימוש גיט יומיומי
 - [!Oh shit, git](https://ohshitgit.com/) - כיצד לצאת מטעויות גיט נפוצות, כתוב באנגלית; ראו גם [!Dangit, git](https://dangitgit.com/) עבור עמוד ללא קללות.
 - [מדריכי גיט של Atlassian](https://www.atlassian.com/git/tutorials) - מגוון מדריכים על השימוש בגיט.
