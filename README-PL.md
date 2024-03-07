@@ -94,7 +94,6 @@ Linki wyszukiwania które wskazują na kwestie skierowane dla początkujących. 
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugi które mają przypisanego mentora, który będzie na IRC aby pomóc ci, kiedy utkniesz podczas naprawiania tego błędu.
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - Strona dedykowana do znajdowania błędów na Bugzilli.
 - [Firefox DevTools](http://firefox-dev.tools/) - Strona dedykowania do znajdowania błędów dla profesjonalnych narzędzi przeznaczonych na przeglądarkę Firefox.
-- [What Can I Do For Mozilla](https://whatcanidoformozilla.org/) -  Dowiedz się, nad czym możesz pracować poprzez odpowiedź na kilka pytań dotyczących twoich umiejętności i zainteresowań.
 - [Start Mozilla](https://twitter.com/StartMozilla) - Konto na Twitterze, które tweetuje na temat kwestii odpowiednich dla początkujących kontrybutorów w środowisku Mozilli.
 
 ## Użyteczne artykuły dla początkujących w kontrybuowaniu do otwartego oprogramowania
@@ -119,7 +118,7 @@ Linki wyszukiwania które wskazują na kwestie skierowane dla początkujących. 
 
 ## Używanie kontroli wersji
 - [Wprowadzenie do kontroli wersji](https://git-scm.com/book/pl/v2/Pierwsze-kroki-Wprowadzenie-do-kontroli-wersji) **[PL]**
-- [Poradnik dla chcących poznaćsystem kontroli wersji](https://microgeek.eu/viewtopic.php?t=852) **[PL]**
+- [Poradnik dla chcących poznać system kontroli wersji](https://microgeek.eu/viewtopic.php?t=852) **[PL]**
 - [Think Like (a) Git](https://think-like-a-git.net/) - Wstęp do systemu kontroli wersji Git dla ,,zaawansowanych początkujących'', którzy ciąglę napotykają się na  problemy. Głównym celem jest przedstawienie prostej strategii eksperymentowania z gitem. 
 - [Try Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - Naucz się Gita w 15 minut ze swojej przeglądarki za darmo.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Uzyteczny minimalny zbiór komend potrzebnych do codziennego używania Gita.
