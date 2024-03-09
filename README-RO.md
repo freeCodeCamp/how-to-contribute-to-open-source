@@ -71,7 +71,6 @@ Căutați linkuri care indică direct problemele potrivite pentru a contribui la
 - [Bug-uri mentorate](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bug-uri care au un mentor desemnat care va fi acolo pe IRC pentru a vă ajuta atunci când rămâneți blocați în timp ce lucrați pentru al fixa.
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - un site dedicat găsirii de bug-uri pe Bugzilla.
 - [Firefox instrumente pentru programatori (DevTools)](http://firefox-dev.tools/) - un site dedicat erorilor indexate pentru instrumentele de programare din browserul Firefox.
-- [Ce pot face pentru Mozilla](http://whatcanidoformozilla.org/) - dă-ți seama la ce puteți lucra, răspunzând la o mulțime de întrebări despre setul de aptitudini și interese.
 - [Start Mozilla](https://twitter.com/StartMozilla) - un cont Twitter care postează tweet-uri despre probleme potrivite pentru contribuitori noi în ecosistemul Mozilla.
 
 ## Articole utile pentru noi contribuitori open source

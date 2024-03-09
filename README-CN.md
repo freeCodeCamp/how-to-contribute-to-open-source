@@ -88,7 +88,6 @@
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - 当你在修复的时候遇到问题会有指定的人通过网上交流的方式为你的提供帮助的bug。
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - 专门发现在Bugzilla上bug的网站。
 - [Firefox DevTools](http://firefox-dev.tools/) - 一个针对火狐浏览器开发者工具相关的bug网站。
-- [What Can I Do For Mozilla](http://whatcanidoformozilla.org/) - 根据的你的技能和兴趣回答你可以为Mozilla开源做一些什么。 
 - [Start Mozilla](https://twitter.com/StartMozilla) - 一个为Mozilla新进贡献者推送一些合适的Issue的Twitter账号。
 
 ## 对新的开源贡献者有用的文章
