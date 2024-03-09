@@ -141,6 +141,7 @@
 - [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) -《开放源代码2.0》是当今技术领导者富有洞察力和启发性的论文集，这些论文继续描绘了1999年出版的《开放源代码：革命之声》一书中的进化图景。
 - [The Architecture of Open Source Applications](https://www.aosabook.org/en/git.html) - 现示各种Git项目底下的作业，从而赋予分布式工作流程，Git和其他版本控制的分别
 - [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - Essays from open-source pioneers such as Linus Torvalds (Linux), Larry Wall (Perl), and Richard Stallman (GNU).
+- [The Cathedral and the Bazaar by Eric S. Raymond](http://www.catb.org/](http://www.catb.org/~esr/writings/cathedral-bazaar/) - 任何关心关于计算机工业和多样化信息经济的必读之一。
 
 ## 开源贡献初步
 - [Up For Grabs](http://up-for-grabs.net/#/) - 包含对初学者友好的项目Issue
