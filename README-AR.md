@@ -147,7 +147,7 @@
 - [Git Interactive Tutorial](https://learngitbranching.js.org/) -تعلم Git بالطريقة الأكثر مرئية وتفاعلية.
 - [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics) (1:12:39) - تجول Git و GitHub بالكامل بواسطة [Kunal Kushwaha](https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw).
 
-## كتب مفتوحة المصدر
+## كتب مفتوحة المصدر 
 
 - [Producing Open Source Software](https://producingoss.com/) - إنتاج برمجيات مفتوحة المصدر هو كتاب عن الجانب الإنساني لتطوير البرمجيات مفتوحة المصدر. يصف كيف تعمل المشاريع الناجحة ، وتوقعات المستخدمين والمطورين ، وثقافة البرمجيات الحرة.
 - [Open Source Book Series](https://opensource.com/resources/ebooks) -تعرف على المزيد حول المصدر المفتوح والحركة المتزايدة المصدر المفتوح مع قائمة شاملة من الكتب الإلكترونية المجانية من https://opensource.com.
