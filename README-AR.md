@@ -1,54 +1,69 @@
-<details>
+
+<!-- Do not translate this -->
+<details dir='ltr'>
 <summary>
-<strong> اقرأ هذا الدليل بلغات أخرى </strong>
+<strong> Read this guide in other languages </strong>
 </summary>
     <ul>
-        <li><a href="./README.md"> إنجليزي </a></li>
-        <li><a href="./README-MR.md"> الماراثى </a></li>
-        <li><a href="./README-BN.md"> البنغالية </a></li>
-        <li><a href="./README-CN.md"> صينى </a></li>
-        <li><a href="./README-RU.md"> الروسية </a></li>
-        <li><a href="./README-RO.md"> روماني </a></li>
-        <li><a href="./README-IT.md"> إيطالي </a></li>
-        <li><a href="./README-ES.md"> الأسبانية </a></li>
-        <li><a href="./README-pt-BR.md"> البرتغالية (البرازيل) </a></li>
-        <li><a href="./README-DE.md"> ألماني </a></li>
-        <li><a href="./README-GR.md"> اليونانية </a></li>
-        <li><a href="./README-FR.md"> الفرنسية </a></li>
-        <li><a href="./README-KO.md"> الكورية </a></li>
-        <li><a href="./README-JA.md"> اليابانية </a></li>
-        <li><a href="./README-HI.md"> هندي </a></li>
+        <li><a href="./README.md"> English </a></li>
+        <li><a href="./README-MR.md"> मराठी </a></li>
+        <li><a href="./README-BN.md"> বাংলা </a></li>
+        <li><a href="./README-CN.md"> 中文 </a></li>
+        <li><a href="./README-RU.md"> русский </a></li>
+        <li><a href="./README-RO.md"> Românesc </a></li>
+        <li><a href="./README-IT.md"> Italiano </a></li>
+        <li><a href="./README-ID.md"> Indonesia </a></li>
+        <li><a href="./README-ES.md"> Español </a></li>
+        <li><a href="./README-pt-BR.md"> Português (BR) </a></li>
+        <li><a href="./README-DE.md"> Deutsch </a></li>
+        <li><a href="./README-HE.md"> עברית </a></li>
+        <li><a href="./README-GR.md"> Ελληνικά </a></li>
+        <li><a href="./README-FR.md"> Français </a></li>
+        <li><a href="./README-TR.md"> Turkish </a></li>
+        <li><a href="./README-KO.md"> 한국어 </a></li>
+        <li><a href="./README-JA.md"> 日本語 </a></li>
+        <li><a href="./README-UZ.md"> O'zbek</a></li>
+        <li><a href="./README-HI.md"> हिंदी </a></li>
+        <li><a href="./README-FA.md"> فارسی </a></li>
+        <li><a href="./README-UR.md">اردو </a></li>
+        <li><a href="./README-TA.md">தமிழ்</a></li>
+        <li><a href="./README-NE.md">नेपाली</a></li>
     </ul>
 </details>
 <!-- Do not translate this -->
 
 # مرحبًا بالمساهمين المبتدئين للمصادر المفتوحة!
 
-[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+<div align=right>
+
+[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
 [![Check Resources](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml/badge.svg)](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml)
+</div>
 
-هذه قائمة بالموارد للأشخاص الجدد في المساهمة في المصادر المفتوحة.
-
-إذا وجدت موارد إضافية ، يرجى المساهمة في طلب سحب.
-
-إذا كانت لديك أسئلة أو تعليقات ، يرجى إنشاء مشكلة.
+### هذه قائمه مراجع للجدد في مساهمه في المصادر المفتوحة
+### اذا كان عندك المزيد من المراجع لاتتردد بعمل pull request
+### اذا كان عندك اسأله او تعليقات لاتتردد بأنشاء 
 
 **محتويات**
+<div dir="rtl">
+    
 
-- [Contributing to Open Source in general](#المساهمة-في-المصادر-المفتوحة-بشكل-عام)
-- [Direct GitHub searches](#عمليات-البحث-المباشرة-على-github)
-- [Mozilla's contributor ecosystem](#النظام-البيئي-للمساهمين-في-mozilla)
-- [Useful articles for new Open Source contributors](#مقالات-مفيدة-للمساهمين-الجدد-في-المصادر-المفتوحة)
-- [Using Version Control](#باستخدام-التحكم-في-الإصدار)
-- [Open Source books](#كتب-مفتوحة-المصدر)
-- [Open Source contribution initiatives](#مبادرات-مساهمة-المصدر-المفتوح)
-- [Open Source programs to participate in](#برامج-مفتوحة-المصدر-للمشاركة-فيها)
-- [License](#license)
+- [المساهمة في المصادر المفتوحة بشكل عام](#المساهمة-في-المصادر-المفتوحة-بشكل-عام)
+- [مليات البحث المباشرة على GitHub](#عمليات-البحث-المباشرة-على-github)
+- [بيئة المساهمين في Mozilla](#بيئة-المساهمين-في-Mozilla)
+- [مقالات مفيدة للمساهمين الجدد في المصادر المفتوحة](#مقالات-مفيدة-للمساهمين-الجدد-في-المصادر-المفتوحة)
+- [نظام تحكم بالمراجعات](#باستخدام-التحكم-في-الإصدار)
+- [كتب مفتوحة المصدر](#كتب-مفتوحة-المصدر)
+- [مبادرات مساهمة المصدر المفتوح](#مبادرات-مساهمة-المصدر-المفتوح)
+- [برامج مفتوحة المصدر للمشاركة فيها](#برامج-مفتوحة-المصدر-للمشاركة-فيها)
+- [رخصه الاستعمال](#الرخصة)
+</div>
 
 ## المساهمة في المصادر المفتوحة بشكل عام
 
->مقالات و مصادر تتحدث عن عالم و ثقافة المصادر المفتوحة.
+> مقالات و مصادر تتحدث عن عالم و ثقافة المصادر المفتوحة.
+
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) بواسطة [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - برامج تعليمية بواسطة DigitalOcean لإرشادك في طريقك إلى نجاح المساهمة هنا على GitHub.
 - [Code Triage](https://www.codetriage.com/) - أداة أخرى ، رائعة حقًا ، للعثور على المستودعات المشهورة والمشكلات المصفاة حسب اللغة.
@@ -91,7 +106,7 @@
 - [is:issue is:open label:easy-fix](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy-fix&type=issues)
 - [is:issue is:open label:"beginner friendly"](https://github.com/search?q=beginner+friendly&state=open&type=Issues)
 
-## النظام البيئي للمساهمين في Mozilla
+## بيئة المساهمين في Mozilla
 
 - [Good First Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22[good%20first%20bug]%22&limit=0) - الأخطاء التي حددها المطورون على أنها مقدمة جيدة للمشروع.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/MDN/Contribute) -مساعدة فريق MDN Web Docs في توثيق منصة الويب عن طريق إصلاح مشكلات المحتوى وأخطاء النظام الأساسي.
@@ -104,13 +119,13 @@
 
 - [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) بواسطة
 - [How to find your first Open Source bug to fix](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) بواسطة [@Shubheksha](https://github.com/Shubheksha)
-- [First Timers Only](https://kentcdodds.com/blog/first-timers-only) بواسطة 
+- [First Timers Only](https://kentcdodds.com/blog/first-timers-only) بواسطة
 - [Bring Kindness Back to Open Source](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) بواسطة [@shanselman](https://github.com/shanselman)
 - [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) بواسطة [@mcdonnelldean](https://github.com/mcdonnelldean)
-- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) بواسطة 
+- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) بواسطة
 - [How to Find a Bug in Your Code](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) بواسطة [@dougbradbury](https://twitter.com/dougbradbury)
 - [Mastering Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) بواسطة [@GitHub](https://github.com/github)
-- [First mission: Contributors page](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705 ) بواسطة [@forCrowd](https://github.com/forCrowd)
+- [First mission: Contributors page](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705) بواسطة [@forCrowd](https://github.com/forCrowd)
 - [How to make your first Open Source contribution in just 5 minutes](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) بواسطة [@roshanjossey](https://github.com/Roshanjossey/)
 - [I just got my free Hacktoberfest shirt. Here’s a quick way you can get yours.](https://www.freecodecamp.org/news/i-just-got-my-free-hacktoberfest-shirt-heres-a-quick-way-you-can-get-yours-fa78d6e24307/) بواسطة [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
 - [A Bitter Guide To Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) بواسطة [@ken_wheeler](https://medium.com/@ken_wheeler)
@@ -128,8 +143,8 @@
 
 ## باستخدام التحكم في الإصدار
 
-- [Think Like (a) Git](https://think-like-a-git.net/) - مقدمة Git "للمبتدئين المتقدمين".  رغن انهم ما زالوا يعانون من أجل إعطائك استراتيجية بسيطة لتجربة git بأمان.
-- [Try Git](https://docs.github.com/en/get-started/quickstart/set-up-git ) -تعلم Git في 15 دقيقة من داخل متصفحك مجانًا.
+- [Think Like (a) Git](https://think-like-a-git.net/) - مقدمة Git "للمبتدئين المتقدمين". رغن انهم ما زالوا يعانون من أجل إعطائك استراتيجية بسيطة لتجربة git بأمان.
+- [Try Git](https://docs.github.com/en/get-started/quickstart/set-up-git) -تعلم Git في 15 دقيقة من داخل متصفحك مجانًا.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) -الحد الأدنى من مجموعة الأوامر المفيدة لـ Everyday Git.
 - [Oh shit, git!](https://ohshitgit.com/) - كيفية الخروج من الأمور المشتركة `git` وصفت الأخطاء بلغة إنجليزية بسيطة ؛ انظر أيضا [Dangit, git!](https://dangitgit.com/) للصفحة بدون أقسم.
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) -دروس متنوعة حول استخدام "git".
@@ -166,8 +181,8 @@
 - [Google Summer of Code](https://summerofcode.withgoogle.com/) - برنامج مدفوع يتم تشغيله سنويًا بواسطة Google ويركز على جذب المزيد من مطوري الطلاب إلى تطوير البرمجيات مفتوحة المصدر.
 - [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) -برنامج زمالة عالمي للنساء والمبرمجين غير الثنائيين حيث يعملون في مشاريع مفتوحة المصدر قائمة ويوسعون مجموعة مهاراتهم.
 - [Major League Hacking Fellowship](https://fellowship.mlh.io/) - بديل للتدريب عن بعد للتقنيين الطموحين حيث يبنون أو يساهمون في مشاريع مفتوحة المصدر.
-- [Girlscript Summer of Code](https://gssoc.girlscript.tech/) هو برنامج مفتوح المصدر  لاجل الطلبه للمشاركه في مشاريع وكسب الجوائز وشهادة لاتمام التدريب مدته ثلاثة اشهر من مارس الى مايو وهناك تدريب اخر في فصل الشتاء
-- [Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) هو برتامج تعليمي لمساعدة المبتدئيين في المشاركة في  المشاريع مفتوحة المصدر وتسهبل التعامل مع git, github
+- [Girlscript Summer of Code](https://gssoc.girlscript.tech/) هو برنامج مفتوح المصدر لاجل الطلبه للمشاركه في مشاريع وكسب الجوائز وشهادة لاتمام التدريب مدته ثلاثة اشهر من مارس الى مايو وهناك تدريب اخر في فصل الشتاء
+- [Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) هو برتامج تعليمي لمساعدة المبتدئيين في المشاركة في المشاريع مفتوحة المصدر وتسهبل التعامل مع git, github
 
 ## برامج مفتوحة المصدر للمشاركة فيها
 
@@ -179,6 +194,7 @@
 - [CNCF](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
 - [Microsoft Reinforcement learning](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
 
-## License
+## الرخصة
 
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />هذا العمل مرخص بموجب أ <a rel="license" href="">Creative Commons Attribution-ShareAlike 4.0 الرخصة الدولية</a>.
+
