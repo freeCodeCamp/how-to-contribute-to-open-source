@@ -143,11 +143,11 @@
 - [Git Tips](https://github.com/git-tips/tips) - সর্বাধিক ব্যবহৃত গিট টিপস এবং কৌশলগুলির সংগ্রহ।
 - [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - প্রায়শই কমিট করুন, পরে নিখুঁত করুন, একবার প্রকাশ করুন: গিট সম্পর্কিত সেরা অভ্যাস।
 - [Git Interactive Tutorial](https://learngitbranching.js.org/) - গিটকে সবচেয়ে ভিজ্যুয়াল এবং ইন্টারেক্টিভ উপায়ে শিখুন।
-- [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics) (1:12:39) - [কুনাল কুশওয়াহা] (https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw)এর সম্পূর্ণ গিট এবং গিটহাব ওয়াকথ্রু।
+- [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics)  [কুনাল কুশওয়াহা] (https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw)এর সম্পূর্ণ গিট এবং গিটহাব ওয়াকথ্রু।
 
 ## ওপেন সোর্স বইসমূহ
 
-- [Producing Open Source Software](https://producingoss.com/) - ওপেন সোর্স সফ্টওয়্যার তৈরি করা এবং ওপেন সোর্স বিকাশের মানবিক দিক সম্পর্কে একটি বই। এটি সফল প্রকল্পগুলি কীভাবে পরিচালনা করে, ব্যবহারকারী এবং বিকাশকারীদের প্রত্যাশা এবং বিনামূল্যে সফ্টওয়্যার সংস্কৃতি বর্ণনা করে। 
+- [Producing Open Source Software](https://producingoss.com/) - ওপেন সোর্স সফ্টওয়্যার তৈরি করা এবং ওপেন সোর্স বিকাশের মানবিক দিক সম্পর্কে একটি বই। এটি সফল প্রকল্পগুলি কীভাবে পরিচালনা করা হয়, ব্যবহারকারী এবং বিকাশকারীদের প্রত্যাশা এবং বিনামূল্যে সফ্টওয়্যার সংস্কৃতি বর্ণনা করে।
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - [https://opensource.com](https://opensource.com) থেকে ফ্রি ই-বুকের বিস্তৃত তালিকা সহ ওপেন সোর্স এবং ক্রমবর্ধমান ওপেন সোর্স আন্দোলন সম্পর্কে আরও জানুন।
 - [Software Release Practice HOWTO](https://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - এই HOWTO লিনাক্স এবং অন্যান্য ওপেন সোর্স প্রকল্পগুলির জন্য ভাল প্রকাশের অনুশীলনগুলি বর্ণনা করে। এই অনুশীলনগুলি অনুসরণ করে আপনি ব্যবহারকারীদের পক্ষে আপনার কোডটি তৈরি এবং এটি ব্যবহার করা এবং অন্যান্য বিকাশকারীদের আপনার কোড বুঝতে এবং এটি উন্নত করতে আপনাকে সহযোগিতা করার জন্য যথাসম্ভব সহজ করে তুলবে।
 - [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - ওপেন সোর্স ২.০ হ'ল আজকের প্রযুক্তি নেতাদের অন্তর্দৃষ্টি এবং চিন্তা-চেতনা প্রবন্ধের একটি সংকলন যা ১৯৯৯ বইয়ের মুক্ত বিকাশ থেকে প্রকাশিত বিপ্লবী ছবি আঁকার কাজ চালিয়ে যাচ্ছে।
