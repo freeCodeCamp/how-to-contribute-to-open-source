@@ -16,7 +16,7 @@
         <li><a href="./README-pt-BR.md"> Português (BR) </a></li>
         <li><a href="./README-DE.md"> Deutsch </a></li>
         <li><a href="./README-HE.md"> עברית </a></li>
-        <li><a href="./README-GR.md"> Ελληνικά </a></li>
+        <li><a href="./README-EL.md"> Ελληνικά </a></li>
         <li><a href="./README-FR.md"> Français </a></li>
         <li><a href="./README-TR.md"> Turkish </a></li>
         <li><a href="./README-KO.md"> 한국어 </a></li>
