@@ -45,23 +45,23 @@ Wenn du Fragen oder Kommentare hast, eröffne bitte ein neues Issue.
 
 ## Open-Source-Beiträge im Allgemeinen
 
-- [The Definitive Guide to Contributing to Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) von [@DoomHammerNG](https://twitter.com/DoomHammerNG)
+- [The Definitive Guide to Contributing to Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) von [@DoomHammerNG](https://twitter.com/DoomHammerNG).
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials von DigitalOcean, die dich beim
   erfolgreichen Erstellen von Beiträgen auf GitHub anleiten.
 - [Issuehub.io](http://issuehub.pro/) - ein Tool, um auf GitHub nach Issues mit speziellen Labeln und Sprachen zu suchen.
 - [Code Triage](https://www.codetriage.com/) - noch ein sehr schönes Tool, um nach Sprache sortiert beliebte Repositories und Issues zu finden.
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - ein GitHub-Repository, das Projekte mit guten Einsteiger\*innen-Bugs sammelt und
   mit entsprechenden Labels versieht.
-- [Open Source Guides](https://opensource.guide/) - eine Sammlung von Materialien für Einzelpersonen, Gruppen und Unternehmen, die lernen wollen wie man
+- [Open Source Guides](https://opensource.guide/) - eine Sammlung von Materialien für Einzelpersonen, Gruppen und Unternehmen, die lernen wollen, wie man
   Open-Source-Projekte selbst erstellt oder zu ihnen beiträgt.
-- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Regeln für das Verhalten auf GitHub
+- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Regeln für das Verhalten auf GitHub.
 - [GitHub Guides](https://docs.github.com/en) - grundsätzliche Einführungen zur effizienten Nutzung von GitHub.
-- [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Die GitHub-Arbeitsweise lernen durch Beiträge für ein simuliertes Tutorial-Projekt.
-- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Die Einführung der Linux
+- [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - die GitHub-Arbeitsweise durch Beiträge für ein simuliertes Tutorial-Projekt kennen lernen.
+- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - die Einführung der Linux
   Foundation in Open-Source-Projekte.
-- [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - Ein Open-Source-Knigge von Kent C. Dodds und Sarah Drasner.
+- [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - ein Open-Source-Knigge von Kent C. Dodds und Sarah Drasner.
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - kuratierte Liste von Materialien und Möglichkeiten für
-  Studierende, die neue Programmiersprachen lernen.
+  Studierende, um neue Programmiersprachen zu lernen.
 - [Contributing to your First Open Source Project: A Practical
   Approach](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - eine Schritt-für-Schritt-Anleitung zum
   Beitragen zu deinem ersten Open-Source-Projekt von [Abati Adewale](https://www.acekyd.com).
@@ -88,8 +88,7 @@ Suchbegriffe, die direkt auf für Einsteiger\*innen geeignete Issues auf GitHub 
   der Behebung des Bugs nicht mehr weiterkommst.
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - eine Seite, die sich dem Finden von Bugs auf Bugzilla widmet.
 - [Firefox DevTools](http://firefox-dev.tools/) - eine Seite, die sich Bugs der Developer-Tools des Firefox-Browsers widmet.
-  Interessen heraus, wo du helfen kannst.
-- [Start Mozilla](https://twitter.com/StartMozilla) - ein Twitter-Account der über Issues twittert, die gut geeignet für neue Entwickler\*innen sind.
+- [Start Mozilla](https://twitter.com/StartMozilla) - ein Twitter-Account, der über Issues twittert, die gut geeignet für neue Entwickler\*innen sind.
 
 ## Nützliche Artikel für Open-Source-Mitarbeiter\*innen
 
@@ -112,29 +111,29 @@ Suchbegriffe, die direkt auf für Einsteiger\*innen geeignete Issues auf GitHub 
 
 - [Think Like (a) Git](https://think-like-a-git.net/) - Git-Einführung für "Fortgeschrittene Anfänger\*innen", welche ihnen eine Strategie an die Hand gibt, um
   problemlos und sicher mit Git zu experimentieren.
-- [Try Git](https://docs.github.com/de/get-started/quickstart/set-up-git) - Git lernen innerhalb von fünfzehn Minuten aus dem Browser heraus, kostenlos.
-- [Everyday Git](https://git-scm.com/docs/giteveryday) - Eine hilfreiche Minimalversion der grundsätzlichsten Git-Kommandos.
+- [Try Git](https://docs.github.com/de/get-started/quickstart/set-up-git) - Git innerhalb von fünfzehn Minuten aus dem Browser heraus lernen - und zwar kostenlos.
+- [Everyday Git](https://git-scm.com/docs/giteveryday) - eine hilfreiche Minimalversion der grundsätzlichsten Git-Kommandos.
 - [Oh shit, git!](http://ohshitgit.com/) - wie man die typischsten Git-Fehler vermeidet.
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/) - zahlreiche Tutorials über die Nutzung von `git`.
-- [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
-- [freeCodeCamp's Wiki on Git Resources](https://www.freecodecamp.org/forum/t/wiki-git-resources/13136)
-- [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - GitHub Talk darüber, wie man einen Pull-Request erstellt.
-- [GitHub Learning Resources](https://help.github.com/articles/git-and-github-learning-resources/) - Git und GitHub Lernmaterialien.
-- [Pro Git](https://git-scm.com/book/en/v2) - Das komplette Pro-Git-Buch, verfasst von Scott Chacon und Ben Straub (Apress).
+- [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) - eine PDF-Datei mit Erklärungen zu `git`-Befehlen.
+- [freeCodeCamp's Wiki on Git Resources](https://www.freecodecamp.org/forum/t/wiki-git-resources/13136) - eine Sammlung voller Artikel und Erklärungen zu Problemen aller Art.
+- [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - GitHub-Talk darüber, wie man einen Pull-Request erstellt.
+- [GitHub Learning Resources](https://help.github.com/articles/git-and-github-learning-resources/) - Git- und GitHub-Lernmaterialien.
+- [Pro Git](https://git-scm.com/book/en/v2) - das komplette Pro-Git-Buch, verfasst von Scott Chacon und Ben Straub (Apress).
 - [Git-it](https://github.com/jlord/git-it-electron) - Schritt-für-Schritt-Git-Tutorial als Desktopanwendung.
 - [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - was zu tun ist, wenn die Dinge schiefgehen.
-- [A Comprehensive Introduction To Git and GitHub](https://codeburst.io/git-good-part-a-e0d826286a2a) - Eine Anleitung von Madhav Bahl für
-  Einsteiger\*innen. Enthält Informationen über GitHub als Service und Konzepte der Git-Versionskontrolle.
-- [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - Eine vollständige Slide-Einführung über Git und GitHub auf Spanisch. Una guía completa de diapositivas sobre git y GitHub explicadas en Español.
-- [Git Kraken](https://www.gitkraken.com/git-client) - Visuelle, plattformübergreifende und interaktive `git` Desktopanwendung.
+- [A Comprehensive Introduction To Git and GitHub](https://codeburst.io/git-good-part-a-e0d826286a2a) - eine Anleitung von Madhav Bahl für
+  Einsteiger\*innen. Es enthält Informationen über GitHub als Service und Konzepte der Git-Versionskontrolle.
+- [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - eine vollständige Slide-Einführung über Git und GitHub auf Spanisch.
+- [Git Kraken](https://www.gitkraken.com/git-client) - visuelle, plattformübergreifende und interaktive `git` Desktopanwendung.
 
 ## Open-Source-Bücher
 
 - [Producing Open Source Software](http://producingoss.com/) - ein Buch über die menschliche Seite der Open-Source-Entwicklung. Beschreibt, wie erfolgreiche
   Projekte agieren, die Erwartungen der Nutzer\*innen und Entwickler\*innen und die Kultur freier Software.
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - lerne mehr über Freie Software und die Freie-Software-Bewegung durch eine Reihe von
-  verständlichen EBooks von https://opensource.com.
-- [Software Release Practice HOWTO](http://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - dieses How-To beschreibt gute Veröffentlichungspraxis für Linux
+  verständlichen E-Books von https://opensource.com.
+- [Software Release Practice HOWTO](http://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - dieses How-To beschreibt eine gute Veröffentlichungspraxis für Linux
   und andere Freie-Software-Projekte. Wenn du dich an diese Praxis hältst, machst du es anderen Nutzer\*innen einfacher, deinen Code zu nutzen, zu verstehen und
   mit ihm zu arbeiten.
 - [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - "Open Sources 2.0" ist eine Essaysammlung
@@ -146,12 +145,12 @@ Suchbegriffe, die direkt auf für Einsteiger\*innen geeignete Issues auf GitHub 
 - [Up For Grabs](http://up-for-grabs.net/#/) - enthält Projekte mit einsteiger\*innenfreundlichen Issues.
 - [First Timers Only](http://www.firsttimersonly.com/) - eine Liste mit Bugs, die das Label "first-timers-only" haben.
 - [First Contributions](https://firstcontributions.github.io/) - mache deinen ersten Open-Source-Beitrag innerhalb von fünf Minuten. Ein Tool, das
-  Einsteiger\*innen auf den Weg zum ersten Beitrag hilft.
+  Einsteiger\*innen auf dem Weg zum ersten Beitrag hilft.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - ein Programm, das zu Open-Source-Beiträgen motiviert. Gewinne Preise wie T-Shirts oder Sticker,
   indem du mindestens fünf Pull-Requests im Oktober machst.
 - [24 Pull Requests](https://24pullrequests.com) - "24 Pull Requests" ist ein Projekt, das für Open-Source-Kollaborationen im Dezember wirbt.
 
-## Open-Source-Programme an denen du teilnehmen kannst
+## Open-Source-Programme, an denen du teilnehmen kannst
 
 - [Bundesnachrichtendienst (BND) | Summer of Code](https://www.bnd.bund.de/DE/Karriere/SummerOfCode/SummerOfCode_node.html)
 - [Google Summer of Code](https://summerofcode.withgoogle.com)
