@@ -27,7 +27,7 @@ jobs:
         # Scrape ISO 639 language codes from the Wiki page
         wget -qO- https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes | \
         nokogiri -e 'puts $_.css(".wikitable td:nth-child(2)").map(&:text)' | \
-        sed -nr '/^.{0,2}$/p' > iso639.txt  # Grab only two letter values
+        sed -nr '/^.{0,2}$/p' | tr '[:lower:]' '[:upper:]' > iso639.txt  # Grab only two letter values
 
         # Debug statement
         echo "Show the information of iso639.txt:"
