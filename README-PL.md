@@ -7,7 +7,7 @@
         <li><a href="./README.md"> English </a></li>
         <li><a href="./README-MR.md"> मराठी </a></li>
         <li><a href="./README-BN.md"> বাংলা </a></li>
-        <li><a href="./README-CN.md"> 中文 </a></li>
+        <li><a href="./README-ZH.md"> 中文 </a></li>
         <li><a href="./README-RU.md"> русский </a></li>
         <li><a href="./README-RO.md"> Românesc </a></li>
         <li><a href="./README-IT.md"> Italiano </a></li>
@@ -45,14 +45,15 @@ Jeżeli masz jakiekolwiek pytania bądź komentarz stwórz odpowiedni Issue *(an
 
 **Zawartość**
 
-- [Ogólne wnoszenie własnego wkładu do otwartego oprogramowania](#Ogólne-wnoszenie-własnego-wkładu-do-otwartego-oprogramowania)
-- [Bezpośrednie kategorie wyszukiwania kwestii na GitHubie](#Bezpośrednie-kategorie-wyszukiwania-kwestii-na-GitHubie)
-- [Środowisko kontrybucji Mozilli](#Środowisko-kontrybucji-Mozilli)
-- [Użyteczne artykuły dla początkujących w kontrybuowaniu do otwartego oprogramowania](#Użyteczne-artykuły-dla-początkujących-w-kontrybuowaniu-do-otwartego-oprogramowania)
-- [Używanie kontroli wersji](#Używanie-kontroli-wersji)
-- [Książki o otwartym oprogramowaniu](#Książki-o-otwartym-oprogramowaniu)
-- [Inicjatywy kontrybucji w otwartym oprogramowaniu](#Inicjatywy-kontrybucji-w-otwartym-oprogramowaniu)
-- [Licencja](#Licencja)
+- [Witamy początkujących kontrybutorów (współautorów)!](#witamy-początkujących-kontrybutorów-współautorów)
+  - [Ogólne wnoszenie własnego wkładu do otwartego oprogramowania](#ogólne-wnoszenie-własnego-wkładu-do-otwartego-oprogramowania)
+  - [Bezpośrednie kategorie wyszukiwania kwestii na GitHubie](#bezpośrednie-kategorie-wyszukiwania-kwestii-na-githubie)
+  - [Środowisko kontrybucji Mozilli](#środowisko-kontrybucji-mozilli)
+  - [Użyteczne artykuły dla początkujących w kontrybuowaniu do otwartego oprogramowania](#użyteczne-artykuły-dla-początkujących-w-kontrybuowaniu-do-otwartego-oprogramowania)
+  - [Używanie kontroli wersji](#używanie-kontroli-wersji)
+  - [Książki o otwartym oprogramowaniu](#książki-o-otwartym-oprogramowaniu)
+  - [Inicjatywy kontrybucji w otwartym oprogramowaniu](#inicjatywy-kontrybucji-w-otwartym-oprogramowaniu)
+  - [Licencja](#licencja)
 
 ## Ogólne wnoszenie własnego wkładu do otwartego oprogramowania
 - [Poradnik Open Source](http://opensource.guide/pl/how-to-contribute/) **[PL]** - Strona w języku polskim poświęcona projektom otwartego oprogramowania.

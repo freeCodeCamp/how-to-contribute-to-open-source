@@ -7,7 +7,7 @@
         <li><a href="./README.md"> English </a></li>
         <li><a href="./README-MR.md"> मराठी </a></li>
         <li><a href="./README-BN.md"> বাংলা </a></li>
-        <li><a href="./README-CN.md"> 中文 </a></li>
+        <li><a href="./README-ZH.md"> 中文 </a></li>
         <li><a href="./README-RU.md"> русский </a></li>
         <li><a href="./README-RO.md"> Românesc </a></li>
         <li><a href="./README-IT.md"> Italiano </a></li>
@@ -45,15 +45,15 @@ Als je vragen of opmerkingen hebt, maak dan een probleem aan.
 
 **Inhoudsopgave**
 
-- [Bijdragen aan Open Source in het algemeen](#bijdragen-aan-open-source-in-het-algemeen)
-- [Directe GitHub-zoekopdrachten](#directe-github-zoekopdrachten)
-- [Het bijdrageneconomie van Mozilla](#het-bijdrageneconomie-van-mozilla)
-- [Nuttige artikelen voor nieuwe Open Source-bijdragers](#nuttige-artikelen-voor-nieuwe-open-source-bijdragers)
-- [Gebruik van Versiebeheer](#gebruik-van-versiebeheer)
-- [Boeken over Open Source](#boeken-over-open-source)
-- [Initiatieven voor Open Source-bijdragen](#initiatieven-voor-open-source-bijdragen)
-- [Open Source-programma's om aan deel te nemen](#open-source-programmas-om-aan-deel-te-nemen)
-- [Licentie](#licentie)
+- [Welkom Nieuwe Bijdragers aan Open Source!](#welkom-nieuwe-bijdragers-aan-open-source)
+  - [Bijdragen aan Open Source in het algemeen](#bijdragen-aan-open-source-in-het-algemeen)
+  - [Directe GitHub-zoekopdrachten](#directe-github-zoekopdrachten)
+  - [Het bijdrageneconomie van Mozilla](#het-bijdrageneconomie-van-mozilla)
+  - [Nuttige artikelen voor nieuwe Open Source-bijdragers](#nuttige-artikelen-voor-nieuwe-open-source-bijdragers)
+  - [Gebruik van Versiebeheer](#gebruik-van-versiebeheer)
+  - [Boeken over Open Source](#boeken-over-open-source)
+  - [Initiatieven voor Open Source-bijdragen](#initiatieven-voor-open-source-bijdragen)
+  - [Open Source-programma's om aan deel te nemen](#open-source-programmas-om-aan-deel-te-nemen)
 
 ## Bijdragen aan Open Source in het algemeen
 

@@ -4,7 +4,7 @@
         <td><a href="./README.md"> English </a></td>
         <td><a href="./README-MR.md"> मराठी </a></td>
         <td><a href="./README-BN.md"> বাংলা </a></td>
-        <td><a href="./README-CN.md"> 中文 </a></td>
+        <td><a href="./README-ZH.md"> 中文 </a></td>
         <td><a href="./README-RU.md"> русский </a></td>
         <td><a href="./README-RO.md"> Românesc </a></td>
         <td><a href="./README-IT.md"> Italiano </a></td>
@@ -32,14 +32,15 @@ Jika Anda memiliki pertanyaan atau komentar, silahkan membuat issue baru.
 
 **Daftar Isi**
 
-- [Berkontribusi Ke Open Source Secara Umum](#berkontribusi-ke-open-source-secara-umum)
-- [Pencarian Proyek Open Source Di Github Secara Langsung](#pencarian-proyek-open-source-di-github-secara-langsung)
-- [Ekosistem Kontributor Mozilla](#ekosistem-kontributor-mozilla)
-- [Artikel Bermanfaat Untuk Para Kontributor Proyek Open Source](#artikel-bermanfaat-untuk-para-kontributor-proyek-open-source)
-- [Menggunakan Version Control](#menggunakan-version-control)
-- [Buku-buku Tentang Open Source](#buku-buku-tentang-open-source)
-- [Kontribusi Inisiatif Open Source](#kontribusi-inisiatif-open-source)
-- [Lisensi](#lisensi)
+- [Selamat Datang Kontributor _Open Source_ Untuk Pemula!](#selamat-datang-kontributor-open-source-untuk-pemula)
+  - [Berkontribusi Ke Open Source Secara Umum](#berkontribusi-ke-open-source-secara-umum)
+  - [Pencarian Proyek Open Source Di Github Secara Langsung](#pencarian-proyek-open-source-di-github-secara-langsung)
+  - [Ekosistem Kontributor Mozilla](#ekosistem-kontributor-mozilla)
+  - [Artikel Bermanfaat Untuk Para Kontributor Proyek Open Source](#artikel-bermanfaat-untuk-para-kontributor-proyek-open-source)
+  - [Menggunakan Version Control](#menggunakan-version-control)
+  - [Buku-buku Tentang Open Source](#buku-buku-tentang-open-source)
+  - [Kontribusi Inisiatif Open Source](#kontribusi-inisiatif-open-source)
+  - [Lisensi](#lisensi)
 
 ## Berkontribusi Ke Open Source Secara Umum
 

@@ -7,7 +7,7 @@
         <li><a href="./README.md"> English </a></li>
         <li><a href="./README-MR.md"> मराठी </a></li>
         <li><a href="./README-BN.md"> বাংলা </a></li>
-        <li><a href="./README-CN.md"> 中文 </a></li>
+        <li><a href="./README-ZH.md"> 中文 </a></li>
         <li><a href="./README-RU.md"> русский </a></li>
         <li><a href="./README-RO.md"> Românesc </a></li>
         <li><a href="./README-IT.md"> Italiano </a></li>
@@ -35,14 +35,15 @@ Jika anda jumpa sumber tambahan, sila menyumbang dengan membuat satu permintaan 
 Jika anda mempunyai soalan atau komen, sila membuat satu isu tentang soalan atau komen tersebut.
 
 **Kandungan**
-- [Menyumbang kepada Sumber Terbuka secara umum](#Menyumbang-kepada-Sumber-Terbuka-secara-umum)
-- [Carian GitHub secara langsung](#Carian-GitHub-secara-langsung)
-- [Ekosistem penyumbang Mozilla](#Ekosistem-penyumbang-Mozilla)
-- [Artikel bermanfaat untuk penyumbang baru dalam Sumber Terbuka](#Artikel-bermanfaat-untuk-penyumbang-baru-dalam-Sumber-Terbuka)
-- [Mengguna Kawalan Versi](#Mengguna-Kawalan-Versi)
-- [Buku untuk Sumber Terbuka](#Buku-untuk-Sumber-Terbuka)
-- [Sumbangan inisiatif Sumber Terbuka](#Sumbangan-inisiatif-Sumber-Terbuka)
-- [Lesen](#Lesen)
+- [Selamat datang ke penyumbang sumber terbuka newbie!](#selamat-datang-ke-penyumbang-sumber-terbuka-newbie)
+  - [Menyumbang kepada Sumber Terbuka secara umum](#menyumbang-kepada-sumber-terbuka-secara-umum)
+  - [Carian GitHub secara langsung](#carian-github-secara-langsung)
+  - [Ekosistem penyumbang Mozilla](#ekosistem-penyumbang-mozilla)
+  - [Artikel bermanfaat untuk penyumbang baru dalam Sumber Terbuka](#artikel-bermanfaat-untuk-penyumbang-baru-dalam-sumber-terbuka)
+  - [Menggunakan Kawalan Versi](#menggunakan-kawalan-versi)
+  - [Buku untuk Sumber Terbuka](#buku-untuk-sumber-terbuka)
+  - [Sumbangan inisiatif Sumber Terbuka](#sumbangan-inisiatif-sumber-terbuka)
+  - [Lesen](#lesen)
 
 ## Menyumbang kepada Sumber Terbuka secara umum
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) karya [@DoomHammerNG](https://twitter.com/DoomHammerNG)

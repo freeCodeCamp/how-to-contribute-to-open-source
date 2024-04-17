@@ -4,7 +4,7 @@
         <td><a href="./README.md"> English </a></td>
         <td><a href="./README-MR.md"> मराठी </a></td>
         <td><a href="./README-BN.md"> বাংলা </a></td>
-        <td><a href="./README-CN.md"> 中文 </a></td>
+        <td><a href="./README-ZH.md"> 中文 </a></td>
         <td><a href="./README-RU.md"> русский </a></td>
         <td><a href="./README-RO.md"> Românesc </a></td>
         <td><a href="./README-IT.md"> Italiano </a></td>
@@ -32,14 +32,15 @@ Se trovi risorse aggiuntive, ti preghiamo di contribuire con una pull request.
 Se hai domande o commenti, per favore crea un issue.
 
 **Sommario**
-- [Contribuire all'open source in generale](#contribuire-allopen-source-in-generale)
-- [Ricerche GitHub dirette](#ricerche-github-dirette)
-- [L'ecosistema del contributor di Mozilla](#lecosistema-del-contributore-di-mozilla)
-- [Articoli utili per i nuovi contributors all'open source](#articoli-utili-per-i-nuovi-contributors-allopen-source)
-- [L'uso del version control](#luso-del-version-control)
-- [Libri sull'Open Source](#libri-sullopen-source)
-- [Iniziative per contribuire all Open Source](#iniziative-per-contribuire-all-open-source)
-- [Licenza](#licenza)
+- [Benvenuti, nuovi open source contributors!](#benvenuti-nuovi-open-source-contributors)
+  - [Contribuire all'open source in generale](#contribuire-allopen-source-in-generale)
+  - [Ricerche GitHub dirette](#ricerche-github-dirette)
+  - [L'ecosistema del contributore di Mozilla](#lecosistema-del-contributore-di-mozilla)
+  - [Articoli utili per i nuovi contributors all'open source](#articoli-utili-per-i-nuovi-contributors-allopen-source)
+  - [L'uso del version control](#luso-del-version-control)
+  - [Libri sull'Open Source](#libri-sullopen-source)
+  - [Iniziative per contribuire all Open Source](#iniziative-per-contribuire-all-open-source)
+  - [Licenza](#licenza)
 
 ## Contribuire all'open source in generale
 

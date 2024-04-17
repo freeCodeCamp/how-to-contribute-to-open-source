@@ -4,7 +4,7 @@
         <td><a href="./README.md"> English </a></td>
         <td><a href="./README-MR.md"> मराठी </a></td>
         <td><a href="./README-BN.md"> বাংলা </a></td>
-        <td><a href="./README-CN.md"> 中文 </a></td>
+        <td><a href="./README-ZH.md"> 中文 </a></td>
         <td><a href="./README-RU.md"> русский </a></td>
         <td><a href="./README-RO.md"> Românesc </a></td>
         <td><a href="./README-IT.md"> Italiano </a></td>
@@ -32,14 +32,15 @@ Si tienes alguna pregunta o comentario, por favor crea un `issue` en este reposi
 
 **Índice**
 
-- [Contribuyendo al código abierto en general](#contribuyendo-al-c%C3%B3digo-abierto-en-general)
-- [Búsquedas directas en GitHub](#busquedas-directas-en-github)
-- [Ecosistema de colaboradores de Mozilla](#ecosistema-de-colaboradores-de-mozilla)
-- [Artículos útiles para nuevos colaboradores de código abierto](#art%C3%ADculos-%C3%BAtiles-para-nuevos-colaboradores-de-c%C3%B3digo-abierto)
-- [Usando control de versiones](#usando-control-de-versiones)
-- [Libros de código abierto](#libros-de-c%C3%B3digo-abierto)
-- [Iniciativas de contribución de código abierto](#iniciativas-de-contribuci%C3%B3n-de-c%C3%B3digo-abierto)
-- [Licencia](#licencia)
+- [¡Bienvenido aprendiz colaborador de código abierto!](#bienvenido-aprendiz-colaborador-de-código-abierto)
+  - [Contribuyendo al código abierto en general](#contribuyendo-al-código-abierto-en-general)
+  - [Búsquedas directas en GitHub](#búsquedas-directas-en-github)
+  - [Ecosistema de colaboradores de Mozilla](#ecosistema-de-colaboradores-de-mozilla)
+  - [Artículos útiles para nuevos colaboradores de código abierto](#artículos-útiles-para-nuevos-colaboradores-de-código-abierto)
+  - [Usando control de versiones](#usando-control-de-versiones)
+  - [Libros de código abierto](#libros-de-código-abierto)
+  - [Iniciativas de contribución de código abierto](#iniciativas-de-contribución-de-código-abierto)
+  - [Licencia](#licencia)
 
 ## Contribuyendo al código abierto en general
 

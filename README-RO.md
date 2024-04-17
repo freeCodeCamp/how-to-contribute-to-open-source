@@ -4,7 +4,7 @@
         <td><a href="./README.md"> English </a></td>
         <td><a href="./README-MR.md"> मराठी </a></td>
         <td><a href="./README-BN.md"> বাংলা </a></td>
-        <td><a href="./README-CN.md"> 中文 </a></td>
+        <td><a href="./README-ZH.md"> 中文 </a></td>
         <td><a href="./README-RU.md"> русский </a></td>
         <td><a href="./README-RO.md"> Românesc </a></td>
         <td><a href="./README-IT.md"> Italiano </a></td>
@@ -31,13 +31,14 @@ Dacă găsiți resurse suplimentare, vă rugăm să contribuiți cu o solicitare
 Dacă aveți întrebări sau comentarii, vă rugăm să creați o problemă (issue).
 
 **Cuprins**
-- [Contribuția la open source în general](#contribu%C8%9Bia-la-open-source-%C3%AEn-general)
-- [Căutări directe pe GitHub](#c%C4%83ut%C4%83ri-directe-pe-github)
-- [Ecosistemul contributorului Mozilla](#ecosistemul-contributorului-mozilla)
-- [Articole utile pentru noi contribuitorii open source](#articole-utile-pentru-noi-contribuitori-open-source)
-- [Utilizarea controlului versiunii (version control)](#utilizarea-controlului-versiunii-version-control)
-- [Cărți Open Source](#c%C4%83r%C8%9Bi-open-source)
-- [Licența](#licen%C8%9Ba)
+- [Bine ați venit, noi contribuitori open source!](#bine-ați-venit-noi-contribuitori-open-source)
+  - [Contribuția la open source în general](#contribuția-la-open-source-în-general)
+  - [Căutări directe pe GitHub](#căutări-directe-pe-github)
+  - [Ecosistemul contributorului Mozilla](#ecosistemul-contributorului-mozilla)
+  - [Articole utile pentru noi contribuitori open source](#articole-utile-pentru-noi-contribuitori-open-source)
+  - [Utilizarea controlului versiunii (version control)](#utilizarea-controlului-versiunii-version-control)
+  - [Cărți Open Source](#cărți-open-source)
+  - [Licența](#licența)
 
 ## Contribuția la open source în general
 - [Introducere la Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutoriale de la DigitalOcean pentru a vă ghida pe drumul spre succesul contribuției aici pe GitHub.

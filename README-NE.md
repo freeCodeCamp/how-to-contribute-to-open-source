@@ -4,7 +4,7 @@
         <td><a href="./README.md"> English </a></td>
         <td><a href="./README-MR.md"> मराठी </a></td>
         <td><a href="./README-BN.md"> বাংলা </a></td>
-        <td><a href="./README-CN.md"> 中文 </a></td>
+        <td><a href="./README-ZH.md"> 中文 </a></td>
         <td><a href="./README-RU.md"> русский </a></td>
         <td><a href="./README-RO.md"> Română </a></td>
         <td><a href="./README-IT.md"> Italiano </a></td>
@@ -32,14 +32,15 @@
 
 **सामग्रीहरू**
 
-- [सामान्यमा खुला स्रोतमा योगदान](#सामान्यमा-खुला-स्रोतमा-योगदान)
-- [प्रत्यक्ष GitHub खोजीहरू](#प्रत्यक्ष-GitHub-खोजीहरू)
-- [मोजिल्ला योगदानकर्ताको ईकोसिस्टम](#मोजिल्ला-योगदानकर्ताको-ईकोसिस्टम)
-- [नयाँ Open Source योगदानकर्ताहरूको लागि उपयोगी लेखहरू](#नयाँ-Open-Source-योगदानकर्ताहरूको-लागि-उपयोगी-लेखहरू)
-- [संस्करण नियन्त्रण version control प्रयोग गर्दैदै](#संस्करण-नियन्त्रण-version-control-प्रयोग-गर्दैदै)
-- [Open Source पुस्तकहरू](#Open-Source-पुस्तकहरू)
-- [Open Source योगदान पहलहरू](#Open-Source-योगदान-पहलहरू)
-- [लाइसेन्स](#लाइसेन्स)
+- [नौसिखिया Open Source योगदानकर्ताहरूलाई स्वागत छ!](#नौसिखिया-open-source-योगदानकर्ताहरूलाई-स्वागत-छ)
+  - [सामान्यमा खुला स्रोतमा योगदान](#सामान्यमा-खुला-स्रोतमा-योगदान)
+  - [प्रत्यक्ष GitHub खोजीहरू](#प्रत्यक्ष-github-खोजीहरू)
+  - [मोजिल्ला योगदानकर्ताको ईकोसिस्टम](#मोजिल्ला-योगदानकर्ताको-ईकोसिस्टम)
+  - [नयाँ खुला स्रोत योगदानकर्ताहरूको लागि उपयोगी लेखहरू](#नयाँ-खुला-स्रोत-योगदानकर्ताहरूको-लागि-उपयोगी-लेखहरू)
+  - [संस्करण नियन्त्रण (version control)प्रयोग गर्दै](#संस्करण-नियन्त्रण-version-controlप्रयोग-गर्दै)
+  - [Open Source पुस्तकहरू](#open-source-पुस्तकहरू)
+  - [Open Source योगदान पहलहरू](#open-source-योगदान-पहलहरू)
+  - [लाइसेन्स](#लाइसेन्स)
 
 ## सामान्यमा खुला स्रोतमा योगदान
 - [@DoomHammerNG](https://twitter.com/DoomHammerNG)[ द्वारा The Definitive Guide to Contributing to Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282)

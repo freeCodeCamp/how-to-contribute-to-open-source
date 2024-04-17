@@ -7,7 +7,7 @@
         <li><a href="./README.md"> English </a></li>
         <li><a href="./README-MR.md"> मराठी </a></li>
         <li><a href="./README-BN.md"> বাংলা </a></li>
-        <li><a href="./README-CN.md"> 中文 </a></li>
+        <li><a href="./README-ZH.md"> 中文 </a></li>
         <li><a href="./README-RU.md"> русский </a></li>
         <li><a href="./README-RO.md"> Românesc </a></li>
         <li><a href="./README-IT.md"> Italiano </a></li>
@@ -37,15 +37,16 @@ Tukaj je seznam virov za ljudi, ki so novi pri sodelovanju pri odprtokodnih proj
 
 **Vsebina**
 
-- [Prispevanje odprtokodnim projektom v splošnem](#prispevanje-odprtokodnim-projektom-v-splošnem)
-- [Neposredni GitHub zadetki](#neposredni-GitHub-zadetki)
-- [Mozilla ekosistem prispevanja](#mozilla-ekosistem-prispevanja)
-- [Uporabni članki za nove pri prispevanju odprtokodnim projektom](#uporabni-članki-za-nove-pri-prispevanju-odprtokodnim-projektom)
-- [Uporabljanje Version Control](#uporabljanje-Version-Control)
-- [Knjige o odprtokodnih projektih](#knjige-o-odprtokodnih-projektih)
-- [Pobude za odprtokodne prispevke](#pobude-za-odprtokodne-prispevke)
-- [Odprtokodni programi za sodelovanje](#odprtokodni-programi-za-sodelovanje)
-- [Licenca](#licenca)
+- [Dobrodošli novinci odprtokodnih projektov!](#dobrodošli-novinci-odprtokodnih-projektov)
+  - [Prispevanje odprtokodnim projektom v splošnem](#prispevanje-odprtokodnim-projektom-v-splošnem)
+  - [Neposredni GitHub zadetki](#neposredni-github-zadetki)
+  - [Mozilla ekosistem prispevanja](#mozilla-ekosistem-prispevanja)
+  - [Uporabni članki za nove pri prispevanju odprtokodnim projektom](#uporabni-članki-za-nove-pri-prispevanju-odprtokodnim-projektom)
+  - [Uporabljanje Version Control](#uporabljanje-version-control)
+  - [Knjige o odprtokodnih projektih](#knjige-o-odprtokodnih-projektih)
+  - [Pobude za odprtokodne prispevke](#pobude-za-odprtokodne-prispevke)
+  - [Odprtokodni programi za sodelovanje](#odprtokodni-programi-za-sodelovanje)
+  - [Licenca](#licenca)
 
 ## Prispevanje odprtokodnim projektom v splošnem
 

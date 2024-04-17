@@ -4,7 +4,7 @@
         <td><a href="./README.md"> English </a></td>
         <td><a href="./README-MR.md"> मराठी </a></td>
         <td><a href="./README-BN.md"> বাংলা </a></td>
-        <td><a href="./README-CN.md"> 中文 </a></td>
+        <td><a href="./README-ZH.md"> 中文 </a></td>
         <td><a href="./README-RU.md"> русский </a></td>
         <td><a href="./README-RO.md"> Românesc </a></td>
         <td><a href="./README-IT.md"> Italiano </a></td>
@@ -31,14 +31,15 @@
 Αν έχετε ερωτήσεις ή σχόλια, δημιουργήστε ένα issue.
 
 **Περιεχόμενα**
-- [Γενικά για τη συνεισφορά Ανοικτού Κώδικα](#Γενικά-για-τη-συνεισφορά-Ανοικτού-Κώδικα)
-- [Direct GitHub searches](#direct-github-searches)
-- [Mozilla's contributor ecosystem](#mozillas-contributor-ecosystem)
-- [Χρήσιμα άρθρα για αρχάριους στη συνεισφορά Ανοικτού Κώδικα](#Χρήσιμα-άρθρα-για-αρχάριους-στη-συνεισφορά-Ανοικτού-Κώδικα)
-- [Χρήση Version Control](#Χρήση-Version-Control)
-- [Βιβλία σχετικά με Ανοικτό κώδικα](#Βιβλία-σχετικά-με-Ανοικτό-κώδικα)
-- [Open Source contribution initiatives](#Open-Source-contribution-initiatives)
-- [Άδεια χρήσης](#Άδεια-χρήσης)
+- [Καλώς ήρθατε στη συνεισφορά λογισμικού Ανοικτού Κώδικα!](#καλώς-ήρθατε-στη-συνεισφορά-λογισμικού-ανοικτού-κώδικα)
+  - [Γενικά για τη συνεισφορά Ανοικτού Κώδικα](#γενικά-για-τη-συνεισφορά-ανοικτού-κώδικα)
+  - [Direct GitHub searches](#direct-github-searches)
+  - [Mozilla's contributor ecosystem](#mozillas-contributor-ecosystem)
+  - [Χρήσιμα άρθρα για αρχάριους στη συνεισφορά Ανοικτού Κώδικα](#χρήσιμα-άρθρα-για-αρχάριους-στη-συνεισφορά-ανοικτού-κώδικα)
+  - [Χρήση Version Control](#χρήση-version-control)
+  - [Βιβλία σχετικά με Ανοικτό κώδικα](#βιβλία-σχετικά-με-ανοικτό-κώδικα)
+  - [Open Source contribution initiatives](#open-source-contribution-initiatives)
+  - [Άδεια χρήσης](#άδεια-χρήσης)
 
 ## Γενικά για τη συνεισφορά Ανοικτού Κώδικα
 - [The Definitive Guide to Contributing to Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)

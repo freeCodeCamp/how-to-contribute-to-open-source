@@ -4,7 +4,7 @@
         <td><a href="./README.md"> English </a></td>
         <td><a href="./README-MR.md"> मराठी </a></td>
         <td><a href="./README-BN.md"> বাংলা </a></td>
-        <td><a href="./README-CN.md"> 中文 </a></td>
+        <td><a href="./README-ZH.md"> 中文 </a></td>
         <td><a href="./README-RU.md"> русский </a></td>
         <td><a href="./README-RO.md"> Românesc </a></td>
         <td><a href="./README-IT.md"> Italiano </a></td>
@@ -28,11 +28,11 @@
 
 ## 目次
 
-- [オープンソース貢献初心者のみなさんようこそ!](#オープンソース貢献初心者のみなさんようこそ!)
+- [オープンソース貢献初心者のみなさんようこそ!](#オープンソース貢献初心者のみなさんようこそ)
   - [目次](#目次)
   - [通常のオープンソースへの貢献](#通常のオープンソースへの貢献)
-  - [Github上で直接検索](#Github上で直接検索)
-  - [Mozillaの貢献エコシステム](#Mozillaの貢献エコシステム)
+  - [Github上で直接検索](#github上で直接検索)
+  - [Mozillaの貢献エコシステム](#mozillaの貢献エコシステム)
   - [オープンソース貢献初心者に有益な記事](#オープンソース貢献初心者に有益な記事)
   - [バージョン管理の使用](#バージョン管理の使用)
   - [オープンソースの本](#オープンソースの本)

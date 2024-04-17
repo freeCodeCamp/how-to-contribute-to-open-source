@@ -4,7 +4,7 @@
         <td><a href="./README.md"> English </a></td>
         <td><a href="./README-MR.md"> मराठी </a></td>
         <td><a href="./README-BN.md"> বাংলা </a></td>
-        <td><a href="./README-CN.md"> 中文 </a></td>
+        <td><a href="./README-ZH.md"> 中文 </a></td>
         <td><a href="./README-RU.md"> русский </a></td>
         <td><a href="./README-RO.md"> Românesc </a></td>
         <td><a href="./README-IT.md"> Italiano </a></td>
@@ -32,14 +32,15 @@ Se você possui alguma dúvida ou comentário, por favor crie uma issue.
 
 **Conteúdo**
 
-- [Contribuindo com Open Source](#contribuindo-com-open-source)
-- [Pesquisas diretas no GitHub](#pesquisas-diretas-no-github)
-- [Ambiente de contribuidores da Mozilla](#ambiente-de-contribuidores-da-mozilla)
-- [Artigos úteis para novos contribuidores de Open Source](#artigos-úteis-para-novos-contribuidores)
-- [Usando ferramentas de Controle de Versões](#usando-ferramentas-de-controle-de-versões)
-- [Livros sobre Open Source](#livros-sobre-open-source)
-- [Iniciativas para contribuição em Open Source](#iniciativas-para-contribuição-em-open-source)
-- [Licença](#licença)
+- [Sejam bem-vindos novos contribuidores de Open Source!](#sejam-bem-vindos-novos-contribuidores-de-open-source)
+  - [Contribuindo com Open Source](#contribuindo-com-open-source)
+  - [Pesquisas Diretas no GitHub](#pesquisas-diretas-no-github)
+  - [Ambiente de Contribuidores da Mozilla](#ambiente-de-contribuidores-da-mozilla)
+  - [Artigos úteis para novos contribuidores](#artigos-úteis-para-novos-contribuidores)
+  - [Usando ferramentas de Controle de Versões](#usando-ferramentas-de-controle-de-versões)
+  - [Livros sobre Open Source](#livros-sobre-open-source)
+  - [Iniciativas para Contribuição em Open Source](#iniciativas-para-contribuição-em-open-source)
+  - [Licença](#licença)
 
 ## Contribuindo com Open Source
 

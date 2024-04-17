@@ -7,7 +7,7 @@
         <li><a href="./README.md"> English </a></li>
         <li><a href="./README-MR.md"> मराठी </a></li>
         <li><a href="./README-BN.md"> বাংলা </a></li>
-        <li><a href="./README-CN.md"> 中文 </a></li>
+        <li><a href="./README-ZH.md"> 中文 </a></li>
         <li><a href="./README-RU.md"> русский </a></li>
         <li><a href="./README-RO.md"> Românesc </a></li>
         <li><a href="./README-IT.md"> Italiano </a></li>
@@ -37,14 +37,15 @@ Nếu bạn có câu hỏi hoặc nhận xét, vui lòng tạo một issue.
 
 **Mục Lục**
 
-- [Tổng quan về dự án Mã nguồn mở](#Tổng-quan-về-dự-án-Mã-nguồn-mở)
-- [Tìm kiếm trực tiếp trên Github](#Tìm-kiếm-trực-tiếp-trên-Github)
-- [Hệ sinh thái cộng tác viên của Mozilla](#Hệ-sinh-thái-cộng-tác-viên-của-Mozilla)
-- [Các bài viết hữu ích dành cho các cộng tác viên Nguồn mở mới](#Các-bài-viết-hữu-ích-dành-cho-các-cộng-tác-viên-Nguồn-mở-mới)
-- [Sử dụng Version Control](#Sử-dụng-Version-Control)
-- [Sách về dự án Mã nguồn mở](#Sách-về-dự-án-Mã-nguồn-mở)
-- [Các sáng kiến ​​đóng góp nguồn mở](#Các-sáng-kiến-​​đóng-góp-nguồn-mở)
-- [Giấy phép](#Giấy-phép)
+- [Chào mừng bạn đến với dự án Mã nguồn mở!](#chào-mừng-bạn-đến-với-dự-án-mã-nguồn-mở)
+  - [Tổng quan về dự án Mã nguồn mở](#tổng-quan-về-dự-án-mã-nguồn-mở)
+  - [Tìm kiếm trực tiếp trên Github](#tìm-kiếm-trực-tiếp-trên-github)
+  - [Hệ sinh thái cộng tác viên của Mozilla](#hệ-sinh-thái-cộng-tác-viên-của-mozilla)
+  - [Các bài viết hữu ích dành cho các cộng tác viên Nguồn mở mới](#các-bài-viết-hữu-ích-dành-cho-các-cộng-tác-viên-nguồn-mở-mới)
+  - [Sử dụng Version Control](#sử-dụng-version-control)
+  - [Sách về dự án Mã nguồn mở](#sách-về-dự-án-mã-nguồn-mở)
+  - [Các sáng kiến ​​đóng góp nguồn mở](#các-sáng-kiến-đóng-góp-nguồn-mở)
+  - [Giấy phép](#giấy-phép)
 
 ## Tổng quan về dự án Mã nguồn mở
 - [Hướng dẫn để đóng góp cho dự án Mã nguồn mở](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) bởi [@DoomHammerNG](https://twitter.com/DoomHammerNG)

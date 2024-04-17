@@ -4,7 +4,7 @@
         <td><a href="./README.md"> English </a></td>
         <td><a href="./README-MR.md"> मराठी </a></td>
         <td><a href="./README-BN.md"> বাংলা </a></td>
-        <td><a href="./README-CN.md"> 中文 </a></td>
+        <td><a href="./README-ZH.md"> 中文 </a></td>
         <td><a href="./README-RU.md"> русский </a></td>
         <td><a href="./README-RO.md"> Românesc </a></td>
         <td><a href="./README-IT.md"> Italiano </a></td>
@@ -33,15 +33,16 @@ Wenn du Fragen oder Kommentare hast, eröffne bitte ein neues Issue.
 
 **Inhaltsverzeichnis**
 
-- [Open-Source-Beiträge im Allgemeinen](#open-source-beiträge-im-allgemeinen)
-- [GitHub-Suchen](#github-suchen)
-- [Mozillas Open-Source-Ökosystem](#mozillas-open-source-ökosystem)
-- [Nützliche Artikel für Open-Source-Mitarbeiterinnen](#nützliche-artikel-für-open-source-mitarbeiterinnen)
-- [Versionskontrolle nutzen](#versionskontrolle-nutzen)
-- [Open-Source-Bücher](#open-source-bücher)
-- [Open-Source-Beitragsinitiativen](#open-source-beitragsinitiativen)
-- [Open-Source-Programme an denen du teilnehmen kannst](#open-source-programme-an-denen-du-teilnehmen-kannst)
-- [Lizenz](#lizenz)
+- [Willkommen, Open-Source-Einsteiger\*in!](#willkommen-open-source-einsteigerin)
+  - [Open-Source-Beiträge im Allgemeinen](#open-source-beiträge-im-allgemeinen)
+  - [GitHub-Suchen](#github-suchen)
+  - [Mozillas Open-Source-Ökosystem](#mozillas-open-source-ökosystem)
+  - [Nützliche Artikel für Open-Source-Mitarbeiter\*innen](#nützliche-artikel-für-open-source-mitarbeiterinnen)
+  - [Versionskontrolle nutzen](#versionskontrolle-nutzen)
+  - [Open-Source-Bücher](#open-source-bücher)
+  - [Open-Source-Beitragsinitiativen](#open-source-beitragsinitiativen)
+  - [Open-Source-Programme an denen du teilnehmen kannst](#open-source-programme-an-denen-du-teilnehmen-kannst)
+  - [Lizenz](#lizenz)
 
 ## Open-Source-Beiträge im Allgemeinen
 

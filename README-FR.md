@@ -4,7 +4,7 @@
         <td><a href="./README.md"> English </a></td>
         <td><a href="./README-MR.md"> मराठी </a></td>
         <td><a href="./README-BN.md"> বাংলা </a></td>
-        <td><a href="./README-CN.md"> 中文 </a></td>
+        <td><a href="./README-ZH.md"> 中文 </a></td>
         <td><a href="./README-RU.md"> русский </a></td>
         <td><a href="./README-RO.md"> Românesc </a></td>
         <td><a href="./README-IT.md"> Italiano </a></td>
@@ -32,14 +32,15 @@ Si vous avez des questions ou commentaires, veuillez créer un ticket.
 
 **Sommaire**
 
-- [Contribuer à l'Open Source en général](#contribuer-à-lopen-source-en-général)
-- [Recherches directes sur GitHub](#recherches-directes-sur-github)
-- [L'écosystème de contribution de Mozilla](#lécosystème-de-contribution-de-mozilla)
-- [Articles utiles pour les contributeurs novices de l'Open Source](#articles-utiles-pour-les-contributeurs-novices-de-lopen-source)
-- [Utiliser le gestionnaire de version](#utiliser-le-gestionnaire-de-version)
-- [Livres sur l'Open Source](#livres-sur-lopen-source)
-- [Initiatives de contributions à l'Open Source](#initiatives-de-contributions-à-lopen-source)
-- [Licence](#licence)
+- [Bienvenue aux nouveaux contributeurs Open Source !](#bienvenue-aux-nouveaux-contributeurs-open-source-)
+  - [Contribuer à l'Open Source en général](#contribuer-à-lopen-source-en-général)
+  - [Recherches directes sur GitHub](#recherches-directes-sur-github)
+  - [L'écosystème de contribution de Mozilla](#lécosystème-de-contribution-de-mozilla)
+  - [Articles utiles pour les contributeurs novices de l'Open Source](#articles-utiles-pour-les-contributeurs-novices-de-lopen-source)
+  - [Utiliser le gestionnaire de version](#utiliser-le-gestionnaire-de-version)
+  - [Livres sur l'Open Source](#livres-sur-lopen-source)
+  - [Initiatives de contributions à l'Open Source](#initiatives-de-contributions-à-lopen-source)
+  - [Licence](#licence)
 
 ## Contribuer à l'Open Source en général
 > Articles et ressources qui discutent de la communauté et de la culture open source 
