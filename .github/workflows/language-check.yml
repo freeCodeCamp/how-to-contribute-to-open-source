@@ -29,8 +29,16 @@ jobs:
         nokogiri -e 'puts $_.css(".wikitable td:nth-child(2)").map(&:text)' | \
         sed -nr '/^.{0,2}$/p' > iso639.txt  # Grab only two letter values
 
+        # Debug statement
+        echo "Show the information of iso639.txt:"
+        cat iso639.txt
+
         # Get list of README file names
         readme_suffixes=$(ls README-* | sed 's/README-//g; s/.md//g')
+
+        # Debug statement
+        echo "List of README suffixes:"
+        echo "$readme_suffixes"
 
         # Check if README suffixes are valid ISO 639 language codes
         for suffix in $readme_suffixes; do
