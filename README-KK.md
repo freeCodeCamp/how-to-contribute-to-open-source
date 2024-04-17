@@ -28,7 +28,7 @@
         <li><a href="./README-AR.md">اللغة العربية </a></li>
         <li><a href="./README-TA.md">தமிழ்</a></li>
         <li><a href="./README-NE.md">नेपाली</a></li>
-        <li><a href="./README-KZ.md">नқазақ</a></li>
+        <li><a href="./README-KK.md">नқазақ</a></li>
     </ul>
 </details>
 <!-- Do not translate this -->
