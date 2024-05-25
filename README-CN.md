@@ -26,9 +26,9 @@
 
 这是为新加入开源贡献的人罗列的资源。
 
-如果你发现了额外的资源，请贡献一个拉取请求。
+如果你发现了额外的资源，请创建一个 "pull request" 拉取请求。
 
-如果你有疑问或者评论，请创建一个issue。
+如果你有疑问或者意见，请创建一个 "issue" 问题。
 
 **内容列表**
 - [一般开源贡献](#%E4%B8%80%E8%88%AC%E5%BC%80%E6%BA%90%E8%B4%A1%E7%8C%AE)
@@ -42,8 +42,12 @@
 - [协议](#%E5%8D%8F%E8%AE%AE)
 
 ## 一般开源贡献
+
+> 讨论开源世界及文化的文章和资源
+
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
-- [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - DigitalOcean提供的指导你通过你的方式在GitHub上成功进行贡献的指南。
+- [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - 由 DigitalOcean 提供的指导指南，让你能通过你的方式，在 GitHub 上进行贡献。
+- [Complete Guide on Open Source Contributions](https://www.youtube.com/playlist?list=PLR0CKdeR_FyscaxEksDVXc4UQvlOFLYS6) - "Dev Sense" 制作的 YouTube 教程合集.
 - [Code Triage](https://www.codetriage.com/) - 另一个，确实不错的，通过语言过滤来查找流行的开源库和issue的工具。
 - [Forge Your Future with Open Source](https://fossforge.com) ($) - 書籍專注於開源項目。教你怎樣找到開源項目和開始貢獻。囊括所有軟件開發的角色，不排除只有軟件工程師。
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - 一个GitHub开源库，收集一些对新的贡献来说有不错的Bug进行贡献的工程，并且通过标签来进行描述。
@@ -54,23 +58,30 @@
 - [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides) - Linux基金会改于开源项目的指南。
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - 一个开源规则指南, 由 Kent C. Dodds 和 Sarah Drasner 撰写.
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - 为大学生提供的关于学习一门新语言的资源或机会的对照表。
-- [Pull Request Roulette](http://www.pullrequestroulette.com/) - 这个网站有一个托管在GitHub上提交上去为了复查的属于开源的项目的拉取请求列表。
 - ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - 一个指导你如何一步一步开始在GitHub上为开源工程做贡献的视频教程。
 - [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - 这开源贡献指南覆盖所有课题包括选择适合的项目，处理Issue， 和PR合并。
 - ["How to Contribute to Open Source Project by" Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) -细节焦点如何用pull request (PR) 贡献别人的项目。
 - ["How to get started with Open Source by" Sayan Chowdhury](https://www.hackerearth.com:443/getstarted-opensource/) - 这文章包含如何贡献开源项目基于新手最常用的语言。
 - ["Browse good first issues to start contributing to open source"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) - Github帮你寻找适合你的开源贡献中的第一次Issue
 - ["How to Contribute to Open Source Project" by Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - 这综合文章定向于商业（对于个人贡献者有助），阐明一些何以，如何，和为什么要开源贡献。
-- ["start-here-guidelines" by Andrei](https://github.com/zero-to-mastery/start-here-guidelines) -
-关于开源的课程，从游乐园开始。针对教育和实制操作。
+- ["start-here-guidelines" by Andrei](https://github.com/zero-to-mastery/start-here-guidelines) - 关于开源的课程，从游乐园开始。针对教育和实制操作。
 - ["Getting Started with Open Source" by NumFocus](https://github.com/numfocus/getting-started-with-open-source) - a GitHub repo that helps contributors overcome barriers to entry in open-source.
 - ["Opensoure-4-everyone" by Chryz-hub ](https://github.com/chryz-hub/opensource-4-everyone) -一个跟开源有关的repository。这项目帮助Github成员透明度，基本和进阶Git Commands，如何开始开源贡献等等。
 - ["Open Advice"](http://open-advice.org/) - 广泛免费软件计划的知识收集，提供42个杰出貢獻者想一开始就知道的知识，从而帮助你无论何时何地也可以出力贡献。
-- ["GitHub Learning Lab"](https://lab.github.com/) - 用Github学习实验室升级你的Github技术吧！我们友善的机械人会带领你一系列有趣和实制的项目，让你可以增进你的技术和分享有助的回饋。
+- ["GitHub Skills"](https://skills.github.com) - 通过 “GitHub Skills” 提升你的技能. 我们友善的机器人会带你体验一系列有趣和实质的项目，不久你就能学到你需要的技术和分享你的反馈了。
 - ["Ten simple rules for helping newcomers become contributors to open projects"](https://dx.plos.org/10.1371/journal.pcbi.1007296) - 这文章包含从其他社团，成员经验，领导人和观察者收集回来的开源贡献者规则。
 - ["Step-by-Step guide to contributing on GitHub"](https://www.dataschool.io/how-to-contribute-on-github/) - 一个用视觉和结合一步一步带领你整个开源贡献的步骤
+- [Open Source with Pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna) - 这个仓库包含了你步入开源、Git、Github 所需的资源和材料。
+- ["FOSS Community Acronyms"](https://github.com/d-edge/foss-acronyms) - 这个仓库包含了 FOSS（Free and Open Source）社区中使用的缩写词列表及其定义、用法。
+- ["Open Source Fiesta - Open Source Fiesta"](https://zubi.gitbook.io/open-source-fiesta/) - 一步一步介绍如何为 Github 仓库做出贡献，也有一份 Git 命令行的备忘录。
+- ["6 Best Practices to Manage Pull Request Creation and Feedback"](https://doordash.engineering/2022/08/23/6-best-practices-to-manage-pull-request-creation-and-feedback/) - 来自 “DoorDash” 工程的软件工程师 “Jenna Kiyasu”。
+- ["Contribute to the Open-Source Community"](https://arijitgoswami.hashnode.dev/contribute-to-the-open-source-community) - 开源软件的好处，如何理解开源项目内部工作原理，以及做出第一份贡献。
+- ["Complete Guide to Open Source - How to Contribute"](https://www.youtube.com/watch?v=yzeVMecydCE) (41:52) - 和 Eddie Jaoude 一起了解为什么、如何为开源软件做出贡献。
 
 ## GitHub上直接搜索
+
+> 搜索直接指向你想在 GitHub 上做出贡献的合适问题的链接
+
 在GitHub上搜索合适的Issue链接来进行贡献。
 - [is:issue is:open label:beginner](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Abeginner&type=issues)
 - [is:issue is:open label:easy](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy&type=issues)
@@ -83,6 +94,9 @@
 - [is:issue is:open label:"beginner friendly"](https://github.com/search?q=beginner+friendly&state=open&type=Issues)
 
 ## Mozilla的贡献者生态系统
+
+> Mozilla 承诺打造一个健康的互联网，并有机会为其开源项目做出贡献。
+
 - [Good First Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22[good%20first%20bug]%22&limit=0) - 开发者确认是可以比较好熟悉工程的bug。
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/MDN/Contribute) - 修理内容问题和Bugs，从而帮助MDN网路文件团队记录网路平台。
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - 当你在修复的时候遇到问题会有指定的人通过网上交流的方式为你的提供帮助的bug。
@@ -91,15 +105,19 @@
 - [Start Mozilla](https://twitter.com/StartMozilla) - 一个为Mozilla新进贡献者推送一些合适的Issue的Twitter账号。
 
 ## 对新的开源贡献者有用的文章
-- [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
+
+> 对萌新开源贡献者有用的博客以及文章。
+
+- [Finding ways to contribute to open source on GitHub](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github) by [@GitHub](https://github.com/github)
+- [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/collections)
 - [How to find your first Open Source bug to fix](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) by [@Shubheksha](https://github.com/Shubheksha)
 - [First Timers Only](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
 - [Bring Kindness Back to Open Source](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) by [@shanselman](https://github.com/shanselman)
 - [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github/opensource.guide)
 - [How to Find a Bug in Your Code](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) by [@dougbradbury](https://twitter.com/dougbradbury)
-- [Mastering Markdown](https://docs.github.com/features/mastering-markdown/) by [@GitHub](https://github.com/github/docs)
-- [First mission: Contributors page](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
+- [Mastering Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) by [@GitHub](https://github.com/github/docs)
+- [First mission: Contributors page](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705) by [@forCrowd](https://github.com/forCrowd)
 - [How to make your first Open Source contribution in just 5 minutes](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) by [@roshanjossey](https://github.com/Roshanjossey/)
 - [I just got my free Hacktoberfest shirt. Here’s a quick way you can get yours.](https://www.freecodecamp.org/news/i-just-got-my-free-hacktoberfest-shirt-heres-a-quick-way-you-can-get-yours-fa78d6e24307/) by [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
 - [A Bitter Guide To Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
@@ -107,16 +125,23 @@
 - [Learn Git and GitHub Step By Step (on Windows)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) by [@ows-ali](https://ows-ali.medium.com/)
 - [Why Open Source and How?](https://careerkarma.com/blog/open-source-projects-for-beginners/) by [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
 - [How to get started with Open Source - By Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/)
+- [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to) by [@kentcdodds](https://twitter.com/kentcdodds)
 - [An immersive introductory guide to Open-source](https://developeraspire.hashnode.dev/an-immersive-introductory-guide-to-open-source) by [Franklin Okolie](https://twitter.com/DeveloperAspire)
 - [Getting started with contributing to open source](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/) by [Zara Cooper](https://stackoverflow.blog/author/zara-cooper/)
 - [Beginner's guide to open-source contribution](https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj) by [Sudipto Ghosh](https://github.com/pydevsg)
 - [8 non-code ways to contribute to open source](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code) by [OpenSource](https://twitter.com/OpenSourceWay)
 - [What is Open Source Software? OSS Explained in Plain English](https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/) by [Jessica Wilkins](https://www.freecodecamp.org/news/author/jessica-wilkins/)
 - [How to Start an Open Source Project on GitHub – Tips from Building My Trending Repo](https://www.freecodecamp.org/news/how-to-start-an-open-source-project-on-github-tips-from-building-my-trending-repo/) by [@Rishit-dagli](https://github.com/Rishit-dagli)
+- [Finding Good First Issues](https://community.codenewbie.org/bdougie/finding-good-first-issues-33a6) by [Brian Douglas](https://community.codenewbie.org/bdougie)
+- [How can I become an Open Source contributor? (The ultimate guide)](https://medium.com/@juliafmorgado/how-can-i-become-an-open-source-contributor-the-ultimate-guide-d746e380e011) by [Julia Furst Morgado](https://medium.com/@juliafmorgado)
 
 ## 使用版本控制
+
+> 不同级别下使用版本控制的教程和资源，通常是 Git 和 GitHub。
+
+- [Video tutorial for Git and Github by Harvard University](https://www.youtube.com/watch?v=NcoBAfJ6l2Q) - 哈佛大学的教程，一部分是他们使用 Git命令 理解 Git 和 GitHub 的 CS50 网络开发课程
 - [Think Like (a) Git](https://think-like-a-git.net/) - 为“高阶初学者”提供的Git介绍，但是任然在努力为了给你一个简单的策略来安全地体验Git。
-- [Try Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - 免费在你的浏览器中15分钟内学会使用Git。
+- [Quickstart - Set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - 学习如何在本地设置 Git 和验证，以及学习旅程的后续步骤。
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - 一个又用的Everyday Git的命令最小集。
 - [Oh shit, git!](http://ohshitgit.com/) - 如何避免一般的用易懂的英语描述的`git`错误。
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/) - 各种各样的使用`git`的教程。
@@ -132,36 +157,62 @@
 - [Git Tips](https://github.com/git-tips/tips) - 收集最常用Git的秘诀和窍门
 - [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - 经常Commit，迟点完善，只刊载一次：Git最佳操作。
 - [Git Interactive Tutorial](https://learngitbranching.js.org/) - 用视觉和互动的方式学习Git。
-- [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics) (1:12:39) - Full Git and GitHub walkthrough by [Kunal Kushwaha](https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw).
+- [Git Cheat Sheets](https://devhints.io/?q=git) - 一组 Git 的图形化备忘录。
+- [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics) (1:12:39) - 来自 [Kunal Kushwaha](https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw) 完整的 Git 和 Github 演练。
+- [A Tutorial Introduction to Git](https://git-scm.com/docs/gittutorial) - 一个 Git 初学者教程。
+- [First Aid Git](https://firstaidgit.io/#/) - 可搜索的最常见 Git 问题集合。这些问题的答案均​​来自个人经验、Stackoverflow 和 Git 官方文档。
+- [Git by Susan Potter](https://www.aosabook.org/en/git.html) - 展示 Git 的各个技术方面如何在幕后工作以实现分布式工作流，以及它与其他版本控制系统 (VCS) 的区别。
+- [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE) - 一个由 Mosh 制作的 初学者友好的 Git 视频，解释基本命令，并使用插图帮助理解
 
 ## 开源书籍
+
+> 关于开源的一切书籍，文化、历史、最佳练习等等。
+
 - [Producing Open Source Software](http://producingoss.com/) - Producing Open Source Software是一本关于开源开发人性化方面的书。它描述了成功的项目如何运作，用户和开发人员的期望，以及自由软件的文化。
+- [The Architecture of Open Source Applications](https://www.aosabook.org/en/git.html) - 现示各种Git项目底下的作业，从而赋予分布式工作流程，Git和其他版本控制的分别
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - 通过 https://opensource.com 提供的免费电子书的全面列表，进一步了解开源和不断增长的开源运动。
 - [Software Release Practice HOWTO](http://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - HOWTO介绍了Linux和其他开源项目的良好发布实践。通过遵循这些实践，您将使用户尽可能容易地构建和使用您的代码，并使其他开发人员能够理解您的代码并与您合作改进它。
 - [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) -《开放源代码2.0》是当今技术领导者富有洞察力和启发性的论文集，这些论文继续描绘了1999年出版的《开放源代码：革命之声》一书中的进化图景。
-- [The Architecture of Open Source Applications](https://www.aosabook.org/en/git.html) - 现示各种Git项目底下的作业，从而赋予分布式工作流程，Git和其他版本控制的分别
 - [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - Essays from open-source pioneers such as Linus Torvalds (Linux), Larry Wall (Perl), and Richard Stallman (GNU).
-- [The Cathedral and the Bazaar by Eric S. Raymond](http://www.catb.org/](http://www.catb.org/~esr/writings/cathedral-bazaar/) - 任何关心关于计算机工业和多样化信息经济的必读之一。
 
 ## 开源贡献初步
+
+> 汇总了适合初学者去处理的问题或季节性活动的举措列表。
+
 - [Up For Grabs](http://up-for-grabs.net/#/) - 包含对初学者友好的项目Issue
-- [First Timers Only](http://www.firsttimersonly.com/) - 标记为"first-timers-only"的Bug列表。
 - [First Contributions](https://firstcontributions.github.io/) - 在5分钟内完成您的第一次开源贡献。帮助初学者开始贡献的工具和教程。
+- [First Timers Only](http://www.firsttimersonly.com/) - 标记为"first-timers-only"的Bug列表。
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - 鼓励开源贡献的计划。通过在10月份提出至少5个请求来获得诸如T恤和贴纸之类的礼物。
 - [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests是一个在12月份促进开源协作的项目。
 - [Ovio](https://ovio.org) - 一个筛选了一些贡献者友好项目的平台。拥有 [强大的Issue尋找工具](https://ovio.org/issues)， 让贡献者储存项目和Issue。
-- [Google Summer of Code](https://summerofcode.withgoogle.com/) - Google资助，一年一度的项目，让多些学生开发者一起参与开源软件发展
-- [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) - 全球女性和非二元性别团体的项目，开源者可参与现有的开源项目，从而增加技术。
-- [Major League Hacking Fellowship](https://fellowship.mlh.io/) - 一个遥远实习团体让有志的技术家可以发展，或贡献开源项目。
+- [Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) - 这是一个帮助初学贡献者参与一个简易工程并适应 Github 的教程。
+- [Open Source Welcome Committee](https://www.oswc.is/) - “开源欢迎委员会”(OSWC) 帮助新人加入精彩纷呈的开源世界。快来向我们提交您的开源项目吧！
 
 ## 开源计划参与
-- [Google Summer of Code](https://summerofcode.withgoogle.com)
+
+> 由社区主办的计划、实习或奖学金，旨在帮助初学贡献者与导师和资源相匹配，为开源软件项目做出贡献。
+
+- [All Linux Foundation (LF) Mentorships](https://mentorship.lfx.linuxfoundation.org/#projects_all)
+- [Beginner friendly Open Source programs with their timelines](https://github.com/arpit456jain/Open-Source-Programs)
+- [Cloud Native Computing Foundation](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
 - [FossAsia](https://fossasia.org)
-- [MLH Fellowship](https://fellowship.mlh.io)
+- [Free Software Foundation (FSF) Internship](https://www.fsf.org/volunteer/internships)
+- [Google Summer of Code](https://summerofcode.withgoogle.com) - 谷歌每年举办一次的付费项目，致力于吸引更多学生开发者参与开源软件开发。
+- [Girlscript Summer of Code](https://gssoc.girlscript.tech/) - Girlscript 基金会每年夏天举办为期三个月的开源项目。经过不懈努力，参与者在几个月内得到了经验丰富的导师的悉心指导，为众多项目做出了贡献。通过这样的接触，学生们开始足不出户就能为现实世界的项目做出贡献。
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com) - 每年十月举办的年度活动旨在鼓励人们为开源做出贡献！
+- [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN) - 如果您对区块链感兴趣，那么这个计划非常适合您。您可以为 Hyperledger 做出贡献。这个导师计划让您有机会亲身体验 Hyperledger 开源开发。您将被指派为 Hyperledger 开发者社区中非常活跃的导师。
+- [LF Networking Mentorship](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program)
+- [Microsoft Reinforcement Learning](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
+- [Major League Hacking (MLH) Fellowship](https://fellowship.mlh.io/) - 为有抱负的技术人员提供远程实习的机会，让他们能够构建或参与开源项目。
+- [Open Summer of Code](https://osoc.be/students)
+- [Open Mainframe](https://www.openmainframeproject.org/all-projects/mentorship-program) - 开放主机项目也有自己的开源程序，能够让学员们扩展他们对主机的认识。
 - [Outreachy](https://www.outreachy.org)
-- [Hacktoberfest](https://hacktoberfest.digitalocean.com)
-- [CNCF](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
-- [Microsoft Reinforcement learning](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
+- [Processing Foundation Internship](https://processingfoundation.org/fellowships/)
+- [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) - 一个针对女性和中性的全球奖学金计划，她们可以参与现有的开源项目并扩展她们的技能。
+- [Redox OS Summer of Code](https://www.redox-os.org/rsoc/) - Redox OS Summer of Code 是 Redox OS 项目捐赠的主要用途。选拔的学生必须已经表现出对 Redox OS 做出贡献的意愿和能力。
+- [Social Summer of Code](https://ssoc.devfolio.co/) - 社会基金会提供为期两个月的暑期项目，让学生了解开源文化并参与社区。参与者在经验丰富的导师指导下为实际项目做出贡献。
+- [Season of KDE](https://season.kde.org/) - KDE 季由 KDE 社区主办，是面向全球所有个人的推广计划。KDE 是一个国际自由软件社区，致力于开发免费和开源软件，您可以通过 KDE 季计划为 KDE 做出贡献。
 
 ## 协议
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享4.0国际许可协议</a>。
