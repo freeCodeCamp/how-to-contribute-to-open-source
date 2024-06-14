@@ -18,6 +18,7 @@
         <li><a href="./README-FR.md"> Français </a></li>
         <li><a href="./README-KO.md"> 한국어 </a></li>
         <li><a href="./README-JA.md"> 日本語 </a></li>
+        <li><a href="./README-HI.md">हिंदी</a></li>
     </ul>
 </details>
 <!-- Do not translate this -->
@@ -53,9 +54,9 @@
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - नवीन योगदानकर्त्यांसाठी चांगल्या बगसह प्रोजेक्ट्स एकत्रित करणारे आणि त्यांचे वर्णन करण्यासाठी लेबले लागू करणारे एक गिटहब रेपो.
 - [Open Source Guides](https://opensource.guide/) - लोक, समुदाय आणि कंपन्यांना ओपन सोर्स प्रोजेक्ट कसे वापरायचे आणि योगदान कसे द्यायचे हे शिकू इच्छिणाऱ्यांसाठी स्त्रोतांचे संग्रह.
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - गिटहब वर करा आणि काय करू नका.
-- [GitHub Guides](https://guides.github.com/) - गिटहब प्रभावीपणे कसे वापरावे याबद्दल मूलभूत मार्गदर्शक.
+- [GitHub Guides](https://docs.github.com/en) - गिटहब प्रभावीपणे कसे वापरावे याबद्दल मूलभूत मार्गदर्शक.
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - सिम्युलेशन प्रोजेक्टमध्ये कोडचे योगदान देऊन गिटहब चा कार्यप्रवाह शिकून घ्या.
-- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - लिनक्स फाऊंडेशनचे ओपन सोर्स प्रकल्पांसाठी मार्गदर्शक.
+- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides) - लिनक्स फाऊंडेशनचे ओपन सोर्स प्रकल्पांसाठी मार्गदर्शक.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - केंट सी. डॉड्स आणि सारा ड्रॅसनर यांनी लिहिलेले ओपन सोर्स शिष्टाचार मार्गदर्शक पुस्तिका.
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - नवीन कोडींग भाषा शिकण्यासाठी महाविद्यालयीन विद्यार्थ्यांसाठी स्त्रोत आणि संधींची निवडलेली यादी.
 - [Pull Request Roulette](http://www.pullrequestroulette.com/) - या साइटवर गिटहब वर आयोजित केलेल्या ओपन सोर्स प्रकल्पांच्या पुनरावलोकनासाठी ज़मा केलेल्या पुल विनंत्यांची यादी आहे.
@@ -71,7 +72,7 @@
 - ["Opensoure-4-everyone" by Chryz-hub ](https://github.com/chryz-hub/opensource-4-everyone) - ओपन सोर्सशी संबंधित सगळया वस्तूंची एक गिटहब रेपो. हा प्रोजेक्ट गिटहब सदस्यत्व द्रुश्यमानता, सराव, मूलभूत व प्रगतीक गिट कम्मांड, ओपन सोर्समध्ये सुरु करणे आणि बरंच काही यांच्यात मदत करतो.
 - ["Open Advice"](http://open-advice.org/) - विविध प्रकारच्या मोफत सॉफ्टवेअर प्रकल्पांचा ज्ञान संग्रह. ४२ प्रमुख योगदानकर्त्यांना त्यांनी कशी सुरुवात केली हे जाणून घ्यायला काय आवडले असते या प्रश्नाचे उत्तर दिले आहे जेणेकरून तुम्हाला कसे आणि कुठे योगदान द्यायचे हे कळते.
 - ["GitHub Learning Lab"](https://lab.github.com/) - गिटहब लर्निंग लॅबसह आपली कौशल्ये वाढवा. आमचे मैत्रीपूर्ण बॉट तुम्हाला कोणत्याही वेळी आवश्यक कौशल्ये शिकण्यासाठी मनोरंजक, व्यावहारिक प्रकल्पांच्या मालिकेत घेऊन जाईल - आणि मार्गात उपयुक्त अभिप्राय सामायिक करा.
-- ["Ten simple rules for helping newcomers become contributors to open projects"](https://doi.org/10.1371/journal.pcbi.1007296) - या लेखात अनेक समुदायांचा अभ्यास आणि सदस्य, नेते आणि निरीक्षकांच्या अनुभवांवर आधारित नियम समाविष्ट आहेत.
+- ["Ten simple rules for helping newcomers become contributors to open projects"](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007296) - या लेखात अनेक समुदायांचा अभ्यास आणि सदस्य, नेते आणि निरीक्षकांच्या अनुभवांवर आधारित नियम समाविष्ट आहेत.
 
 ## डायरेक्ट गिटहब शोध
 गिटहब वर सहयोग देण्यासाठी थेट योग्य मुद्द्यांकडे निर्देश करणारे दुवे शोधा.
@@ -84,12 +85,11 @@
 - [is:issue is:open label:up-for-grabs](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs&type=issues)
 
 ## मोज़िला योगदानकर्ता पर्यावरणीय प्रणाली
-- [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - विकसकांनी प्रकल्पाची चांगली ओळख म्हणून ओळखले बग्स.
+- [Good First Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22[good%20first%20bug]%22&limit=0) - विकसकांनी प्रकल्पाची चांगली ओळख म्हणून ओळखले बग्स.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/MDN/Contribute) - सामग्री समस्या आणि प्लॅटफॉर्म बगचे निराकरण करून वेब प्लॅटफॉर्मचे दस्तऐवजीकरण करण्यासाठी एमडीएन वेब डॉक्स संघाला मदत करा.
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - जेव्हा आपण फिक्सवर काम करत असताना अडखळलात तेव्हा आपल्याला मदत करण्यासाठी आयआरसी वरील सल्लागारांना नियुक्त केलेला असा बग.
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - बगज़िला वर बग शोधण्यासाठी समर्पित साइट.
 - [Firefox DevTools](http://firefox-dev.tools/) - फायरफॉक्स ब्राउझरमध्ये विकसक साधनांसाठी दाखल केलेल्या बगसाठी समर्पित साइट.
-- [What Can I Do For Mozilla](https://whatcanidoformozilla.org/) - आपल्या कौशल्याच्या संचाबद्दल आणि आवडींबद्दल अनेक प्रश्नांची उत्तरे देऊन आपण काय कार्य करू शकता ते ज़ाणून घ्या.
 - [Start Mozilla](https://twitter.com/StartMozilla) - एक ट्विटर अकाऊंट जे मोज़िला प्रणालीमध्ये नवीन योगदानकर्त्यांसाठी समस्यांची ट्वीट करते.
 
 ## नवीन ओपन सोर्स योगदानकर्त्यांसाठी उपयुक्त लेख
@@ -98,10 +98,10 @@
 - [First Timers Only](https://kentcdodds.com/blog/first-timers-only) द्वारा [@kentcdodds](https://github.com/kentcdodds)
 - [Bring Kindness Back to Open Source](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) द्वारा [@shanselman](https://github.com/shanselman)
 - [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) द्वारा [@mcdonnelldean](https://github.com/mcdonnelldean)
-- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) द्वारा [@GitHub](https://github.com/github)
-- [How to Find a Bug in Your Code](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) द्वारा [@dougbradbury](https://twitter.com/dougbradbury)
-- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) द्वारा [@GitHub](https://github.com/github)
-- [First mission: Contributors page](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
+- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) द्वारा [@GitHub](https://github.com/github/opensource.guide)
+- [How to Find a Bug in Your Code](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) द्वारा [@dougbradbury](https://twitter.com/dougbradbury)
+- [Mastering Markdown](https://docs.github.com/features/mastering-markdown/) द्वारा [@GitHub](https://github.com/github/docs)
+- [First mission: Contributors page](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
 - [How to make your first Open Source contribution in just 5 minutes](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) द्वारा [@roshanjossey](https://github.com/Roshanjossey/)
 - [Hacktoberfest 2019: How you can get your free shirt — even if you’re new to coding](https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b/) द्वारा [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
 - [A Bitter Guide To Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) द्वारा [@ken_wheeler](https://medium.com/@ken_wheeler)
@@ -110,14 +110,13 @@
 - [Why Open Source and How?](https://careerkarma.com/blog/open-source-projects-for-beginners/) द्वारा [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
 - [How to get started with Open Source - By Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/)
 - [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) द्वारा [@kentcdodds](https://github.com/kentcdodds)
-- [An immersive introductory guide to Open-source](https://developeraspire.hashnode.dev/an-immersive-introductory-guide-to-open-source) द्वारा [Franklin Okolie](https://twitter.com/DeveloperAspire)
 - [Getting started with contributing to open source](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/) द्वारा [Zara Cooper](https://stackoverflow.blog/author/zara-cooper/)
 - [Beginner's guide to open-source contribution](https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj) द्वारा [Sudipto Ghosh](https://github.com/pydevsg)
 - [8 non-code ways to contribute to open source](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code) द्वारा [OpenSource](https://twitter.com/OpenSourceWay)
 
 ## आवृत्ती नियंत्रण वापरणे
 - [Think Like (a) Git](https://think-like-a-git.net/) - "प्रगत नवशिक्यांसाठी" गिट परिचय, परंतु गिटचा सुरक्षितपणे प्रयोग करण्यासाठी आपल्याला एक सोपी रणनीती देण्यासाठी आपण अद्याप धडपडत आहात.
-- [Try Git](https://try.github.io/) - आपल्या ब्राउझरमधून १५ मिनिटांत गिट विनामूल्य शिका.
+- [Try Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - आपल्या ब्राउझरमधून १५ मिनिटांत गिट विनामूल्य शिका.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - दररोज गिटसाठी उपयुक्त कमांड्सचा एक सेट.
 - [Oh shit, git!](https://ohshitgit.com/) - साध्या इंग्रजीत वर्णन केलेल्या `git` सामान्य चुकांमधून कसे मुक्त व्हावे; देखील पहा [Dangit, git!](https://dangitgit.com/) शपथ न देता पृष्ठासाठी.
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) - `git` वापरण्यावरील विविध ट्यूटोरियल
@@ -145,11 +144,11 @@
 
 ## ओपन सोर्स योगदान उपक्रम
 - [Up For Grabs](https://up-for-grabs.net/) - नवशिक्या-अनुकूल समस्यांसह प्रकल्प आहेत
-- [First Timers Only](https://www.firsttimersonly.com/) - "first-timers-only" असे लेबल असलेल्या बगची सूची.
 - [First Contributions](https://firstcontributions.github.io/) - ५ मिनिटांत आपले प्रथम मुक्त स्त्रोत योगदान द्या. योगदानासह प्रारंभ करण्यास नवशिक्यांसाठी मदत करणारे एक साधन आणि ट्यूटोरियल [येथे](https://github.com/firstcontributions/first-contributions) साइटसाठी गिटहब स्त्रोत कोड आहे आणि रेपॉजिटरीमध्येच योगदान देण्याची संधी आहे.
+- [First Timers Only](https://www.firsttimersonly.com/) - "first-timers-only" असे लेबल असलेल्या बगची सूची.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - ओपन सोर्स योगदानास प्रोत्साहित करण्यासाठी एक कार्यक्रम. ऑक्टोबर महिन्यात कमीतकमी ४ पुल विनंत्या करुन टी-शर्ट आणि स्टिकरसारख्या भेटवस्तू मिळवा.
 - [24 Pull Requests](https://24pullrequests.com) - २४ पुल विनंत्या डिसेंबर महिन्यात ओपन सोर्स सहयोगास प्रोत्साहन देण्यासाठी एक प्रकल्प आहे.
 - [Ovio](https://ovio.org) - सहयोगी-अनुकूल प्रकल्पांची क्युरेटरीकृत निवड असलेले एक व्यासपीठ. हे एक [शक्तिशाली समस्या शोध साधन आहे](https://ovio.org/issues) आणि आपण नंतर प्रकल्प आणि समस्या जतन करूया.
 
 ## परवाना
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />हे काम अंतर्गत परवानाकृत आहे <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />हे काम अंतर्गत परवानाकृत आहे <a>Creative Commons Attribution-ShareAlike 4.0 International License</a>.

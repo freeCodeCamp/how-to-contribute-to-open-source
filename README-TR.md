@@ -52,15 +52,17 @@ Eğer bir sorunuz veya yorumunuz varsa lütfen "issue" oluşturun.
 **İçerikler**
 
 - [Genel olarak Açık Kaynağa katkı sağlamak](#Genel-olarak-Açık-Kaynağa-katkı-sağlamak)
-- [Doğrudan Github aramaları](#Doğrudan-Github-aramalarıs)
+- [Doğrudan Github aramaları](#Doğrudan-Github-aramaları)
 - [Mozilla'nın katkı sağlayıcıları ekosistemi](#Mozilla'nın-katkı-sağlayıcıları-ekosistemi)
 - [Yeni Açık Kaynak katkı sağlayıcıları için faydalı makaleler](#Yeni-Açık-Kaynak-katkı-sağlayıcıları-için-faydalı-makaleler)
 - [Versiyon Kontrol Kullanmak](#Versiyon-Kontrol-Kullanmak)
 - [Açık Kaynak Kitapları](#Açık-Kaynak-Kitapları)
 - [Açık Kaynağa katkı girişimleri](#Açık-Kaynağa-katkı-girişimleri)
+- [Katılabileceğiniz Açık kaynaklı programlar](#Katılabileceğiniz-Açık-kaynaklı-programlar)
 - [Lisans](#Lisans)
 
 ## Genel olarak Açık Kaynağa katkı sağlamak
+> Açık Kaynak dünyasını ve kültürünü tartışan makaleler ve kaynaklar.
 - [Açık Kaynağa katkı sağlamak hakkında açıklayıcı kılavuz](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [Açık Kaynağa Giriş](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - DigitalOcean tarafından hazırlanan GitHub'da başarılı katkı için yolunda kılavuz olacak dersler 
 - [Issuehub.io](http://issuehub.pro/) - GitHub issuelarını etiket ve dile göre aramak için araç
@@ -68,10 +70,10 @@ Eğer bir sorunuz veya yorumunuz varsa lütfen "issue" oluşturun.
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - Uygun bugları etiketler uygulayarak repoları toplamış olan faydalı bir repo 
 - [Open Source Guides](https://opensource.guide/) - Bireyler, topluluklar ve şirketler için Açık Kaynağa nasıl katkı sağlayacakları konusunda yardımcı kaynakların toplandığı koleksiyon
 - [Yapılması ve yapılmaması gereken 45 Github konusu](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Github'da yapılması ve yapılmaması gerekenler
-- [GitHub Kılavuzları](https://guides.github.com/) - Github'u nasıl daha etkili kullanılabileceğini ihtiva eden kılavuzlar
+- [GitHub Kılavuzları](https://docs.github.com/en) - Github'u nasıl daha etkili kullanılabileceğini ihtiva eden kılavuzlar
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - 
 Simülasyon prosine kod katkısı sağlayarak GitHub dinamiklerini öğren
-- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Açık kaynak projeler için Linux Vakfı kılavuzları
+- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides) - Açık kaynak projeler için Linux Vakfı kılavuzları
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - Kent C. Dodds ve Sarah Drasner tarafından yazılan Açık Kaynak görgü kuralları
 - [Öğrenciler için A'dan Z'ye Kaynaklar](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Öğrenciler için yeni bir kodlama dilini öğrenirlerken kullanabilecekleri kaynak listesi
 - [İlk Açık Kaynak projene katkı sağlarken: Pratik Bir Bakış Açısı](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - İlk Açık Kaynak projene katkı sağlarken adım adım bakış açısı   
@@ -79,8 +81,8 @@ Simülasyon prosine kod katkısı sağlayarak GitHub dinamiklerini öğren
 - [Pull Request Ruleti](http://www.pullrequestroulette.com/) - Açık Kaynak projelere ait gözden geçirilmesi için gönderilmiş pull requestler. 
 - ["GitHub'daki açık kaynak projelere nasıl katkı sağlanır." Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - "GitHub'daki açık kaynak projelere adım adım nasıl katkı sağlanır?" ile ilgili videolar.
 
-## Direkt GitHub arama sonuçları
-Direkt olarak uygun issuelara referans veren katkı sağlanabilecek arama bağlantıları 
+## Doğrudan Github aramaları
+> Direkt olarak uygun issuelara referans veren katkı sağlanabilecek arama bağlantıları.
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
 - [is:issue is:open label:first-timers-only](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
@@ -89,24 +91,25 @@ Direkt olarak uygun issuelara referans veren katkı sağlanabilecek arama bağla
 - [is:issue is:open label:starter](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Astarter)
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
-## Mozilla'nın contributor ekosistemi
-- [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - İyi bir başlangıç olarak tanımlanmış bug'lar 
+## Mozilla'nın katkı sağlayıcıları ekosistemi
+> Mozilla, sağlıklı bir internet sözü veriyor ve bununla birlikte açık kaynak projelerine katkıda bulunma fırsatlarına sahip oluyor.
+- [Good First Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22[good%20first%20bug]%22&limit=0) - İyi bir başlangıç olarak tanımlanmış bug'lar 
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - Üzerinde çalışırken sıkıştığında sohbet aracılığı ile yardım alabileceğin, mentörler tarafından atanmış bug'lar
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - Bugzilla üzerinden bug bulabileceğiniz websitesi.
 - [Firefox DevTools](http://firefox-dev.tools/) - Firefox tarayıcı içerisinde bug bulabileceğiniz ve inceleyebileceğiniz araçlar 
-- [Mozilla İçin Ne Yapabilirim?](http://whatcanidoformozilla.org/) - Sorulara cevap vererek ilgi alanına ve kabiliyetlerine uygun neyin üzerinde çalışabilirsin öğren. 
 - [Start Mozilla](https://twitter.com/StartMozilla) - Mozilla ekosisteminde yeni olan katkı sağlayıcıları için tweetler atan Twitter hesabı 
 
 ## Yeni Açık Kaynak Katkı Sağlayıcıları için faydalı makaleler 
+> Nasıl başlayacağınıza dair yeni katkıda bulunanlara yönelik faydalı makaleler ve bloglar.
 - [İlk Açık Kaynak Projenizi nasıl seçersiniz?](https://github.com/collections/choosing-projects) yazan [@GitHub](https://github.com/github)
 - [Düzeltmek için ilk Açık Kaynak Bug'ınızı nasıl bulursunuz?](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) yazan [@Shubheksha](https://github.com/Shubheksha)
 - [İlk Defa Açık Kaynağa başlayacaklar için](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
 - [Açık Kaynağa iyiliği Geri Getirmek](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) yazan [@shanselman](https://github.com/shanselman)
 - [İlk defa Açık Kaynağın içine girmek](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) yazan [@mcdonnelldean](https://github.com/mcdonnelldean)
-- [Açık Kaynağa Nasıl Katkı Sağlanır](https://opensource.guide/how-to-contribute/) yazan [@GitHub](https://github.com/github)
-- [Kodunuzda Bug'ı Nasıl Bulabilirsiniz?](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) yazan [@dougbradbury](https://twitter.com/dougbradbury)
-- [Markdownda Uzmanlaşmak](https://guides.github.com/features/mastering-markdown/) by [@GitHubGuides](https://guides.github.com/)
-- [İlk Görev: Katkı Sağlayıcı Sayfası](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) yazan [@forCrowd](https://github.com/forCrowd)
+- [Açık Kaynağa Nasıl Katkı Sağlanır](https://opensource.guide/how-to-contribute/) yazan [@GitHub](https://github.com/github/opensource.guide)
+- [Kodunuzda Bug'ı Nasıl Bulabilirsiniz?](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) yazan [@dougbradbury](https://twitter.com/dougbradbury)
+- [Markdownda Uzmanlaşmak](https://docs.github.com/features/mastering-markdown/) by [@GitHubGuides](https://docs.github.com/en)
+- [İlk Görev: Katkı Sağlayıcı Sayfası](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) yazan [@forCrowd](https://github.com/forCrowd)
 - [5 Dakika İçerisinde Açık Kaynağa Nasıl Katkı Sağlarsın](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) yazan [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
 - [Hacktoberfest 2018: Nasıl ücretsiz t-shirt alırsın — Kodlama Yeni Olsan Dahi](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) yazan [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
 - [Açık Kaynak için Acı Kılavuz](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) yazan [@ken_wheeler](https://medium.com/@ken_wheeler)
@@ -122,8 +125,9 @@ Direkt olarak uygun issuelara referans veren katkı sağlanabilecek arama bağla
 - [Açık Kaynaklı Yazılım Nedir? AKY(OSS) Sade Anlatım](https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/) by [Jessica Wilkins](https://www.freecodecamp.org/news/author/jessica-wilkins/)
 
 ## Versiyon Kontrol Kullanmak
+> Genellikle Git ve GitHub olmak üzere sürüm kontrolünü kullanmayla ilgili çeşitli düzeylerde öğreticiler ve kaynaklar.
 - [Git Gibi Düşünmek](https://think-like-a-git.net/) - İleri Seviye Yeni Başlayan olup bazı noktalarda zorlananlar için güvenli bir deneyim sağlamaları için basit stratejiler veren Git Tanıtımı
-- [Git'i Dene](https://try.github.io/) - Ücretsiz olarak tarayıcın üzerinde 15 dakikada Git Öğren
+- [Git'i Dene](https://docs.github.com/en/get-started/quickstart/set-up-git) - Ücretsiz olarak tarayıcın üzerinde 15 dakikada Git Öğren
 - [Her Gün "Git"](https://git-scm.com/docs/giteveryday) - Her gün ihtiyaç duyabileceğiniz kullanışlı komutlar
 - [Oh shit, git!](http://ohshitgit.com/) - Düz bir ingilizce ile anlatılmış "Git kullanırken yapılan ortak hatalardan nasıl kaçınırsın" kılavuzu
 - [Atlassian'ın Git Dersleri](https://www.atlassian.com/git/tutorials/) - Çeşitli git kullanma kılavuzları.
@@ -142,7 +146,8 @@ Direkt olarak uygun issuelara referans veren katkı sağlanabilecek arama bağla
 - [Git Interactive Tutorial](https://learngitbranching.js.org/) - Git’i görsel içeriklerle ve interaktif bir şekilde öğrenin.
 - [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics) (1:12:39) - Tam bir Git ve GitHub Eğitimi by [Kunal Kushwaha](https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw).
 
-## Açık Kaynak kitaplar
+## Açık Kaynak kitapları
+> Açık Kaynaklı her şey üzerine kitaplar: Kültür, Tarih, En İyi Uygulamalar, vb.
 - [Açık Kaynak Proje Üretmek](http://producingoss.com/) - "Producing Open Source Software"  kitabı Açık Kaynak Geliştirmenin İnsan tarafı hakkında bir kitaptır. Ücretsiz yazılım kültürünü, kullanıcı ve geliştiricilerden beklentileri ve başarı projelerin yönetimini anlatır. 
 - [Açık Kaynak Kitap Serisi](https://opensource.com/resources/ebooks) - Açık Kaynak ve büyüyen Açık Kaynak Hareketi hakkında hakkında daha fazla bilgiler öğrenebileceğiniz https://opensource.com sitesinden kapsamlı ücretsiz kitap listesi
 - [Yazılım Yayınlama Pratikleri: Nasıl Yapılır](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - Linux ve diğer Açık-Kaynak projeler için doğru yayınlama pratiklerini açıklar. Bu pratikleri takip ederek, kullanıcıların kodunuzu daha iyi derlemesini, kullanmasını ve diğer geliştiriclerin kodunuzu anlayarak sizin işbirliği içinde kodunuzu iyileştirmesini sağlayacaksınız.
@@ -150,25 +155,39 @@ Direkt olarak uygun issuelara referans veren katkı sağlanabilecek arama bağla
 - [Açık Kaynaklı Uygulamalarının Mimarisi](http://www.aosabook.org/en/git.html) - Dağıtılmış iş akışlarını etkinleştirmek için Git’in çeşitli yönlerinin nasıl çalıştığını ve diğer sürüm kontrol sistemlerinden (VCS’ler) nasıl farklı olduğunu anlatır.
 - [Açık Kaynaklar: Açık Kaynak Devriminden Sesler](https://www.oreilly.com/openbook/opensources/book/) - Linus Torvalds (Linux), Larry Wall (Perl) ve Richard Stallman (GNU) gibi açık kaynak öncülerinden yazılar.
 
-## Açık Kaynağa Katkı Sağlama Girişimleri
+## Açık Kaynağa Katkı girişimleri
+> Yeni başlayanlar için uygun sorunları veya mevsimsel etkinlikleri bir araya getiren girişimlerin listesi.
 - [Up For Grabs](http://up-for-grabs.net/#/) - Başlangıç seviyesi dostu issue'lar ile beraber projeleri içerir
 - [Yalnızca İlk Defa Başlayanlar İçin](http://www.firsttimersonly.com/) - "first-timers-only" olarak etkiketlenmiş bug listesi
 - [İlk Katkılar](https://firstcontributions.github.io/) - 5 dakika içerisinde ilk Açık Kaynak Katkını yap. Katkı yapmaya başlamak için yardım eden araç ve ders 
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Açık Kaynağa Katkı sağlamayı teşvik eden bir program. Ay bazında en az 5 pull request yaparak t-shirt ve sticker gibi hediyeler kazan.
 - [24 Pull Requests](https://24pullrequests.com) - Aralık ayı boyunca Açık Kaynak işbirliğini destekleyen proje. 
 - [Ovio](https://ovio.org/) - Katılımcı dostu projeleri bir katalog olarak geliştiriciye sunan proje. [Güçlü bir sorun arama](https://ovio.org/issues) aracına sahiptir ve sorunları daha sonrası için kaydetmenize izin verir.
-- [Google Summer of Code](https://summerofcode.withgoogle.com/) - Google, daha fazla öğrenci geliştiriciyi açık kaynaklı yazılım geliştirmeye teşvik etmek için her yıl bu ücretli programı gerçekleştirir. 
-- [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) - Kadınlar ve ikilik dışı(ikili olmayan, nabinari, non-binary) yazılımcı bireyler için mevcut açık kaynaklı projeler üzerinde çalıştıkları ve becerilerini genişlettikleri küresel bir topluluk.
-- [Major League Hacking Fellowship](https://fellowship.mlh.io/) - Kalkınan teknoloji uzmanları için açık kaynaklı bir proje oluşturduğu veya katkı sağladığı için uzaktan bir staj alternatifi.
+- [Bu Projeye Katkıda Bulunun](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/translations/README/TURKISH.md) - Bu, ilk kez katkıda bulunanların basit ve kolay bir projeye katılmalarına ve GitHub'ı kullanma konusunda rahat olmalarına yardımcı olacak bir eğitimdir.
+- [Open Source Welcome Committee](https://www.oswc.is) - Open Source Welcome Committee (OSWC), yeni gelenlerin olağanüstü Açık Kaynak dünyasına katılmalarına yardımcı olur.
 
 ## Katılabileceğiniz Açık kaynaklı programlar
-- [Google Summer of Code](https://summerofcode.withgoogle.com)
+> Açık kaynak yazılım projelerine katkıda bulunmak için yeni başlayanları danışmanlar ve kaynaklarla eşleştirmeye yardımcı olmak için bir topluluk tarafından barındırılan bir program, staj veya burs.
+- [All Linux Foundation (LF) Mentorships](https://mentorship.lfx.linuxfoundation.org/#projects_all)
+- [Beginner friendly Open Source programs with their timelines](https://github.com/arpit456jain/Open-Source-Programs)
 - [FossAsia](https://fossasia.org)
-- [MLH Fellowship](https://fellowship.mlh.io)
+- [Free Software Foundation (FSF) Internship](https://www.fsf.org/volunteer/internships)
+- [Girlscript Summer of Code](https://gssoc.girlscript.tech/) - Girlscript Vakfı tarafından her yaz yürütülen üç aylık bir Açık Kaynak Programı. Katılımcılar, sürekli çaba göstererek, bu aylarda yetenekli mentorların aşırı rehberliğinde çok sayıda projeye katkıda bulunur. Böyle bir teşhir ile öğrenciler evlerinin rahatlığında gerçek dünya projelerine katkıda bulunmaya başlarlar.
 - [Outreachy](https://www.outreachy.org)
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com)
 - [CNCF](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
-- [Microsoft Reinforcement learning](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
+- [Google Summer of Code](https://summerofcode.withgoogle.com/) - Google, daha fazla öğrenci geliştiriciyi açık kaynaklı yazılım geliştirmeye teşvik etmek için her yıl bu ücretli programı gerçekleştirir. 
+- [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) - Kadınlar ve ikilik dışı(ikili olmayan, nabinari, non-binary) yazılımcı bireyler için mevcut açık kaynaklı projeler üzerinde çalıştıkları ve becerilerini genişlettikleri küresel bir topluluk.
+- [Major League Hacking Fellowship](https://fellowship.mlh.io/) - Kalkınan teknoloji uzmanları için açık kaynaklı bir proje oluşturduğu veya katkı sağladığı için uzaktan bir staj alternatifi.
+- [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN) - Eğer Blockchain ile ilgileniyorsanız, bu sizin için. Hyperledger'a katkıda bulunabilirsiniz. Bu mentorluk programı, Hyperledger açık kaynak geliştirmeye pratik bir şekilde maruz kalmanızı sağlar. Hyperledger geliştirici topluluğunda son derece aktif olan danışmanlar olarak atanacaksınız.
+- [LF Networking Mentorship](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program)
+- [Microsoft Reinforcement Learning](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
+- [Open Summer of Code](https://osoc.be/students)
+- [Open Mainframe](https://www.openmainframeproject.org/all-projects/mentorship-program) - Open Mainframe Projesi'nin ayrıca kendi açık kaynak programı vardır ve danışanlar anabilgisayar teknolojisi konusundaki bilgilerini genişletebileceklerdir.
+- [Processing Foundation Internship](https://processingfoundation.org/fellowships/)
+- [Redox OS Summer of Code](https://www.redox-os.org/rsoc/)
+- [Social Summer of Code](https://ssoc.devfolio.co/) - Social Foundation, öğrencilerin açık kaynak kültürü hakkında bilgi edinmeleri ve topluluğa dahil olmaları için bu iki aylık uzun yaz programını sunar. Katılımcılar, deneyimli mentorların rehberliğinde gerçek hayat projelerine katkıda bulunurlar.
+- [Season of KDE](https://season.kde.org/) - KDE topluluğu tarafından düzenlenen ;The Season of KDE, dünyadaki tüm bireylere yönelik bir sosyal yardım programıdır. KDE, ücretsiz ve açık kaynaklı yazılım geliştiren uluslararası bir özgür yazılım topluluğudur ve KDE'nin Sezonu programı aracılığıyla KDE'ye katkıda bulunabilirsiniz.
 
 ## Lisans
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Lisans türü: <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.

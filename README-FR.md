@@ -50,9 +50,9 @@ Si vous avez des questions ou commentaires, veuillez créer un ticket.
 - [Parfait-pour-débutants](https://github.com/MunGell/awesome-for-beginners) - un dépôt GitHub regroupant des projets avec des bugs faciles pour les contributeurs novices, et avec des labels pour les décrire.
 - [Guides de l'Open Source](https://opensource.guide/) - collection de ressources pour les particuliers, communautés et sociétés qui désirent apprendre à gérer et contribuer à un projet Open Source.
 - [45 Issues Github à faire et à ne pas faire](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - ce qu'il faut faire et ne pas faire sur GitHub.
-- [Guides de GitHub](https://guides.github.com/) - guides basiques sur comment utiliser GitHub efficacement.
+- [Guides de GitHub](https://docs.github.com/en) - guides basiques sur comment utiliser GitHub efficacement.
 - [Contribuer à l'Open Source](https://github.com/danthareja/contribute-to-open-source) - apprendre le processus de GitHub en contribuant du code à une simulation de projet.
-- [Guide pour l'Open Source de la Fondation Linux pour l'entreprise](https://www.linuxfoundation.org/resources/open-source-guides/) - les guides de la Fondation Linux pour les projets Open Source.
+- [Guide pour l'Open Source de la Fondation Linux pour l'entreprise](https://www.linuxfoundation.org/resources/open-source-guides) - les guides de la Fondation Linux pour les projets Open Source.
 - [CSS Tricks - Guide de l'étiquette Open Source](https://css-tricks.com/open-source-etiquette-guidebook/) - un guide de l'étiquette Open Source, écrit par [Kent C. Dodds](https://github.com/kentcdodds) et [Sarah Drasner](https://github.com/sdras).
 - [Ressource A à Z pour les étudiants](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - liste organisée de ressources et d'opportunités pour les étudiants universitaires souhaitant apprendre un nouveau langage informatique.
 - [Contribuer à votre premier projet Open Source : une approche pratique](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - une approche étape par étape pour contribuer à votre premier projet Open Source, de [Abati Adewale](https://www.acekyd.com).
@@ -76,11 +76,10 @@ Si vous avez des questions ou commentaires, veuillez créer un ticket.
 
 ## L'écosystème de contribution de Mozilla
 > Mozilla s'engage à améliorer la santé de l'internet. Ce qui apporte des opportunités de contribuer à ses projets open source. 
-- [Bons premiers bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - bugs que les développeurs ont identifiés comme de bonnes introductions au projet.
+- [Bons premiers bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22[good%20first%20bug]%22&limit=0) - bugs que les développeurs ont identifiés comme de bonnes introductions au projet.
 - [Bugs encadrés](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs qui ont un mentor assigné qui sera là sur IRC pour vous aider si vous êtes bloqué en essayant de le résoudre.
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - un site dédié à la recherche de bugs sur Bugzilla.
 - [Firefox DevTools](http://firefox-dev.tools/) - un site dédié aux bugs reportés sur l'outil de développement du navigateur Firefox.
-- [Que puis-je faire pour Mozilla](http://whatcanidoformozilla.org/)  -  découvrez ce sur quoi vous pouvez travailler en répondant à une série de questions au sujet de vos compétences et intérêts.
 - [Start Mozilla](https://twitter.com/StartMozilla) - un compte Twitter qui publie des problèmes adaptés aux apprentis contributeurs de l'écosystème Mozilla.
 
 ## Articles utiles pour les contributeurs novices de l'Open Source
@@ -90,10 +89,10 @@ Si vous avez des questions ou commentaires, veuillez créer un ticket.
 - [Novices exclusivement](https://kentcdodds.com/blog/first-timers-only) par [@kentcdodds](https://github.com/kentcdodds)
 - [Ramenons la gentillesse dans l'Open Source](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) par [@shanselman](https://github.com/shanselman)
 - [Aborder l'Open Source pour la première fois](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) par [@mcdonnelldean](https://github.com/mcdonnelldean)
-- [Comment contribuer à l'Open Source](https://opensource.guide/how-to-contribute/) par [@GitHub](https://github.com/github)
-- [Comment trouver un bug dans votre code](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) par [@dougbradbury](https://twitter.com/dougbradbury)
-- [Maîtriser le Markdown](https://guides.github.com/features/mastering-markdown/) par [@GitHubGuides](https://guides.github.com/)
-- [Première mission : Page des contributeurs](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) par [@forCrowd](https://github.com/forCrowd)
+- [Comment contribuer à l'Open Source](https://opensource.guide/how-to-contribute/) par [@GitHub](https://github.com/github/opensource.guide)
+- [Comment trouver un bug dans votre code](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) par [@dougbradbury](https://twitter.com/dougbradbury)
+- [Maîtriser le Markdown](https://docs.github.com/features/mastering-markdown/) par [@GitHubGuides](https://docs.github.com/en)
+- [Première mission : Page des contributeurs](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) par [@forCrowd](https://github.com/forCrowd)
 - [Comment effectuer votre première contribution à l'Open Source en seulement 5 minutes](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) par [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
 - [Hacktoberfest 2018 : Comment obtenir votre T-shirt gratuit, même si vous êtes un(e) novice du code](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) par [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
 - [Un guide amer de l'Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) par [@ken_wheeler](https://medium.com/@ken_wheeler)
@@ -124,7 +123,7 @@ Si vous avez des questions ou commentaires, veuillez créer un ticket.
 - [Introduction complète à Git et GitHub](https://codeburst.io/git-good-part-a-e0d826286a2a) - Un guide rédigé par Madhav Bahl, que vous devriez consulter si vous êtes un(e) novice de Git ou GitHub. Il couvre GitHub en tant que service ainsi que les concepts de gestion de version Git en détail.
 - [Un tutoriel d'introduction à Git](https://git-scm.com/docs/gittutorial) -Un tutoriel pour les débutants par Git.
 - [First Aid Git ](https://firstaidgit.io/#/) - Une collection consultable des questions Git les plus fréquemment posées. Les réponses à ces questions ont été recueillies à partir de l'expérience personnelle, de Stackoverflow et de la documentation officielle de Git.
-- [Try Git](https://try.github.io/) - apprendre Git en 15 minutes depuis votre navigateur gratuitement.
+- [Try Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - apprendre Git en 15 minutes depuis votre navigateur gratuitement.
 
 ## Livres sur l'Open Source
 > Livres sur tout ce qui est open source: la culture, l'histoire, les meilleures pratiques, etc.
