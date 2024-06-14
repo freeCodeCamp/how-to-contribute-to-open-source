@@ -104,7 +104,6 @@
 - [באגים עם מנטור](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - באגים שיש להם מנטורים המשוייכים עליהם, ניתן לפנות אליהם דרך IRC במקרה שנתקעתם במהלך תיקון הבאג.
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - אתר המוקדש כולו למציאת באגים ב-Bugzilla.
 - [Firefox DevTools](http://firefox-dev.tools/) - אתר המוקדש לבאגים של כלי המתכנת (developer tools) של הדפדפן פיירפוקס
-- [מה אני יכול לעשות למען מוזילה](https://whatcanidoformozilla.org/) - מצאו כיצד תוכלו לתרום על ידי מענה על מגוון שאלות על תחומי והעניין והידע שלכם.
 - [Start Mozilla](https://twitter.com/StartMozilla) - חשבון טוויטר המצייץ על issues המתאימים לתורמים חדשים לאקוסיסטם של מוזילה.
 
 </p>

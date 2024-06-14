@@ -97,7 +97,6 @@ Povezave, ki neposredno usmerjajo na primerne `issues`, s katerim lahko prispeva
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - `bugs` ki imajo dodeljenega mentorja, ki vam bo pomagal, ko se vam zatakne med delom na popravku.
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - spletno mesto, namenjeno iskanju `bugs` na Bugzilli.
 - [Firefox DevTools](http://firefox-dev.tools/) - spletno mesto, namenjeno `bugs`, vloženim za orodja za razvijalce v brskalniku Firefox.
-- [What Can I Do For Mozilla](https://whatcanidoformozilla.org/) - ugotovite, na čem lahko delate, tako da odgovorite na kup vprašanj o svojih sposobnostih in interesih.
 - [Start Mozilla](https://twitter.com/StartMozilla) - račun na Twitterju, ki tvita o težavah, ki so primerne za nove sodelavce v ekosistemu Mozilla.
 
 ## Uporabni članki za nove pri prispevanju odprtokodnim projektom

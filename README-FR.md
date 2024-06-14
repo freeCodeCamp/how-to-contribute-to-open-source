@@ -80,7 +80,6 @@ Si vous avez des questions ou commentaires, veuillez créer un ticket.
 - [Bugs encadrés](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs qui ont un mentor assigné qui sera là sur IRC pour vous aider si vous êtes bloqué en essayant de le résoudre.
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - un site dédié à la recherche de bugs sur Bugzilla.
 - [Firefox DevTools](http://firefox-dev.tools/) - un site dédié aux bugs reportés sur l'outil de développement du navigateur Firefox.
-- [Que puis-je faire pour Mozilla](http://whatcanidoformozilla.org/)  -  découvrez ce sur quoi vous pouvez travailler en répondant à une série de questions au sujet de vos compétences et intérêts.
 - [Start Mozilla](https://twitter.com/StartMozilla) - un compte Twitter qui publie des problèmes adaptés aux apprentis contributeurs de l'écosystème Mozilla.
 
 ## Articles utiles pour les contributeurs novices de l'Open Source

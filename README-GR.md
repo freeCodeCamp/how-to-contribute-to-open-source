@@ -72,7 +72,6 @@
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - Bugs στα οποία έχει καθοριστεί ένας μέντορας που θα βρίσκεται στο IRC για να σε καθοδηγήσει όταν θα χρειαστείς βοήθεια.
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - Μία ιστοσελίδα ειδική στο να βρίσκει κάποιος bugs στο Bugzilla.
 - [Firefox DevTools](http://firefox-dev.tools/) - Μία ιστοσελίδα ειδική σε bugs για τα εργαλεία προγραμματισμού στο Firefox (Firefox Developer Tools).
-- [What Can I Do For Mozilla](http://whatcanidoformozilla.org/) - Μία ιστοσελίδα που βοηθάει κάποιον να βρει πάνω σε τι μπορεί να δουλέψει, απαντώντας μερικές ερωτήσεις σχετικές με τις ικανότητες και τα ενδιαφέροντα του.
 - [Start Mozilla](https://twitter.com/StartMozilla) - Ένας λογαριασμός στο Twitter που δημοσιεύει issues κατάλληλα για αρχάριους στη συνεισφορά Ανοικτού Κώδικα στο Mozilla ecosystem.
 
 ## Χρήσιμα άρθρα για αρχάριους στη συνεισφορά Ανοικτού Κώδικα

@@ -83,7 +83,6 @@ Cari pautan yang mengarahkan secara langsung kepada masalah yang sesuai untuk di
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - pepijat yang mempunyai mentor yang ditugaskan yang akan berada di IRC untuk membantu anda apabila anda rasa tidak produktif semasa menyelesaikan masalah.
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - laman web yang dikhaskan untuk mencari pepijat di Bugzilla.
 - [Firefox DevTools](http://firefox-dev.tools/) - laman web yang dikhaskan untuk bug yang difailkan untuk alat pembangun('Developer Tools') dalam penyemak imbas('browser') Firefox.
-- [What Can I Do For Mozilla](https://whatcanidoformozilla.org/) - fikirkan apa yang boleh anda sumbangkan dengan menjawab banyak soalan mengenai set kemahiran dan minat anda.
 - [Start Mozilla](https://twitter.com/StartMozilla) - akaun Twitter yang tweet mengenai isu-isu yang sesuai untuk penyumbang baru dalam ekosistem Mozilla.
 
 ## Artikel bermanfaat untuk penyumbang baru dalam Sumber Terbuka
