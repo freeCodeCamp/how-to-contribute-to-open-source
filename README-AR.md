@@ -74,7 +74,7 @@
 - ["Open Advice"](http://open-advice.org/) -جمع المعرفة من مجموعة متنوعة من مشاريع البرمجيات الحرة. يجيب على السؤال الذي كان يرغب 42 من المساهمين البارزين في معرفته عندما بدأوا حتى تتمكن من الحصول على السبق بغض النظر عن كيفية ومكان المساهمة.
 - ["GitHub Learning Lab"](https://github.com/apps/github-learning-lab) -ارفع مستوى مهاراتك مع GitHub Learning Lab. سيأخذك برنامج الروبوت الودود الخاص بنا عبر سلسلة من المرح والمشاريع العملية لتعلم المهارات التي تحتاجها في وقت قصير - ومشاركة التعليقات المفيدة على طول الطريق.
 - ["Ten simple rules for helping newcomers become contributors to open projects"](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007296) - تتناول هذه المقالة القواعد المستندة إلى دراسات العديد من المجتمعات وتجارب الأعضاء والقادة والمراقبين.
-- ["Step-by-Step guide to contributing on GitHub"](https://www.dataschool.io/how-to-contribute-on-github/) -دليل خطوة بخطوة مع دعم مرئيات وروابط بخصوص العملية الكاملة للمساهمة في مشروع مفتوح المصدر.
+- ["Step-by-Step guide to contributing on GitHub"](https://www.dataschool.io/how-to-contribute-on-github/) -دليل خطوة بخطوة مع دعائم مرئية و روابط بخصوص العملية الكاملة للمساهمة في مشروع مفتوح المصدر.
 - [Open Source with Pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna) - مستودع يحتوي على مصادر ومواد لتعلم وبدأ المشاركة في المشاريع مفتوحة المصدر
 
 ## عمليات البحث المباشرة على GitHub
@@ -128,7 +128,7 @@
 
 ## باستخدام التحكم في الإصدار
 
-- [Think Like (a) Git](https://think-like-a-git.net/) - مقدمة Git لـ "المبتدئين المتقدمين" ، لكنهم ما زالوا يعانون ، من أجل إعطائك إستراتيجية بسيطة لتجربة git بأمان.
+- [Think Like (a) Git](https://think-like-a-git.net/) - مقدمة Git "للمبتدئين المتقدمين".  رغن انهم ما زالوا يعانون من أجل إعطائك استراتيجية بسيطة لتجربة git بأمان.
 - [Try Git](https://docs.github.com/en/get-started/quickstart/set-up-git ) -تعلم Git في 15 دقيقة من داخل متصفحك مجانًا.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) -الحد الأدنى من مجموعة الأوامر المفيدة لـ Everyday Git.
 - [Oh shit, git!](https://ohshitgit.com/) - كيفية الخروج من الأمور المشتركة `git` وصفت الأخطاء بلغة إنجليزية بسيطة ؛ انظر أيضا [Dangit, git!](https://dangitgit.com/) للصفحة بدون أقسم.
