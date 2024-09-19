@@ -1,7 +1,7 @@
 <!-- Do not translate this -->
 <details>
 <summary>
-<strong> اس گائیڈ کو دوسری زبانوں میں پڑھیں </strong>
+<strong> اس گائیڈ کو دیگر زبانوں میں پڑھیں </strong>
 </summary>
     <ul>
         <li><a href="./README.md"> English </a></li>
@@ -37,11 +37,11 @@
 [![پہلی بار صرف دوستانہ](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
 [![وسائل چیک کریں۔](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml/badge.svg)](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml)
 
-یہ ان لوگوں کے لیے وسائل کی فہرست ہے جو اوپن سورس میں تعاون کرنے کے لیے نئے ہیں۔
+یہ ان افراد کے لیے وسائل کی فہرست ہے جو اوپن سورس میں تعاون کرنے کے لیے نئے ہیں۔
 
-اگر آپ کو اضافی وسائل ملتے ہیں، تو براہ کرم پل کی درخواست میں تعاون کریں۔
+اگر آپ کو اضافی وسائل ملیں، تو براہ کرم پل کی درخواست کے ذریعے تعاون کریں۔
 
-اگر آپ کے سوالات یا تبصرے ہیں، تو براہ کرم ایک مسئلہ بنائیں۔
+اگر آپ کے کوئی سوالات یا تبصرے ہیں، تو براہ کرم ایک مسئلہ (issue) بنائیں۔
 
 **مشمولات**
 
