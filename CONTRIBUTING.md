@@ -7,12 +7,39 @@ Issues can be submitted by anyone - either seasoned developers or newbies.
 
 **Contents**
 
+- [Choosing an Issue](#choosing-an-issue)
 - [Getting Started](#getting-started)
 - [Submitting a Pull Request](#submitting-a-pull-request)
 - [Adding to the Main README](#adding-to-the-main-readme)
 - [Adding to Non-English README](#adding-to-non-english-readme)
 - [Adding to the Project File](#adding-to-the-project-file)
+- [Notation and terminology](#notation-and-terminology)
 - [Helpful Resources](#helpful-resources)
+
+## Choosing an Issue
+
+Before getting started and setup with contributing, you'll want to look at and choose an issue to work on. Here is a basic workflow you want to work from:
+
+1. Search through issues
+2. Find issue you want to work on
+3. Check if someone else has already worked on and made a pull request on said issue
+4. (Optional) Double check pull requests for someone who has worked on the pull request
+
+If you have gotten that far, then you can go ahead and work on the issue. Below are more detailed instructions based on the basic workflow above.
+
+You can find open issue [here](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/issues).
+
+Once you've found an issue you want to work on, take a look at the issue to see if anyone else has made a pull request for this issue yet.
+
+You can tell if someone has correctly referenced and worked on an issue if in the issue you find some text saying, the following:
+
+>  This was referenced on ____
+
+where that `____` is the date and below it is the pull request of another individual working on that issue. [Here](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/issues/822) is an example of what this looks like.
+
+To be extra sure no one has worked on it, you can [take a look at the pull requests](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/pulls) as well to see if anyone has made a similar pull request.
+
+If you've gotten this far, then you can continue on with the next section on "Getting Started" to working on your first pull request and contribution to our repository.
 
 ### Getting Started
 
@@ -44,7 +71,7 @@ Issues can be submitted by anyone - either seasoned developers or newbies.
 
     If you are making changes to the `README.md` file, you would need to have
     Markdown knowledge. Visit
-    [here to read about GitHub Markdown](https://guides.github.com/features/mastering-markdown/)
+    [here to read about GitHub Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
     and
     [here to practice](http://www.markdowntutorial.com/).
 
@@ -118,12 +145,18 @@ You can contribute to this page by adding a Markdown-formatted link.
 It should look similar to the one below.
 
 ```
-- [Title of the page](www.websitename.com/slug-name-here) - Add a description of why I should look at this site
+- [Title of the page](www.websitename.com/slug-name-here) - Add a description of why I should look at this site.
 ```
 
 When in doubt, take a look at the current list of items to get an idea of how you should format your contribution.
 
 When adding your contribution to the list, please add your link to the most appropriate section. If you are unsure, feel free to ask in your pull request or comment in an issue asking for guidance.
+
+If a video link is added, try to add in the length of the video as well, as shown below.
+
+```
+- ["Complete Guide to Open Source - How to Contribute"](https://www.youtube.com/watch?v=yzeVMecydCE) (41:52) - Learn why and how to contribute to open source software with Eddie Jaoude.
+```
 
 ### Adding to Non-English README
 
@@ -165,10 +198,16 @@ Next, we ask to link to the contributing page. This will give direction to peopl
 
 Lastly, we want to link to beginner-friendly labels. These are typically `Good First Issue` or something similar.
 
+### Notation and terminology
+
+This section will list any notations, terminology, or words that we will keep consistent.
+
+- "Open Source" will be capitalized unless it is within a article or video title
+
 ### Helpful Resources
 
 - [Pro GIT Book](https://git-scm.com/book/en/v2)
 
-- [Try Git](https://try.github.io/)
+- [Try Git](https://docs.github.com/en/get-started/quickstart/set-up-git)
 
 - [Git/ Git Hub on Windows](https://www.youtube.com/watch?v=J_Clau1bYco)
