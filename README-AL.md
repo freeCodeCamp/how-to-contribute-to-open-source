@@ -5,7 +5,7 @@
 </summary>
 	<ul>
         <li><a href="./README.md"> English </a></li>
-		<li><a href="./README-AL.md">Albanian</a></li>
+	<li><a href="./README-AL.md"> Albanian </a></li>
         <li><a href="./README-MR.md"> मराठी </a></li>
         <li><a href="./README-BN.md"> বাংলা </a></li>
         <li><a href="./README-CN.md"> 中文 </a></li>
