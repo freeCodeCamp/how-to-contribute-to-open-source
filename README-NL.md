@@ -60,7 +60,6 @@ Als je vragen of opmerkingen hebt, maak dan een probleem aan.
 > Artikelen en bronnen die de wereld en cultuur van Open Source bespreken.
 
 - [De Definitie van Open Source](https://opensource.org/osd) - De definitie van Open Source Software van de Open Source Initiative.
-- [Open Source Openbaring](http://vimeo.com/110806872) - Een documentairefilm van Vimeo over hoe Open Source-software wordt gemaakt.
 - [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/) - Het beroemde essay van Eric S. Raymond over de twee verschillende manieren om software te maken.
 - [Producing Open Source Software](http://producingoss.com/) - Een gratis boek van Karl Fogel over het produceren van Open Source Software.
 - [Mozilla Manifesto](https://www.mozilla.org/en-US/about/manifesto/) - Het manifest van Mozilla over de principes van het Open Web.
