@@ -6,7 +6,7 @@
         <li><a href="./README.md"> إنجليزي </a></li>
         <li><a href="./README-MR.md"> الماراثى </a></li>
         <li><a href="./README-BN.md"> البنغالية </a></li>
-        <li><a href="./README-CN.md"> صينى </a></li>
+        <li><a href="./README-ZH.md"> صينى </a></li>
         <li><a href="./README-RU.md"> الروسية </a></li>
         <li><a href="./README-RO.md"> روماني </a></li>
         <li><a href="./README-IT.md"> إيطالي </a></li>
