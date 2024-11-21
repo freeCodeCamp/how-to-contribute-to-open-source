@@ -4,7 +4,7 @@
         <td><a href="./README.md"> English </a></td>
         <td><a href="./README-MR.md"> मराठी </a></td>
         <td><a href="./README-BN.md"> বাংলা </a></td>
-        <td><a href="./README-CN.md"> 中文 </a></td>
+        <td><a href="./README-ZH.md"> 中文 </a></td>
         <td><a href="./README-RU.md"> Русский </a></td>
         <td><a href="./README-RO.md"> Românesc </a></td>
         <td><a href="./README-IT.md"> Italiano </a></td>
