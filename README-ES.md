@@ -92,7 +92,7 @@ Si tienes alguna pregunta o comentario, por favor crea un `issue` en este reposi
 - [Entrando en el código abierto por primera vez](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) por [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [Cómo contribuir al código abierto](https://opensource.guide/how-to-contribute/) por [@GitHub](https://github.com/github/docs)
 - [Cómo encontrar errores en tu código](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) por [@dougbradbury](https://twitter.com/dougbradbury)
-- [Dominando el Markdown](https://docs.github.com/features/mastering-markdown/) por [@GitHubGuides](https://docs.github.com/en)
+- [Markdown: Cómo escribir en GitHub](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) por [@GitHubDocs](https://docs.github.com/es)
 - [Primera misión: Página de colaboradores](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) por [@forCrowd](https://github.com/forCrowd)
 - [Cómo hacer tu primera contribución al código abierto en 5 minutos](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) por [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
 - [Hacktoberfest 2018: Cómo puedes conseguir tu primera camiseta - incluso si eres nuevo programando](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) por [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
