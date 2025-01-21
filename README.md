@@ -113,6 +113,7 @@ If you have questions or comments, please create an issue.
 > Mozilla pledges for a healthy internet and with it, has opportunities to contribute to its open-source projects.
 
 - [Good First Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=good-first-bug) - bugs that developers have identified as a good introduction to the project.
+- [Codetribute](https://codetribute.mozilla.org/) - find your first code contribution with Mozilla 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/MDN/Contribute) - help the MDN Web Docs team in documenting the web platform by fixing content issues and platform bugs.
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs that have a mentor assigned who will be there on IRC to help you when you get stuck while working on a fix.
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - a site dedicated to finding bugs on Bugzilla.
