@@ -18,13 +18,13 @@
     </tr>
 </table>
 
-# Maligayang Pagdating sa mga Bagong Tagapag-ambag sa _Open Source_!
+# Maligayang Pagdating sa mga Baguhang Tagapag-ambag sa _Open Source_!
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
 [![Check Resources](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml/badge.svg)](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml)
 
-Ito ay isang listahan ng mga resources para sa mga taong bago pa lamang sa pag-aambag sa Open Source.
+Ito ay listahan ng mga mapagkukunan para sa mga taong bago pa lamang sa pag-aambag sa Open Source.
 
 Kung makakita ka ng mga karagdagang mapagkukunan, mangyaring gumawa ng _pull request_.
 
@@ -44,40 +44,40 @@ Kung mayroon kang mga tanong o komento, mangyaring gumawa ng _issue_.
 
 ## Pangkalahatang Pag-ambag sa Open Source
 
-> Articles and resources that discuss the world and culture of Open Source.
+> Mga artikulo at mapagkukunan na tumatalakay sa mundo at kultura ng Open Source.
 
-- [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG).
-- [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials by DigitalOcean to guide you on your way to contribution success here on GitHub.
-- [Complete Guide on Open Source Contributions](https://www.youtube.com/playlist?list=PLR0CKdeR_FyscaxEksDVXc4UQvlOFLYS6) - YouTube tutorials playlist by "Dev Sense".
-- [Code Triage](https://www.codetriage.com/) - A tool for finding popular repositories and issues filtered by language.
-- [Forge Your Future with Open Source](https://pragprog.com/titles/vbopens/forge-your-future-with-open-source/) ($) - Book devoted to explaining open source, how to find a project, and how to start contributing. Inclusive of all roles in software development, not just programmers.
-- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - a GitHub repo that amasses projects with good bugs for new contributors, and applies labels to describe them.
-- [Open Source Guides](https://opensource.guide/) - Collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an Open Source project.
-- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Do's and Don'ts on GitHub.
-- [GitHub Guides](https://docs.github.com/en) - basic guides on how to use GitHub effectively.
-- [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Learn the GitHub workflow by contributing code to a simulation project.
-- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides) - The Linux Foundation's guides to Open Source projects.
-- [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - An Open Source Etiquette Guidebook, written by Kent C. Dodds And Sarah Drasner.
-- [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Curated list of resources and opportunities for college students to learn a new coding language.
-- ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - A step-by-step video guide of how to start contributing to Open Source projects on GitHub.
-- [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - This walkthrough of an open source contribution covers everything from picking a suitable project, working on an issue, to getting the PR merged in.
-- ["How to Contribute to Open Source Project" by Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - They are focusing on the nitty-gritty of contributing a pull request (PR) to someone else’s project on GitHub.
-- ["How to get started with Open Source" by Sayan Chowdhury](https://www.hackerearth.com:443/getstarted-opensource/) - This article covers the resources for contributing to open source for beginners based on their favorite language interest.
-- ["Browse good first issues to start contributing to open source"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) - GitHub now helps you find good first issues to start contributing to open source.
-- ["How to Contribute to Open Source Project" by Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - This comprehensive article is directed towards businesses (but still useful for individual contributors) where it talks about why, how, and what open-source projects to contribute to.
-- ["start-here-guidelines" by Andrei](https://github.com/zero-to-mastery/start-here-guidelines) - Lets Git started in the world of opensource, starting in the opensource playground. Especially designed for education and practical experience purposes.
-- ["Getting Started with Open Source" by NumFocus](https://github.com/numfocus/getting-started-with-open-source) - a GitHub repo that helps contributors overcome barriers to entry in open-source.
-- ["Opensource-4-everyone" by Chryz-hub](https://github.com/chryz-hub/opensource-4-everyone) - A repository on everything related to open source. This is a project to help with GitHub membership visibility, practice with basic and advance git commands, getting started with open source, and more.
-- ["Open Advice"](http://open-advice.org/) - Knowledge collection from a wide variety of Free Software projects. It answers the question what 42 prominent contributors would have liked to know when they started so you can get a head-start no matter how and where you contribute.
-- ["GitHub Skills"](https://skills.github.com) - Level up your skills with GitHub Skills. Our friendly bot will take you through a series of fun, practical projects to learn the skills you need in no time—and share helpful feedback along the way.
-- ["Ten simple rules for helping newcomers become contributors to open projects"](https://doi.org/10.1371/journal.pcbi.1007296) - This article covers rules based on studies of many communities and experiences of members, leaders, and observers.
-- ["Step-by-Step guide to contributing on GitHub"](https://www.dataschool.io/how-to-contribute-on-github/) - a step-by-step guide with supporting visuals and links regarding the whole process of contributing to an open source project.
-- [Open Source with Pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna) - This repo contains resources and materials to learn and get yourself started with Open Source, Git, and GitHub.
-- ["FOSS Community Acronyms"](https://github.com/d-edge/foss-acronyms) - This repo contains a list of abbreviations used within the FOSS (Free and Open Source) community, along with their definitions and usages.
-- ["Open Source Fiesta - Open Source Fiesta"](https://zubi.gitbook.io/open-source-fiesta/) - Step-by-step instruction on how to contribute to GitHub repositories, and includes a git command line cheatsheet.
-- ["6 Best Practices to Manage Pull Request Creation and Feedback"](https://doordash.engineering/2022/08/23/6-best-practices-to-manage-pull-request-creation-and-feedback/) from Jenna Kiyasu, software engineer at DoorDash Engineering.
-- ["Contribute to the Open-Source Community"](https://arijitgoswami.hashnode.dev/contribute-to-the-open-source-community) - Advantages of open-source software, how to understand the inner workings of an open-source project and make the first contribution.
-- ["Complete Guide to Open Source - How to Contribute"](https://www.youtube.com/watch?v=yzeVMecydCE) (41:52) - Learn why and how to contribute to open source software with Eddie Jaoude.
+- [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) ni [@DoomHammerNG](https://twitter.com/DoomHammerNG).
+- [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials ni DigitalOcean upang maging gabay sa iyong matagumpay na kontribusyon dito sa GitHub.
+- [Complete Guide on Open Source Contributions](https://www.youtube.com/playlist?list=PLR0CKdeR_FyscaxEksDVXc4UQvlOFLYS6) - YouTube tutorials playlist ni "Dev Sense".
+- [Code Triage](https://www.codetriage.com/) - Isang tool para sa paghahanap ng sikat na mga repository at mga isyu na naka-filter ayon sa programming language.
+- [Forge Your Future with Open Source](https://pragprog.com/titles/vbopens/forge-your-future-with-open-source/) ($) - Aklat na nakatuon sa pagpapaliwanag ng open source, kung paano maghanap ng project, at kung paano magsimulang mag-ambag. Kasama ang lahat ng mga roles sa software development, hindi lamang mga programmer.
+- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - Isang GitHub repo na puno ng mga projects na may magagandang bugs para sa mga bagong kontribyutor, at gumagamit ng mga label upang ilarawan ang mga ito.
+- [Open Source Guides](https://opensource.guide/) - Koleksyon ng mga mapagkukunan para sa mga indibidwal, komunidad, at kumpanya na gustong matutunan kung paano tumakbo at mag-ambag sa isang Open Source project.
+- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Do's and Don'ts sa GitHub.
+- [GitHub Guides](https://docs.github.com/en) - Mga pangunahing gabay sa epektibong paggamit ng GitHub.
+- [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Alamin ang workflow ng GitHub sa pamamagitan ng pag-aambag ng code sa isang simulation project.
+- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides) - Gabay ng The Linux Foundation sa mga Open Source projects.
+- [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - Gabay sa Etiquette ng Open Source, isinulat nina Kent C. Dodds at Sarah Drasner.
+- [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Listahan ng mga mapagkukunan at oportunidad para sa mga estudyante sa kolehiyo sa pag-aaral ng bagong coding language.
+- ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - Isang video ng step-by-step na gabay kung paano magsimulang mag-ambag sa mga Open Source projects sa GitHub.
+- [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - Ang pag-aambag sa open source na walkthrough na ito ay sumasaklaw sa lahat mula sa pagpili ng angkop na project, pagtatrabaho sa isang issue, hanggang sa pagme-merge ng PR.
+- ["How to Contribute to Open Source Project" by Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - Nakatuon sila sa mga detalye ng pag-aambag ng pull request (PR) sa project ng iba sa GitHub.
+- ["How to get started with Open Source" by Sayan Chowdhury](https://www.hackerearth.com:443/getstarted-opensource/) - Tinalakay ng artikulong ito ang mga mapagkukunan para sa mga baguhan sa pag-aambag sa open source batay sa kanilang paboritong wika.
+- ["Browse good first issues to start contributing to open source"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) - Ang GitHub ay tumutulong ngayon na makahanap ng mga magandang unang issue upang magsimulang mag-ambag sa open source.
+- ["How to Contribute to Open Source Project" by Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - Ang komprehensibong artikulong ito ay nakatuon sa mga businesses (ngunit kapaki-pakinabang pa rin para sa mga indibidwal na nag-aambag), kung saan tinatalakay ang mga dahilan, mga paraan, at kung anong mga open-source projects and pwedeng ambagan.
+- ["start-here-guidelines" by Andrei](https://github.com/zero-to-mastery/start-here-guidelines) - Simulan ang Git sa mundo ng open source, simula sa open source playground. Partikular na idinisenyo para sa mga layunin ng edukasyon at praktikal na karanasan.
+- ["Getting Started with Open Source" by NumFocus](https://github.com/numfocus/getting-started-with-open-source) - Isang GitHub repo na tumutulong sa mga nag-aambag na malampasan ang mga hadlang sa pagsisimula sa open-source.
+- ["Opensource-4-everyone" by Chryz-hub](https://github.com/chryz-hub/opensource-4-everyone) - Isang repository na tumatalakay sa lahat ng bagay na may kaugnayan sa open source. Ito ay isang proyekto na tumutulong sa visibility ng GitHub membership, pagsasanay sa mga basic at advanced na git commands, pagsisimula sa open source, at iba pa.
+- ["Open Advice"](http://open-advice.org/) - Koleksyon ng kaalaman mula sa iba't ibang mga Free Software projects. Sinasagot nito ang tanong kung ano ang nais sana malaman ng 42 na kilalang nag-aambag noong nagsimula pa lamang sila, upang makapagsimula nang maaga, anuman at saanman nag-aambag.
+- ["GitHub Skills"](https://skills.github.com) - I-level up ang iyong kasanayan gamit ang GitHub Skills. Ang aming magiliw na bot ay gagabay sa'yo sa isang serye ng mga masaya at praktikal na projects upang matutunan mo ang mga kasanayan na kailangan mo sa mabilis na panahon—at magbibigay ng mga kapaki-pakinabang na feedback habang ikaw ay natututo.
+- ["Ten simple rules for helping newcomers become contributors to open projects"](https://doi.org/10.1371/journal.pcbi.1007296) - Tinalakay ng artikulong ito ang mga patakaran batay sa mga pag-aaral ng maraming komunidad at karanasan ng mga miyembro, lider, at mga tagamasid.
+- ["Step-by-Step guide to contributing on GitHub"](https://www.dataschool.io/how-to-contribute-on-github/) - Isang sunud-sunod na gabay na may kasamang mga visuals at mga links na sumusuporta sa buong proseso ng pag-aambag sa isang open source project.
+- [Open Source with Pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna) - Ang repo na ito ay naglalaman ng mga mapagkukunan at materyales upang matuto at magsimula sa Open Source, Git, at GitHub.
+- ["FOSS Community Acronyms"](https://github.com/d-edge/foss-acronyms) - Ang repo na ito ay naglalaman ng listahan ng mga abbreviations na ginagamit sa FOSS (Free and Open Source) na komunidad, pati na rin ang kanilang mga kahulugan at gamit.
+- ["Open Source Fiesta - Open Source Fiesta"](https://zubi.gitbook.io/open-source-fiesta/) - Sunud-sunod na instruksyon kung paano mag-ambag sa mga GitHub repositories, kasama na ang isang cheatsheet sa git command line.
+- ["6 Best Practices to Manage Pull Request Creation and Feedback"](https://doordash.engineering/2022/08/23/6-best-practices-to-manage-pull-request-creation-and-feedback/) mula kay Jenna Kiyasu, software engineer sa DoorDash Engineering.
+- ["Contribute to the Open-Source Community"](https://arijitgoswami.hashnode.dev/contribute-to-the-open-source-community) - Mga advantages ng open-source software, paano maintindihan ang mga panloob na mekanismo ng isang open-source project, at kung paano gawin ang unang kontribusyon.
+- ["Complete Guide to Open Source - How to Contribute"](https://www.youtube.com/watch?v=yzeVMecydCE) (41:52) - Alamin kung bakit at kung paano mag-ambag sa open-source software kasama si Eddie Jaoude.
 
 ## Direktang Paghahanap sa GitHub
 
