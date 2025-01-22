@@ -81,7 +81,7 @@ Kung mayroon kang mga tanong o komento, mangyaring gumawa ng _issue_.
 
 ## Direktang Paghahanap sa GitHub
 
-> Search links that point directly to suitable issues to contribute to on GitHub.
+> Search links na direktang tumutukoy sa mga angkop na _issues_ na maaaring ambagan sa GitHub.
 
 - [is:issue is:open label:beginner](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Abeginner&type=issues)
 - [is:issue is:open label:easy](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy&type=issues)
