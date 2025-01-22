@@ -42,7 +42,7 @@ Kung mayroon kang mga tanong o komento, mangyaring gumawa ng _issue_.
 - [Mga Programa sa Open Source na Lalahukan](#mga-programa-sa-open-source-na-lalahukan)
 - [Lisensya](#lisensya)
 
-## Contributing to Open Source in general
+## Pangkalahatang Pag-ambag sa Open Source
 
 > Articles and resources that discuss the world and culture of Open Source.
 
@@ -79,7 +79,7 @@ Kung mayroon kang mga tanong o komento, mangyaring gumawa ng _issue_.
 - ["Contribute to the Open-Source Community"](https://arijitgoswami.hashnode.dev/contribute-to-the-open-source-community) - Advantages of open-source software, how to understand the inner workings of an open-source project and make the first contribution.
 - ["Complete Guide to Open Source - How to Contribute"](https://www.youtube.com/watch?v=yzeVMecydCE) (41:52) - Learn why and how to contribute to open source software with Eddie Jaoude.
 
-## Direct GitHub searches
+## Direktang Paghahanap sa GitHub
 
 > Search links that point directly to suitable issues to contribute to on GitHub.
 
@@ -93,7 +93,7 @@ Kung mayroon kang mga tanong o komento, mangyaring gumawa ng _issue_.
 - [is:issue is:open label:easy-fix](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy-fix&type=issues)
 - [is:issue is:open label:"beginner friendly"](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22beginner+friendly%22&type=issues)
 
-## Mozilla's contributor ecosystem
+## Ecosystem ng Kontribyutor ng Mozilla
 
 > Mozilla pledges for a healthy internet and with it, has opportunities to contribute to its open-source projects.
 
@@ -105,7 +105,7 @@ Kung mayroon kang mga tanong o komento, mangyaring gumawa ng _issue_.
 - [Firefox DevTools](https://firefox-dev.tools/) - a site dedicated to bugs filed for the developer tools in the Firefox browser.
 - [Start Mozilla](https://twitter.com/StartMozilla) - a Twitter account that tweets about issues fit for contributors new to the Mozilla ecosystem.
 
-## Useful articles for new Open Source contributors
+## Kapaki-pakinabang na mga Artikulo para sa mga Bagong Tagapag-ambag sa Open Source
 
 > Helpful articles and blogs directed at new contributors on how to get started.
 
@@ -137,7 +137,7 @@ Kung mayroon kang mga tanong o komento, mangyaring gumawa ng _issue_.
 - [Finding Good First Issues](https://community.codenewbie.org/bdougie/finding-good-first-issues-33a6) by [Brian Douglas](https://community.codenewbie.org/bdougie)
 - [How can I become an Open Source contributor? (The ultimate guide)](https://medium.com/@juliafmorgado/how-can-i-become-an-open-source-contributor-the-ultimate-guide-d746e380e011) by [Julia Furst Morgado](https://medium.com/@juliafmorgado)
 
-## Using Version Control
+## Paggamit ng Version Control
 
 > Tutorials and resources of varying levels on using version control, typically Git and GitHub.
 
@@ -166,7 +166,7 @@ Kung mayroon kang mga tanong o komento, mangyaring gumawa ng _issue_.
 - [Git by Susan Potter](https://www.aosabook.org/en/git.html) - Show how various technical aspects of Git work under the covers to enable distributed workflows, and how it differs from other version control systems (VCSs).
 - [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE) - A beginner friendly git video by Mosh that explain the fundmental commands and also uses intelligible illustration to aid comprehension.
 
-## Open Source books
+## Mga Aklat sa Open Source
 
 > Books on all things Open Source: The Culture, History, Best Practices, etc.
 
@@ -178,7 +178,7 @@ Kung mayroon kang mga tanong o komento, mangyaring gumawa ng _issue_.
 - [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - Essays from open-source pioneers such as Linus Torvalds (Linux), Larry Wall (Perl), and Richard Stallman (GNU).
 - [Code Review Anxiety Workbook](https://developer-success-lab.gitbook.io/code-review-anxiety-workbook-1) - Code Review Anxiety Workbook is for New contributors and seasoned contributor programmers. It describes more about managing anxiety when making pull requests and contributions to repositories.
 
-## Open Source contribution initiatives
+## Mga Inisyatiba sa Pag-aambag sa Open Source
 
 > List of initiatives that aggregate beginner friendly issues to work on or seasonal events.
 
@@ -191,7 +191,7 @@ Kung mayroon kang mga tanong o komento, mangyaring gumawa ng _issue_.
 - [Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) - This is a tutorial to help first-time contributors to participate in a simple and easy project and get comfortable in using GitHub.
 - [Open Source Welcome Committee](https://www.oswc.is/) - The Open Source Welcome Committee (OSWC) helps newcomers join the extraordinary world of Open Source. Come submit your open-source projects with us!
 
-## Open Source programs to participate in
+## Mga Programa sa Open Source na Lalahukan
 
 > A program, internship, or fellowship hosted by a community to help match beginning contributors with mentors and resources to contribute to open source software projects.
 
@@ -216,6 +216,6 @@ Kung mayroon kang mga tanong o komento, mangyaring gumawa ng _issue_.
 - [Social Summer of Code](https://ssoc.devfolio.co/) - Social foundation offers this two-month long summer program for students to learn about the open-source culture and get involved in the community. Participants contribute to real-life projects under the guidance of experienced mentors.
 - [Season of KDE](https://season.kde.org/) - The Season of KDE, hosted by the KDE community, is an outreach program for all individuals across the world. KDE is an international free software community that develops free and open-source software and you can contribute to KDE through the Season of KDE program
 
-## License
+## Lisensya
 
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
