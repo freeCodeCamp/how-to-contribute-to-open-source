@@ -180,16 +180,16 @@ Kung mayroon kang mga tanong o komento, mangyaring gumawa ng _issue_.
 
 ## Mga Inisyatiba sa Pag-aambag sa Open Source
 
-> List of initiatives that aggregate beginner friendly issues to work on or seasonal events.
+> Listahan ng mga inisyatiba na pinagsama-sama ang mga beginner-friendly na issues na maaaring pagtrabahuhan o mga seasonal na kaganapan.
 
-- [Up For Grabs](https://up-for-grabs.net/) - Contains projects with beginner-friendly issues.
-- [First Contributions](https://firstcontributions.github.io/) - Make your first Open Source contribution in 5 minutes. A tool and tutorial to help beginners get started with contributions. [Here](https://github.com/firstcontributions/first-contributions) is the GitHub source code for the site and opportunity to make a contribution to the repository itself.
-- [First Timers Only](https://www.firsttimersonly.com/) - A list of bugs that are labelled "first-timers-only".
-- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - A program to encourage Open Source contributions. Earn gifts like t-shirts and stickers by making at least 4 pull requests in the month of October.
-- [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests is a project to promote Open Source collaboration during the month of December.
-- [Ovio](https://ovio.org) - A platform with a curated selection of contributor-friendly projects. It has a [powerful issue search tool](https://ovio.org/issues) and let's you save projects and issues for later.
-- [Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) - This is a tutorial to help first-time contributors to participate in a simple and easy project and get comfortable in using GitHub.
-- [Open Source Welcome Committee](https://www.oswc.is/) - The Open Source Welcome Committee (OSWC) helps newcomers join the extraordinary world of Open Source. Come submit your open-source projects with us!
+- [Up For Grabs](https://up-for-grabs.net/) - Naglalaman ng mga proyekto na may mga beginner-friendly na issues.
+- [First Contributions](https://firstcontributions.github.io/) - Gawin ang iyong unang Open Source contribution sa loob ng 5 minuto. Isang tool at tutorial na tumutulong sa mga baguhan na magsimula sa pag-aambag. [Narito](https://github.com/firstcontributions/first-contributions) ang GitHub source code para sa site at oportunidad na mag-ambag sa repositoryo mismo.
+- [First Timers Only](https://www.firsttimersonly.com/) - Isang listahan ng mga bugs na may label na "first-timers-only".
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Isang programa upang hikayatin ang mga Open Source contributions. Makakuha ng mga regalo tulad ng t-shirts at stickers sa pamamagitan ng paggawa ng hindi bababa sa 4 na pull request sa buwan ng Oktubre.
+- [24 Pull Requests](https://24pullrequests.com) - Ang 24 Pull Requests ay isang proyekto upang itaguyod ang Open Source na kolaborasyon sa buwan ng Disyembre.
+- [Ovio](https://ovio.org) - Isang platform na may curated na seleksyon ng mga contributor-friendly na projects. Mayroon itong [makapangyarihang issue search tool](https://ovio.org/issues) at pwedeng i-save ang mga projects at issues para sa hinaharap.
+- [Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) - Ito ay isang tutorial na tumutulong sa mga unang beses na nag-aambag upang makilahok sa isang simple at madaling project at maging komportable sa paggamit ng GitHub.
+- [Open Source Welcome Committee](https://www.oswc.is/) - Ang Open Source Welcome Committee (OSWC) ay tumutulong sa mga baguhan na makapasok sa kamangha-manghang mundo ng Open Source. Halina't i-submit ang iyong mga open-source projects sa amin!
 
 ## Mga Programa sa Open Source na Lalahukan
 
