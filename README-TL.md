@@ -95,15 +95,15 @@ Kung mayroon kang mga tanong o komento, mangyaring gumawa ng _issue_.
 
 ## Ecosystem ng Kontribyutor ng Mozilla
 
-> Mozilla pledges for a healthy internet and with it, has opportunities to contribute to its open-source projects.
+> Sinisiguro ng Mozilla ang isang malusog na internet at kasama nito, may mga oportunidad na mag-ambag sa mga open-source projects nito.
 
-- [Good First Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=good-first-bug) - bugs that developers have identified as a good introduction to the project.
-- [Codetribute](https://codetribute.mozilla.org/) - find your first code contribution with Mozilla 
-- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/MDN/Contribute) - help the MDN Web Docs team in documenting the web platform by fixing content issues and platform bugs.
-- [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs that have a mentor assigned who will be there on IRC to help you when you get stuck while working on a fix.
-- [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - a site dedicated to finding bugs on Bugzilla.
-- [Firefox DevTools](https://firefox-dev.tools/) - a site dedicated to bugs filed for the developer tools in the Firefox browser.
-- [Start Mozilla](https://twitter.com/StartMozilla) - a Twitter account that tweets about issues fit for contributors new to the Mozilla ecosystem.
+- [Good First Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=good-first-bug) - Mga bugs na natukoy ng mga developers bilang magandang simula sa project.
+- [Codetribute](https://codetribute.mozilla.org/) - Hanapin ang iyong unang ambag na code sa Mozilla. 
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/MDN/Contribute) - Tumulong sa MDN Web Docs team sa pagdodokumento ng web platform sa pamamagitan ng pag-aayos ng mga nilalaman na issues at mga bugs sa platform.
+- [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - Mga bugs na may nakatalagang mentor na nasa IRC na handang tumulong kapag nahirapan ka habang ika'y nagtatrabaho sa isang fix.
+- [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - Isang site na nakatuon sa paghahanap ng mga bugs sa Bugzilla.
+- [Firefox DevTools](https://firefox-dev.tools/) - Isang site na nakatuon sa mga bugs na nakafile para sa mga developer tools sa Firefox browser.
+- [Start Mozilla](https://twitter.com/StartMozilla) - Isang Twitter account na may tweets tungkol sa mga issues na angkop para sa mga baguhang nag-aambag sa Mozilla ecosystem.
 
 ## Kapaki-pakinabang na mga Artikulo para sa mga Bagong Tagapag-ambag sa Open Source
 
