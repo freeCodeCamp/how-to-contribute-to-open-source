@@ -139,32 +139,32 @@ Kung mayroon kang mga tanong o komento, mangyaring gumawa ng _issue_.
 
 ## Paggamit ng Version Control
 
-> Tutorials and resources of varying levels on using version control, typically Git and GitHub.
+> Mga tutorials at resources na may iba't ibang antas tungkol sa paggamit ng version control, karaniwang Git at GitHub.
 
-- [Video tutorial for Git and Github by Harvard University](https://www.youtube.com/watch?v=NcoBAfJ6l2Q) - Tutorial by Harvard University, part of their CS50 Web Development course on understanding Git and GitHub and working with Git commands.
-- [Think Like (a) Git](https://think-like-a-git.net/) - Git introduction for "advanced beginners", but are still struggling, in order to give you a simple strategy to safely experiment with git.
-- [Quickstart - Set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - Learn how to set up Git locally and set up authentication, along with next steps on your learning journey.
-- [Everyday Git](https://git-scm.com/docs/giteveryday) - A useful minimum set of commands for Everyday Git.
-- [Oh shit, git!](https://ohshitgit.com/) - how to get out of common `git` mistakes described in plain English; also see [Dangit, git!](https://dangitgit.com/) for the page without swears.
-- [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) - various tutorials on using `git`.
+- [Video tutorial for Git and Github by Harvard University](https://www.youtube.com/watch?v=NcoBAfJ6l2Q) - Tutorial mula sa Harvard University, bahagi ng kanilang CS50 Web Development course, na nagtuturo kung paano maunawaan ang Git at GitHub at gumamit ng mga Git commands.
+- [Think Like (a) Git](https://think-like-a-git.net/) - Introduksyon sa Git para sa mga "advanced beginners" na nahihirapan pa, upang magbigay ng simpleng estratehiya para ligtas na makapag-experiment gamit ang git.
+- [Quickstart - Set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - Alamin kung paano i-setup locally ang Git at ayusin ang authentication, pati na rin ang mga susunod na hakbang sa pag-aaral ng Git.
+- [Everyday Git](https://git-scm.com/docs/giteveryday) - Isang kapaki-pakinabang na maliit na set ng mga commands para sa pang-araw-araw na Git.
+- [Oh shit, git!](https://ohshitgit.com/) - Paano makalabas sa mga karaniwang pagkakamali sa `git` na ipinaliwanag sa simpleng Ingles; maaari ding bisitahin ang [Dangit, git!](https://dangitgit.com/) para sa page na walang mga mura.
+- [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) - Iba't ibang tutorial sa paggamit ng `git`.
 - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
 - [freeCodeCamp's Wiki on Git Resources](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
-- [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - GitHub talk on how to make a pull request.
-- [Quickstart - GitHub Learning Resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources) - Git and GitHub learning resources.
-- [Pro Git](https://git-scm.com/book/en/v2) - The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress.
-- [Git-it](https://github.com/jlord/git-it-electron) - Step by step Git tutorial desktop app.
-- [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - A guide about what to do when things go wrong.
-- [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - A complete guide of slides about git and GitHub explained in Spanish. Una guía completa de diapositivas sobre git y GitHub explicadas en Español.
-- [Git Kraken](https://www.gitkraken.com/git-client) - Visual, cross-platform, and interactive `git` desktop application for version control.
-- [Git Tips](https://github.com/git-tips/tips) - Collection of most commonly used git tips and tricks.
-- [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - Commit Often, Perfect Later, Publish Once: Git Best Practices.
-- [Git Interactive Tutorial](https://learngitbranching.js.org/) - Learn Git in the most visual and interactive way.
-- [Git Cheat Sheets](https://devhints.io/?q=git) - A set of graphical cheat sheets on git.
-- [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics) (1:12:39) - Full Git and GitHub walkthrough by [Kunal Kushwaha](https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw).
-- [A Tutorial Introduction to Git](https://git-scm.com/docs/gittutorial) - A Tutorial for Beginners by Git.
-- [First Aid Git](https://firstaidgit.io/#/) - A searchable collection of the most frequently asked Git questions. Answers for these questions were collected from personal experience, Stackoverflow, and the official Git documentation.
-- [Git by Susan Potter](https://www.aosabook.org/en/git.html) - Show how various technical aspects of Git work under the covers to enable distributed workflows, and how it differs from other version control systems (VCSs).
-- [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE) - A beginner friendly git video by Mosh that explain the fundmental commands and also uses intelligible illustration to aid comprehension.
+- [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - Usapan sa GitHub kung paano gumawa ng pull request.
+- [Quickstart - GitHub Learning Resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources) - Mga mapagkukunan para sa pag-aaral ng Git at GitHub.
+- [Pro Git](https://git-scm.com/book/en/v2) - Ang buong aklat ng Pro Git, isinulat nina Scott Chacon at Ben Straub at inilathala ng Apress.
+- [Git-it](https://github.com/jlord/git-it-electron) - Step by step na tutorial ng Git desktop app.
+- [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - Isang gabay kung ano ang gagawin kapag may nangyaring mali.
+- [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - Isang kumpletong gabay ng mga slides tungkol sa git at GitHub na ipinaliwanag sa Español. Una guía completa de diapositivas sobre git y GitHub explicadas en Español.
+- [Git Kraken](https://www.gitkraken.com/git-client) - Visual, cross-platform, at interactive na `git` desktop application para sa version control.
+- [Git Tips](https://github.com/git-tips/tips) - Koleksyon ng mga pinaka ginagamit na tips at tricks sa git.
+- [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - I-commit madalas, I-Perfect mamaya, I-publish once: Mga Best Practices sa Git.
+- [Git Interactive Tutorial](https://learngitbranching.js.org/) - Alamin ang Git sa pinaka-visual at interactive na paraan.
+- [Git Cheat Sheets](https://devhints.io/?q=git) - Isang set ng mga graphical cheat sheets para sa git.
+- [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics) (1:12:39) - Buong Git at GitHub walkthrough ni [Kunal Kushwaha](https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw).
+- [A Tutorial Introduction to Git](https://git-scm.com/docs/gittutorial) - Isang Tutorial para sa mga Baguhan mula sa Git.
+- [First Aid Git](https://firstaidgit.io/#/) - Isang searchable na koleksyon ng mga pinaka tinatanong patungkol sa Git. Ang mga sagot para sa mga katanungang ito ay nakolekta mula sa personal na karanasan, Stackoverflow, at mula sa opisyal na dokumentasyon ng Git.
+- [Git by Susan Potter](https://www.aosabook.org/en/git.html) - Ipinapakita kung paano gumagana ang iba't ibang teknikal na aspeto ng Git na masmalalim upang paganahin ang distributed workflows, at kung paano ito naiiba sa ibang mga version control systems (VCSs).
+- [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE) - Isang beginner-friendly na git video mula kay Mosh na nagpapaliwanag ng mga pangunahing commands at gumagamit din ng malinaw na ilustrasyon upang makatulong sa pag-unawa.
 
 ## Mga Aklat sa Open Source
 
