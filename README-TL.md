@@ -107,7 +107,7 @@ Kung mayroon kang mga tanong o komento, mangyaring gumawa ng _issue_.
 
 ## Kapaki-pakinabang na mga Artikulo para sa mga Bagong Tagapag-ambag sa Open Source
 
-> Helpful articles and blogs directed at new contributors on how to get started.
+> Mga kapaki-pakinabang na artikulo at mga blogs para sa mga bagong nag-aambag kung paano magsimula.
 
 - [Contributing.md](https://contributing.md/starting-an-open-source-project/) - A series of guides on open source contribution
 - [Finding ways to contribute to open source on GitHub](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github) by [@GitHub](https://github.com/github)
