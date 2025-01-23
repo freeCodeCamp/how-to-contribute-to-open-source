@@ -39,7 +39,7 @@ Kung mayroon kang mga tanong o komento, mangyaring gumawa ng _issue_.
 - [Paggamit ng Version Control](#paggamit-ng-version-control)
 - [Mga Aklat sa Open Source](#mga-aklat-sa-open-source)
 - [Mga Inisyatiba sa Pag-aambag sa Open Source](#mga-inisyatiba-sa-pag-aambag-sa-open-source)
-- [Mga Programa sa Open Source na Lalahukan](#mga-programa-sa-open-source-na-lalahukan)
+- [Mga Programa sa Open Source na Pwedeng Lahukan](#mga-programa-sa-open-source-na-pwedeng-lahukan)
 - [Lisensya](#lisensya)
 
 ## Pangkalahatang Pag-ambag sa Open Source
@@ -191,31 +191,31 @@ Kung mayroon kang mga tanong o komento, mangyaring gumawa ng _issue_.
 - [Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) - Ito ay isang tutorial na tumutulong sa mga unang beses na nag-aambag upang makilahok sa isang simple at madaling project at maging komportable sa paggamit ng GitHub.
 - [Open Source Welcome Committee](https://www.oswc.is/) - Ang Open Source Welcome Committee (OSWC) ay tumutulong sa mga baguhan na makapasok sa kamangha-manghang mundo ng Open Source. Halina't i-submit ang iyong mga open-source projects sa amin!
 
-## Mga Programa sa Open Source na Lalahukan
+## Mga Programa sa Open Source na Pwedeng Lahukan
 
-> A program, internship, or fellowship hosted by a community to help match beginning contributors with mentors and resources to contribute to open source software projects.
+> Isang programa, internship, o fellowship na inorganisa ng isang komunidad upang makatulong sa pagma-match ng mga nagsisimulang kontributor sa mga mentors at mga resources para makapag-ambag sa mga open source na software projects.
 
 - [All Linux Foundation (LF) Mentorships](https://mentorship.lfx.linuxfoundation.org/#projects_all)
 - [Beginner friendly Open Source programs with their timelines](https://github.com/arpit456jain/Open-Source-Programs)
 - [Cloud Native Computing Foundation](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
 - [FossAsia](https://fossasia.org)
 - [Free Software Foundation (FSF) Internship](https://www.fsf.org/volunteer/internships)
-- [Google Summer of Code](https://summerofcode.withgoogle.com/) - An annually run paid program by Google focused on bringing more student developers into open-source software development.
-- [Girlscript Summer of Code](https://gssoc.girlscript.tech/) - A three-month-long Open-Source Program conducted every summer by the Girlscript Foundation. With constant efforts, participants contribute to numerous projects under the extreme guidance of skilled mentors over these months. With such exposure, students begin to contribute to real-world projects from the comfort of their homes.
-- [Hacktoberfest](https://hacktoberfest.digitalocean.com) - An annual event hosted every October to encourage people to contribute to open source!
-- [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN) - If you’re into the blockchain, this is for you. You can contribute to Hyperledger. This mentorship program allows you to get practical exposure to Hyperledger open source development.You will be allotted mentors who are quite active in the Hyperledger developers community.
+- [Google Summer of Code](https://summerofcode.withgoogle.com/) - Taunang pinapatakbong bayad na programa ng Google na nakatutok sa pagdadala ng mas maraming student developers sa open-source na software development.
+- [Girlscript Summer of Code](https://gssoc.girlscript.tech/) - Tatlong-buwang Open-Source Program na isinasagawa tuwing summer ng Girlscript Foundation. Sa patuloy na pagsisikap, ang mga kalahok ay nag-aambag sa maraming proyekto sa ilalim ng matinding gabay ng mga bihasang mentor sa mga buwang ito. Sa ganitong exposure, nagsisimula ang mga estudyante na mag-ambag sa mga real-world na projects mula sa kaginhawaan ng kanilang mga tahanan.
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com) - Taunang kaganapan na isinasagawa tuwing Oktubre upang hikayatin ang mga tao na mag-ambag sa open source!
+- [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN) - Kung ikaw ay interesado sa blockchain, ito ay para sa iyo. Maaari kang mag-ambag sa Hyperledger. Ang mentorship program na ito ay nagbibigay sa iyo ng praktikal na exposure sa Hyperledger open source development. Bibigyan ka ng mga mentor na aktibo sa Hyperledger developers community.
 - [LF Networking Mentorship](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program)
 - [Microsoft Reinforcement Learning](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
-- [Major League Hacking (MLH) Fellowship](https://fellowship.mlh.io/) - A remote internship alternative for aspiring technologists where they build, or contribute to open-source projects.
+- [Major League Hacking (MLH) Fellowship](https://fellowship.mlh.io/) - Isang remote internship na alternatibo para sa mga nag-aasam maging technologists kung saan sila ay bumubuo o nag-aambag sa mga open-source projects.
 - [Open Summer of Code](https://osoc.be/students)
-- [Open Mainframe](https://www.openmainframeproject.org/all-projects/mentorship-program) - Open Mainframe Project also has its own open-source program and the mentees will be able to expand their knowledge on the mainframe technology
+- [Open Mainframe](https://www.openmainframeproject.org/all-projects/mentorship-program) - Ang Open Mainframe Project ay mayroon ding sarili nitong open-source program at magkakaroon ang mga mentees ng pagkakataong mapalawak ang kanilang kaalaman sa mainframe technology.
 - [Outreachy](https://www.outreachy.org)
 - [Processing Foundation Internship](https://processingfoundation.org/fellowships/)
-- [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) - A global fellowship program for women and non-binary coders where they work on existing open-source projects and expand their skillset.
-- [Redox OS Summer of Code](https://www.redox-os.org/rsoc/) - The Redox OS Summer of Code is the primary use of donations to the Redox OS project. Students are selected who have already demonstrated a desire and ability to contribute to Redox OS
-- [Social Summer of Code](https://ssoc.devfolio.co/) - Social foundation offers this two-month long summer program for students to learn about the open-source culture and get involved in the community. Participants contribute to real-life projects under the guidance of experienced mentors.
-- [Season of KDE](https://season.kde.org/) - The Season of KDE, hosted by the KDE community, is an outreach program for all individuals across the world. KDE is an international free software community that develops free and open-source software and you can contribute to KDE through the Season of KDE program
+- [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) - Isang global fellowship program para sa mga kababaihan at non-binary coders kung saan sila ay nagtatrabaho sa mga existing na open-source projects upang mapalawak ang kanilang kasanayan.
+- [Redox OS Summer of Code](https://www.redox-os.org/rsoc/) - Ang Redox OS Summer of Code ay ang pangunahing paggamit ng mga donasyon para sa Redox OS project. Pinipili ang mga estudyante na nagpapakita na ng kagustuhan at kakayahang mag-ambag sa Redox OS.
+- [Social Summer of Code](https://ssoc.devfolio.co/) - Nag-aalok ang Social Foundation ng dalawang buwang programa sa summer para sa mga estudyante upang matutunan ang tungkol sa open-source culture at makilahok sa komunidad. Ang mga kalahok ay nag-aambag sa mga real-life projects sa ilalim ng gabay ng mga experienced na mentor.
+- [Season of KDE](https://season.kde.org/) - Ang Season of KDE, na inorganisa ng KDE community, ay isang outreach program para sa lahat ng indibidwal sa buong mundo. Ang KDE ay isang internasyonal na komunidad ng free software na bumubuo ng libre at ng open-source na software, at maaari kang mag-ambag sa KDE sa pamamagitan ng Season of KDE program.
 
 ## Lisensya
 
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />Ang gawaing ito ay lisensyado sa ilalim ng isang <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
