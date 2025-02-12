@@ -205,6 +205,7 @@ If you have questions or comments, please create an issue.
 - [Ovio](https://ovio.org) - A platform with a curated selection of contributor-friendly projects. It has a [powerful issue search tool](https://ovio.org/issues) and let's you save projects and issues for later.
 - [Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) - This is a tutorial to help first-time contributors to participate in a simple and easy project and get comfortable in using GitHub.
 - [Open Source Welcome Committee](https://www.oswc.is/) - The Open Source Welcome Committee (OSWC) helps newcomers join the extraordinary world of Open Source. Come submit your open-source projects with us!
+- [Web Resource Hub](https://github.com/jayk-gupta/web-resources-project) - is an open-source project developed for the DevJam Hackathon organized by Social Summer of Code.
 
 ## Open Source programs to participate in
 
