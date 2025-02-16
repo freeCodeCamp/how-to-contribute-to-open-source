@@ -117,11 +117,15 @@ Se hai domande o commenti, per favore crea un issue.
 
 ## L'ecosistema del contributore di Mozilla
 
-- [bug adatti ad iniziare](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22[good%20first%20bug]%22&limit=0) - bug che gli sviluppatori hanno identificato come una buona introduzione al progetto.
-- [Bug con mentori](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bug a cui è stato assegnato un mentore che sarà presente su IRC per aiutarti quando rimani bloccato mentre lavori sulla correzione.
-- [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - un sito dedicato alla ricerca di bug su Bugzilla.
-- [Strumenti Firefox per programmatori/sviluppatori DevTools](http://firefox-dev.tools/) - un sito dedicato ai bug archiviati per gli strumenti di sviluppo nel browser Firefox.
-- [Avvia Mozilla](https://twitter.com/StartMozilla) - un account Twitter che pubblica argomenti adatti per i contributori nuovi dell'ecosistema Mozilla.
+> Mozilla pledges for a healthy internet and with it, has opportunities to contribute to its open-source projects.
+
+- [bug adatti ad iniziare](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=good-first-bug) - Bug che gli sviluppatori hanno identificato come una buona introduzione al progetto.
+- [Codetribute](https://codetribute.mozilla.org/) - Trova la tua prima contribuzione di codice con Mozilla.
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/MDN/Contribute) - Aiuta il team degli MDN Web Docs a documentare la piattaforma web, correggendo errori di contenuto e bug della piattaforma.
+- [Bug con mentori](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - Bug a cui è stato assegnato un mentore che sarà presente su IRC per aiutarti quando rimani bloccato mentre lavori sulla correzione.
+- [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - Un sito dedicato alla ricerca di bug su Bugzilla.
+- [Strumenti Firefox per programmatori/sviluppatori DevTools](http://firefox-dev.tools/) - Un sito dedicato ai bug archiviati per gli strumenti di sviluppo nel browser Firefox.
+- [Avvia Mozilla](https://twitter.com/StartMozilla) - Un account Twitter che pubblica argomenti adatti per i contributori nuovi dell'ecosistema Mozilla.
 
 ## Articoli utili per i nuovi contributori Open Source
 
