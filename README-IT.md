@@ -163,6 +163,8 @@ Se hai domande o commenti, per favore crea un issue.
 
 ## Libri sull'Open Source
 
+> Libri su tutte le cose Open Source: La Cultura, la Storia, le Best Practice, ecc.
+
 - [Produrre Open Source Software](http://producingoss.com/) - Produrre Open Source Software è un libro sul lato umano dello sviluppo dell'Open Source. Descrive il funzionamento dei progetti di successo, le aspettative degli utenti e degli sviluppatori e la cultura del software libero.
 - [Serie di libri di Open Source](https://opensource.com/resources/ebooks) - Impara ulteriormente sull'Open Source e il crescente movimento Open Source con un elenco completo di libri digitali/eBook gratuiti da https://opensource.com.
 - [Le Pratiche sul COME rilasciare il Software](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - Questo HOWTO descrive le buone abitudini di rilascio per Linux e altri progetti open-source. Seguendo queste pratiche, renderete il più semplice possibile per gli utenti compilare il vostro codice e usarlo, e per gli altri sviluppatori capire il vostro codice e collaborare con voi per migliorarlo.
