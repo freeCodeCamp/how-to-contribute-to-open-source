@@ -96,15 +96,14 @@ Se hai domande o commenti, per favore crea un issue.
 
 <!-- FIXME: link aggiornati allo stato corrente di README.md (commit 09889a5), controllare dove sono stati spostati questi link
 
-- [In palio](http://up-for-grabs.net/#/) - un elenco di progetti con issues per principianti.
 - [Issuehub.io](http://issuehub.pro/) - uno strumento per cercare issues in GitHub per etichetta e lingua.
-- [Solo per principianti](http://www.firsttimersonly.com/) - un elenco di bugs etichettati come "first-timer-only(Solo per i principianti)".
 - [La tua prima Pull Request](https://twitter.com/yourfirstpr) - issues adatte per iniziare su GitHub che possono essere facilmente affrontate dai nuovi contributori.
-- [Il primo contributo](https://firstcontributions.github.io/) - Crea il tuo primo contributo Open Source in 5 minuti. Uno strumento ed un tutorial per aiutare i principianti ad iniziare a contribuire.
 
 -->
 
 ## Ricerche dirette su GitHub
+
+> Link di ricerca che puntano direttamente a Issues adatte alla contribuzione su GitHub.
 
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner) per principianti
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy) facile
@@ -113,6 +112,8 @@ Se hai domande o commenti, per favore crea un issue.
 - [is:issue is:open label:"good first issue"](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A"good+first+issue") issues buone per principianti
 - [is:issue is:open label:starter](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Astarter) per iniziare
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs) in palio
+- [is:issue is:open label:easy-fix](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy-fix&type=issues) correzioni facili
+- [is:issue is:open label:"beginner friendly"](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22beginner+friendly%22&type=issues) aperte ai principianti
 
 ## L'ecosistema del contributore di Mozilla
 
