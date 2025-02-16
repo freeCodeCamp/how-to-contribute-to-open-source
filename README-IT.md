@@ -129,6 +129,8 @@ Se hai domande o commenti, per favore crea un issue.
 
 ## Articoli utili per i nuovi contributori Open Source
 
+> Articoli e blog utili, ideatei per i nuovi contributori, su come cominciare.
+
 - ["Come scegliere (e contribuire) al tuo primo progetto Open Source"](https://github.com/collections/choosing-projects) di [@GitHub](https://github.com/github)
 - ["Come trovare il tuo primo bug Open Source da correggere"](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) di [@Shubheksha](https://github.com/Shubheksha)
 - ["Solo per i principianti"](https://kentcdodds.com/blog/first-timers-only) di [@kentcdodds](https://github.com/kentcdodds)
