@@ -57,23 +57,52 @@ Se hai domande o commenti, per favore crea un issue.
   - [Iniziative per contribuire all Open Source](#iniziative-per-contribuire-all-open-source)
   - [Licenza](#licenza)
 
-
 ## Contribuire all'Open Source in generale
 
+> Articoli e risorse che trattano il mondo e la cultura dell'Open Source.
+
+- [La guida definitiva per contribuire all'Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG).
 - [Un'introduzione all'Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorial di DigitalOcean per guidarti nel modo di contribuire con successo qui su GitHub.
-- [In palio](http://up-for-grabs.net/#/) - un elenco di progetti con issues per principianti.
-- [Issuehub.io](http://issuehub.pro/) - uno strumento per cercare issues in GitHub per etichetta e lingua.
-- [Code Triage](https://www.codetriage.com/) - un altro strumento, davvero interessante, per trovare repositories e issues popolari filtrati per lingua.
-- [Solo per principianti](http://www.firsttimersonly.com/) - un elenco di bugs etichettati come "first-timer-only(Solo per i principianti)".
-- [La tua prima Pull Request](https://twitter.com/yourfirstpr) - issues adatte per iniziare su GitHub che possono essere facilmente affrontate dai nuovi contributors.
-- [Awesome-for-beginners(Meraviglioso-per-principianti)](https://github.com/MunGell/awesome-for-beginners) - una repository GitHub che raccoglie progetti con bug buoni per nuovi contributors e a cui applica etichette per descriverli.
-- [Guide per l'Open Source Guides](https://opensource.guide/) - Raccolta di risorse per singoli, comunità e aziende che desiderano imparare come eseguire e contribuire ad un progetto Open Source.
+- [Guida completa alle contribuzioni Open Source](https://www.youtube.com/playlist?list=PLR0CKdeR_FyscaxEksDVXc4UQvlOFLYS6) - Una playlist di tutorials su YouTube di "Dev Sense".
+- [Code Triage](https://www.codetriage.com/) - uno strumento, davvero interessante, per trovare repositories e issues popolari filtrati per lingua.
+- [Costruisci il tuo futuro con l'Open Source](https://pragprog.com/titles/vbopens/forge-your-future-with-open-source/) ($) - Libro volto a spiegare l'Open Source, come trovare un progetto e come cominciare a contribuire. Si rivolge a tutti i ruoli nello sviluppo software, non solo ai programmatori.
+- [Awesome-for-beginners(Meraviglioso-per-principianti)](https://github.com/MunGell/awesome-for-beginners) - Una repository GitHub che raccoglie progetti con bug buoni per nuovi contributori e a cui applica etichette per descriverli.
+- [Guide per l'Open Source](https://opensource.guide/) - Raccolta di risorse per singoli, comunità e aziende che desiderano imparare come gestire un progetto Open Source e contribuire.
 - [Cosa fare e non fare per risolvere questi 45 problemi con Github](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Cosa fare e non fare su GitHub.
 - [Guide GitHub](https://docs.github.com/en) - guide di base su come utilizzare GitHub in modo efficace.
-- [Il primo contributo](https://firstcontributions.github.io/) - Crea il tuo primo contributo Open Source in 5 minuti. Uno strumento ed un tutorial per aiutare i principianti ad iniziare a contribuire.
 - [Contribuisci all'Open Source](https://github.com/danthareja/contribute-to-open-source) - Impara il flusso di lavoro GitHub contribuendo con il codice ad un progetto simulato.
 - [Guide all'Open Source di Linux Foundation per le Aziende](https://www.linuxfoundation.org/resources/open-source-guides) - Le guide della Fondazione Linux per progetti Open Source.
 - [Trucchi CSS: una guida all'etichetta per l'Open Source](https://css-tricks.com/open-source-etiquette-guidebook/) - Una guida all'etichetta nell'Open Source, scritta da Kent C. Dodds e Sarah Drasner.
+- [Risorse dalla A alla Z per studenti](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Una lista curata di risorse e opportunità per studenti universitari per imparare nuovi linguaggi di programmazione.
+- ["Come contribuire ad un progetto Open Source su GitHub" di Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - Una video guida passo-passo su come cominciare a contribuire ai progetti Open Source su GitHub.
+- [Contribuire all'Open Source: Una guida passo-passo, dall'inizio alla fine](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - Questa guida per contribuire all'Open Source tratta tutto il processo di contribuzione, dalla scelta di un progetto adatto, al lavoro su un issue, fino all'integrazione di una Pull Request.
+- ["Come contribuire ad un progetto Open Source" di Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - Si concentrano sui dettagli essenziali del contribuire con una pull request (PR) al progetto di qualcun altro su GitHub.
+- ["Come cominciare a contribuire con l'Open Source" di Sayan Chowdhury](https://www.hackerearth.com:443/getstarted-opensource/) - Questo articolo fornisce le risorse per contribuire all'open source per principianti, basato sul loro linguaggio d'interesse.
+- ["Sfoglia i good first issue per iniziare a contribuire all'open source"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) - GitHub ora ti aiuta a trovare good first issues (problemi adatti a nuovi contributori) per iniziare a contribuire all'open source.
+- ["Come contribuire ad un progetto Open Source" di Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - Questo articolo completo è rivolto alle aziende (ma è comunque utile per i contributori individuali), dove si parla del perché, come e a quali progetti open-source contribuire.
+- ["Linea guida, comincia qui" di Andrei](https://github.com/zero-to-mastery/start-here-guidelines) - Introduciamoci nel mondo dell'open source, partendo dal playground Open Source. Progettato appositamente per scopi educativi e di esperienza pratica.
+- ["Cominciare con l'Open Source" di NumFocus](https://github.com/numfocus/getting-started-with-open-source) - Un repository GitHub che aiuta i contributori a superare le barriere d'ingresso nel mondo della contribuzione open source.
+- ["Opensource per tutti" di Chryz-hub](https://github.com/chryz-hub/opensource-4-everyone) - Un repository su tutto ciò che riguarda l'open source. Questo è un progetto mirato ad aiutare con la visibilità dei mebri di GitHub, praticare con comandi git basilari e avanzati, iniziare a contribuire con l'open source e altro ancora.
+- ["Open Advice (consiglio aperto)"](http://open-advice.org/) - Collezione di conoscenze attinte da una vasta gamma di progetti di software libero. Risponde alla domanda: Cosa 42 contributori di spicco avrebbero voluto sapere quando hanno iniziato? Così che tu possa avere un vantaggio, indipendentemente da come e dove contribuisci.
+- ["GitHub Skills (abilità su GitHub)"](https://skills.github.com) - Migliora le tue competenze con GitHub Skills. Il nostro amichevole bot ti guiderà attraverso una serie di progetti pratici e divertenti per imparare le competenze di cui hai bisogno in poco tempo e condivide feedback utili lungo tale percorso.
+- ["10 semplici regole per aiutare i novizi a diventare contributori nei progetti Open Source"](https://doi.org/10.1371/journal.pcbi.1007296) - Questo articolo tratta dieci regole basate sugli studi di molte comunità e esperienze di membri, leader e osservatori.
+- ["Guida passo-passo per contribuire su GitHub"](https://www.dataschool.io/how-to-contribute-on-github/) - Una guida passo-passo con supporto visivo e link riguardanti l'intero processo di contribuzione a un progetto open source.
+- [Open Source con Pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna) - Questo repository contiene risorse e materiali per imparare e iniziare con l'Open Source, Git e GitHub.
+- ["Acronimi nelle comuità FOSS"](https://github.com/d-edge/foss-acronyms) - Questo repository contiene un elenco di abbreviazioni utilizzate all'interno della comunità FOSS (Free and Open Source), insieme alle loro definizioni e i loro usi.
+- ["Open Source Fiesta](https://zubi.gitbook.io/open-source-fiesta/) - Istruzioni passo-passo su come contribuire ai repository di GitHub (include una cheatsheet della riga di comando di git).
+- ["6 Best Practices (buone prassi) per gestire la creazione e il feedback delle Pull Request"](https://doordash.engineering/2022/08/23/6-best-practices-to-manage-pull-request-creation-and-feedback/) - di Jenna Kiyasu, ingegnere software presso DoorDash Engineering.
+- ["Contribuisci alla comunità Open-Source"](https://arijitgoswami.hashnode.dev/contribute-to-the-open-source-community) - Vantaggi del software Open Source, come comprendere il funzionamento interno di un progetto open-source e fare la prima contribuzione.
+- ["Guida completa all'Open Source - come contribuire"](https://www.youtube.com/watch?v=yzeVMecydCE) (41:52) - Scopri perché e come contribuire al software open source con Eddie Jaoude.
+
+<!-- FIXME: link aggiornati allo stato corrente di README.md (commit 09889a5), controllare dove sono stati spostati questi link
+
+- [In palio](http://up-for-grabs.net/#/) - un elenco di progetti con issues per principianti.
+- [Issuehub.io](http://issuehub.pro/) - uno strumento per cercare issues in GitHub per etichetta e lingua.
+- [Solo per principianti](http://www.firsttimersonly.com/) - un elenco di bugs etichettati come "first-timer-only(Solo per i principianti)".
+- [La tua prima Pull Request](https://twitter.com/yourfirstpr) - issues adatte per iniziare su GitHub che possono essere facilmente affrontate dai nuovi contributori.
+- [Il primo contributo](https://firstcontributions.github.io/) - Crea il tuo primo contributo Open Source in 5 minuti. Uno strumento ed un tutorial per aiutare i principianti ad iniziare a contribuire.
+
+-->
 
 ## Ricerche dirette su GitHub
 
@@ -91,7 +120,7 @@ Se hai domande o commenti, per favore crea un issue.
 - [Bug con mentori](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bug a cui è stato assegnato un mentore che sarà presente su IRC per aiutarti quando rimani bloccato mentre lavori sulla correzione.
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - un sito dedicato alla ricerca di bug su Bugzilla.
 - [Strumenti Firefox per programmatori/sviluppatori DevTools](http://firefox-dev.tools/) - un sito dedicato ai bug archiviati per gli strumenti di sviluppo nel browser Firefox.
-- [Avvia Mozilla](https://twitter.com/StartMozilla) - un account Twitter che pubblica argomenti adatti per i contributors nuovi dell'ecosistema Mozilla.
+- [Avvia Mozilla](https://twitter.com/StartMozilla) - un account Twitter che pubblica argomenti adatti per i contributori nuovi dell'ecosistema Mozilla.
 
 ## Articoli utili per i nuovi contributori Open Source
 
@@ -103,7 +132,7 @@ Se hai domande o commenti, per favore crea un issue.
 - ["Come contribuire all'Open Source"](https://opensource.guide/how-to-contribute/) di [@GitHub](https://github.com/github/opensource.guide)
 - ["Come trovare un bug nel codice"](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) by [@dougbradbury](https://twitter.com/dougbradbury)
 - ["Padroneggiare il Markdown"](https://docs.github.com/features/mastering-markdown/) di [@GitHubGuides](https://docs.github.com/en)
-- ["La prima missione: La pagina dei contributors"](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) di [@forCrowd](https://github.com/forCrowd)
+- ["La prima missione: La pagina dei contributori"](https://forcrowd.medium.com/first-mission-contributori-page-df24e6e70705#.2v2g0no29) di [@forCrowd](https://github.com/forCrowd)
 - ["Come rendere il tuo primo contributo Open Source in soli 5 minuti"](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) di [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
 - ["Hacktoberfest 2018: Come puoi ottenere la tua maglietta gratis — anche se sei nuovo nella programazione"](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) di [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
 
