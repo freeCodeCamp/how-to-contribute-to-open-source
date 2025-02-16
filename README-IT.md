@@ -54,7 +54,7 @@ Se hai domande o commenti, per favore crea un issue.
   - [Articoli utili per i nuovi contributori Open Source](#articoli-utili-per-i-nuovi-contributori-open-source)
   - [L'uso del Version Control](#luso-del-version-control)
   - [Libri sull'Open Source](#libri-sullopen-source)
-  - [Iniziative per contribuire all Open Source](#iniziative-per-contribuire-all-open-source)
+  - [Iniziative per contribuire all'Open Source](#iniziative-per-contribuire-allopen-source)
   - [Licenza](#licenza)
 
 ## Contribuire all'Open Source in generale
@@ -170,7 +170,9 @@ Se hai domande o commenti, per favore crea un issue.
 - [Le Pratiche sul COME rilasciare il Software](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - Questo HOWTO descrive le buone abitudini di rilascio per Linux e altri progetti open-source. Seguendo queste pratiche, renderete il più semplice possibile per gli utenti compilare il vostro codice e usarlo, e per gli altri sviluppatori capire il vostro codice e collaborare con voi per migliorarlo.
 - [Open Sources 2.0: L'Evoluzione della Contribuzione](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 è una raccolta di saggi penetranti e stimolanti dei leader tecnologici di oggi che continua a dipingere un quadro evolutivo sviluppato nel libro del 1999, Open Sources: Le voci della rivoluzione.
 
-## Iniziative per contribuire all Open Source
+## Iniziative per contribuire all'Open Source
+
+> Lista delle iniziative che aggregano Issues adatte ai principianti su cui lavorare, o eventi stagionali.
 
 - [Disponibili](https://up-for-grabs.net/) - un elenco di progetti con problemi per i principianti.
 - [Solo per principianti](https://www.firsttimersonly.com/) - Lista di bug etichettati come "first-timers-only".
