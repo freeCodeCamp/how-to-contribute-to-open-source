@@ -145,6 +145,8 @@ Se hai domande o commenti, per favore crea un issue.
 
 ## L'uso del Version Control
 
+> Guide e risorse di vari livelli di difficolta sull'utilizzo dei sistemi di Version Control, tipicamente Git e GitHub
+
 - [Pensa come (un) Git (stupido)](https://think-like-a-git.net/) - L'Introduzione a Git per "principianti avanzati", che hanno ancora qualche difficoltà, al fine di darti una semplice strategia per sperimentare in sicurezza con git.
 - [Prova Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - Impara Git in 15 minuti dal tuo browser gratuitamente.
 - [Git di tutti i giorni](https://git-scm.com/docs/giteveryday) - Un utile set minimo di comandi per Git da usare ogni giorno.
