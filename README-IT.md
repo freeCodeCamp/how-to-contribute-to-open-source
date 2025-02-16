@@ -33,47 +33,49 @@
 </details>
 <!-- Do not translate this -->
 
-# Benvenuti, nuovi open source contributors!
+# Benvenuti, nuovi contributori Open Source!
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 [![Check Resources](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml/badge.svg)](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml)
 
-Questo è un elenco di risorse per chi è nuovo nel contribuire all'open source.
+Questo è un elenco di risorse per chi è nuovo nella contribuzione Open Source.
 
 Se trovi risorse aggiuntive, ti preghiamo di contribuire con una pull request.
 
 Se hai domande o commenti, per favore crea un issue.
 
 **Sommario**
-- [Benvenuti, nuovi open source contributors!](#benvenuti-nuovi-open-source-contributors)
-  - [Contribuire all'open source in generale](#contribuire-allopen-source-in-generale)
-  - [Ricerche GitHub dirette](#ricerche-github-dirette)
+
+- [Benvenuti, nuovi contributori Open Source!](#benvenuti-nuovi-contributori-open-source)
+  - [Contribuire all'Open Source in generale](#contribuire-allopen-source-in-generale)
+  - [Ricerche dirette su GitHub](#ricerche-dirette-su-github)
   - [L'ecosistema del contributore di Mozilla](#lecosistema-del-contributore-di-mozilla)
-  - [Articoli utili per i nuovi contributors all'open source](#articoli-utili-per-i-nuovi-contributors-allopen-source)
-  - [L'uso del version control](#luso-del-version-control)
+  - [Articoli utili per i nuovi contributori Open Source](#articoli-utili-per-i-nuovi-contributori-open-source)
+  - [L'uso del Version Control](#luso-del-version-control)
   - [Libri sull'Open Source](#libri-sullopen-source)
   - [Iniziative per contribuire all Open Source](#iniziative-per-contribuire-all-open-source)
   - [Licenza](#licenza)
 
-## Contribuire all'open source in generale
 
-- [Un'introduzione all'open source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorial di DigitalOcean per guidarti nel modo di contribuire con successo qui su GitHub.
+## Contribuire all'Open Source in generale
+
+- [Un'introduzione all'Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorial di DigitalOcean per guidarti nel modo di contribuire con successo qui su GitHub.
 - [In palio](http://up-for-grabs.net/#/) - un elenco di progetti con issues per principianti.
 - [Issuehub.io](http://issuehub.pro/) - uno strumento per cercare issues in GitHub per etichetta e lingua.
 - [Code Triage](https://www.codetriage.com/) - un altro strumento, davvero interessante, per trovare repositories e issues popolari filtrati per lingua.
 - [Solo per principianti](http://www.firsttimersonly.com/) - un elenco di bugs etichettati come "first-timer-only(Solo per i principianti)".
 - [La tua prima Pull Request](https://twitter.com/yourfirstpr) - issues adatte per iniziare su GitHub che possono essere facilmente affrontate dai nuovi contributors.
 - [Awesome-for-beginners(Meraviglioso-per-principianti)](https://github.com/MunGell/awesome-for-beginners) - una repository GitHub che raccoglie progetti con bug buoni per nuovi contributors e a cui applica etichette per descriverli.
-- [Guide per l'Open Source Guides](https://opensource.guide/) - Raccolta di risorse per singoli, comunità e aziende che desiderano imparare come eseguire e contribuire ad un progetto open source.
+- [Guide per l'Open Source Guides](https://opensource.guide/) - Raccolta di risorse per singoli, comunità e aziende che desiderano imparare come eseguire e contribuire ad un progetto Open Source.
 - [Cosa fare e non fare per risolvere questi 45 problemi con Github](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Cosa fare e non fare su GitHub.
 - [Guide GitHub](https://docs.github.com/en) - guide di base su come utilizzare GitHub in modo efficace.
-- [Il primo contributo](https://firstcontributions.github.io/) - Crea il tuo primo contributo open source in 5 minuti. Uno strumento ed un tutorial per aiutare i principianti ad iniziare a contribuire.
-- [Contribuisci all'open source](https://github.com/danthareja/contribute-to-open-source) - Impara il flusso di lavoro GitHub contribuendo con il codice ad un progetto simulato.
-- [Guide all'open source di Linux Foundation per le Aziende](https://www.linuxfoundation.org/resources/open-source-guides) - Le guide della Fondazione Linux per progetti open source.
-- [Trucchi CSS: una guida all'etichetta per l'open source](https://css-tricks.com/open-source-etiquette-guidebook/) - Una guida all'etichetta nell'open source, scritta da Kent C. Dodds e Sarah Drasner.
+- [Il primo contributo](https://firstcontributions.github.io/) - Crea il tuo primo contributo Open Source in 5 minuti. Uno strumento ed un tutorial per aiutare i principianti ad iniziare a contribuire.
+- [Contribuisci all'Open Source](https://github.com/danthareja/contribute-to-open-source) - Impara il flusso di lavoro GitHub contribuendo con il codice ad un progetto simulato.
+- [Guide all'Open Source di Linux Foundation per le Aziende](https://www.linuxfoundation.org/resources/open-source-guides) - Le guide della Fondazione Linux per progetti Open Source.
+- [Trucchi CSS: una guida all'etichetta per l'Open Source](https://css-tricks.com/open-source-etiquette-guidebook/) - Una guida all'etichetta nell'Open Source, scritta da Kent C. Dodds e Sarah Drasner.
 
-## Ricerche GitHub dirette
+## Ricerche dirette su GitHub
 
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner) per principianti
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy) facile
@@ -91,21 +93,21 @@ Se hai domande o commenti, per favore crea un issue.
 - [Strumenti Firefox per programmatori/sviluppatori DevTools](http://firefox-dev.tools/) - un sito dedicato ai bug archiviati per gli strumenti di sviluppo nel browser Firefox.
 - [Avvia Mozilla](https://twitter.com/StartMozilla) - un account Twitter che pubblica argomenti adatti per i contributors nuovi dell'ecosistema Mozilla.
 
-## Articoli utili per i nuovi contributors all'open source
+## Articoli utili per i nuovi contributori Open Source
 
-- ["Come scegliere (e contribuire) al tuo primo progetto open source"](https://github.com/collections/choosing-projects) di [@GitHub](https://github.com/github)
-- ["Come trovare il tuo primo bug open source da correggere"](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) di [@Shubheksha](https://github.com/Shubheksha)
+- ["Come scegliere (e contribuire) al tuo primo progetto Open Source"](https://github.com/collections/choosing-projects) di [@GitHub](https://github.com/github)
+- ["Come trovare il tuo primo bug Open Source da correggere"](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) di [@Shubheksha](https://github.com/Shubheksha)
 - ["Solo per i principianti"](https://kentcdodds.com/blog/first-timers-only) di [@kentcdodds](https://github.com/kentcdodds)
-- ["Porta la gentilezza nell'open source"](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) di [@shanselman](https://github.com/shanselman)
+- ["Porta la gentilezza nell'Open Source"](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) di [@shanselman](https://github.com/shanselman)
 - ["Entrare nell'Open Source per la prima volta"](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) di [@mcdonnelldean](https://github.com/mcdonnelldean)
-- ["Come contribuire all'open source"](https://opensource.guide/how-to-contribute/) di [@GitHub](https://github.com/github/opensource.guide)
+- ["Come contribuire all'Open Source"](https://opensource.guide/how-to-contribute/) di [@GitHub](https://github.com/github/opensource.guide)
 - ["Come trovare un bug nel codice"](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) by [@dougbradbury](https://twitter.com/dougbradbury)
 - ["Padroneggiare il Markdown"](https://docs.github.com/features/mastering-markdown/) di [@GitHubGuides](https://docs.github.com/en)
 - ["La prima missione: La pagina dei contributors"](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) di [@forCrowd](https://github.com/forCrowd)
-- ["Come rendere il tuo primo contributo open source in soli 5 minuti"](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) di [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
+- ["Come rendere il tuo primo contributo Open Source in soli 5 minuti"](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) di [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
 - ["Hacktoberfest 2018: Come puoi ottenere la tua maglietta gratis — anche se sei nuovo nella programazione"](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) di [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
 
-## L'uso del version control
+## L'uso del Version Control
 
 - [Pensa come (un) Git (stupido)](https://think-like-a-git.net/) - L'Introduzione a Git per "principianti avanzati", che hanno ancora qualche difficoltà, al fine di darti una semplice strategia per sperimentare in sicurezza con git.
 - [Prova Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - Impara Git in 15 minuti dal tuo browser gratuitamente.
@@ -123,8 +125,8 @@ Se hai domande o commenti, per favore crea un issue.
 
 ## Libri sull'Open Source
 
-- [Produrre Open Source Software](http://producingoss.com/) - Produrre Open Source Software è un libro sul lato umano dello sviluppo dell'open source. Descrive il funzionamento dei progetti di successo, le aspettative degli utenti e degli sviluppatori e la cultura del software libero.
-- [Serie di libri di Open Source](https://opensource.com/resources/ebooks) - Impara ulteriormente sull'open source e il crescente movimento open source con un elenco completo di libri digitali/eBook gratuiti da https://opensource.com.
+- [Produrre Open Source Software](http://producingoss.com/) - Produrre Open Source Software è un libro sul lato umano dello sviluppo dell'Open Source. Descrive il funzionamento dei progetti di successo, le aspettative degli utenti e degli sviluppatori e la cultura del software libero.
+- [Serie di libri di Open Source](https://opensource.com/resources/ebooks) - Impara ulteriormente sull'Open Source e il crescente movimento Open Source con un elenco completo di libri digitali/eBook gratuiti da https://opensource.com.
 - [Le Pratiche sul COME rilasciare il Software](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - Questo HOWTO descrive le buone abitudini di rilascio per Linux e altri progetti open-source. Seguendo queste pratiche, renderete il più semplice possibile per gli utenti compilare il vostro codice e usarlo, e per gli altri sviluppatori capire il vostro codice e collaborare con voi per migliorarlo.
 - [Open Sources 2.0: L'Evoluzione della Contribuzione](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 è una raccolta di saggi penetranti e stimolanti dei leader tecnologici di oggi che continua a dipingere un quadro evolutivo sviluppato nel libro del 1999, Open Sources: Le voci della rivoluzione.
 
