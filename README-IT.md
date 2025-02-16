@@ -1,23 +1,37 @@
-<table>
-    <tr>
-        <!-- Do not translate this table -->
-        <td><a href="./README.md"> English </a></td>
-        <td><a href="./README-MR.md"> मराठी </a></td>
-        <td><a href="./README-BN.md"> বাংলা </a></td>
-        <td><a href="./README-CN.md"> 中文 </a></td>
-        <td><a href="./README-RU.md"> русский </a></td>
-        <td><a href="./README-RO.md"> Românesc </a></td>
-        <td><a href="./README-IT.md"> Italiano </a></td>
-        <td><a href="./README-ES.md"> Español </a></td>
-        <td><a href="./README-pt-BR.md"> Português (BR) </a></td>
-        <td><a href="./README-DE.md"> Deutsch </a></td>
-        <td><a href="./README-GR.md"> Ελληνικά </a></td>
-        <td><a href="./README-FR.md"> Français </a></td>
-        <td><a href="./README-TR.md"> Turkish </a></td>
-        <td><a href="./README-KO.md"> 한국어 </a></td>
-        <td><a href="./README-HE.md"> עברית </a></td>
-    </tr>
-</table>
+<!-- Do not translate this -->
+<details>
+<summary>
+<strong> Read this guide in other languages </strong>
+</summary>
+    <ul>
+        <li><a href="./README.md"> English </a></li>
+        <li><a href="./README-MR.md"> मराठी </a></li>
+        <li><a href="./README-BN.md"> বাংলা </a></li>
+        <li><a href="./README-CN.md"> 中文 </a></li>
+        <li><a href="./README-RU.md"> русский </a></li>
+        <li><a href="./README-RO.md"> Românesc </a></li>
+        <li><a href="./README-IT.md"> Italiano </a></li>
+        <li><a href="./README-ID.md"> Indonesia </a></li>
+        <li><a href="./README-ES.md"> Español </a></li>
+        <li><a href="./README-pt-BR.md"> Português (BR) </a></li>
+        <li><a href="./README-DE.md"> Deutsch </a></li>
+        <li><a href="./README-HE.md"> עברית </a></li>
+        <li><a href="./README-GR.md"> Ελληνικά </a></li>
+        <li><a href="./README-FR.md"> Français </a></li>
+        <li><a href="./README-TR.md"> Turkish </a></li>
+        <li><a href="./README-KO.md"> 한국어 </a></li>
+        <li><a href="./README-JA.md"> 日本語 </a></li>
+        <li><a href="./README-UZ.md"> O'zbek</a></li>
+        <li><a href="./README-HI.md"> हिंदी </a></li>
+        <li><a href="./README-FA.md"> فارسی </a></li>
+        <li><a href="./README-UR.md">اردو </a></li>
+        <li><a href="./README-AR.md">اللغة العربية </a></li>
+        <li><a href="./README-TA.md">தமிழ்</a></li>
+        <li><a href="./README-NE.md">नेपाली</a></li>
+        <li><a href="./README-ML.md">മലയാളം</a></li>
+    </ul>
+</details>
+<!-- Do not translate this -->
 
 # Benvenuti, nuovi open source contributors!
 
@@ -32,14 +46,15 @@ Se trovi risorse aggiuntive, ti preghiamo di contribuire con una pull request.
 Se hai domande o commenti, per favore crea un issue.
 
 **Sommario**
-- [Contribuire all'open source in generale](#contribuire-allopen-source-in-generale)
-- [Ricerche GitHub dirette](#ricerche-github-dirette)
-- [L'ecosistema del contributor di Mozilla](#lecosistema-del-contributore-di-mozilla)
-- [Articoli utili per i nuovi contributors all'open source](#articoli-utili-per-i-nuovi-contributors-allopen-source)
-- [L'uso del version control](#luso-del-version-control)
-- [Libri sull'Open Source](#libri-sullopen-source)
-- [Iniziative per contribuire all Open Source](#iniziative-per-contribuire-all-open-source)
-- [Licenza](#licenza)
+- [Benvenuti, nuovi open source contributors!](#benvenuti-nuovi-open-source-contributors)
+  - [Contribuire all'open source in generale](#contribuire-allopen-source-in-generale)
+  - [Ricerche GitHub dirette](#ricerche-github-dirette)
+  - [L'ecosistema del contributore di Mozilla](#lecosistema-del-contributore-di-mozilla)
+  - [Articoli utili per i nuovi contributors all'open source](#articoli-utili-per-i-nuovi-contributors-allopen-source)
+  - [L'uso del version control](#luso-del-version-control)
+  - [Libri sull'Open Source](#libri-sullopen-source)
+  - [Iniziative per contribuire all Open Source](#iniziative-per-contribuire-all-open-source)
+  - [Licenza](#licenza)
 
 ## Contribuire all'open source in generale
 
