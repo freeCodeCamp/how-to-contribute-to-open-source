@@ -117,7 +117,7 @@ Se hai domande o commenti, per favore crea un issue.
 
 ## L'ecosistema del contributore di Mozilla
 
-> Mozilla pledges for a healthy internet and with it, has opportunities to contribute to its open-source projects.
+> Mozilla si impegna per un internet sano e, con questo, offre opportunità per contribuire ai suoi progetti open-source.
 
 - [bug adatti ad iniziare](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=good-first-bug) - Bug che gli sviluppatori hanno identificato come una buona introduzione al progetto.
 - [Codetribute](https://codetribute.mozilla.org/) - Trova la tua prima contribuzione di codice con Mozilla.
