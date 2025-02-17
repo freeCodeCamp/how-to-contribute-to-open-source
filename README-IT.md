@@ -123,7 +123,7 @@ Se hai domande o commenti, per favore crea un issue.
 - [Codetribute](https://codetribute.mozilla.org/) - Trova la tua prima contribuzione di codice con Mozilla.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/MDN/Contribute) - Aiuta il team degli MDN Web Docs a documentare la piattaforma web, correggendo errori di contenuto e bug della piattaforma.
 - [Bug con mentori](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - Bug a cui è stato assegnato un mentore che sarà presente su IRC per aiutarti quando rimani bloccato mentre lavori sulla correzione.
-- [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - Un sito dedicato alla ricerca di bug su Bugzilla.
+- [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - Un sito dedicato alla ricerca di bug su Bugzilla.
 - [Strumenti Firefox per programmatori/sviluppatori DevTools](http://firefox-dev.tools/) - Un sito dedicato ai bug archiviati per gli strumenti di sviluppo nel browser Firefox.
 - [Avvia Mozilla](https://twitter.com/StartMozilla) - Un account Twitter che pubblica argomenti adatti per i contributori nuovi dell'ecosistema Mozilla.
 
@@ -186,36 +186,6 @@ Se hai domande o commenti, per favore crea un issue.
 
 <!-- TODO: check and integrate this missing links
 
-
-https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://makeapullrequest.com):
-	[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://makeapullrequest.com)
-
-https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/):
-	[![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
-
-https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Abeginner&type=issues):
-	- [is:issue is:open label:beginner](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Abeginner&type=issues)
-
-https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy&type=issues):
-	- [is:issue is:open label:easy](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy&type=issues)
-
-https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only&type=issues):
-	- [is:issue is:open label:first-timers-only](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only&type=issues)
-
-https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Agood-first-bug&type=issues):
-	- [is:issue is:open label:good-first-bug](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Agood-first-bug&type=issues)
-
-https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&type=issues):
-	- [is:issue is:open label:"good first issue"](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&type=issues)
-
-https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Astarter&type=issues):
-	- [is:issue is:open label:starter](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Astarter&type=issues)
-
-https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs&type=issues):
-	- [is:issue is:open label:up-for-grabs](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs&type=issues)
-
-https://www.joshmatthews.net/bugsahoy/):
-	- [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - a site dedicated to finding bugs on Bugzilla.
 
 https://firefox-dev.tools/):
 	- [Firefox DevTools](https://firefox-dev.tools/) - a site dedicated to bugs filed for the developer tools in the Firefox browser.
@@ -477,14 +447,5 @@ https://ssoc.devfolio.co/):
 
 https://season.kde.org/):
 	- [Season of KDE](https://season.kde.org/) - The Season of KDE, hosted by the KDE community, is an outreach program for all individuals across the world. KDE is an international free software community that develops free and open-source software and you can contribute to KDE through the Season of KDE program
-
-https://creativecommons.org/licenses/by-sa/4.0/"><img:
-	<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-
-https://licensebuttons.net/l/by-sa/4.0/88x31.png":
-	<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-
-https://creativecommons.org/licenses/by-sa/4.0/">Creative:
-	<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 -->
