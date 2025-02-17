@@ -69,7 +69,7 @@ Se hai domande o commenti, per favore crea un issue.
 - [Awesome-for-beginners(Meraviglioso-per-principianti)](https://github.com/MunGell/awesome-for-beginners) - Una repository GitHub che raccoglie progetti con bug buoni per nuovi contributori e a cui applica etichette per descriverli.
 - [Guide per l'Open Source](https://opensource.guide/) - Raccolta di risorse per singoli, comunità e aziende che desiderano imparare come gestire un progetto Open Source e contribuire.
 - [Cosa fare e non fare per risolvere questi 45 problemi con Github](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Cosa fare e non fare su GitHub.
-- [Guide GitHub](https://docs.github.com/en) - guide di base su come utilizzare GitHub in modo efficace.
+- [Guide GitHub](https://github.com/github/docs) - guide di base su come utilizzare GitHub in modo efficace.
 - [Contribuisci all'Open Source](https://github.com/danthareja/contribute-to-open-source) - Impara il flusso di lavoro GitHub contribuendo con il codice ad un progetto simulato.
 - [Guide all'Open Source di Linux Foundation per le Aziende](https://www.linuxfoundation.org/resources/open-source-guides) - Le guide della Fondazione Linux per progetti Open Source.
 - [Trucchi CSS: una guida all'etichetta per l'Open Source](https://css-tricks.com/open-source-etiquette-guidebook/) - Una guida all'etichetta nell'Open Source, scritta da Kent C. Dodds e Sarah Drasner.
@@ -131,17 +131,19 @@ Se hai domande o commenti, per favore crea un issue.
 
 > Articoli e blog utili, ideatei per i nuovi contributori, su come cominciare.
 
-- ["Come scegliere (e contribuire) al tuo primo progetto Open Source"](https://github.com/collections/choosing-projects) di [@GitHub](https://github.com/github)
-- ["Come trovare il tuo primo bug Open Source da correggere"](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) di [@Shubheksha](https://github.com/Shubheksha)
+- [TODO: Contributing.md](https://contributing.md/starting-an-open-source-project/) - A series of guides on open source contribution
+- [TODO: Finding ways to contribute to open source on GitHub](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github) by [@GitHub](https://github.com/github)
+- ["Come scegliere (e contribuire) al tuo primo progetto Open Source"](https://github.com/collections/choosing-projects) di [@GitHub](https://github.com/collections)
+- ["Come trovare il tuo primo bug Open Source da correggere"](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) di [@Shubheksha](https://github.com/Shubheksha)
 - ["Solo per i principianti"](https://kentcdodds.com/blog/first-timers-only) di [@kentcdodds](https://github.com/kentcdodds)
-- ["Porta la gentilezza nell'Open Source"](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) di [@shanselman](https://github.com/shanselman)
+- ["Porta la gentilezza nell'Open Source"](https://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) di [@shanselman](https://github.com/shanselman)
 - ["Entrare nell'Open Source per la prima volta"](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) di [@mcdonnelldean](https://github.com/mcdonnelldean)
 - ["Come contribuire all'Open Source"](https://opensource.guide/how-to-contribute/) di [@GitHub](https://github.com/github/opensource.guide)
 - ["Come trovare un bug nel codice"](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) by [@dougbradbury](https://twitter.com/dougbradbury)
-- ["Padroneggiare il Markdown"](https://docs.github.com/features/mastering-markdown/) di [@GitHubGuides](https://docs.github.com/en)
-- ["La prima missione: La pagina dei contributori"](https://forcrowd.medium.com/first-mission-contributori-page-df24e6e70705#.2v2g0no29) di [@forCrowd](https://github.com/forCrowd)
-- ["Come rendere il tuo primo contributo Open Source in soli 5 minuti"](https://medium.freecodecamp.org/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a) di [@roshanjossey](https://medium.freecodecamp.org/@roshanjossey)
-- ["Hacktoberfest 2018: Come puoi ottenere la tua maglietta gratis — anche se sei nuovo nella programazione"](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) di [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
+- ["Padroneggiare il Markdown"](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) di [@GitHubGuides](https://github.com/github/docs)
+- ["La prima missione: La pagina dei contributori"](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705) di [@forCrowd](https://github.com/forCrowd)
+- ["Come rendere il tuo primo contributo Open Source in soli 5 minuti"](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) di [@roshanjossey](https://github.com/Roshanjossey/)
+- [TODO: I just got my free Hacktoberfest shirt. Here’s a quick way you can get yours.](https://www.freecodecamp.org/news/i-just-got-my-free-hacktoberfest-shirt-heres-a-quick-way-you-can-get-yours-fa78d6e24307/) di [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
 
 ## L'uso del Version Control
 
@@ -185,40 +187,6 @@ Se hai domande o commenti, per favore crea un issue.
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Questo lavoro è concesso in licenza con una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 <!-- TODO: check and integrate this missing links
-
-
-https://contributing.md/starting-an-open-source-project/):
-	- [Contributing.md](https://contributing.md/starting-an-open-source-project/) - A series of guides on open source contribution
-
-https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github):
-	- [Finding ways to contribute to open source on GitHub](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github) by [@GitHub](https://github.com/github)
-
-https://github.com/collections):
-	- [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/collections)
-
-https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/):
-	- [How to find your first Open Source bug to fix](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) by [@Shubheksha](https://github.com/Shubheksha)
-
-https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source):
-	- [Bring Kindness Back to Open Source](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) by [@shanselman](https://github.com/shanselman)
-
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax):
-	- [Mastering Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) by [@GitHub](https://github.com/github/docs)
-
-https://github.com/github/docs):
-	- [Mastering Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) by [@GitHub](https://github.com/github/docs)
-
-https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705):
-	- [First mission: Contributors page](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705) by [@forCrowd](https://github.com/forCrowd)
-
-https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/):
-	- [How to make your first Open Source contribution in just 5 minutes](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) by [@roshanjossey](https://github.com/Roshanjossey/)
-
-https://github.com/Roshanjossey/):
-	- [How to make your first Open Source contribution in just 5 minutes](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) by [@roshanjossey](https://github.com/Roshanjossey/)
-
-https://www.freecodecamp.org/news/i-just-got-my-free-hacktoberfest-shirt-heres-a-quick-way-you-can-get-yours-fa78d6e24307/):
-	- [I just got my free Hacktoberfest shirt. Here’s a quick way you can get yours.](https://www.freecodecamp.org/news/i-just-got-my-free-hacktoberfest-shirt-heres-a-quick-way-you-can-get-yours-fa78d6e24307/) by [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
 
 https://www.freecodecamp.org/news/author/quincylarson/):
 	- [I just got my free Hacktoberfest shirt. Here’s a quick way you can get yours.](https://www.freecodecamp.org/news/i-just-got-my-free-hacktoberfest-shirt-heres-a-quick-way-you-can-get-yours-fa78d6e24307/) by [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
