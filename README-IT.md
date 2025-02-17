@@ -124,7 +124,7 @@ Se hai domande o commenti, per favore crea un issue.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/MDN/Contribute) - Aiuta il team degli MDN Web Docs a documentare la piattaforma web, correggendo errori di contenuto e bug della piattaforma.
 - [Bug con mentori](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - Bug a cui è stato assegnato un mentore che sarà presente su IRC per aiutarti quando rimani bloccato mentre lavori sulla correzione.
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - Un sito dedicato alla ricerca di bug su Bugzilla.
-- [Strumenti Firefox per programmatori/sviluppatori DevTools](http://firefox-dev.tools/) - Un sito dedicato ai bug archiviati per gli strumenti di sviluppo nel browser Firefox.
+- [Strumenti Firefox per programmatori/sviluppatori DevTools](https://firefox-dev.tools/) - Un sito dedicato ai bug archiviati per gli strumenti di sviluppo nel browser Firefox.
 - [Avvia Mozilla](https://twitter.com/StartMozilla) - Un account Twitter che pubblica argomenti adatti per i contributori nuovi dell'ecosistema Mozilla.
 
 ## Articoli utili per i nuovi contributori Open Source
@@ -186,9 +186,6 @@ Se hai domande o commenti, per favore crea un issue.
 
 <!-- TODO: check and integrate this missing links
 
-
-https://firefox-dev.tools/):
-	- [Firefox DevTools](https://firefox-dev.tools/) - a site dedicated to bugs filed for the developer tools in the Firefox browser.
 
 https://contributing.md/starting-an-open-source-project/):
 	- [Contributing.md](https://contributing.md/starting-an-open-source-project/) - A series of guides on open source contribution
