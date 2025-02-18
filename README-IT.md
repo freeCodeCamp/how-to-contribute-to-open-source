@@ -188,31 +188,16 @@ Se hai domande o commenti, per favore crea un issue.
 
 <!-- TODO: check and integrate this missing links
 
-https://www.freecodecamp.org/news/author/quincylarson/):
-	- [I just got my free Hacktoberfest shirt. Here’s a quick way you can get yours.](https://www.freecodecamp.org/news/i-just-got-my-free-hacktoberfest-shirt-heres-a-quick-way-you-can-get-yours-fa78d6e24307/) by [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
-
 https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4):
-	- [A Bitter Guide To Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
-
-https://medium.com/@ken_wheeler):
 	- [A Bitter Guide To Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
 
 https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86):
 	- [A junior developer’s step-by-step guide to contributing to Open Source for the first time](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) by [@LetaKeane](https://hackernoon.com/u/letakeane)
 
-https://hackernoon.com/u/letakeane):
-	- [A junior developer’s step-by-step guide to contributing to Open Source for the first time](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) by [@LetaKeane](https://hackernoon.com/u/letakeane)
-
 https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc):
 	- [Learn Git and GitHub Step By Step (on Windows)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) by [@ows-ali](https://ows-ali.medium.com/)
 
-https://ows-ali.medium.com/):
-	- [Learn Git and GitHub Step By Step (on Windows)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) by [@ows-ali](https://ows-ali.medium.com/)
-
 https://careerkarma.com/blog/open-source-projects-for-beginners/):
-	- [Why Open Source and How?](https://careerkarma.com/blog/open-source-projects-for-beginners/) by [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
-
-https://careerkarma.com/blog/author/jamesgallagher/):
 	- [Why Open Source and How?](https://careerkarma.com/blog/open-source-projects-for-beginners/) by [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
 
 https://www.hackerearth.com/getstarted-opensource/):
@@ -221,31 +206,16 @@ https://www.hackerearth.com/getstarted-opensource/):
 https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to):
 	- [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to) by [@kentcdodds](https://twitter.com/kentcdodds)
 
-https://twitter.com/kentcdodds):
-	- [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to) by [@kentcdodds](https://twitter.com/kentcdodds)
-
 https://developeraspire.hashnode.dev/an-immersive-introductory-guide-to-open-source):
-	- [An immersive introductory guide to Open-source](https://developeraspire.hashnode.dev/an-immersive-introductory-guide-to-open-source) by [Franklin Okolie](https://twitter.com/DeveloperAspire)
-
-https://twitter.com/DeveloperAspire):
 	- [An immersive introductory guide to Open-source](https://developeraspire.hashnode.dev/an-immersive-introductory-guide-to-open-source) by [Franklin Okolie](https://twitter.com/DeveloperAspire)
 
 https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/):
 	- [Getting started with contributing to open source](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/) by [Zara Cooper](https://stackoverflow.blog/author/zara-cooper/)
 
-https://stackoverflow.blog/author/zara-cooper/):
-	- [Getting started with contributing to open source](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/) by [Zara Cooper](https://stackoverflow.blog/author/zara-cooper/)
-
 https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj):
 	- [Beginner's guide to open-source contribution](https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj) by [Sudipto Ghosh](https://github.com/pydevsg)
 
-https://github.com/pydevsg):
-	- [Beginner's guide to open-source contribution](https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj) by [Sudipto Ghosh](https://github.com/pydevsg)
-
 https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code):
-	- [8 non-code ways to contribute to open source](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code) by [OpenSource](https://twitter.com/OpenSourceWay)
-
-https://twitter.com/OpenSourceWay):
 	- [8 non-code ways to contribute to open source](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code) by [OpenSource](https://twitter.com/OpenSourceWay)
 
 https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/):
@@ -257,28 +227,16 @@ https://www.freecodecamp.org/news/author/jessica-wilkins/):
 https://www.freecodecamp.org/news/how-to-start-an-open-source-project-on-github-tips-from-building-my-trending-repo/):
 	- [How to Start an Open Source Project on GitHub – Tips from Building My Trending Repo](https://www.freecodecamp.org/news/how-to-start-an-open-source-project-on-github-tips-from-building-my-trending-repo/) by [@Rishit-dagli](https://github.com/Rishit-dagli)
 
-https://github.com/Rishit-dagli):
-	- [How to Start an Open Source Project on GitHub – Tips from Building My Trending Repo](https://www.freecodecamp.org/news/how-to-start-an-open-source-project-on-github-tips-from-building-my-trending-repo/) by [@Rishit-dagli](https://github.com/Rishit-dagli)
-
 https://community.codenewbie.org/bdougie/finding-good-first-issues-33a6):
 	- [Finding Good First Issues](https://community.codenewbie.org/bdougie/finding-good-first-issues-33a6) by [Brian Douglas](https://community.codenewbie.org/bdougie)
 
-https://community.codenewbie.org/bdougie):
-	- [Finding Good First Issues](https://community.codenewbie.org/bdougie/finding-good-first-issues-33a6) by [Brian Douglas](https://community.codenewbie.org/bdougie)
-
 https://medium.com/@juliafmorgado/how-can-i-become-an-open-source-contributor-the-ultimate-guide-d746e380e011):
-	- [How can I become an Open Source contributor? (The ultimate guide)](https://medium.com/@juliafmorgado/how-can-i-become-an-open-source-contributor-the-ultimate-guide-d746e380e011) by [Julia Furst Morgado](https://medium.com/@juliafmorgado)
-
-https://medium.com/@juliafmorgado):
 	- [How can I become an Open Source contributor? (The ultimate guide)](https://medium.com/@juliafmorgado/how-can-i-become-an-open-source-contributor-the-ultimate-guide-d746e380e011) by [Julia Furst Morgado](https://medium.com/@juliafmorgado)
 
 https://www.youtube.com/watch?v=NcoBAfJ6l2Q):
 	- [Video tutorial for Git and Github by Harvard University](https://www.youtube.com/watch?v=NcoBAfJ6l2Q) - Tutorial by Harvard University, part of their CS50 Web Development course on understanding Git and GitHub and working with Git commands.
 
 https://ohshitgit.com/):
-	- [Oh shit, git!](https://ohshitgit.com/) - how to get out of common `git` mistakes described in plain English; also see [Dangit, git!](https://dangitgit.com/) for the page without swears.
-
-https://dangitgit.com/):
 	- [Oh shit, git!](https://ohshitgit.com/) - how to get out of common `git` mistakes described in plain English; also see [Dangit, git!](https://dangitgit.com/) for the page without swears.
 
 https://www.atlassian.com/git/tutorials):
@@ -311,9 +269,6 @@ https://devhints.io/?q=git):
 https://www.youtube.com/watch?v=apGV9Kg7ics):
 	- [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics) (1:12:39) - Full Git and GitHub walkthrough by [Kunal Kushwaha](https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw).
 
-https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw).:
-	- [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics) (1:12:39) - Full Git and GitHub walkthrough by [Kunal Kushwaha](https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw).
-
 https://git-scm.com/docs/gittutorial):
 	- [A Tutorial Introduction to Git](https://git-scm.com/docs/gittutorial) - A Tutorial for Beginners by Git.
 
@@ -342,9 +297,6 @@ https://developer-success-lab.gitbook.io/code-review-anxiety-workbook-1):
 	- [Code Review Anxiety Workbook](https://developer-success-lab.gitbook.io/code-review-anxiety-workbook-1) - Code Review Anxiety Workbook is for New contributors and seasoned contributor programmers. It describes more about managing anxiety when making pull requests and contributions to repositories.
 
 https://ovio.org):
-	- [Ovio](https://ovio.org) - A platform with a curated selection of contributor-friendly projects. It has a [powerful issue search tool](https://ovio.org/issues) and let's you save projects and issues for later.
-
-https://ovio.org/issues):
 	- [Ovio](https://ovio.org) - A platform with a curated selection of contributor-friendly projects. It has a [powerful issue search tool](https://ovio.org/issues) and let's you save projects and issues for later.
 
 https://github.com/Syknapse/Contribute-To-This-Project):
