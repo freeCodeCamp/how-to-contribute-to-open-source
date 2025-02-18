@@ -93,13 +93,8 @@ Se hai domande o commenti, per favore crea un issue.
 - ["6 Best Practices (buone prassi) per gestire la creazione e il feedback delle Pull Request"](https://doordash.engineering/2022/08/23/6-best-practices-to-manage-pull-request-creation-and-feedback/) - di Jenna Kiyasu, ingegnere software presso DoorDash Engineering.
 - ["Contribuisci alla comunità Open-Source"](https://arijitgoswami.hashnode.dev/contribute-to-the-open-source-community) - Vantaggi del software Open Source, come comprendere il funzionamento interno di un progetto open-source e fare la prima contribuzione.
 - ["Guida completa all'Open Source - come contribuire"](https://www.youtube.com/watch?v=yzeVMecydCE) (41:52) - Scopri perché e come contribuire al software open source con Eddie Jaoude.
-
-<!-- FIXME: link aggiornati allo stato corrente di README.md (commit 09889a5), controllare dove sono stati spostati questi link
-
-- [Issuehub.io](http://issuehub.pro/) - uno strumento per cercare issues in GitHub per etichetta e lingua.
+- [Issuehub.pro](http://issuehub.pro/) - uno strumento per cercare issues in GitHub per etichetta e lingua.
 - [La tua prima Pull Request](https://twitter.com/yourfirstpr) - issues adatte per iniziare su GitHub che possono essere facilmente affrontate dai nuovi contributori.
-
--->
 
 ## Ricerche dirette su GitHub
 
@@ -131,8 +126,8 @@ Se hai domande o commenti, per favore crea un issue.
 
 > Articoli e blog utili, ideatei per i nuovi contributori, su come cominciare.
 
-- [TODO: Contributing.md](https://contributing.md/starting-an-open-source-project/) - A series of guides on open source contribution
-- [TODO: Finding ways to contribute to open source on GitHub](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github) by [@GitHub](https://github.com/github)
+- [Contributing.md](https://contributing.md/starting-an-open-source-project/) - Una serie di guide sul contributo open source.
+- [Trovare modi per contribuire all'open source su GitHub](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github) by [@GitHub](https://github.com/github)
 - ["Come scegliere (e contribuire) al tuo primo progetto Open Source"](https://github.com/collections/choosing-projects) di [@GitHub](https://github.com/collections)
 - ["Come trovare il tuo primo bug Open Source da correggere"](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) di [@Shubheksha](https://github.com/Shubheksha)
 - ["Solo per i principianti"](https://kentcdodds.com/blog/first-timers-only) di [@kentcdodds](https://github.com/kentcdodds)
@@ -143,55 +138,51 @@ Se hai domande o commenti, per favore crea un issue.
 - ["Padroneggiare il Markdown"](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) di [@GitHubGuides](https://github.com/github/docs)
 - ["La prima missione: La pagina dei contributori"](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705) di [@forCrowd](https://github.com/forCrowd)
 - ["Come rendere il tuo primo contributo Open Source in soli 5 minuti"](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) di [@roshanjossey](https://github.com/Roshanjossey/)
-<!-- from here is all' TODO: translate -->
-- [I just got my free Hacktoberfest shirt. Here’s a quick way you can get yours.](https://www.freecodecamp.org/news/i-just-got-my-free-hacktoberfest-shirt-heres-a-quick-way-you-can-get-yours-fa78d6e24307/) di [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
-- [A Bitter Guide To Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
-- [A junior developer’s step-by-step guide to contributing to Open Source for the first time](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) by [@LetaKeane](https://hackernoon.com/u/letakeane)
-- [Learn Git and GitHub Step By Step (on Windows)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) by [@ows-ali](https://ows-ali.medium.com/)
-- [Why Open Source and How?](https://careerkarma.com/blog/open-source-projects-for-beginners/) by [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
-- [How to get started with Open Source - By Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/)
-- [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to) by [@kentcdodds](https://twitter.com/kentcdodds)
-- [An immersive introductory guide to Open-source](https://developeraspire.hashnode.dev/an-immersive-introductory-guide-to-open-source) by [Franklin Okolie](https://twitter.com/DeveloperAspire)
-- [Getting started with contributing to open source](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/) by [Zara Cooper](https://stackoverflow.blog/author/zara-cooper/)
-- [Beginner's guide to open-source contribution](https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj) by [Sudipto Ghosh](https://github.com/pydevsg)
-- [8 non-code ways to contribute to open source](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code) by [OpenSource](https://twitter.com/OpenSourceWay)
-- [What is Open Source Software? OSS Explained in Plain English](https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/) by [Jessica Wilkins](https://www.freecodecamp.org/news/author/jessica-wilkins/)
-- [What is Open Source Software? OSS Explained in Plain English](https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/) by [Jessica Wilkins](https://www.freecodecamp.org/news/author/jessica-wilkins/)
-- [How to Start an Open Source Project on GitHub – Tips from Building My Trending Repo](https://www.freecodecamp.org/news/how-to-start-an-open-source-project-on-github-tips-from-building-my-trending-repo/) by [@Rishit-dagli](https://github.com/Rishit-dagli)
-- [Finding Good First Issues](https://community.codenewbie.org/bdougie/finding-good-first-issues-33a6) by [Brian Douglas](https://community.codenewbie.org/bdougie)
-- [How can I become an Open Source contributor? (The ultimate guide)](https://medium.com/@juliafmorgado/how-can-i-become-an-open-source-contributor-the-ultimate-guide-d746e380e011) by [Julia Furst Morgado](https://medium.com/@juliafmorgado)
-<!-- END OF TODO -->
+- [Ho appena ricevuto la mia maglietta gratuita di Hacktoberfest. Ecco un modo rapido per ottenere la tua.](https://www.freecodecamp.org/news/i-just-got-my-free-hacktoberfest-shirt-heres-a-quick-way-you-can-get-yours-fa78d6e24307/) di [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
+- [Una Guida Amara all'Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
+- [Guida passo-passo per sviluppatori junior al primo contributo all'Open Source](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) by [@LetaKeane](https://hackernoon.com/u/letakeane)
+- [Impara Git e GitHub Passo Dopo Passo (su Windows)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) by [@ows-ali](https://ows-ali.medium.com/)
+- [Perché Open Source e Come?](https://careerkarma.com/blog/open-source-projects-for-beginners/) by [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
+- [Come iniziare con l'Open Source - Di Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/)
+- [A quale progetto open-source dovrei contribuire](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to) by [@kentcdodds](https://twitter.com/kentcdodds)
+- [Una guida introduttiva immersiva all'Open-source](https://developeraspire.hashnode.dev/an-immersive-introductory-guide-to-open-source) by [Franklin Okolie](https://twitter.com/DeveloperAspire)
+- [Iniziare a contribuire all'open source](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/) by [Zara Cooper](https://stackoverflow.blog/author/zara-cooper/)
+- [Guida per principianti al contributo open-source](https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj) by [Sudipto Ghosh](https://github.com/pydevsg)
+- [8 modi per contribuire all'open source senza scrivere codice](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code) by [OpenSource](https://twitter.com/OpenSourceWay)
+- [Cos'è il Software Open Source? OSS Spiegato in Inglese Semplice](https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/) by [Jessica Wilkins](https://www.freecodecamp.org/news/author/jessica-wilkins/)
+- [Come Iniziare un Progetto Open Source su GitHub – Consigli da Costruire il Mio Repo di Tendenza](https://www.freecodecamp.org/news/how-to-start-an-open-source-project-on-github-tips-from-building-my-trending-repo/) by [@Rishit-dagli](https://github.com/Rishit-dagli)
+- [Trovare Buoni Primi Problemi](https://community.codenewbie.org/bdougie/finding-good-first-issues-33a6) by [Brian Douglas](https://community.codenewbie.org/bdougie)
+- [Come posso diventare un contributore Open Source? (La guida definitiva)](https://medium.com/@juliafmorgado/how-can-i-become-an-open-source-contributor-the-ultimate-guide-d746e380e011) by [Julia Furst Morgado](https://medium.com/@juliafmorgado)
 
 ## L'uso del Version Control
 
 > Guide e risorse di vari livelli di difficolta sull'utilizzo dei sistemi di Version Control, tipicamente Git e GitHub
-- [TODO: Video tutorial for Git and Github by Harvard University](https://www.youtube.com/watch?v=NcoBAfJ6l2Q) - Tutorial by Harvard University, part of their CS50 Web Development course on understanding Git and GitHub and working with Git commands.
+
+- [Video tutorial for Git and Github by Harvard University](https://www.youtube.com/watch?v=NcoBAfJ6l2Q) - Tutorial di Harvard University, parte del loro corso di Sviluppo Web CS50 sulla comprensione di Git e GitHub e sull'uso dei comandi Git.
 - [Pensa come (un) Git (stupido)](https://think-like-a-git.net/) - L'Introduzione a Git per "principianti avanzati", che hanno ancora qualche difficoltà, al fine di darti una semplice strategia per sperimentare in sicurezza con git.
 - [Prova Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - Impara Git in 15 minuti dal tuo browser gratuitamente.
 - [Git di tutti i giorni](https://git-scm.com/docs/giteveryday) - Un utile set minimo di comandi per Git da usare ogni giorno.
-- [Oh mio Dio, git!](http://ohshitgit.com/) - come uscire dagli errori di `git` comuni descritti in inglese semplice. TODO: also see [Dangit, git!](https://dangitgit.com/) for the page without swears.
+- [Oh mio Dio, git!](http://ohshitgit.com/) - come uscire dagli errori di `git` comuni descritti in inglese semplice. vedi anche [Dangit, git!](https://dangitgit.com/) per la versione senza imprecazioni.
 - [Atlassian Git Tutoriali](https://www.atlassian.com/git/tutorials/) - vari tutorial sull'uso di `git`.
 - [Promemoria di Git](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
 - [Wiki di freeCodeCamp sulle risorse di Git](https://www.freecodecamp.org/forum/t/wiki-git-resources/13136)
 - [Il flusso di GitHub](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - GitHub parla di come effettuare una pull request.
 - [Risorse per l'apprendimento di GitHub](https://help.github.com/articles/git-and-github-learning-resources/) - Risorse per l'apprendimento di Git e GitHub.
-- [TODO: Quickstart - GitHub Learning Resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources) - Git and GitHub learning resources.
+- [Quickstart - risorse per l'apprendimento di GitHub](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources) - Risorse di apprendimento su Git e GitHub.
 - [Pro Git](https://git-scm.com/book/en/v2) - L'intero libro di Pro Git, scritto da Scott Chacon e Ben Straub e pubblicato da Apress.
 - [Git-it](https://github.com/jlord/git-it-electron) - Tutorial Git desktop app passo per passo.
 - [Regole di ingaggio per Git](https://github.com/k88hudson/git-flight-rules) - Una guida su cosa fare quando le cose vanno male.
-<!-- this is all TODO: translate -->
-- [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - A complete guide of slides about git and GitHub explained in Spanish. Una guía completa de diapositivas sobre git y GitHub explicadas en Español.
-- [Git Kraken](https://www.gitkraken.com/git-client) - Visual, cross-platform, and interactive `git` desktop application for version control.
-- [Git Tips](https://github.com/git-tips/tips) - Collection of most commonly used git tips and tricks.
-- [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - Commit Often, Perfect Later, Publish Once: Git Best Practices.
-- [Git Interactive Tutorial](https://learngitbranching.js.org/) - Learn Git in the most visual and interactive way.
-- [Git Cheat Sheets](https://devhints.io/?q=git) - A set of graphical cheat sheets on git.
-- [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics) (1:12:39) - Full Git and GitHub walkthrough by [Kunal Kushwaha](https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw).
-- [A Tutorial Introduction to Git](https://git-scm.com/docs/gittutorial) - A Tutorial for Beginners by Git.
-- [First Aid Git](https://firstaidgit.io/#/) - A searchable collection of the most frequently asked Git questions. Answers for these questions were collected from personal experience, Stackoverflow, and the official Git documentation.
-- [Git by Susan Potter](https://www.aosabook.org/en/git.html) - Show how various technical aspects of Git work under the covers to enable distributed workflows, and how it differs from other version control systems (VCSs).
-- [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE) - A beginner friendly git video by Mosh that explain the fundmental commands and also uses intelligible illustration to aid comprehension.
-<!-- end of TODO -->
+- [Git guida per principianti in spagnolo](https://platzi.github.io/git-slides/#/) - Una guida completa di diapositive su git e GitHub spiegate in spagnolo.
+- [Git Kraken](https://www.gitkraken.com/git-client) - Applicazione desktop `git` visiva, multipiattaforma e interattiva per il controllo delle versioni.
+- [Git suggerimenti](https://github.com/git-tips/tips) - Raccolta dei suggerimenti e trucchi git più comunemente usati.
+- [Git best practice (pratiche migliori)](https://sethrobertson.github.io/GitBestPractices/) - Commit Often, Perfect Later, Publish Once: Le migliori pratiche di Git.
+- [Tutorial interattivo su git](https://learngitbranching.js.org/) - Impara Git nel modo più visivo e interattivo.
+- [Git Cheat Sheets (trucchi per git)](https://devhints.io/?q=git) - Una serie di cheat sheet grafici su git.
+- [Tutorial completo su Git e GitHub](https://www.youtube.com/watch?v=apGV9Kg7ics) (1:12:39) - Tutorial completo su Git e GitHub di [Kunal Kushwaha](https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw).
+- [Una guida introduttoria a Git](https://git-scm.com/docs/gittutorial) - Un tutorial per principianti di Git.
+- [First Aid Git (Git di primo soccorso)](https://firstaidgit.io/#/) - Una raccolta ricercabile delle domande più frequenti su Git. Le risposte a queste domande sono state raccolte dall'esperienza personale, da Stackoverflow e dalla documentazione ufficiale di Git.
+- [Git di Susan Potter](https://www.aosabook.org/en/git.html) - Mostra come funzionano vari aspetti tecnici di Git sottostanti per abilitare i flussi di lavoro distribuiti e come si differenzia da altri sistemi di controllo delle versioni (VCS).
+- [Tutorial Git per principianti: Impara git in 1 ora](https://www.youtube.com/watch?v=8JJ101D3knE) - Un video tutorial su git per principianti di Mosh che spiega i comandi fondamentali e utilizza illustrazioni intelligibili per facilitare la comprensione.
 - [Un'introduzione completa a Git e GitHub](https://codeburst.io/git-good-part-a-e0d826286a2a) - Una guida scritta da Madhav Bahl, che dovresti vedere se sei nuovo di Git o GitHub. Copre GitHub come un servizio e i concetti di controllo della versione con Git in dettaglio.
 
 ## Libri sull'Open Source
@@ -199,15 +190,12 @@ Se hai domande o commenti, per favore crea un issue.
 > Libri su tutte le cose Open Source: La Cultura, la Storia, le Best Practice, ecc.
 
 - [Produrre Open Source Software](http://producingoss.com/) - Produrre Open Source Software è un libro sul lato umano dello sviluppo dell'Open Source. Descrive il funzionamento dei progetti di successo, le aspettative degli utenti e degli sviluppatori e la cultura del software libero.
-- [TODO: The Architecture of Open Source Applications](https://www.aosabook.org/en/index.html) - The authors of twenty-four open source applications explain how their software is structured, and why. From web servers and compilers to health record management systems, they are covered here to help you become a better developer.
+- [The Architecture of Open Source Applications](https://www.aosabook.org/en/index.html) - Gli autori di ventiquattro applicazioni open source spiegano come è strutturato il loro software e perché. Dai server web ai compilatori ai sistemi di gestione delle cartelle cliniche, sono trattati qui per aiutarti a diventare un miglior sviluppatore.
 - [Serie di libri di Open Source](https://opensource.com/resources/ebooks) - Impara ulteriormente sull'Open Source e il crescente movimento Open Source con un elenco completo di libri digitali/eBook gratuiti da https://opensource.com.
 - [Le Pratiche sul COME rilasciare il Software](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - Questo HOWTO descrive le buone abitudini di rilascio per Linux e altri progetti open-source. Seguendo queste pratiche, renderete il più semplice possibile per gli utenti compilare il vostro codice e usarlo, e per gli altri sviluppatori capire il vostro codice e collaborare con voi per migliorarlo.
 - [Open Sources 2.0: L'Evoluzione della Contribuzione](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 è una raccolta di saggi penetranti e stimolanti dei leader tecnologici di oggi che continua a dipingere un quadro evolutivo sviluppato nel libro del 1999, Open Sources: Le voci della rivoluzione.
-
-<!-- from here is all' TODO: translate -->
-- [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - Essays from open-source pioneers such as Linus Torvalds (Linux), Larry Wall (Perl), and Richard Stallman (GNU).
-- [Code Review Anxiety Workbook](https://developer-success-lab.gitbook.io/code-review-anxiety-workbook-1) - Code Review Anxiety Workbook is for New contributors and seasoned contributor programmers. It describes more about managing anxiety when making pull requests and contributions to repositories.
-<!-- END OF TODO -->
+- [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - Saggi dei pionieri dell'open-source come Linus Torvalds (Linux), Larry Wall (Perl) e Richard Stallman (GNU).
+- [Code Review Anxiety Workbook](https://developer-success-lab.gitbook.io/code-review-anxiety-workbook-1) - Il Code Review Anxiety Workbook è per nuovi contributori e programmatori esperti. Descrive come gestire l'ansia quando si fanno pull request e contributi ai repository.
 
 ## Iniziative per contribuire all'Open Source
 
@@ -218,38 +206,34 @@ Se hai domande o commenti, per favore crea un issue.
 - [Primi contributi](https://firstcontributions.github.io/) - Fai il tuo primo contributo Open Source in 5 minuti. Uno strumento e un tutorial per aiutare i principianti ad iniziare a contribuire. [Qui](https://github.com/firstcontributions/first-contributions) si trova il codice sorgente Github per il sito e l'opportunità per contribuire al repository stesso.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Un evento per incoraggiare i contributi Open Source. Guadagna regali come magliette e adesivi facendo almento 4 pull request nel mese di ottobre.
 - [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests è un progetto per promuovere la collaborazione Open Source durante il mese di dicembre.
-<!-- from here is all' TODO: translate -->
-- [Ovio](https://ovio.org) - A platform with a curated selection of contributor-friendly projects. It has a [powerful issue search tool](https://ovio.org/issues) and let's you save projects and issues for later.
-- [Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) - This is a tutorial to help first-time contributors to participate in a simple and easy project and get comfortable in using GitHub.
-- [Open Source Welcome Committee](https://www.oswc.is/) - The Open Source Welcome Committee (OSWC) helps newcomers join the extraordinary world of Open Source. Come submit your open-source projects with us!
-<!-- END OF TODO -->
+- [Ovio](https://ovio.org) - Una piattaforma con una selezione curata di progetti adatti ai contributori. Ha un [potente strumento di ricerca delle issue](https://ovio.org/issues) e ti permette di salvare progetti e issue per dopo.
+- [Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) - Questo è un tutorial per aiutare i nuovi contributori a partecipare a un progetto semplice e facile e a sentirsi a proprio agio nell'usare GitHub.
+- [Open Source Welcome Committee](https://www.oswc.is/) - Il Comitato di Benvenuto Open Source (OSWC) aiuta i nuovi arrivati a unirsi al mondo straordinario dell'Open Source. Vieni a presentare i tuoi progetti open-source con noi!
 
-<!-- from here is all' TODO: translate -->
-## Open Source programs to participate in
+## Programmi Open Source a cui partecipare
 
-> A program, internship, or fellowship hosted by a community to help match beginning contributors with mentors and resources to contribute to open source software projects.
+> Un programma, tirocinio o fellowship ospitato da una comunità per aiutare a mettere in contatto i nuovi contributori con mentori e risorse per contribuire a progetti di software open source.
 
 - [All Linux Foundation (LF) Mentorships](https://mentorship.lfx.linuxfoundation.org/#projects_all)
 - [Beginner friendly Open Source programs with their timelines](https://github.com/arpit456jain/Open-Source-Programs)
 - [Cloud Native Computing Foundation](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
 - [FossAsia](https://fossasia.org)
 - [Free Software Foundation (FSF) Internship](https://www.fsf.org/volunteer/internships)
-- [Google Summer of Code](https://summerofcode.withgoogle.com/) - An annually run paid program by Google focused on bringing more student developers into open-source software development.
-- [Girlscript Summer of Code](https://gssoc.girlscript.tech/) - A three-month-long Open-Source Program conducted every summer by the Girlscript Foundation. With constant efforts, participants contribute to numerous projects under the extreme guidance of skilled mentors over these months. With such exposure, students begin to contribute to real-world projects from the comfort of their homes.
-- [Hacktoberfest](https://hacktoberfest.digitalocean.com) - An annual event hosted every October to encourage people to contribute to open source!
-- [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN) - If you’re into the blockchain, this is for you. You can contribute to Hyperledger. This mentorship program allows you to get practical exposure to Hyperledger open source development.You will be allotted mentors who are quite active in the Hyperledger developers community.
+- [Google Summer of Code](https://summerofcode.withgoogle.com/) - Un programma annuale retribuito da Google focalizzato sull'introduzione di più studenti sviluppatori nello sviluppo di software open-source.
+- [Girlscript Summer of Code](https://gssoc.girlscript.tech/) - Un programma open-source di tre mesi condotto ogni estate dalla Girlscript Foundation. Con sforzi costanti, i partecipanti contribuiscono a numerosi progetti sotto la guida di mentori esperti durante questi mesi. Con tale esposizione, gli studenti iniziano a contribuire a progetti reali dal comfort delle loro case.
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com) - Un evento annuale ospitato ogni ottobre per incoraggiare le persone a contribuire all'open source!
+- [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN) - Se ti interessa la blockchain, questo fa per te. Puoi contribuire a Hyperledger. Questo programma di mentorship ti permette di ottenere un'esposizione pratica allo sviluppo open source di Hyperledger. Ti verranno assegnati mentori che sono molto attivi nella comunità degli sviluppatori di Hyperledger.
 - [LF Networking Mentorship](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program)
 - [Microsoft Reinforcement Learning](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
-- [Major League Hacking (MLH) Fellowship](https://fellowship.mlh.io/) - A remote internship alternative for aspiring technologists where they build, or contribute to open-source projects.
+- [Major League Hacking (MLH) Fellowship](https://fellowship.mlh.io/) - Un'alternativa di tirocinio remoto per aspiranti tecnologi dove costruiscono o contribuiscono a progetti open-source.
 - [Open Summer of Code](https://osoc.be/students)
-- [Open Mainframe](https://www.openmainframeproject.org/all-projects/mentorship-program) - Open Mainframe Project also has its own open-source program and the mentees will be able to expand their knowledge on the mainframe technology
+- [Open Mainframe](https://www.openmainframeproject.org/all-projects/mentorship-program) - Il progetto Open Mainframe ha anche il suo programma open-source e i mentee potranno espandere le loro conoscenze sulla tecnologia mainframe.
 - [Outreachy](https://www.outreachy.org)
 - [Processing Foundation Internship](https://processingfoundation.org/fellowships/)
-- [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) - A global fellowship program for women and non-binary coders where they work on existing open-source projects and expand their skillset.
-- [Redox OS Summer of Code](https://www.redox-os.org/rsoc/) - The Redox OS Summer of Code is the primary use of donations to the Redox OS project. Students are selected who have already demonstrated a desire and ability to contribute to Redox OS
-- [Social Summer of Code](https://ssoc.devfolio.co/) - Social foundation offers this two-month long summer program for students to learn about the open-source culture and get involved in the community. Participants contribute to real-life projects under the guidance of experienced mentors.
-- [Season of KDE](https://season.kde.org/) - The Season of KDE, hosted by the KDE community, is an outreach program for all individuals across the world. KDE is an international free software community that develops free and open-source software and you can contribute to KDE through the Season of KDE program
-<!-- END OF TODO -->
+- [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) - Un programma di fellowship globale per donne e coder non binari dove lavorano su progetti open-source esistenti ed espandono le loro competenze.
+- [Redox OS Summer of Code](https://www.redox-os.org/rsoc/) - Il Redox OS Summer of Code è l'uso principale delle donazioni al progetto Redox OS. Gli studenti selezionati hanno già dimostrato il desiderio e la capacità di contribuire a Redox OS.
+- [Social Summer of Code](https://ssoc.devfolio.co/) - La Social Foundation offre questo programma estivo di due mesi per studenti per imparare la cultura open-source e coinvolgersi nella comunità. I partecipanti contribuiscono a progetti reali sotto la guida di mentori esperti.
+- [Season of KDE](https://season.kde.org/) - La Season of KDE, ospitata dalla comunità KDE, è un programma di outreach per tutti gli individui in tutto il mondo. KDE è una comunità internazionale di software libero che sviluppa software libero e open-source e puoi contribuire a KDE attraverso il programma Season of KDE.
 
 ## Licenza
 
