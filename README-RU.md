@@ -1,22 +1,36 @@
-<table>
-    <tr>
-        <!-- Do not translate this table -->
-        <td><a href="./README.md"> English </a></td>
-        <td><a href="./README-MR.md"> मराठी </a></td>
-        <td><a href="./README-BN.md"> বাংলা </a></td>
-        <td><a href="./README-CN.md"> 中文 </a></td>
-        <td><a href="./README-RU.md"> Русский </a></td>
-        <td><a href="./README-RO.md"> Românesc </a></td>
-        <td><a href="./README-IT.md"> Italiano </a></td>
-        <td><a href="./README-ES.md"> Español </a></td>
-        <td><a href="./README-pt-BR.md"> Português (BR) </a></td>
-        <td><a href="./README-DE.md"> Deutsch </a></td>
-        <td><a href="./README-GR.md"> Ελληνικά </a></td>
-        <td><a href="./README-FR.md"> Français </a></td>
-        <td><a href="./README-TR.md"> Turkish </a></td>
-        <td><a href="./README-KO.md"> 한국어 </a></td>
-    </tr>
-</table>
+<details>
+<summary>
+<strong> Прочитать этот гайд на другом языке </strong>
+</summary>
+    <!-- Do not translate this -->
+    <ul>
+        <li><a href="./README.md"> English </a></li>
+        <li><a href="./README-MR.md"> मराठी </a></li>
+        <li><a href="./README-BN.md"> বাংলা </a></li>
+        <li><a href="./README-CN.md"> 中文 </a></li>
+        <li><a href="./README-RO.md"> Românesc </a></li>
+        <li><a href="./README-IT.md"> Italiano </a></li>
+        <li><a href="./README-ID.md"> Indonesia </a></li>
+        <li><a href="./README-ES.md"> Español </a></li>
+        <li><a href="./README-pt-BR.md"> Português (BR) </a></li>
+        <li><a href="./README-DE.md"> Deutsch </a></li>
+        <li><a href="./README-HE.md"> עברית </a></li>
+        <li><a href="./README-GR.md"> Ελληνικά </a></li>
+        <li><a href="./README-FR.md"> Français </a></li>
+        <li><a href="./README-TR.md"> Turkish </a></li>
+        <li><a href="./README-KO.md"> 한국어 </a></li>
+        <li><a href="./README-JA.md"> 日本語 </a></li>
+        <li><a href="./README-UZ.md"> O'zbek</a></li>
+        <li><a href="./README-HI.md"> हिंदी </a></li>
+        <li><a href="./README-FA.md"> فارسی </a></li>
+        <li><a href="./README-UR.md">اردو </a></li>
+        <li><a href="./README-AR.md">اللغة العربية </a></li>
+        <li><a href="./README-TA.md">தமிழ்</a></li>
+        <li><a href="./README-NE.md">नेपाली</a></li>
+        <li><a href="./README-ML.md">മലയാളം</a></li>
+    </ul>
+</details>
+
 
 # Добро пожаловать новым разработчикам открытого кода!
 
@@ -37,9 +51,14 @@
 - [Полезные статьи для новых авторов с открытым исходным кодом](#Полезные-статьи-для-новых-авторов-с-открытым-исходным-кодом)
 - [Использование контроля версий](#Использование-контроля-версий)
 - [Книги с открытым исходным кодом](#Книги-с-открытым-исходным-кодом)
+- [Open Source инициативы контрибьютеров](#Open-source-инициативы-контрибьютеров)
+- [Open Source программы для практики](#Open-source-программы-для-практики)
 - [Лицензия](#Лицензия)
 
 ## Внесение вклада в открытый исходный код (статьи на английском)
+
+> Статьи и ресурсы, посвящённые миру и культуре Open Source.
+
 - [Полное руководство по вкладу в Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) от [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [Введение в Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Мастер классы от DigitalOcean, которые помогут вам успешно участвовать в Open Source проектах на GitHub.
 - [SourceSort](https://www.sourcesort.com) - Коллекция проектов с открытым исходным кодом, нуждающихся в помощи, с возможностью поиска и такими метриками как уровень принятия первых pull request'ов и время отклика, которые могут сыграть решающую роль для новых участников.
@@ -70,7 +89,9 @@
 - ["Пошаговый гайд о том, как контрибьютить в GitHub"](https://www.dataschool.io/how-to-contribute-on-github/) - пошаговое руководство с вспомогательными визуальными элементами и ссылками, касающимися всего процесса вклада в Open Source проект.
 
 ## Прямой поиск на GitHub
-Поиск по ярлыкам, которые хорошо подходят для того, чтобы начать контрибьютить на GitHub.
+
+> Поиск по ярлыкам, которые хорошо подходят для того, чтобы начать контрибьютить на GitHub.
+
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
 - [is:issue is:open label:first-timers-only](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
@@ -82,6 +103,9 @@
 - [is:issue is:open label:"beginner friendly"](https://github.com/search?q=beginner+friendly&state=open&type=Issues)
 
 ## Экосистема контрибьюторов Mozilla
+
+> Mozilla стремится к созданию здорового интернета и предоставляет возможности для участия в своих проектах с открытым исходным кодом.
+
 - [Хорошие первые баги](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22[good%20first%20bug]%22) - Баги, которые разработчики определили как хорошее введение в проект.
 - [MDN Web Docs](https://developer.mozilla.org/ru/docs/MDN/Contribute) - Помогите команде веб-документации MDN в документировании веб-платформы, исправляя проблемы с контентом и баги платформы.
 - [Баги с закреплёнными за ними менторами](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - Баги с назначенными на них менторами, которые помогут вам через чат, если у вас появятся трудности во время работы над исправлениями.
@@ -91,6 +115,9 @@
 - [Start Mozilla](https://twitter.com/StartMozilla) - аккаунт в Twitter, в котором сообщается о проблемах, подходящих для новых для экосистемы Mozilla контрибьюторов.
 
 ## Полезные статьи для новых авторов с открытым исходным кодом
+
+> Полезные статьи и блоги, ориентированные на новых участников, о том, как начать работу.
+
 - ["Как выбрать (и внести свой вклад) в свой первый Open Source проект"](https://github.com/collections/choosing-projects) от [@GitHub](https://github.com/github)
 - ["Как найти первый баг для исправления в Open Source"](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) от [@Shubheksha](https://github.com/Shubheksha)
 - ["Только для новичков"](https://kentcdodds.com/blog/first-timers-only) от [@kentcdodds](https://github.com/kentcdodds)
@@ -114,6 +141,9 @@
 - [Что такое Open Source Software? Объяснение OSS на английском](https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/) от [Jessica Wilkins](https://www.freecodecamp.org/news/author/jessica-wilkins/)
 
 ## Использование контроля версий
+
+> Учебные материалы и ресурсы разного уровня по использованию систем управления версиями, чаще всего Git и GitHub.
+
 - [Думай как Git](https://think-like-a-git.net/) - Введение в Git для «продвинутых новичков», у которых всё ещё есть трудности, предоставляющее простую стратегию безопасного экспериментирования с Git.
 - [Попробуй Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - Бесплатно выучите Git за 15 минут, используя свой браузер.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Полезный минимальный набор команд для Everyday Git.
@@ -135,14 +165,20 @@
 - [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics) (1:12:39) - Полное пошаговое руководство по Git и GitHub от [Kunal Kushwaha](https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw).
 
 ## Книги с открытым исходным кодом
+
+> Книги обо всём, что связано с Open Source: культура, история, лучшие практики и другое.
+
 - [Создаём Open Source Software](http://producingoss.com/) - "Создаём Open Source Software" - это книга о человеческой стороне Open Source разработки. В ней описывается, как работают успешные проекты, каковы ожидания пользователей и разработчиков, а также культура бесплатного программного обеспечения.
 - [Серия книг Open Source](https://opensource.com/resources/ebooks) - Узнайте больше об Open Source и растущем движении Open Source благодаря полному списку бесплатных электронных книг от https://opensource.com.
 - [Практическое руководство по выпуску программного обеспечения HOWTO](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - Данное "HOWTO" описывает хорошие подходы к выпуску ПО для Linux и других Open Source проектов. Следуя этим практикам, вы сможете максимально упростить как процессы сборки и использования вашего кода пользователями, так и понимание вашего кода другими разработчиками с возможностью сотрудничать с вами для его улучшения.
 - [Open Sources 2.0: продолжающаяся эволюция](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 - это сборник наполненных идеями и наводящих на размышления эссе современных технологических лидеров, который продолжает рисовать эволюционную картину, созданную в книге 1999 года «Open Sources: Голоса Революции».
 - [Архитектура Open Source Приложений](http://www.aosabook.org/en/git.html) - Показывает, как различные аспекты Git работают скрытно, чтобы обеспечить распределенные рабочие процессы, и чем Git отличается от других систем контроля версий (VCS).
 - [Open Sources: Голоса из Open Source революции](https://www.oreilly.com/openbook/opensources/book/) - Очерки первопроходцев в области Open Source, таких как Линус Торвальдс (создатель Linux), Ларри Уолл (создатель Perl) и Ричард Столлман (создатель GNU).
+- [Руководство по борьбе с тревогой при код-ревью](https://developer-success-lab.gitbook.io/code-review-anxiety-workbook-1) - "Руководство по борьбе с тревогой при код-ревью" предназначена как для начинающих, так и для опытных разработчиков. В ней подробно описывается, как справляться с тревогой при создании pull requestов и участии в работе с репозиториями.
 
 ## Open Source инициативы контрибьютеров
+
+> Список инициатив, которые собирают задачи, подходящие для начинающих, или организуют сезонные мероприятия.
 
 - [Up For Grabs](https://up-for-grabs.net/) - Содержит проекты с задачами, подходящими для начинающих.
 - [Только для новичков](https://www.firsttimersonly.com/) - Список багов, помеченных как «только для новичков».
@@ -155,6 +191,8 @@
 - [Major League Hacking Fellowship](https://fellowship.mlh.io/) - Альтернатива удаленной стажировке для начинающих технологов, где они создают или участвуют в проектах с открытым исходным кодом.
 
 ## Open Source программы для практики
+
+> Программа, стажировка или стипендиальная программа, организованная сообществом для помощи начинающим контрибьютерам в поиске наставников и ресурсов, чтобы внести вклад в проекты с открытым исходным кодом.
 
 - [Google Summer of Code](https://summerofcode.withgoogle.com)
 - [FossAsia](https://fossasia.org)
