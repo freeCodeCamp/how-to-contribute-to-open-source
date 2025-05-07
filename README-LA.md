@@ -153,34 +153,34 @@ Sī quaestiōnēs aut commentāria habēs, quaesō quaestiōnem creā.
 - [Inveniendo optima primum problemata](https://community.codenewbie.org/bdougie/finding-good-first-issues-33a6) by [Brian Douglas](https://community.codenewbie.org/bdougie)
 - [Quomodo fieri possum contributor fontium apertorum? (Dux ultimus)](https://medium.com/@juliafmorgado/how-can-i-become-an-open-source-contributor-the-ultimate-guide-d746e380e011) by [Julia Furst Morgado](https://medium.com/@juliafmorgado)
 
-## Using Version Control
+## Usus imperii versionum
 
-> Tutorials and resources of varying levels on using version control, typically Git and GitHub.
+> Institutiones et subsidia variis gradibus de usu imperii versionum, plerumque Git et GitHub.
 
-- [Video tutorial for Git and Github by Harvard University](https://www.youtube.com/watch?v=NcoBAfJ6l2Q) - Tutorial by Harvard University, part of their CS50 Web Development course on understanding Git and GitHub and working with Git commands.
-- [Think Like (a) Git](https://think-like-a-git.net/) - Git introduction for "advanced beginners", but are still struggling, in order to give you a simple strategy to safely experiment with git.
-- [Quickstart - Set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - Learn how to set up Git locally and set up authentication, along with next steps on your learning journey.
-- [Everyday Git](https://git-scm.com/docs/giteveryday) - A useful minimum set of commands for Everyday Git.
-- [Oh shit, git!](https://ohshitgit.com/) - how to get out of common `git` mistakes described in plain English; also see [Dangit, git!](https://dangitgit.com/) for the page without swears.
-- [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) - various tutorials on using `git`.
-- [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
-- [freeCodeCamp's Wiki on Git Resources](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
-- [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - GitHub talk on how to make a pull request.
-- [Quickstart - GitHub Learning Resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources) - Git and GitHub learning resources.
-- [Pro Git](https://git-scm.com/book/en/v2) - The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress.
-- [Git-it](https://github.com/jlord/git-it-electron) - Step by step Git tutorial desktop app.
-- [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - A guide about what to do when things go wrong.
-- [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - A complete guide of slides about git and GitHub explained in Spanish. Una guía completa de diapositivas sobre git y GitHub explicadas en Español.
-- [Git Kraken](https://www.gitkraken.com/git-client) - Visual, cross-platform, and interactive `git` desktop application for version control.
-- [Git Tips](https://github.com/git-tips/tips) - Collection of most commonly used git tips and tricks.
-- [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - Commit Often, Perfect Later, Publish Once: Git Best Practices.
-- [Git Interactive Tutorial](https://learngitbranching.js.org/) - Learn Git in the most visual and interactive way.
-- [Git Cheat Sheets](https://devhints.io/?q=git) - A set of graphical cheat sheets on git.
-- [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics) (1:12:39) - Full Git and GitHub walkthrough by [Kunal Kushwaha](https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw).
-- [A Tutorial Introduction to Git](https://git-scm.com/docs/gittutorial) - A Tutorial for Beginners by Git.
-- [First Aid Git](https://firstaidgit.io/#/) - A searchable collection of the most frequently asked Git questions. Answers for these questions were collected from personal experience, Stackoverflow, and the official Git documentation.
-- [Git by Susan Potter](https://www.aosabook.org/en/git.html) - Show how various technical aspects of Git work under the covers to enable distributed workflows, and how it differs from other version control systems (VCSs).
-- [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE) - A beginner friendly git video by Mosh that explain the fundmental commands and also uses intelligible illustration to aid comprehension.
+- [Institutio visiva de Git et GitHub a Universitate Harvardiana](https://www.youtube.com/watch?v=NcoBAfJ6l2Q) - Institutio a Universitate Harvardiana, pars cursus eorum CS50 de evolutione retiali, ad intelligendum Git et GitHub et operandum cum praeceptis Git.
+- [Cogita ut Git](https://think-like-a-git.net/) - Introductio Git pro "incipientibus provectis" qui tamen laborant, ut tibi simplicem rationem praebeat ad tuto experiendum cum Git.
+- [Initium celer – Configura Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - Disce quomodo Git localiter configurare et authenticationem constituere, una cum proximis gradibus in itinere tuo discendi.
+- [Git Cotidianus](https://git-scm.com/docs/giteveryday) - Utilis minima praeceptorum collectio ad usum cotidianum Git.
+- [O malum, Git!](https://ohshitgit.com/) - Quomodo ex communibus erroribus `git` exire, explicatum simplici lingua; Vide etiam [Dangit, git!](https://dangitgit.com/) Pro pagina sine maledictionibus.
+- [Instituta Git a Atlassian](https://www.atlassian.com/git/tutorials) - Diversa instituta de usu `git`.
+- [Tabula fraudi GitHub Git](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
+- [Wiki freeCodeCamp de subsidiis Git](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
+- [GitHub Fluxus](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - Disputatio GitHub de quomodo facere pull request.
+- [Initium celer – Subsidia discendi GitHub](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources) - Subsidia discendi Git et GitHub.
+- [Pro Git](https://git-scm.com/book/en/v2) - Totum liber Pro Git, a Scott Chacon et Ben Straub scriptus et ab Apress editus.
+- [Git-it](https://github.com/jlord/git-it-electron) - Institutio Git gradatim in app desktop.
+- [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - Dux quid faciendum sit cum res male eventurae sint.
+- [Dux Git pro incipientibus in Hispanice](https://platzi.github.io/git-slides/#/) - Dux completus diapositivarum de git et GitHub explicatus in Hispanice. Una guía completa de diapositivas sobre git y GitHub explicadas en Español.
+- [Git Kraken](https://www.gitkraken.com/git-client) - Applicatio interactivum, visualis, et trans-systematis desktop `git` pro imperio versionum.
+- [Consilia Git](https://github.com/git-tips/tips) - Collectio praecipuorum consiliorum et dolorum git.
+- [Optimae Praticae Git](https://sethrobertson.github.io/GitBestPractices/) - Commita saepe, perfice postea, publice semel: Optimae practicae Git.
+- [Interactivum praeceptorium Git.](https://learngitbranching.js.org/) - Disce Git modo visualissimo et interactivissimo.
+- [git fraudulentus sheet](https://devhints.io/?q=git) - Exemplaria chartarum adiutoriarum graphicarum de Git.
+- [Institutio perfecta de Git et GitHub.](https://www.youtube.com/watch?v=apGV9Kg7ics) (1:12:39) - Ambulatio completa per Git et GitHub by [Kunal Kushwaha](https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw).
+- [Instructio introductoria ad Git.](https://git-scm.com/docs/gittutorial) - Instructio pro Incipientibus a Git.
+- [Primum Auxilium Git](https://firstaidgit.io/#/) - Collectio quaerendorum frequentissimorum de Git investigabilis est. Responsiones horum quaestionum ex experientia personali, Stackoverflow, atque ex documentis officialibus Git collectae sunt.
+- [Git by Susan Potter](https://www.aosabook.org/en/git.html) - Monstra quomodo diversi aspectus technici Git sub tectis operentur ut fluxus operum distributos permittant, et quomodo ab aliis systematibus imperii versionum (VCSs) differt.
+- [Instructio Git pro Incipientibus: Disce Git in 1 Hora](https://www.youtube.com/watch?v=8JJ101D3knE) - Instructio Git amica incipientibus a Mosh, quae praecepta fundamentalia explicat et etiam illustrationes intelligibiles ut auxilium ad intellectum praebet.
 
 ## Open Source books
 
