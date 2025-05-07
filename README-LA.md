@@ -182,57 +182,57 @@ Sī quaestiōnēs aut commentāria habēs, quaesō quaestiōnem creā.
 - [Git by Susan Potter](https://www.aosabook.org/en/git.html) - Monstra quomodo diversi aspectus technici Git sub tectis operentur ut fluxus operum distributos permittant, et quomodo ab aliis systematibus imperii versionum (VCSs) differt.
 - [Instructio Git pro Incipientibus: Disce Git in 1 Hora](https://www.youtube.com/watch?v=8JJ101D3knE) - Instructio Git amica incipientibus a Mosh, quae praecepta fundamentalia explicat et etiam illustrationes intelligibiles ut auxilium ad intellectum praebet.
 
-## Open Source books
+## Libri Open Source
 
-> Books on all things Open Source: The Culture, History, Best Practices, etc.
+> Libri de omnibus rebus quae ad Open Source pertinent: cultura, historia, praxeos optimarum.
 
-- [Producing Open Source Software](https://producingoss.com/) - Producing Open Source Software is a book about the human side of Open Source development. It describes how successful projects operate, the expectations of users and developers, and the culture of free software.
-- [The Architecture of Open Source Applications](https://www.aosabook.org/en/index.html) - The authors of twenty-four open source applications explain how their software is structured, and why. From web servers and compilers to health record management systems, they are covered here to help you become a better developer.
-- [Open Source Book Series](https://opensource.com/resources/ebooks) - Learn more about Open Source and the growing Open Source movement with a comprehensive list of free eBooks from https://opensource.com.
-- [Software Release Practice HOWTO](https://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - This HOWTO describes good release practices for Linux and other Open-Source projects. By following these practices, you will make it as easy as possible for users to build your code and use it, and for other developers to understand your code and cooperate with you to improve it.
-- [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 is a collection of insightful and thought-provoking essays from today's technology leaders that continues painting the evolutionary picture that developed in the 1999 book, Open Sources: Voices from the Revolution.
-- [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - Essays from open-source pioneers such as Linus Torvalds (Linux), Larry Wall (Perl), and Richard Stallman (GNU).
-- [Code Review Anxiety Workbook](https://developer-success-lab.gitbook.io/code-review-anxiety-workbook-1) - Code Review Anxiety Workbook is for New contributors and seasoned contributor programmers. It describes more about managing anxiety when making pull requests and contributions to repositories.
+- [Software Fontis Liberi Producere](https://producingoss.com/) - Software Fontis Liberi Producere est liber de parte humana evolutionis Fontis Liberi. Describit quomodo consilia prospera operentur, expectationes usorum et programmatorum, atque culturam programmatum gratuitorum.
+- [Architectura Applicationum Fontis Liberi](https://www.aosabook.org/en/index.html) - Auctores viginti quattuor applicationum Fontis Liberi explicant quomodo software suum structum sit et cur. A servientibus interretialibus et compilatoribus usque ad rationes administrationis monumentorum sanitatis, hic tractantur ut te meliorem programmatorrem reddant.
+- [Series Libri Open Source](https://opensource.com/resources/ebooks) - Disce plus de Open Source et crescente motu Open Source cum indice comprehensivo librorum electronicorum gratuitorum ex https://opensource.com.
+- [Exercitium Emissio Programmatum HOWTO](https://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - Hoc HOWTO describit bonas consuetudines emissionis pro Linux et aliis propositis Fontis Liberi. His consuetudinibus sequendis, facillimum fiet ut usores codicem tuum construant et utantur, et ut alii programmatores codicem tuum intellegant atque tecum cooperentur ad eum emendandum.
+- [Fontes Aperti 2.0 : Evolutio Continua](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 est collectio commentationum sagacium et cogitandi provocantium a ducibus hodiernae technologiae, quae imaginem evolutionis continuat, quae in libro anni 1999, Open Sources: Voces a Revolutione, evoluta est.
+- [Fontes Aperti: Voces ex Revolutione Fontium Apertorum](https://www.oreilly.com/openbook/opensources/book/) - Commentarii a praeconibus fontium apertorum ut Linus Torvalds (Linux), Larry Wall (Perl), et Richard Stallman (GNU)
+- [Liber Operis Anxietatis Recognoscendi Codicis](https://developer-success-lab.gitbook.io/code-review-anxiety-workbook-1) - Liber Operis Anxietatis Recognoscendi Codicis est pro novis contributoribus et peritis contributoribus programmatum. Describit plura de administranda anxietate cum faciens petitiones pull et contributiones ad repositoria.
 
-## Open Source contribution initiatives
+## Initiativae Contributionis Fontium Apertorum
 
-> List of initiatives that aggregate beginner friendly issues to work on or seasonal events.
+> Elenchus inceptorum quae quaestiones amicae incipientibus aggregant ad operandum vel eventus temporales.
 
-- [Up For Grabs](https://up-for-grabs.net/) - Contains projects with beginner-friendly issues.
-- [First Contributions](https://firstcontributions.github.io/) - Make your first Open Source contribution in 5 minutes. A tool and tutorial to help beginners get started with contributions. [Here](https://github.com/firstcontributions/first-contributions) is the GitHub source code for the site and opportunity to make a contribution to the repository itself.
-- [First Timers Only](https://www.firsttimersonly.com/) - A list of bugs that are labelled "first-timers-only".
-- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - A program to encourage Open Source contributions. Earn gifts like t-shirts and stickers by making at least 4 pull requests in the month of October.
-- [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests is a project to promote Open Source collaboration during the month of December.
-- [Ovio](https://ovio.org) - A platform with a curated selection of contributor-friendly projects. It has a [powerful issue search tool](https://ovio.org/issues) and let's you save projects and issues for later.
-- [Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) - This is a tutorial to help first-time contributors to participate in a simple and easy project and get comfortable in using GitHub.
-- [Open Source Welcome Committee](https://www.oswc.is/) - The Open Source Welcome Committee (OSWC) helps newcomers join the extraordinary world of Open Source. Come submit your open-source projects with us!
-- [First Contributions](https://github.com/forwards/first-contributions) - This repo is a chopped-up, trimmed-down, and customised-for-RStudio version of the amazing first contributions repo. 
+- [Sur sum Pro Grabs](https://up-for-grabs.net/) - Continet incepta cum quaestionibus incipientibus amicabilibus.
+- [Primae Contributiones](https://firstcontributions.github.io/) - Fac tuum primum Open Source contributum in 5 minutis. Instrumentum et tutorial adiuvantes incipientes incipere cum contributionibus. [Hic](https://github.com/firstcontributions/first-contributions) Estne GitHub fons codicis pro situ et opportunitate contribuendi ad ipsum repositorium.
+- [Primi Tantum](https://www.firsttimersonly.com/) - Elenchus errorum qui intitulati sunt "primi-tantum".
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Programma ad fovendas contributiones Open Source. Praemia ut t-shirts et stickers acquire per faciendo saltem 4 petitiones tractionis in mense Octobri.
+- [24 Peticiones Tractionis](https://24pullrequests.com) - 24 Peticiones Tractionis est inceptum ad promovendam collaborationem Open Source durante mense Decembri.
+- [Ovio](https://ovio.org) - Platforma cum selectio curata propositorum amica contributoribus. Habere [Instrumentum quaestionum potentissimum](https://ovio.org/issues) Et permittit ut propositos et quaestiones ad postea servandas.
+- [Contribuere-Ad-Hoc-Propositum](https://github.com/Syknapse/Contribute-To-This-Project) - Hoc est praeceptum adiuvari novos contributors ut participent in simplici et facili proposito et ut in usu GitHub conforteantur.
+- [Comitium Salutis Fontis Liberi](https://www.oswc.is/) - Comitium Salutis Fontis Liberi (OSWC) novis adiuvat ut in mirabilem mundum Fontis Liberi se coniungant. Veni, propone propositos tuos Fontis Liberi nobiscum!
+- [Prima Contributa](https://github.com/forwards/first-contributions) - Hoc repo est versiuncula brevissima, abbreviata, et pro RStudio aptata mirabilis first contributions repo. 
 
-## Open Source programs to participate in
+## Programmata Fontis Liberi ad participandum
 
-> A program, internship, or fellowship hosted by a community to help match beginning contributors with mentors and resources to contribute to open source software projects.
+> Programma, disciplina, aut societas ab communitate hospitata ad auxilium coniungendi novos contributores cum magistris et opibus ad contribuendum ad propositos software Fontis Liberi.
 
-- [All Linux Foundation (LF) Mentorships](https://mentorship.lfx.linuxfoundation.org/#projects_all)
-- [Beginner friendly Open Source programs with their timelines](https://github.com/arpit456jain/Open-Source-Programs)
-- [Cloud Native Computing Foundation](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
+- [Omnes Mentorships Fundamentum Linux (LF)](https://mentorship.lfx.linuxfoundation.org/#projects_all)
+- [Programmata Fontis Liberi amica beginneribus cum suis temporariis lineis.](https://github.com/arpit456jain/Open-Source-Programs)
+- [Fundamentum Computationis Nativae Nubis](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
 - [FossAsia](https://fossasia.org)
-- [Free Software Foundation (FSF) Internship](https://www.fsf.org/volunteer/internships)
-- [Google Summer of Code](https://summerofcode.withgoogle.com/) - An annually run paid program by Google focused on bringing more student developers into open-source software development.
-- [Girlscript Summer of Code](https://gssoc.girlscript.tech/) - A three-month-long Open-Source Program conducted every summer by the Girlscript Foundation. With constant efforts, participants contribute to numerous projects under the extreme guidance of skilled mentors over these months. With such exposure, students begin to contribute to real-world projects from the comfort of their homes.
-- [Hacktoberfest](https://hacktoberfest.digitalocean.com) - An annual event hosted every October to encourage people to contribute to open source!
-- [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN) - If you’re into the blockchain, this is for you. You can contribute to Hyperledger. This mentorship program allows you to get practical exposure to Hyperledger open source development.You will be allotted mentors who are quite active in the Hyperledger developers community.
-- [LF Networking Mentorship](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program)
-- [Microsoft Reinforcement Learning](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
-- [Major League Hacking (MLH) Fellowship](https://fellowship.mlh.io/) - A remote internship alternative for aspiring technologists where they build, or contribute to open-source projects.
-- [Open Summer of Code](https://osoc.be/students)
-- [Open Mainframe](https://www.openmainframeproject.org/all-projects/mentorship-program) - Open Mainframe Project also has its own open-source program and the mentees will be able to expand their knowledge on the mainframe technology
+- [Disciplinatio Fundamentum Software Liberi (FSF)](https://www.fsf.org/volunteer/internships)
+- [Aestas Codicis Google](https://summerofcode.withgoogle.com/) - Programma annuum a Google conductum, remuneratum, quod intendit plures studiosos programmatores ad evolutionem software Fontis Liberi allicere.
+- [Aestas Codicis Girlscript](https://gssoc.girlscript.tech/) - Programma Fontis Liberi trium mensium, a Fundatione Girlscript omni aestate conductum. Cum assiduis conatibus, participes ad plurimos propositos confestim conferunt sub ductione peritissimorum magistrorum per hos menses. Cum tali expositione, studiosi incipiunt ad propositos veros conferre ex conforto domorum suarum.
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com) - Eventus annuus omni Octobri habitus ad homines hortandos ut ad Fontem Liberum conferant!
+- [Programma Mentorship Hyperledger](https://wiki.hyperledger.org/display/INTERN) - Si in blockchain es, hoc tibi est. Potestis contribuere ad Hyperledger. Hoc programma mentorship permittit ut experientiam practicam accipias in evolutione Fontis Liberi Hyperledger. Tibi assignabuntur magistri qui in communitate programmatorum Hyperledger valde activos sunt.
+- [Mentorship LF Networking](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program)
+- [Microsoft Doctrina Reinforcement](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
+- [Fellowship Major League Hacking (MLH)](https://fellowship.mlh.io/) - Alternativa disciplina remotum pro technologicis aspirantibus, ubi construunt vel contribuunt ad propositos Fontis Liberi.
+- [Aestas Codicis Fontis Liberi](https://osoc.be/students)
+- [Mainframe Liberum](https://www.openmainframeproject.org/all-projects/mentorship-program) - Projectum Mainframe Liberum etiam suum proprium programma Fontis Liberi habet, et discipuli scientiam suam de technologia mainframe ampliare poterunt.
 - [Outreachy](https://www.outreachy.org)
-- [Processing Foundation Internship](https://processingfoundation.org/fellowships/)
-- [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) - A global fellowship program for women and non-binary coders where they work on existing open-source projects and expand their skillset.
-- [Redox OS Summer of Code](https://www.redox-os.org/rsoc/) - The Redox OS Summer of Code is the primary use of donations to the Redox OS project. Students are selected who have already demonstrated a desire and ability to contribute to Redox OS
-- [Social Summer of Code](https://ssoc.devfolio.co/) - Social foundation offers this two-month long summer program for students to learn about the open-source culture and get involved in the community. Participants contribute to real-life projects under the guidance of experienced mentors.
-- [Season of KDE](https://season.kde.org/) - The Season of KDE, hosted by the KDE community, is an outreach program for all individuals across the world. KDE is an international free software community that develops free and open-source software and you can contribute to KDE through the Season of KDE program
+- [Disciplinatio Fundationis Processing](https://processingfoundation.org/fellowships/)
+- [Aestas Codicis Rails Girls](https://railsgirlssummerofcode.org/) - Programma globalis societatis pro mulieribus et codicibus non-binariis, ubi in propositis Fontis Liberi exsistentibus laborant et artes suas augent.
+- [Aestas Codicis Redox OS](https://www.redox-os.org/rsoc/) - Aestas Codicis Redox OS est usus principalis donationum ad propositum Redox OS. Selecti sunt studiosi qui iam voluntatem et facultatem contribuendi ad Redox OS demonstraverunt.
+- [Aestas Codicis Socialis](https://ssoc.devfolio.co/) - Fundatio Socialis hoc programma aestivum bimensile studentibus offert ut de cultura Fontis Liberi discant atque in communitate implicentur. Participes ad propositos vitae realis conferunt sub ductu peritorum magistrorum.
+- [Tempus KDE](https://season.kde.org/) - Tempus KDE, a communitate KDE hospitata, est programma outreach pro omnibus hominibus per totum orbem. KDE est communitas internationalis software gratuiti quae software liberum et Fontis Liberi evolvit, et potes contribuere ad KDE per programma Tempus KDE.
 
-## License
+## Licentia
 
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />Hoc opus licentiatum est sub <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Licentia Creative Commons Attribution-ShareAlike 4.0 International</a>.
