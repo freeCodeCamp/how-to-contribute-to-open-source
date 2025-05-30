@@ -39,7 +39,7 @@
 
 Ten dokument jest listą źródeł dla osób chcących rozpocząć swoją przygodę z wkładem do projektów Open Source *(ang. contributing to Open Source)*
 
-Jeżeli posiadasz bądź znajdziesz niewymienione w tym dokumencie źródła, prosze stwórz [pull request](https://panizkomputerem.pl/pull-request/)
+Jeżeli posiadasz bądź znajdziesz niewymienione w tym dokumencie źródła, proszę stwórz [pull request](https://panizkomputerem.pl/pull-request/)
 
 Jeżeli masz jakiekolwiek pytania bądź komentarz stwórz odpowiedni Issue *(ang. issue)* w tym repozytorium.
 
