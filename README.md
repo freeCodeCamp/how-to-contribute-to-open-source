@@ -29,6 +29,7 @@
         <li><a href="./README-TA.md">தமிழ்</a></li>
         <li><a href="./README-NE.md">नेपाली</a></li>
         <li><a href="./README-ML.md">മലയാളം</a></li>
+        <li><a href="./README-LA.md"> Latinus </a></li>
     </ul>
 </details>
 <!-- Do not translate this -->
