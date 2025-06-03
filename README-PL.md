@@ -56,7 +56,7 @@ Jeżeli masz jakiekolwiek pytania bądź komentarz stwórz odpowiedni Issue *(an
 
 ## Ogólne wnoszenie własnego wkładu do otwartego oprogramowania
 - [Poradnik Open Source](http://opensource.guide/pl/how-to-contribute/) **[PL]** - Strona w języku polskim poświęcona projektom otwartego oprogramowania.
-- [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
+- [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) autorstwa [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Poradnik stworzony przez DigitalOcean by poprowadzić cię do sukcesu w kontrybuowaniu na GitHubie.
 - [Issuehub.io](http://issuehub.pro/) - narzędzie do wyszukiwania kwestii *(ang. Issue)* na podstawie etykiet *(ang. Labels)* i języków programowania.
 - [Code Triage](https://www.codetriage.com/) - kolejne ciekawe narzędzie do znajdowania popularnych repozytoriów i filtrowania kwestii na podstawie języka programowania.
@@ -68,7 +68,7 @@ Jeżeli masz jakiekolwiek pytania bądź komentarz stwórz odpowiedni Issue *(an
 - [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides) - Poradnik od Fundacji Linuxa dla projektów otwartego oprogramowania.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - Przewodnik po otwartym oprogramowaniu napisany przez Kent C. Dodds i Sarah Drasner.
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Uporządkowana lista poradników i możliwości dla studentów do nauki nowego języka programowania.
-- [Pull Request Roulette](http://www.pullrequestroulette.com/) - Ta strona zawiera listę pull requestów zgłoszonych do przejrzenia należących do projektów otwartego oprogramowania znajdujących się na GitHubie.
+- [Pull Request Roulette](http://www.pullrequestroulette.com/) - Ta strona zawiera listę zgłoszonych do przejrzenia pull requestów należących do projektów otwartego oprogramowania znajdujących się na GitHubie.
 - ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - Poradnik krok po kroku w formie filmu o tym, jak zacząć kontrybuować do projektu otwartego oprogramowania na GitHubie.
 - [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - Przewodnik o świecie kontrybuowania do otwartego oprogramowania zawiera wszystko, od wybrania odpowiedniego projektu, przez pracę na zgłoszoną kwestią (ang. issue), aż do stworzenia własnego PR (Pull Request) i przyłączenia go do głównej gałęzi.
 - ["How to Contribute to Open Source Project by" Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - W tym poradniku autorzy skupiają się na zasadniczych zasadach tworzenia pull requestów do nie swojego projektu na GitHubie.
@@ -97,24 +97,24 @@ Linki wyszukiwania które wskazują na kwestie skierowane dla początkujących. 
 - [Start Mozilla](https://twitter.com/StartMozilla) - Konto na Twitterze, które tweetuje na temat kwestii odpowiednich dla początkujących kontrybutorów w środowisku Mozilli.
 
 ## Użyteczne artykuły dla początkujących w kontrybuowaniu do otwartego oprogramowania
-- [Poradnik o licencjonowaniu projektów Open Source](https://github.com/YetiForceCompany/guides/blob/master/pl/licenses/Poradnik_o_licencjonowaniu_projektow_open_source_YetiForce_v.1.0.pdf) **[PL]** by [Błażej Pabiszczak](https://www.linkedin.com/in/blazej-pabiszczak-yetiforce/)
-- [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
-- [How to find your first Open Source bug to fix](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) by [@Shubheksha](https://github.com/Shubheksha)
-- [First Timers Only](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
-- [Bring Kindness Back to Open Source](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) by [@shanselman](https://github.com/shanselman)
-- [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
-- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github/opensource.guide)
-- [How to Find a Bug in Your Code](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) by [@dougbradbury](https://twitter.com/dougbradbury)
-- [Mastering Markdown](https://docs.github.com/features/mastering-markdown/) by [@GitHub](https://github.com/github/docs)
-- [First mission: Contributors page](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
-- [How to make your first Open Source contribution in just 5 minutes](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) by [@roshanjossey](https://github.com/Roshanjossey/)
-- [Hacktoberfest 2019: How you can get your free shirt — even if you’re new to coding](https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b/) by [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
-- [A Bitter Guide To Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
-- [A junior developer’s step-by-step guide to contributing to Open Source for the first time](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) by [@LetaKeane](https://hackernoon.com/u/letakeane)
-- [Learn Git and GitHub Step By Step (on Windows)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) by [@ows-ali](https://medium.com/@ows_ali)
-- [Why Open Source and How?](https://careerkarma.com/blog/open-source-projects-for-beginners/) by [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
+- [Poradnik o licencjonowaniu projektów Open Source](https://github.com/YetiForceCompany/guides/blob/master/pl/licenses/Poradnik_o_licencjonowaniu_projektow_open_source_YetiForce_v.1.0.pdf) **[PL]** autorstwa [Błażej Pabiszczak](https://www.linkedin.com/in/blazej-pabiszczak-yetiforce/)
+- [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) autorstwa [@GitHub](https://github.com/github)
+- [How to find your first Open Source bug to fix](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) autorstwa [@Shubheksha](https://github.com/Shubheksha)
+- [First Timers Only](https://kentcdodds.com/blog/first-timers-only) autorstwa [@kentcdodds](https://github.com/kentcdodds)
+- [Bring Kindness Back to Open Source](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) autorstwa [@shanselman](https://github.com/shanselman)
+- [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) autorstwa [@mcdonnelldean](https://github.com/mcdonnelldean)
+- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) autorstwa [@GitHub](https://github.com/github/opensource.guide)
+- [How to Find a Bug in Your Code](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) autorstwa [@dougbradbury](https://twitter.com/dougbradbury)
+- [Mastering Markdown](https://docs.github.com/features/mastering-markdown/) autorstwa [@GitHub](https://github.com/github/docs)
+- [First mission: Contributors page](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) autorstwa [@forCrowd](https://github.com/forCrowd)
+- [How to make your first Open Source contribution in just 5 minutes](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) autorstwa [@roshanjossey](https://github.com/Roshanjossey/)
+- [Hacktoberfest 2019: How you can get your free shirt — even if you’re new to coding](https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b/) autorstwa [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
+- [A Bitter Guide To Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) autorstwa [@ken_wheeler](https://medium.com/@ken_wheeler)
+- [A junior developer’s step-by-step guide to contributing to Open Source for the first time](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) autorstwa [@LetaKeane](https://hackernoon.com/u/letakeane)
+- [Learn Git and GitHub Step By Step (on Windows)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) autorstwa [@ows-ali](https://medium.com/@ows_ali)
+- [Why Open Source and How?](https://careerkarma.com/blog/open-source-projects-for-beginners/) autorstwa [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
 - [How to get started with Open Source - By Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/)
-- [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to) by Kent C. Dodds
+- [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to) autorstwa Kent C. Dodds
 
 ## Używanie kontroli wersji
 - [Wprowadzenie do kontroli wersji](https://git-scm.com/book/pl/v2/Pierwsze-kroki-Wprowadzenie-do-kontroli-wersji) **[PL]**
