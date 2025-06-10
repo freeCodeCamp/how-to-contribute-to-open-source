@@ -39,10 +39,11 @@ Jika Anda memiliki pertanyaan atau komentar, silahkan membuat issue baru.
 - [Menggunakan Version Control](#menggunakan-version-control)
 - [Buku-buku Tentang Open Source](#buku-buku-tentang-open-source)
 - [Kontribusi Inisiatif Open Source](#kontribusi-inisiatif-open-source)
+- [Program open source untuk diikutsertai](#program-open-source-untuk-diikutsertai)
 - [Lisensi](#lisensi)
 
 ## Berkontribusi Ke Open Source Secara Umum
-
+> Artikel dan sumber yang membahas dunia dan budaya Open Source.
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) ditulis oleh [@DoomHammerNG](https://twitter.com/DoomHammerNG).
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Pedoman dari DigitalOcean sebagai panduan untuk menggapai keberhasilan dalam berkontribusi di GitHub.
 - [Issuehub.io](http://issuehub.pro/) - Situs web untuk melakukan pencarian GitHub issue berdasarkan label dan bahasa.
@@ -69,9 +70,7 @@ Jika Anda memiliki pertanyaan atau komentar, silahkan membuat issue baru.
 
 
 ## Pencarian Proyek Open Source Di Github Secara Langsung
-
-Link pencarian yang mengarah langsung ke _issue_ yang sesuai untuk berkontribusi di GitHub.
-
+> Link pencarian yang mengarah langsung ke _issue_ yang sesuai untuk berkontribusi di GitHub.
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
 - [is:issue is:open label:first-timers-only](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
@@ -81,7 +80,7 @@ Link pencarian yang mengarah langsung ke _issue_ yang sesuai untuk berkontribusi
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
 ## Ekosistem Kontributor Mozilla
-
+> Mozilla berjanji untuk internet yang sehat dan dengannya, memiliki kesempatan untuk berkontribusi pada proyek sumber terbukanya.
 - [Good First Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22[good%20first%20bug]%22&limit=0) - Kumpulan bug yang telah diidentifikasi oleh para pengembang perangkat lunak dan baik digunakan sebagai pengenalan pada proyek.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/MDN/Contribute) - Membantu tim dokumentasi laman MDN untuk mendokumentasikan halaman web dengan memperbaiki isu pada konten dan bug.
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - Berisi kumpulan bug yang dipedomankan oleh mentor dan mereka nantinya membantu anda untuk memperbaiki bug jika anda merasa kesulitan.
@@ -90,7 +89,7 @@ Link pencarian yang mengarah langsung ke _issue_ yang sesuai untuk berkontribusi
 - [Start Mozilla](https://twitter.com/StartMozilla) - Akun twitter yang membuat tweet tentang issue yang muncul dan cocok untuk kontibutor baru di ekosistem Mozilla.
 
 ## Artikel Bermanfaat Untuk Para Kontributor Proyek Open Source
-
+> Artikel dan blog bermanfaat yang ditujukan kepada kontributor baru tentang cara memulai.
 - [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) ditulis oleh [@GitHub](https://github.com/github)
 - [How to find your first Open Source bug to fix](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) ditulis oleh [@Shubheksha](https://github.com/Shubheksha)
 - [First Timers Only](https://kentcdodds.com/blog/first-timers-only) ditulis oleh [@kentcdodds](https://github.com/kentcdodds)
@@ -114,7 +113,7 @@ Link pencarian yang mengarah langsung ke _issue_ yang sesuai untuk berkontribusi
 - [8 non-code ways to contribute to open source](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code) ditulus oleh [OpenSource](https://twitter.com/OpenSourceWay)
 
 ## Menggunakan Version Control
-
+> Tutorial dan sumber daya dari berbagai tingkat tentang penggunaan *version control*, biasanya Git dan GitHub.
 - [Think Like (a) Git](https://think-like-a-git.net/) - Pengenalan Git untuk pemula tingkat lanjut yang masih kesulitan agar dapat mempelajari strategi yang simpel untuk bereksperimen dengan Git secara aman.
 - [Try Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - Belajar Git dalam 15 menit dari Browser secara gratis.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Kumpulan perintah yang berguna untuk pemakaian Git dalam sehari-hari.
@@ -134,7 +133,7 @@ Link pencarian yang mengarah langsung ke _issue_ yang sesuai untuk berkontribusi
 - [Git Interactive Tutorial](https://learngitbranching.js.org/) - Pelajari Git dengan cara yang paling visual dan interaktif.
 
 ## Buku-buku Tentang Open Source
-
+> Buku tentang semua hal Open Source: Budaya, Sejarah, Praktik Terbaik, dll.
 - [Producing Open Source Software](https://producingoss.com/) - Producing Open Source Software merupakan sebuah buku tentang sisi manusia dalam pengelolaan proyek Open Source. Buku ini mendeskripsikan bagaimana sebuah proyek dengan sukses beroperasi, ekspektasi pengguna dan pengelola proyek, dan kultur dari perangkat lunak gratis.
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - Pelajari lebih lanjut tentang Open Source dan mengembangkan kampanye Open Source dengan daftar susunan eBook gratis dari https://opensource.com.
 - [Software Release Practice HOWTO](https://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - HOWTO ini mendeskripsikan praktik rilis program yang baik untuk Linux dan proyek Open Source lainnya. Dengan mengikuti praktik ini, anda akan dengan mudah memberitahukan pengguna lain untuk membangun kode anda serta menggunakannya, dan memudahkan pengembang lain untuk memahami kode anda lalu bekerjasama untuk memperbaikinya.
@@ -143,13 +142,36 @@ Link pencarian yang mengarah langsung ke _issue_ yang sesuai untuk berkontribusi
 - [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - Esai yang ditulis oleh pelopor Open Source seperti Linus Torvalds (Linux), Larry Wall (Perl), and Richard Stallman (GNU).
 
 ## Kontribusi Inisiatif Open Source
-
+> Daftar inisiatif yang menggabungkan isu-isu ramah pemula untuk dikerjakan atau acara musiman.
 - [Up For Grabs](https://up-for-grabs.net/) - Berisi proyek dengan issue yang ramah untuk pemula.
 - [First Timers Only](https://www.firsttimersonly.com/) - Daftar bug yang diberi label "first-timers-only".
 - [First Contributions](https://firstcontributions.github.io/) - Buat kontribusi Open Source pertama anda dalam 5 menit. Sebuah alat dan panduan yang membantu para pemula untuk mulai berkontribusi. [Berikut](https://github.com/firstcontributions/first-contributions) adalah source code dari GitHub, anda juga berkesempatan untuk berkontribusi ke repositori itu sendiri.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Sebuah program yang mendorong kontribusi Open Source. Dapatkan hadiah seperti kaos dan stiker dengan membuat setidaknya 4 pull request di bulan Oktober.
 - [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests adalah sebuah proyek untuk mempromosikan kolaborasi Open Source menjelang bulan Desember.
 - [Ovio](https://ovio.org) - Sebuah platform berisi proyek yang bersifat contributor-friendly. Platform ini memiliki [mesin pencarian issue](https://ovio.org/issues) dan dapat menyimpan issue untuk ditandai serta diselesaikan nantinya.
+
+## Program open source untuk diikutsertai
+> Sebuah program, magang, atau beasiswa yang diselenggarakan oleh komunitas untuk membantu menghubungkan kontributor pemula dengan mentor dan sumber daya untuk berkontribusi pada proyek perangkat lunak open source.
+- [Semua Program Mentorship Linux Foundation (LF)](https://mentorship.lfx.linuxfoundation.org/#projects_all)
+- [Program-program Open Source yang Ramah Pemula dengan Jadwalnya](https://github.com/arpit456jain/Open-Source-Programs)
+- [Yayasan Komputasi Cloud Native](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
+- [FossAsia](https://fossasia.org)
+- [Magang Yayasan Perangkat Lunak Bebas (FSF)](https://www.fsf.org/volunteer/internships)
+- [Google Summer of Code](https://summerofcode.withgoogle.com/) - Program berbayar tahunan yang dijalankan oleh Google, yang berfokus pada membawa lebih banyak pengembang mahasiswa ke dalam pengembangan perangkat lunak open-source.
+- [Girlscript Summer of Code](https://gssoc.girlscript.tech/) - Program Open Source selama tiga bulan yang diadakan setiap musim panas oleh Girlscript Foundation. Dengan upaya terus-menerus, peserta berkontribusi pada berbagai proyek di bawah bimbingan ekstrim dari mentor terampil selama bulan-bulan ini. Dengan paparan seperti itu, siswa mulai berkontribusi pada proyek dunia nyata dari kenyamanan rumah mereka.
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com) - Acara tahunan yang diselenggarakan setiap bulan Oktober untuk mendorong orang-orang berkontribusi pada open source.
+- [Program Mentorship Hyperledger](https://wiki.hyperledger.org/display/INTERN) - Jika Anda tertarik pada blockchain, ini untuk Anda. Anda dapat berkontribusi pada Hyperledger. Program mentorship ini memungkinkan Anda mendapatkan paparan praktis terhadap pengembangan open source Hyperledger. Anda akan diberikan mentor yang cukup aktif di komunitas pengembang Hyperledger.
+- [Mentorship LF Networking](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program)
+- [Microsoft Reinforcement Learning](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
+- [Program Fellowship Major League Hacking (MLH)](https://fellowship.mlh.io/) - Alternatif magang jarak jauh untuk calon ahli teknologi di mana mereka membangun, atau berkontribusi pada proyek open-source.
+- [Open Summer of Code](https://osoc.be/students)
+- [Open Mainframe](https://www.openmainframeproject.org/all-projects/mentorship-program) - Proyek Open Mainframe juga memiliki program open-source sendiri dan para peserta magang akan dapat memperluas pengetahuan mereka tentang teknologi mainframe.
+- [Outreachy](https://www.outreachy.org)
+- [Processing Foundation Internship](https://processingfoundation.org/fellowships/)
+- [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) - Program fellowship global untuk pemrogram wanita dan non-biner di mana mereka mengerjakan proyek open-source yang ada dan memperluas keahlian mereka.
+- [Redox OS Summer of Code](https://www.redox-os.org/rsoc/) - Redox OS Summer of Code adalah penggunaan utama sumbangan untuk proyek Redox OS. Siswa yang dipilih adalah siswa yang telah menunjukkan keinginan dan kemampuan untuk berkontribusi pada Redox OS
+- [Social Summer of Code](https://ssoc.devfolio.co/) - Yayasan sosial menawarkan program musim panas selama dua bulan ini bagi siswa untuk belajar tentang budaya open-source dan terlibat dalam komunitas. Peserta berkontribusi pada proyek kehidupan nyata di bawah bimbingan mentor berpengalaman.
+- [Season of KDE](https://season.kde.org/) - Season of KDE, yang diselenggarakan oleh komunitas KDE, adalah program penjangkauan untuk semua individu di seluruh dunia. KDE adalah komunitas perangkat lunak bebas internasional yang mengembangkan perangkat lunak bebas dan open-source dan Anda dapat berkontribusi pada KDE melalui program Season of KDE.
 
 ## Lisensi
 
