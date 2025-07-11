@@ -131,3 +131,9 @@ before contributing.
       - [first-timers-only](https://github.com/ifmeorg/ifme/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
       - [good first issue](https://github.com/ifmeorg/ifme/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
       - [beginner friendly](https://github.com/ifmeorg/ifme/issues?q=is%3Aopen+is%3Aissue+label%3A%22beginner+friendly%22)
+- `[Web Resource Hub](https://github.com/jayk-gupta/web-resources-project)` (Project)
+    - [Contributing Guide](https://github.com/jayk-gupta/web-resources-project/blob/main/CONTRIBUTING.md)
+    - Issue labels:
+      - [level1](https://github.com/jayk-gupta/web-resources-project/labels/level1)
+      - [level2](https://github.com/jayk-gupta/web-resources-project/labels/level2)
+      - [addition](https://github.com/jayk-gupta/web-resources-project/labels/addition)
