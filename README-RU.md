@@ -20,26 +20,31 @@
 
 # Добро пожаловать новым разработчикам открытого кода!
 
-[![Приглашение](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-[![только для первоклассных пользователей](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
-[![Check Resources](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml/badge.svg)](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml)
+[![Pull-запросы приветствуются](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+[![Для новичков — дружелюбно](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
+[![Проверьте ресурсы](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml/badge.svg)](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml)
 
-Это список ресурсов для новичков, которые хотят попробовать участвовать в open source проектах.
+Это список ресурсов для новичков, которые хотят попробовать участвовать в проектах с открытым кодом.
 
 Если вы найдете дополнительные ресурсы, пожалуйста, сделайте pull request.
 
-Если у вас есть вопросы или комментарии, создайте issue.
+Если у вас есть вопросы или комментарии, пожалуйста, создайте issue.
 
 **Оглавление**
 - [Внесение вклада в открытый исходный код (статьи на английском)](#Внесение-вклада-в-открытый-исходный-код-%28статьи-на-английском%29)
 - [Прямой поиск на GitHub](#Прямой-поиск-на-GitHub)
-- [экосистема вкладчика Mozilla](#экосистема-вкладчика-Mozilla)
+- [Экосистема вкладчика Mozilla](#экосистема-вкладчика-Mozilla)
 - [Полезные статьи для новых авторов с открытым исходным кодом](#Полезные-статьи-для-новых-авторов-с-открытым-исходным-кодом)
 - [Использование контроля версий](#Использование-контроля-версий)
 - [Книги с открытым исходным кодом](#Книги-с-открытым-исходным-кодом)
+- [Инициативы по вкладу в открытые исходники](#Инициативы-по-вкладу-в-открытые-исходники)
+- [Программы с открытым исходным кодом для практики](#Программы-с-открытым-исходным-кодом-для-практики)
 - [Лицензия](#Лицензия)
 
 ## Внесение вклада в открытый исходный код (статьи на английском)
+
+> Статьи и ресурсы, которые обсуждают мир и культуру открытых исходников.
+
 - [Полное руководство по вкладу в Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) от [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [Введение в Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Мастер классы от DigitalOcean, которые помогут вам успешно участвовать в Open Source проектах на GitHub.
 - [SourceSort](https://www.sourcesort.com) - Коллекция проектов с открытым исходным кодом, нуждающихся в помощи, с возможностью поиска и такими метриками как уровень принятия первых pull request'ов и время отклика, которые могут сыграть решающую роль для новых участников.
@@ -70,7 +75,9 @@
 - ["Пошаговый гайд о том, как контрибьютить в GitHub"](https://www.dataschool.io/how-to-contribute-on-github/) - пошаговое руководство с вспомогательными визуальными элементами и ссылками, касающимися всего процесса вклада в Open Source проект.
 
 ## Прямой поиск на GitHub
-Поиск по ярлыкам, которые хорошо подходят для того, чтобы начать контрибьютить на GitHub.
+
+> Поиск по ярлыкам, которые хорошо подходят для того, чтобы начать контрибьютить на GitHub.
+
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
 - [is:issue is:open label:first-timers-only](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
@@ -82,6 +89,9 @@
 - [is:issue is:open label:"beginner friendly"](https://github.com/search?q=beginner+friendly&state=open&type=Issues)
 
 ## Экосистема контрибьюторов Mozilla
+
+> Mozilla обязуется к здоровому интернету и при этом предоставляет возможности для участия в своих проектах с открытым исходным кодом.
+
 - [Хорошие первые баги](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22[good%20first%20bug]%22) - Баги, которые разработчики определили как хорошее введение в проект.
 - [MDN Web Docs](https://developer.mozilla.org/ru/docs/MDN/Contribute) - Помогите команде веб-документации MDN в документировании веб-платформы, исправляя проблемы с контентом и баги платформы.
 - [Баги с закреплёнными за ними менторами](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - Баги с назначенными на них менторами, которые помогут вам через чат, если у вас появятся трудности во время работы над исправлениями.
@@ -91,6 +101,9 @@
 - [Start Mozilla](https://twitter.com/StartMozilla) - аккаунт в Twitter, в котором сообщается о проблемах, подходящих для новых для экосистемы Mozilla контрибьюторов.
 
 ## Полезные статьи для новых авторов с открытым исходным кодом
+
+> Полезные статьи и блоги, направленные на новых участников, о том, как начать.
+
 - ["Как выбрать (и внести свой вклад) в свой первый Open Source проект"](https://github.com/collections/choosing-projects) от [@GitHub](https://github.com/github)
 - ["Как найти первый баг для исправления в Open Source"](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) от [@Shubheksha](https://github.com/Shubheksha)
 - ["Только для новичков"](https://kentcdodds.com/blog/first-timers-only) от [@kentcdodds](https://github.com/kentcdodds)
@@ -114,6 +127,9 @@
 - [Что такое Open Source Software? Объяснение OSS на английском](https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/) от [Jessica Wilkins](https://www.freecodecamp.org/news/author/jessica-wilkins/)
 
 ## Использование контроля версий
+
+> Учебные пособия и ресурсы разного уровня сложности по использованию системы контроля версий, обычно Git и GitHub.
+
 - [Думай как Git](https://think-like-a-git.net/) - Введение в Git для «продвинутых новичков», у которых всё ещё есть трудности, предоставляющее простую стратегию безопасного экспериментирования с Git.
 - [Попробуй Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - Бесплатно выучите Git за 15 минут, используя свой браузер.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Полезный минимальный набор команд для Everyday Git.
@@ -135,6 +151,9 @@
 - [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics) (1:12:39) - Полное пошаговое руководство по Git и GitHub от [Kunal Kushwaha](https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw).
 
 ## Книги с открытым исходным кодом
+
+> Книги о всем, что касается открытых исходников: культура, история, лучшие практики и т.д.
+
 - [Создаём Open Source Software](http://producingoss.com/) - "Создаём Open Source Software" - это книга о человеческой стороне Open Source разработки. В ней описывается, как работают успешные проекты, каковы ожидания пользователей и разработчиков, а также культура бесплатного программного обеспечения.
 - [Серия книг Open Source](https://opensource.com/resources/ebooks) - Узнайте больше об Open Source и растущем движении Open Source благодаря полному списку бесплатных электронных книг от https://opensource.com.
 - [Практическое руководство по выпуску программного обеспечения HOWTO](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - Данное "HOWTO" описывает хорошие подходы к выпуску ПО для Linux и других Open Source проектов. Следуя этим практикам, вы сможете максимально упростить как процессы сборки и использования вашего кода пользователями, так и понимание вашего кода другими разработчиками с возможностью сотрудничать с вами для его улучшения.
@@ -142,7 +161,7 @@
 - [Архитектура Open Source Приложений](http://www.aosabook.org/en/git.html) - Показывает, как различные аспекты Git работают скрытно, чтобы обеспечить распределенные рабочие процессы, и чем Git отличается от других систем контроля версий (VCS).
 - [Open Sources: Голоса из Open Source революции](https://www.oreilly.com/openbook/opensources/book/) - Очерки первопроходцев в области Open Source, таких как Линус Торвальдс (создатель Linux), Ларри Уолл (создатель Perl) и Ричард Столлман (создатель GNU).
 
-## Open Source инициативы контрибьютеров
+## Инициативы по вкладу в открытые исходники
 
 - [Up For Grabs](https://up-for-grabs.net/) - Содержит проекты с задачами, подходящими для начинающих.
 - [Только для новичков](https://www.firsttimersonly.com/) - Список багов, помеченных как «только для новичков».
@@ -154,7 +173,7 @@
 - [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) - Глобальная программа стипендий для женщин и небинарных программистов, где они работают над существующими проектами с открытым исходным кодом и расширяют свой набор навыков.
 - [Major League Hacking Fellowship](https://fellowship.mlh.io/) - Альтернатива удаленной стажировке для начинающих технологов, где они создают или участвуют в проектах с открытым исходным кодом.
 
-## Open Source программы для практики
+## Программы с открытым исходным кодом для практики
 
 - [Google Summer of Code](https://summerofcode.withgoogle.com)
 - [FossAsia](https://fossasia.org)
@@ -165,4 +184,4 @@
 - [Microsoft Reinforcement learning](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
 
 ## Лицензия
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 Международная лицензия</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Эта работа лицензирована под <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 Международная лицензия</a>.
