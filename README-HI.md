@@ -1,147 +1,243 @@
 <!-- Do not translate this -->
 <details>
 <summary>
-<strong>इस गाइड को दूसरी languages में पढ़ें</strong>
+<strong>इस गाइड को दूसरी भाषाओं में पढ़ें</strong>
 </summary>
-    <ul>
-        <li><a href="./README.md"> English </a></li>
-        <li><a href="./README-CN.md"> 中文 </a></li>
-        <li><a href="./README-RU.md"> русский </a></li>
-        <li><a href="./README-RO.md"> Românesc </a></li>
-        <li><a href="./README-IT.md"> Italiano </a></li>
-        <li><a href="./README-ES.md"> Español </a></li>
-        <li><a href="./README-pt-BR.md"> Português (BR) </a></li>
-        <li><a href="./README-DE.md"> Deutsch </a></li>
-        <li><a href="./README-GR.md"> Ελληνικά </a></li>
-        <li><a href="./README-FR.md"> Français </a></li>
-        <li><a href="./README-KO.md"> 한국어 </a></li>
-        <li><a href="./README-JA.md"> 日本語 </a></li>
-        <li><a href="./README-MR.md">मराठी</a></li>
-        <li><a href="./README-HI.md"> हिंदी </a></li>
-    </ul>
+<ul>
+  <li><a href="./README.md">English</a></li>
+  <li><a href="./README-CN.md">中文</a></li>
+  <li><a href="./README-RU.md">русский</a></li>
+  <li><a href="./README-RO.md">Românesc</a></li>
+  <li><a href="./README-IT.md">Italiano</a></li>
+  <li><a href="./README-ES.md">Español</a></li>
+  <li><a href="./README-pt-BR.md">Português (BR)</a></li>
+  <li><a href="./README-DE.md">Deutsch</a></li>
+  <li><a href="./README-GR.md">Ελληνικά</a></li>
+  <li><a href="./README-FR.md">Français</a></li>
+  <li><a href="./README-KO.md">한국어</a></li>
+  <li><a href="./README-JA.md">日本語</a></li>
+  <li><a href="./README-MR.md">मराठी</a></li>
+  <li><a href="./README-HI.md">हिंदी</a></li>
+</ul>
 </details>
-<!-- Do not translate this -->
 
 # नए Open Source Contributors का स्वागत है!
 
-[![अनुरोध का स्वागत करें](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-[![पहली बार केवल अनुकूल](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
-[![Check Resources](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml/badge.svg)](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml)
+इस गाइड में उन सभी महत्वपूर्ण संसाधनों और कदमों को विस्तार से बताया गया है, जिनकी मदद से आप ओपन सोर्स प्रोजेक्ट में योगदान देना सीख सकते हैं। चाहे आप पहली बार कोड में बदलाव कर रहे हों या कोई छोटा-मोटा बग फिक्स कर रहे हों, यहाँ आपको हर कदम के लिए समझाने वाला विवरण मिलेगा।
 
+> **ध्यान दें:** अगर आप कोई नया या बेहतर संसाधन जानें, तो कृपया इस गाइड में [Pull Request](http://makeapullrequest.com) के माध्यम से जोड़ें।  
+> प्रश्न या सुझाव के लिए एक [Issue बनाएं](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/issues)।  
 
-ये एक list है resources की नए लोगों के लिए है जो Open Source में contribute करना चाहते हैं।
+---
 
-अगर आपको और resources मिलते हैं, तो please एक pull request के through contribute करें।
+## सामग्री की रूपरेखा
 
-अगर आपके पास questions या comments हैं, तो please एक issue create करें।
+1. [ओपन सोर्स में सामान्य योगदान कैसे करें](#1-ओपन-सोर्स-में-सामान्य-योगदान-कैसे-करें)  
+2. [GitHub पर सीधे सही मुद्दे कैसे खोजें](#2-github-पर-सीधे-सही-मुद्दे-कैसे-खोजें)  
+3. [Mozilla का योगदान तंत्र](#3-mozilla-का-योगदान-तंत्र)  
+4. [नए योगदानकर्ताओं के लिए उपयोगी लेख](#4-नए-योगदानकर्ताओं-के-लिए-उपयोगी-लेख)  
+5. [संस्करण नियंत्रण (Version Control) कैसे सीखें](#5-संस्करण-नियंत्रण-version-control-कैसे-सीखें)  
+6. [ओपन सोर्स से जुड़ी किताबें](#6-ओपन-सोर्स-से-जुड़ी-किताबें)  
+7. [योगदान को प्रोत्साहित करने वाले कार्यक्रम](#7-योगदान-को-प्रोत्साहित-करने-वाले-कार्यक्रम)  
+8. [लाइसेंस](#8-लाइसेंस)  
 
-**Table of Contents**
+---
 
-- [General open source में contribution करना](#contributing-to-open-source-in-general)
-- [सीधा GitHub पर खोजें](#direct-github-searches)
-- [Mozilla का contributor ecosystem](#mozillas-contributor-ecosystem)
-- [नए Open Source योगदानकर्ताओं के लिए उपयोगी लेख](#useful-articles-for-new-open-source-contributors)
-- [संस्करण नियंत्रण का उपयोग करना](#using-version-control)
-- [Open Source पुस्तकें](#open-source-books)
-- [Open Source योगदान पहल](#open-source-contribution-initiatives)
-- [लाइसेंस](#license)
+## 1. ओपन सोर्स में सामान्य योगदान कैसे करें
 
-## सामान्य रूप से Open Source में योगदान करना
-Articles और resources जो Open Source की दुनिया और culture के बारे में discuss करते हैं।
-- [Open Source में योगदान करने के लिए निश्चित गाइड](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
-- [Open Source का एक परिचय](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - GitHub पर आपकी सफलता में आपका मार्गदर्शन करने के लिए DigitalOcean द्वारा ट्यूटोरियल।
-- [Issuehub.io](http://issuehub.io/) - लेबल और भाषा द्वारा GitHub मुद्दों को खोजने के लिए एक उपकरण।
-- [Code Triage](https://www.codetriage.com/) - एक tool है जो popular repositories और issues को language के हिसाब से filter करता है।
-- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - एक GitHub repo जो projects को collect करता है जिनमें नए contributors के लिए अच्छे bugs होते हैं, और labels apply करता है उन्हें describe करने के लिए।
-- [Open Source Guides](https://opensource.guide/) - उन व्यक्तियों, समुदायों और कंपनियों के लिए resources का संग्रह है, जो Open Source project(s) को चलाना और उनमे योगदान करना चाहते हैं।
-- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) -GitHub के Do's और Don'ts।
-- [GitHub Guides](https://docs.github.com/en) - GitHub का प्रभावी रूप से उपयोग करने के बारे में बुनियादी गाइड।
-- [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Simulation project में code contribute करके GitHub workflow सीखें।
-- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides) - Open Source projects के लिए Linux Foundation के guides।
-- [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - केंट सी। डोड्स एंड सारा ड्रैसनर द्वारा लिखित एक Open Source शिष्टाचार गाइडबुक।
-- [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - कॉलेज के छात्रों के लिए नई coding language सीखने के लिए संसाधनों और अवसरों की क्यूरेटेड सूची।
-- [Pull Request Roulette](http://www.pullrequestroulette.com/) - इस साइट में GitHub पर होस्ट किए गए Open Source प्रोजेक्ट से संबंधित समीक्षा के लिए प्रस्तुत pull requestsों की एक सूची है।
-- ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - GitHub पर Open Source परियोजनाओं में योगदान कैसे शुरू करें, इसका सम्पूर्ण video guide।
-- [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - ये पूर्वाभ्यास Open Source contribution का पूरा process cover करता है, suitable project चुनने से लेकर, issue पर काम करना, और PR merge होने तक।
-- ["How to Contribute to Open Source Project by" Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - ये GitHub पर किसी और के project में pull request (PR) contribute करने की बारीकियों पर focus करता है।
-- ["How to get started with Open Source by" Sayan Chowdhury](https://www.hackerearth.com:443/getstarted-opensource/) - ये article शुरुआती लोगों के लिए open source में contribute करने के लिए उनकी पसंदीदा भाषा रुचि के आधार पर resources cover करता है।
-- ["Browse good first issues to start contributing to open source"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) - GitHub अब आपको अच्छे first issues ढूंढने में मदद करता है जिससे आप open source में contribute करना शुरू कर सकें।
-- ["How to Contribute to Open Source Project" by Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - ये detailed article businesses के लिए निर्देशित है (लेकिन individual contributors के लिए भी उपयोगी है) जहाँ ये बात करता है कि क्यों, कैसे, और कौनसे open-source projects में contribute करें।
-- ["start-here-guidelines" by Andrei](https://github.com/zero-to-mastery/start-here-guidelines) - GitHub की दुनिया में शुरुआत करें, विशेष रूप से education और practical experience के लिए designed है।
+नीचे महत्वपूर्ण लेख और गाइड हैं, जो बताती हैं कि ओपन सोर्स क्या है, क्यों योगदान करें, और शुरुआत कैसे करें:
 
-## सीधा GitHub पर खोजें
-खोज परिणाम जो सीधे GitHub पर योगदान करने के लिए उपयुक्त मुद्दों की ओर इशारा करते हैं।
-- [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
-- [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
-- [is:issue is:open label:first-timers-only](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
-- [is:issue is:open label:good-first-bug](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Agood-first-bug)
-- [is:issue is:open label:"good first issue"](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A"good+first+issue")
-- [is:issue is:open label:starter](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Astarter)
-- [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
+- **The Definitive Guide to Contributing to Open Source**  
+  एक step-by-step गाइड जो शुरुआत से लेकर Pull Request सबमिट करने तक की प्रक्रिया विस्तार से बताता है। इसमें GitHub workflow, issue चयन, fork-branch-PR लॉजिक्स सभी शामिल हैं।  
+  https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/
 
-## Mozilla का contributor ecosystem
-Mozilla healthy internet का वादा करता है और इसके साथ, अपने open-source projects में contribute करने के अवसर प्रदान करता है।
+- **An Introduction to Open Source (DigitalOcean)**  
+  ओपन सोर्स का परिचय, मुख्य अवधारणाएँ, लाइसेंसिंग, और समुदाय का महत्व—इन सब पर DigitalOcean की इस ट्यूटोरियल सीरीज़ में चर्चा की गई है।  
+  https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source
 
-- [Good First Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22[good%20first%20bug]%22&limit=0) - बग जो डेवलपर्स ने परियोजना के लिए एक अच्छा परिचय के रूप में पहचाना है।
-- [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs जिनमें एक mentor assigned है जो आपको IRC पर help करेगा अगर आप fix पर काम करते हुए फंस जाये तो।
-- [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - एक site जो Bugzilla पर bugs ढूंढने के लिए समर्पित है।
-- [Firefox DevTools](http://firefox-dev.tools/) - एक site जो Firefox browser में developer tools के लिए filed bugs को dedicated है।
-- [Start Mozilla](https://twitter.com/StartMozilla) - एक Twitter account जो Mozilla ecosystem में नए contributors के लिए fit issues के बारे में tweets करता है।
+- **Issuehub.io**  
+  यह एक वेब टूल है, जहां आप GitHub issues को भाषा, लेबल (label) या अन्य फ़िल्टर के आधार पर खोज सकते हैं। शुरुआती लोगों के लिए “good first issue” जैसी लेबल वाली इश्यूज़ के लिए आदर्श।  
+  http://issuehub.io/
 
-## नए Open Source Contributors के लिए उपयुक्त articles
-- अपने पहले open source project को कैसे choose करें (और contribute करें)(https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
-- [कैसे ठीक करने के लिए अपना पहला Open Source बग ढूंढें](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) by [@Shubheksha](https://github.com/Shubheksha)
-- [केवल पहले टाइमर](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
-- [Open Source पर दया लाएं](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) by [@shanselman](https://github.com/shanselman)
-- [पहली बार Open Source में हो रही है](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
-- [Open Source के लिए योगदान कैसे करें](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github/opensource.guide)
-- [कैसे अपने कोड में एक बग को खोजने के लिए](https://8thlight.com/insights/how-to-find-a-bug-in-your-code) by [@dougbradbury](https://twitter.com/dougbradbury)
-- [मास्टरींग मार्कडाउन](https://docs.github.com/features/mastering-markdown/) by [@GitHub](https://github.com/github/docs)
-- [पहला मिशन: योगदानकर्ता पृष्ठ](https://forcrowd.medium.com/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
-- [सिर्फ 5 मिनट में अपना पहला Open Source योगदान कैसे करें](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) by [@roshanjossey](https://github.com/Roshanjossey/)
-- [Hacktoberfest 2019: आप अपनी मुफ्त शर्ट कैसे प्राप्त कर सकते हैं - भले ही आप कोडिंग में नए हों](https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b/) by [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
-- [एक बिटर गाइड टू Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
-- [पहली बार Open Source में योगदान करने के लिए एक जूनियर डेवलपर का चरण-दर-चरण गाइड](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) by [@LetaKeane](https://hackernoon.com/u/letakeane)
-- [Git और GitHub स्टेप बाय स्टेप (विंडोज पर) सीखें](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) by [@ows-ali](https://medium.com/@ows_ali)
-- [Open Source और क्यों?](https://careerkarma.com/blog/open-source-projects-for-beginners/) by [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
-- [Open Source से कैसे शुरुआत करें- बाय सयान चौधरी](https://www.hackerearth.com/getstarted-opensource/)
-- [मुझे किस ओपन-सोर्स में योगदान देना चाहिए?](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to) by Kent C. Dodds
+- **Code Triage**  
+  आपका ईमेल इनबॉक्स उन रिपॉज़िटरीज़ के नए या लोकप्रिय इश्यूज़ से अपडेट रखता है, ताकि आप रोज़ाना छोटे-छोटे योगदान कर सकें और निरंतर अभ्यास बना रहे।  
+  https://www.codetriage.com/
 
-## संस्करण नियंत्रण का उपयोग करना
-- [Think Like (a) Git](https://think-like-a-git.net/) - "उन्नत शुरुआती" के लिए Git परिचय, लेकिन अभी भी संघर्ष कर रहे हैं, ताकि आप सुरक्षित रूप से git के साथ प्रयोग करने के लिए एक सरल रणनीति दे सकें।
-- [Try Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - अपने ब्राउज़र में मुफ्त में 15 मिनट में Git सीखें।
-- [Everyday Git](https://git-scm.com/docs/giteveryday) - हर दिन Git के लिए कमांड का एक उपयोगी न्यूनतम सेट.
-- [Oh shit, git!](https://ohshitgit.com/) - सामान्य अंग्रेजी में वर्णित सामान्य `गिट` गलतियों से कैसे बाहर निकलें; पृष्ठ के लिए [शपथ, गिट!](https://dangitgit.com/) को बिना शपथ ग्रहण के भी देखें।
-- [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) - `git` का उपयोग करने पर विभिन्न ट्यूटोरियल।
-- [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
-- [freeCodeCamp's Wiki on Git Resources](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
-- [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - GitHub pull request करने के तरीके पर बात करता है।
-- [GitHub Learning Resources](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/git-and-github-learning-resources) - Git और GitHub सीखने के संसाधन।
-- [Pro Git](https://git-scm.com/book/en/v2) - संपूर्ण प्रो गिट पुस्तक, स्कॉट चाकोन और बेन स्ट्राब द्वारा लिखित और एप्रेस द्वारा प्रकाशित।
-- [Git-it](https://github.com/jlord/git-it-electron) - स्टेप बाय स्टेप गिट ट्यूटोरियल डेस्कटॉप ऐप।
-- [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) -जब चीजें गलत हो जाती हैं तो क्या करना है इसके बारे में एक गाइड।
-- [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - Git और GitHub के बारे में स्लाइड्स का एक पूरा गाइड स्पेनिश में समझाया गया है। ऊना गुइया कम्पला दे दीपोसाइटिवस सोब्रे गिट वाई गिथहब एक्सपिकाडास एन Español।
-- [Git Kraken](https://www.gitkraken.com/git-client) - संस्करण नियंत्रण के लिए विज़ुअल, क्रॉस-प्लेटफ़ॉर्म, और इंटरैक्टिव `गिट` डेस्कटॉप एप्लिकेशन।
-- [Git Tips](https://github.com/git-tips/tips) - सबसे अधिक इस्तेमाल किए जाने वाले गिट टिप्स और ट्रिक्स का संग्रह।
-- [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - कमिट अदर, परफेक्ट बाद, पब्लिश वन्स: बेस्ट प्रैक्टिस।
-- [Git Interactive Tutorial](https://learngitbranching.js.org/) - सबसे दृश्य और इंटरैक्टिव तरीके से Git सीखें।
+- **Awesome for Beginners**  
+  GitHub का एक संग्रह, जिसमें उन प्रोजेक्ट्स की लिस्ट है जहाँ शुरुआती योगदानकर्ताओं के लिए अच्छी बग रिपोर्ट्स और टास्क होते हैं। रिपॉज़िटरी में labels का अच्छे से उपयोग किया गया है।  
+  https://github.com/MunGell/awesome-for-beginners
 
-## Open Source पुस्तकें
-- [Producing Open Source Software](https://producingoss.com/) - Open Source software का निर्माण Open Source डेवलपमेंट के मानवीय पक्ष के बारे में एक किताब है। यह वर्णन करता है कि सफल परियोजनाएं कैसे संचालित होती हैं, उपयोगकर्ताओं और डेवलपर्स की अपेक्षाएं, और मुफ्त software की संस्कृति।
-- [Open Source Book Series](https://opensource.com/resources/ebooks) - Open Source और बढ़ते Open Source आंदोलन के बारे में अधिक जानकारी के लिए https://opensource.com से मुफ्त ई-बुक्स की एक व्यापक सूची के साथ जानें।
-- [Software Release Practice HOWTO](https://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - यह HOWTO लिनक्स और अन्य ओपन-सोर्स परियोजनाओं के लिए अच्छी रिलीज प्रथाओं का वर्णन करता है। इन प्रथाओं का पालन करके, आप उपयोगकर्ताओं को अपना कोड बनाने और इसका उपयोग करने के लिए जितना संभव हो उतना आसान बना देंगे, और अन्य डेवलपर्स आपके कोड को समझने के लिए और इसे बेहतर बनाने के लिए आपके साथ contribute करेंगे।
-- [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - Open Source २.० आज के प्रौद्योगिकी नेताओं के व्यावहारिक और विचारोत्तेजक निबंधों का एक संग्रह है, जो 1999 की पुस्तक, Open Source: द रिव्यूज़ इन द रिवोल्यूशनरी में विकसित हुई विकासवादी तस्वीर को जारी रखता है।
-- [The Architecture of Open Source Applications](http://www.aosabook.org/en/git.html) - वितरित वर्कफ़्लोज़ को सक्षम करने के लिए कवर के तहत Git के विभिन्न पहलू काम करते हैं, और यह कैसे अन्य संस्करण नियंत्रण प्रणालियों (VCS) से भिन्न होता है।
-- [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - लिनस टॉर्वाल्ड्स (लिनक्स), लैरी वॉल (पर्ल), और रिचर्ड स्टेलमैन (जीएनयू) जैसे ओपन-सोर्स अग्रदूतों से निबंध।
+- **Open Source Guides**  
+  GitHub द्वारा प्रकाशित आधिकारिक गाइड, जो बताती है कि आप कैसे प्रोजेक्ट मैनेज करें, सही कम्युनिकेशन करें, और सकारात्मक समुदाय बनाएं।  
+  https://opensource.guide/
 
-## Open Source contribution initiatives
-Initiatives और programs जो contributors को Open Source projects में participate करने के लिए encourage करते हैं।
+- **GitHub Documentation**  
+  GitHub के हर फीचर—Issues, Pull Requests, Actions, Projects—को बेहतर तरीके से समझने के लिए आधिकारिक डॉक्यूमेंटेशन।  
+  https://docs.github.com/en
 
-- [Up For Grabs](https://up-for-grabs.net/) - शुरुआत के अनुकूल मुद्दों के साथ परियोजनाएं शामिल हैं
-- [First Timers Only](https://www.firsttimersonly.com/) - bugs की एक सूची जिसे "first-timers-only" लेबल किया जाता है।
-- [First Contributions](https://firstcontributions.github.io/) - 5 मिनट में अपना पहला Open Source योगदान दें। एक उपकरण और ट्यूटोरियल शुरुआती योगदान करने में मदद करने के लिए। [यहाँ](https://github.com/firstcontributions/first-contributions) साइट के लिए GitHub स्रोत कोड है और स्वयं भंडार में योगदान करने का अवसर है।
-- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Open Source योगदान को प्रोत्साहित करने के लिए एक कार्यक्रम। अक्टूबर के महीने में कम से कम 4 pull requests करके टी-शर्ट और स्टिकर जैसे उपहार जिते।
-- [24 Pull Requests](https://24pullrequests.com) -24 pull requests दिसंबर महीने के दौरान Open Source contribute को बढ़ावा देने के लिए एक परियोजना है।
+- **CSS-Tricks: Open Source Etiquette Guidebook**  
+  योगदान करते समय ध्यान रखने योग्य शिष्टाचार (etiquette) जैसे कि respectful communication, issue templates का पालन, और community guidelines।  
+  https://css-tricks.com/open-source-etiquette-guidebook/
 
-## लाइसेंस
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />इस काम के तहत लाइसेंस प्राप्त है। <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">क्रिएटिव कॉमन्स एट्रिब्यूशन-शेयरअलाइल 4.0 इंटरनेशनल लाइसेंस</a>।
+- **A to Z Resources for Students**  
+  कॉलेज के छात्रों के लिए क्यूरेट किया गया संसाधन-लिस्ट, जिसमें विभिन्न कोडिंग भाषाएँ और ओपन सोर्स प्रोजेक्ट्स सीखने के लिंक हैं।  
+  https://github.com/dipakkr/A-to-Z-Resources-for-Students
+
+---
+
+## 2. GitHub पर सीधे सही मुद्दे कैसे खोजें
+
+GitHub पर contribution शुरू करने के लिए “good first issue” जैसे लैबेल वाले इश्यूज़ सबसे उपयुक्त होते हैं। नीचे कुछ सर्च क्वेरीज दी गई हैं, जिन्हें कॉपी-पेस्ट करके इस्तेमाल करें:
+
+- **बिगिनर लेबल वाले मुद्दे:**  
+  ```
+  is:issue is:open label:beginner
+  ```
+- **“good first issue” वाले:**  
+  ```
+  is:issue is:open label:"good first issue"
+  ```
+- **“first-timers-only” वाले:**  
+  ```
+  is:issue is:open label:first-timers-only
+  ```
+- **“up-for-grabs” वाले प्रोजेक्ट्स:**  
+  ```
+  is:issue is:open label:up-for-grabs
+  ```
+- **“starter” या “easy” टैग वाले:**  
+  ```
+  is:issue is:open label:easy
+  ```
+---
+
+## 3. Mozilla का योगदान तंत्र
+
+Mozilla समुदाय नए योगदानकर्ताओं का बहुत स्वागत करता है। इनके पास विशेष प्लेटफ़ॉर्म हैं जहाँ आप सीखें, सवाल पूछें और बग फिक्स करें:
+
+- **Good First Bugs**  
+  Bugs जिन्हें “Good First Bug” के तहत टैग किया गया है। छोटे-छोटे बग होते हैं जिन्हें डिबग करने से आपको Mozilla के कोडबेस का परिचय मिलेगा।  
+  https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22%5Bgood%20first%20bug%5D%22&limit=0
+
+- **Mentored Bugs**  
+  ऐसे बग जहां एक मेंटर उपलब्ध रहता है—आप उसे IRC या अन्य चैनल पर प्रश्न पूछ सकते हैं, जब तक कि आप फिक्स तक न पहुँचें।  
+  https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor:%40
+
+- **Bugs Ahoy**  
+  एक बाहरी टूल जो Bugzilla के बग लिस्ट को और बेहतर फ़िल्टर और सर्च करने का तरीका देता है।  
+  https://www.joshmatthews.net/bugsahoy/
+
+- **Firefox DevTools**  
+  Firefox Developer Tools से संबंधित बग और इश्यूज़, जिन्हें सुधारकर आप डेवलपर टूलिंग बेहतर बनाने में मदद कर सकते हैं।  
+  http://firefox-dev.tools/
+
+- **Start Mozilla Twitter**  
+  ट्विटर अकाउंट जहां नए इश्यूज़ और contribution अवसरों की जानकारी शेयर की जाती है।  
+  https://twitter.com/StartMozilla
+
+---
+
+## 4. नए योगदानकर्ताओं के लिए उपयोगी लेख
+
+1. **पहला प्रोजेक्ट चुनने की टिप्स**  
+   GitHub की curated कलेक्शन जहां बताया गया है कि अपने इंटरस्ट के अनुसार सही प्रोजेक्ट कैसे चुनें।  
+   https://github.com/collections/choosing-projects
+
+2. **पहला बग कैसे ढूंढें**  
+   FreeCodeCamp का आलेख, जिसमें बता जाता है कि किस तरह से आप अपना पहला बग खोजें और उस पर काम करें।  
+   https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/
+
+3. **5 मिनट में पहला योगदान**  
+   Roshan Jossey द्वारा लिखा गया आसान गाइड, जहाँ एक बहुत छोटा बदलाव करके आप Contributors लिस्ट में अपना नाम जोड़ सकते हैं।  
+   https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/
+
+4. **Hacktoberfest गाइड**  
+   अक्टूबर में होने वाले Hacktoberfest इवेंट के दौरान कैसे आप मुफ़्त टी-शर्ट और स्टिकर जीत सकते हैं—even अगर आप बिलकुल नए हैं।  
+   https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b/
+
+5. **Markdown मास्टरी**  
+   GitHub पर अच्छी प्रेज़ेंटेशन के लिए Markdown syntax सीखें—बेटी, हीडिंग, कोड ब्लॉक, लिंक, और टेबल।  
+   https://docs.github.com/features/mastering-markdown/
+
+6. **GitHub Workflow वीडियो**  
+   Egghead.io का वीडियो कोर्स, जिसमें GitHub पर प्रोजेक्ट fork, ब्रांच, PR, merge की पूरी प्रक्रिया स्क्रीनकास्ट के साथ समझाई गई है।  
+   https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github
+
+---
+
+## 5. संस्करण नियंत्रण (Version Control) कैसे सीखें
+
+**Git** सीखना आपके लिए बेहद ज़रूरी है। नीचे कुछ बेहतरीन संसाधन हैं:
+
+- **Try Git (15 मिनट में)**  
+  GitHub की ऑफिशियल Quickstart, जहां ब्राउज़र में इंटरेक्टिव तरीके से git commands का अभ्यास होता है।  
+  https://docs.github.com/en/get-started/quickstart/set-up-git
+
+- **Pro Git (किताब)**  
+  Git का पूरी तरह से विवरण देने वाली मुफ्त PDF बाज़ार, जिसे Scott Chacon और Ben Straub ने लिखा है।  
+  https://git-scm.com/book/en/v2
+
+- **Oh Shit, Git!**  
+  आम गिट त्रुटियों (mistakes) से कैसे उबरा जाए—साधारण भाषा में समझाया गया समाधान।  
+  https://ohshitgit.com/
+
+- **Atlassian Git Tutorials**  
+  Atlassian द्वारा बनाए गए चरण-दर-चरण गाइड्स, जो अलग-अलग git workflows कवर करते हैं।  
+  https://www.atlassian.com/git/tutorials
+
+- **Git Flight Rules**  
+  गिट उपयोग करते समय अगर कुछ बहुत गड़बड़ हो जाए तो तुरंत क्या करें, इसकी लिस्ट।  
+  https://github.com/k88hudson/git-flight-rules
+
+- **Learn Git Branching**  
+  इंटरेक्टिव विज़ुअल टूल, जहाँ आप ब्रांच, merge, rebase आदि operations ग्राफिकली देख सकते हैं।  
+  https://learngitbranching.js.org/
+
+---
+
+## 6. ओपन सोर्स से जुड़ी किताबें
+
+- **Producing Open Source Software**  
+  Open Source डेवलपमेंट के मानवीय पहलुओं पर केंद्रित, बताता है कि सफल परियोजनाएं कैसे चलती हैं।  
+  https://producingoss.com/
+
+- **The Architecture of Open Source Applications**  
+  ओपन सोर्स एप्लिकेशन के आर्किटेक्चरल डिजाइनों के केस स्टडीज़।  
+  http://www.aosabook.org/en/git.html
+
+- **Open Sources: Voices from the Open Source Revolution**  
+  लिनस टॉर्वाल्ड्स, लैरी वॉल, रिचर्ड स्टैलमैन जैसे अग्रदूतों के निबंधों का संग्रह।  
+  https://www.oreilly.com/openbook/opensources/book/
+
+---
+
+## 7. योगदान को प्रोत्साहित करने वाले कार्यक्रम
+
+- **First Contributions**  
+  नए योगदानकर्ताओं के लिए 5 मिनट में स्ट्रक्चर्ड ट्यूटोरियल, जहां आप PR सबमिट करना सीखते हैं।  
+  https://firstcontributions.github.io/
+
+- **Hacktoberfest**  
+  हर अक्टूबर में GitHub और DigitalOcean द्वारा आयोजित, चार Pull Request सबमिट पर फ़्री गिफ्ट्स।  
+  https://hacktoberfest.digitalocean.com/
+
+- **24 Pull Requests**  
+  दिसंबर में हर दिन एक PR सब्मिट करके योगदान बढ़ाने की पहल।  
+  https://24pullrequests.com
+
+- **Up For Grabs**  
+  शुरुआती लोगों के लिए curated प्रोजेक्ट्स की लिस्ट, जहाँ इन्हें labels “up-for-grabs” के साथ मार्क किया जाता है।  
+  https://up-for-grabs.net/
+
+- **First Timers Only**  
+  केवल पहले समय वाले योगदानकर्ताओं के लिए निर्धारित issues, सरल और स्वागतयोग्य।  
+  https://www.firsttimersonly.com/
+
+---
+
+## 8. लाइसेंस
+
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">
+  <img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png"/>
+</a><br/>
+यह काम **Creative Commons Attribution-ShareAlike 4.0 International License** के तहत लाइसेंस प्राप्त है। आप इसे कॉपी कर सकते हैं, बदल सकते हैं और साझा कर सकते हैं, बशर्ते आप मूल रचनाकारों को श्रेय दें और समान लाइसेंस में ही प्रसारित करें।
