@@ -68,7 +68,7 @@ Github上での貢献に適切な問題を表示しているリンクを直接�
 
 ## Mozillaの貢献エコシステム
 - [初心者向けバグ](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=sw:%22[good%20first%20bug]%22&limit=0) - 開発者がプロジェクトに良い導入だと認識しているバグ
-- [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs that have a mentor assigned who will be there on IRC to help you when you get stuck while working on fix.
+- [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - バグ修正で困ったときにIRCでサポートしてくれるメンターが設定されたバグ等
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - Bugzillaでバグをさがすための献身的なサイト
 - [Firefox開発者ツールs](http://firefox-dev.tools/) - Firefoxブラウザの開発者ツール用のバグに献身的なサイト
 - [Mozillaをはじめよう](https://twitter.com/StartMozilla) - Mozillaエコシステム初心者の貢献者に最適な問題についてツイートするツイッターアカウント
@@ -94,12 +94,12 @@ Github上での貢献に適切な問題を表示しているリンクを直接�
 - [Gitを使ってみよう](https://docs.github.com/en/get-started/quickstart/set-up-git) - 無料でブラウザを使って、15分でGitを学ぼう
 - [Gitの日々](https://git-scm.com/docs/giteveryday) - 毎日のGit生活のために必要な最低限の役立つコマンド一覧
 - [gitめ…](http://ohshitgit.com/) - gitで良く起こるミスを阻止する方法について、英語で説明
-- [アトラシアン社のGitチュートリアル](https://www.atlassian.com/git/tutorials/) - various tutorials on using `git`.
+- [アトラシアン社のGitチュートリアル](https://www.atlassian.com/git/tutorials/) - `git`の使い方に関する様々なチュートリアル
 - [GitHubとGitのチートシート](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
 - [GitリソースにあるfreeCodeCampのWiki](https://www.freecodecamp.org/forum/t/wiki-git-resources/13136)
 - [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - GitHubによる、プルリクエストの送り方の説明
 - [GitHub Learning Resources](https://help.github.com/articles/git-and-github-learning-resources/) - GitとGitHub学習者用のリソース
-- [Pro Git](https://git-scm.com/book/en/v2) - The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress.
+- [Pro Git](https://git-scm.com/book/en/v2) - Scott ChaconとBen Straubが執筆し、Apressから出版されたPro Gitの本全体です
 - [Git-it](https://github.com/jlord/git-it-electron) - Gitデスクトップアプリのための順を追ったチュートリアル
 - [Gitの規約](https://github.com/k88hudson/git-flight-rules) - 間違っていた際にすべきことについてのガイド
 - [GitとGitHubの総合的な紹介](https://codeburst.io/git-good-part-a-e0d826286a2a) - Madhav Bahlによる、GitやGitHubの初心者なら見るべきガイド。GitHubでのバージョン管理の概念やサービルの詳細まで網羅されています。
