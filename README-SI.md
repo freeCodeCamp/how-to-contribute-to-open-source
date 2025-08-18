@@ -61,7 +61,6 @@
 - [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides) - Linux පදනමෙහි විවෘත මූලාශ්‍ර ව්‍යාපෘති සඳහා මාර්ගෝපදේශය.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - Kent C. Dodds සහ Sarah Drasner විසින් රචිත විවෘත මූලාශ්‍ර ආචාරධර්ම පිළිබඳ මාර්ගෝපදේශය.
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - පාසල් සිසුන් සඳහා නව ක්‍රමලේඛ භාෂාවන් ඉගෙන ගැනීමට සම්පත් සහ අවස්ථා රැගත් සංවෘත ලැයිස්තුවක්.
-- [Pull Request Roulette](http://www.pullrequestroulette.com/) - මෙම අඩවියේ Github හි ඇතුළත් විවෘත මූලාශ්‍ර ව්‍යාපෘතියන් හි සමාලෝචනය සඳහා ඉදිරිපත් කළ pull requests ලැයිස්තුවක් පවතියි.
 - ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - GitHub හි විවෘත මූලාශ්‍ර ව්‍යාපෘති සඳහා දායක වීම ඇරඹීම පිළිබඳ පියවරෙන් පියවර ඇසිදිසි මාර්ගෝපදේශයක්.
 - [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - මෙම විවෘත මූලාශ්‍ර දායකත්ව මාර්ගෝපදේශය මඟින් ගැළපෙන ව්‍යාපෘතියක් තෝරාගැනීම, දෝෂයක් සමඟ වැඩ කිරීමේ සිට PR merge කරගැනීම දක්වා සියල්ලම දක්වා ඇත.
 - ["How to Contribute to Open Source Project by" Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - මෙම රචකයන් GitHub හි වෙනත් කෙනකුගේ ව්‍යාපෘතියකට pull request (PR) එකකින් දායක වීම පිළිබඳ සියළුම කරුණු වෙත අවධානය යොමු කරයි.

@@ -62,7 +62,6 @@
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - Kent C. Dodds와 Sarah Drasner의 오픈 소스 에티켓 가이드 북
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - 새로운 컴퓨터 언어를 배우는 대학생들을 위한 기회와 리소스가 정리된 목록 
 - [Contributing to your First Open Source Project: A Practical Approach](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - [Abati Adewale](https://www.acekyd.com)의 첫 번째 오픈 소스 프로젝트에 기여하기 위한 단계별 접근 방식
-- [Pull Request Roulette](http://www.pullrequestroulette.com/) - GitHub에서 호스팅 되는 오픈 소스 프로젝트의 리뷰를 필요로 하는 제출된 pull request들의 리스트가 정리된 사이트
 - ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - GitHub의 오픈 소스 프로젝트에 기여를 시작하는 방법에 대한 단계별 비디오 가이드
 - [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - 적절한 프로젝트를 선택하는 것부터, 이슈 해결, PR 병합하기까지 모든것을 다루는 단계별 오픈 소스 기여 연습
 - ["How to Contribute to Open Source Project by" Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - 다른 사람들의 Github의 프로젝트에 PR을 기여하는 것의 핵심에 중점을 두고 있습니다.

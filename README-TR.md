@@ -78,7 +78,6 @@ Simülasyon prosine kod katkısı sağlayarak GitHub dinamiklerini öğren
 - [Öğrenciler için A'dan Z'ye Kaynaklar](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Öğrenciler için yeni bir kodlama dilini öğrenirlerken kullanabilecekleri kaynak listesi
 - [İlk Açık Kaynak projene katkı sağlarken: Pratik Bir Bakış Açısı](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - İlk Açık Kaynak projene katkı sağlarken adım adım bakış açısı   
 - [Abati Adewale](https://www.acekyd.com).
-- [Pull Request Ruleti](http://www.pullrequestroulette.com/) - Açık Kaynak projelere ait gözden geçirilmesi için gönderilmiş pull requestler. 
 - ["GitHub'daki açık kaynak projelere nasıl katkı sağlanır." Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - "GitHub'daki açık kaynak projelere adım adım nasıl katkı sağlanır?" ile ilgili videolar.
 
 ## Doğrudan Github aramaları

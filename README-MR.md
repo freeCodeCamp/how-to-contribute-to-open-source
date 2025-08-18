@@ -59,7 +59,6 @@
 - [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides) - लिनक्स फाऊंडेशनचे ओपन सोर्स प्रकल्पांसाठी मार्गदर्शक.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - केंट सी. डॉड्स आणि सारा ड्रॅसनर यांनी लिहिलेले ओपन सोर्स शिष्टाचार मार्गदर्शक पुस्तिका.
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - नवीन कोडींग भाषा शिकण्यासाठी महाविद्यालयीन विद्यार्थ्यांसाठी स्त्रोत आणि संधींची निवडलेली यादी.
-- [Pull Request Roulette](http://www.pullrequestroulette.com/) - या साइटवर गिटहब वर आयोजित केलेल्या ओपन सोर्स प्रकल्पांच्या पुनरावलोकनासाठी ज़मा केलेल्या पुल विनंत्यांची यादी आहे.
 - ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - गिटहबवरील ओपन सोर्स प्रोजेक्टमध्ये सहयोग देणे कसे सुरू करावे याचे क्रमाक्रमाचे व्हिडिओ मार्गदर्शक.
 - [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - मुक्त स्त्रोताच्या योगदानाची ही वॉकथ्रू योग्य प्रकल्प निवडणे, एखाद्या समस्येवर काम करणे, पीआर विलीन होण्यापर्यंत सर्वकाही व्यापते.
 - ["How to Contribute to Open Source Project" by Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - ते गिटहबवरील कोणाच्यातरी प्रकल्पात पुल रिक्वेस्ट (पीआर) देण्याच्या योगदानावर भर देत आहेत.

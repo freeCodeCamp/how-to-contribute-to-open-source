@@ -70,7 +70,6 @@
 - [מדריכי קוד פתוח לחברות על ידי קרן לינוקס](https://www.linuxfoundation.org/resources/open-source-guides) - המדריכים של קרן לינוקס לפרויקטים בקוד פתוח.
 - [מדריך קוד פתוח לכללי התנהגות של CSS Tricks](https://css-tricks.com/open-source-etiquette-guidebook/) - מדריך קוד פתוח לכללי התנהגות, מחברים Kent C. Dodds ו-Sarah Drasner.
 - [מקורות לסטודנטים מא׳ עד ת׳](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - רשימת מקורות והזדמנויות ללמידת שפת תכנות חדשה לסטודנטים.
-- [Pull Request Roulette](http://www.pullrequestroulette.com/) - אתר עם רשימת pull requests הנמצאים ב-review השייכים לפרויקטי קוד פתוח בגיטהאב.
 - [״כיצד לתרום לפרויקט קוד פתוח בגיטהאב״ ע״י Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - מדריך וידאו המסביר כיצד להתחיל לתרום לפרויקטי קוד פתוח בגיטהאב.
 - [תרומה לקוד פתוח: מדריך לייב מההתחלה עד הסוף](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - מדריך זה הינו תרומת קוד פתוח המכסה הכול. החל מבחירת פרויקט מתאים, עבודה על issue, למירג׳וג ה-PR לפרויקט.
 - [״כיצד לתרום לפרויקט קוד פתוח״ ע״י Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - מתמקד בפרטים הקטנים של תרומה ל-pull request (PR) בפרויקט של מישהו אחר בגיטהאב.

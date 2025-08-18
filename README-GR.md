@@ -54,7 +54,6 @@
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - Ένα Open Source Etiquette Guidebook, γραμμένο από τον Kent C. Dodds και την Sarah Drasner.
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Μία λίστα από υλικό και ευκαιρίες για φοιτητές να μάθουν μία νέα γλώσσα προγραμματισμού.
 - [Contributing to your First Open Source Project: A Practical Approach](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - Μία βήμα-προς-βήμα προσέγγιση για το πως να συνεισφέρεις σε ένα project Ανοικτού Κώδικα για πρώτη φορά, από τον [Abati Adewale](https://www.acekyd.com).
-- [Pull Request Roulette](http://www.pullrequestroulette.com/) - Μία ιστοσελίδα που απαριθμεί pull requests που έχουν υποβληθεί για έλεγχο σε projects Ανοικτού Κώδικα του GitHub.
 - ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - Ένας βήμα-προς-βήμα βίντεο οδηγός σχετικά με το πως να ξεκινήσει κάποιος να συνεισφέρει σε projects Ανοικτού Κώδικα στο GitHub.
 
 ## Direct GitHub searches

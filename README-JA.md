@@ -53,7 +53,6 @@
 - [オープンソースでのエチケットガイドブック、CSS裏技](https://css-tricks.com/open-source-etiquette-guidebook/) - Kent C. Dodds と Sarah Drasnerによるオープンソースでのエチケットガイドブック
 - [学生のためのA〜Z順のリソース](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - 新しいプログラミング言語を勉強している学生のための選りすぐりのリソース・機会のリスト
 - [最初のオープンソースプロジェクトへの貢献、実践的アプローチ、実践的アプローチ](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - [Abati Adewale](https://www.acekyd.com)による、最初のオープンソースプロジェクトへの貢献するための順を追ったアプローチ
-- [プルリクエストルーレット](http://www.pullrequestroulette.com/) - このサイトにはGithub上のオープンソースプロジェクトにレビューしたプルリクエストのリストがある
 - ["Egghead.ioによるGitHubでのオープンソースプロジェクト始め方ガイド](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - GitHubでオープンソースプロジェクトの貢献の始め方、順を追ったガイド動画
 
 ## Github上で直接検索

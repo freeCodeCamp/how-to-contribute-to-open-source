@@ -69,7 +69,6 @@
 - [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides) - लिनक्सफाउंडेशनस्य मुक्तस्रोतस्य गाइड्।
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - केण्ट्सी डोड्स् च साराद्रैसनरः द्वारा लिखितं एकं मुक्तस्रोतशिष्टाचारगाइडबुक्।
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - एकं नवीनकोडिङ्गभाषां ज्ञातुम् कॉलेज्चात्राणां कृते साधनानां च अवसराणां घुमावदारसूचिः।
-- [Pull Request Roulette](http://www.pullrequestroulette.com/) - एषा साइट् GitHub मध्ये होस्टिकृतानि मुक्तस्रोतप्रोजेक्टेभ्यः समन्वितानि समीक्षा कृते प्रस्तुतानि पूलानुरोधानां सूची अस्ति।
 - ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - GitHub मध्ये मुक्तस्रोतपरियोजनायां योगदानं कथं आरभ्यते इति एकं क्रमबद्धं वीडियो गाइड्।
 - [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - एके मुक्तस्रोतयोगदाने अस्य पूर्वाभ्यासे एकं उपयुक्तं प्रोजेक्टं चुनन्ति च एकस्मिन् समस्यायां कर्म कृत्वा, PR मध्ये विलयः इति सर्वं समाहितम् अस्ति।
 - ["How to Contribute to Open Source Project by" Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - ते GitHub मध्ये अन्यस्य परियोजनायाः कृते एकं पूलानुरोधः (PR) योगदानं कर्तुं ध्यानं दत्तवन्तः सन्ति।

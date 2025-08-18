@@ -56,7 +56,6 @@ Se você possui alguma dúvida ou comentário, por favor crie uma issue.
 - [Manual de Etiqueta para Open Source](https://css-tricks.com/open-source-etiquette-guidebook/) - Um Manual de Etiqueta para contribuições Open Source, escrito por Kent C. Dodds e Sarah Drasner.
 - [Recursos de A a Z para Estudantes](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Lista revisada de recursos e oportunidades para o aprendizado de novas linguagens de programação.
 - [Contribuindo com o seu Primeiro Projeto Open Source: Uma Abordagem Prática](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - Um passo-a-passo de como contribuir com o seu primeiro projeto Open Source por [Abati Adewale](https://www.acekyd.com).
-- [Pull Request Roulette](http://www.pullrequestroulette.com/) - Este site possui uma lista de Pull Requests submetidos para revisão em projetos Open Source no GitHub.
 - ["Como Contribuir com um Projeto Open Source no GitHub" por Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - Um vídeo com o passo-a-passo de como começar a contribuir com projetos Open Source no GitHub.
 
 ## Pesquisas Diretas no GitHub

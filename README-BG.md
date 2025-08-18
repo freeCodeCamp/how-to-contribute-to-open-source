@@ -73,8 +73,6 @@
 
 - [Как да допринесем към първия си Open Source проект - практически насоки](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - Ръководство стъпка по стъпка как да допринесете към първия си Open Source проект, от [Abati Adewale](https://www.acekyd.com).
 
-- [Pull Request рулетка](http://www.pullrequestroulette.com/) - На този сайт можете да намерите списък с pull request-и, заявени за одобрение към Open Source проекти, качени в Github.
-
 - ["Как да допринесем към Open Source проект в GitHub" от Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - Видео-ръководство стъпка по стъпка как да започнем да даваме своя принос към Open Source проекти в GitHub.
 
 - [Принос към Open Source: Интерактивен наръчник - от начало до край](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - Този наръчник за принос към Open Source обхваща всичко - от избора на подходящ проект, през обработването на issue, до получаване на одобрение за сливане на кода (merge).

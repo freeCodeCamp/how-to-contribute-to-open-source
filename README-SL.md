@@ -61,7 +61,6 @@ Tukaj je seznam virov za ljudi, ki so novi pri sodelovanju pri odprtokodnih proj
 - [Odprtokodni vodniki za podjetja Linux Foundation](https://www.linuxfoundation.org/resources/open-source-guides) - Vodniki Fundacije Linux za odprtokodne projekte.
 - [CSS triki, odprtokodni vodnik za bonton](https://css-tricks.com/open-source-etiquette-guidebook/) - Odprtokodni vodnik po bontonu, ki sta ga napisala Kent C. Dodds in Sarah Drasner.
 - [Viri od A do Ž za študente](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Pripravljen seznam virov in priložnosti za študente, da se naučijo novega jezika.
-- [Pull Request Roulette](http://www.pullrequestroulette.com/) - To spletno mesto ima seznam `pull request`, predloženih v pregled, ki pripadajo odprtokodnim projektom, ki so na Githubu.
 - ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - Video vodnik po korakih, kako začeti prispevati k odprtokodnim projektom na GitHubu.
 - [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - Ta pregled odprtokodnega prispevka zajema vse od izbire primernega projekta, dela na `issues` do združitve `pull request`.
 - ["How to Contribute to Open Source Project by" Sarah Drasner](https://css-tricks.com/how-to-contribute-to-an-open-source-project/) - Osredotočajo se na bistvo prispevanja `pull request` k projektu nekoga drugega na GitHubu.
