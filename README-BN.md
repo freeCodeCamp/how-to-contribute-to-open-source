@@ -52,8 +52,10 @@
 ## সাধারণভাবে ওপেন সোর্স-এ অবদান
 - [ওপেন সোর্সে অবদান রাখার সংজ্ঞা নির্দেশিকা](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [ওপেন সোর্স সম্পর্কে বিবরণ](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - গিটহাবে একটি সাকসেসফুল কন্ট্রিবিউট করার জন্য DigitalOcean-এর টিউটোরিয়ালগুলো আপানকে যেভাবে গাইড করবে।
+
 - [Issuehub.io](http://issuehub.pro/) - গিটহাব ইস্যু লেবেল এবং ভাষা দিয়ে অনুসন্ধান করার একটি টুল।
 - [Code Triage](https://www.codetriage.com/) - Code Triage একটি টুল যার মাধ্মে জনপ্রিয় রিপোসিটোরি এবং বাগ গুলো ল্যাঙ্গুয়েজ দিয়ে খুঁজে পেতে সাহায্য করবে।
+
 - [নতুনদের জন্য দুর্দান্ত](https://github.com/MunGell/awesome-for-beginners) - একটি গিটহাব রিপোসিটোরি যা নতুন অবদানকারীদের জন্য ভাল বাগ সহ প্রকল্পগুলিকে সংগ্রহ করে এবং সেগুলি বর্ণনা করার জন্য লেবেল প্রয়োগ করে।
 - [ওপেন সোর্স নির্দেশিকা](https://opensource.guide/) - কোনও ওপেন সোর্স প্রকল্প কীভাবে চালনা এবং প্রকল্পগুলোতে অবদান রাখতে হয় তা শিখতে চায় এমন ব্যক্তি, সম্প্রদায় এবং সংস্থাগুলির জন্য সংস্থান সংগ্রহ।
 - [৪৫ গিটহাব ইস্যু : কি করবেন এবং কি করবেন না](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - গিটহাবে কি করবেন এবং কি করবেন না।
@@ -143,7 +145,8 @@
 - [Git Tips](https://github.com/git-tips/tips) - সর্বাধিক ব্যবহৃত গিট টিপস এবং কৌশলগুলির সংগ্রহ।
 - [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - প্রায়শই কমিট করুন, পরে নিখুঁত করুন, একবার প্রকাশ করুন: গিট সম্পর্কিত সেরা অভ্যাস।
 - [Git Interactive Tutorial](https://learngitbranching.js.org/) - গিটকে সবচেয়ে ভিজ্যুয়াল এবং ইন্টারেক্টিভ উপায়ে শিখুন।
-- [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics) (1:12:39) - [কুনাল কুশওয়াহা] (https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw)এর সম্পূর্ণ গিট এবং গিটহাব ওয়াকথ্রু।
+- [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics) (1:12:39) - [কুনাল কুশওয়াহা] (https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw)এর সম্পূর্ণ …
+
 
 ## ওপেন সোর্স বইসমূহ
 
@@ -157,7 +160,8 @@
 ## ওপেন সোর্স অবদানের উদ্যোগ
 
 - [Up For Grabs](https://up-for-grabs.net/) - প্রারম্ভিক-বন্ধুত্বপূর্ণ সমস্যাগুলির সাথে প্রকল্পগুলি ধারণ করে।
-- [First Contributions](https://www.firsttimersonly.com/) - ৫মিনিটের মধ্যে আপনার প্রথম ওপেন সোর্স অবদান রাখুন। অবদানের মাধ্যমে নতুনদের শুরু করতে সহায়তা করার জন্য একটি সরঞ্জাম এবং টিউটোরিয়াল। [এখানে](https://github.com/firstcontributes/first-contributes) সাইটের গিটহাব উৎস কোড রয়েছেএবং এই রিপোসিটোরিতে নিজেই অবদান রাখার সুযোগ নিন।
+- [First Contributions](https://www.firsttimersonly.com/) - ৫মিনিটের মধ্যে আপনার প্রথম ওপেন সোর্স অবদান রাখুন। অবদানের মাধ্যমে নতুনদের শুরু করতে সহায়তা করার জন্য একটি সরঞ্জাম এবং টিউটোরিয়াল। ... [এখানে](https://github.com/firstcontributions/first-contributions) সাইটের গিটহাব উৎস কোড রয়েছেএবং …
+
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - ওপেন সোর্স অবদানকে উত্সাহিত করার জন্য একটি প্রোগ্রাম অক্টোবর মাসে কমপক্ষে ৪টি পুল রিকুয়েস্ট করে টি-শার্ট এবং স্টিকারের মতো উপহারগুলি উপার্জন করুন।
 - [24 Pull Requests](https://24pullrequests.com) - ২৪ পুল রিকুয়েস্ট ডিসেম্বরের মাসে ওপেন সোর্স সহযোগিতার প্রচারের জন্য একটি প্রকল্প।
 - [Ovio](https://ovio.org) - অবদানকারী-বান্ধব প্রকল্পগুলির একটি সংযুক্ত নির্বাচনসহ প্ল্যাটফর্ম। এটির একটি [শক্তিশালী সমস্যা অনুসন্ধানের সরঞ্জাম](https://ovio.org/issues) রয়েছে এবং এখানে আপনি পরবর্তী প্রকল্পগুলি এবং সমস্যাগুলি সংরক্ষণ করতে পারবেন।
