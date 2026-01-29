@@ -125,6 +125,7 @@ Mozilla healthy internet का वादा करता है और इस�
 - [Git Tips](https://github.com/git-tips/tips) - सबसे अधिक इस्तेमाल किए जाने वाले गिट टिप्स और ट्रिक्स का संग्रह।
 - [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - कमिट अदर, परफेक्ट बाद, पब्लिश वन्स: बेस्ट प्रैक्टिस।
 - [Git Interactive Tutorial](https://learngitbranching.js.org/) - सबसे दृश्य और इंटरैक्टिव तरीके से Git सीखें।
+- [Visualizing Git](https://git-school.github.io/visualizing-git/) - देखें कि Git operations आपकी repository structure को कैसे प्रभावित करते हैं।
 
 ## Open Source पुस्तकें
 - [Producing Open Source Software](https://producingoss.com/) - Open Source software का निर्माण Open Source डेवलपमेंट के मानवीय पक्ष के बारे में एक किताब है। यह वर्णन करता है कि सफल परियोजनाएं कैसे संचालित होती हैं, उपयोगकर्ताओं और डेवलपर्स की अपेक्षाएं, और मुफ्त software की संस्कृति।
