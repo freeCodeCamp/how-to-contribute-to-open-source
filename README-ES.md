@@ -98,6 +98,7 @@ Si tienes alguna pregunta o comentario, por favor crea un `issue` en este reposi
 - [Hacktoberfest 2018: Cómo puedes conseguir tu primera camiseta - incluso si eres nuevo programando](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b) por [@quincylarson](https://medium.freecodecamp.org/@quincylarson)
 - [Una guía paso a paso sobre cómo contribuir por primera vez al código abierto hecha para programadores sin experiencia](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) por [@LetaKeane](http://www.letakeane.com/)
 - [Aprende Git y GitHub paso a paso (en Windows)](https://medium.com/@ows_ali/be93518e06dc) por [@ows-ali](https://medium.com/@ows_ali)
+- [Guía de Markdown para GitHub](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) por [@GitHubDocs](https://docs.github.com/es) - Una guía oficial para aprender a dar formato a tus textos en GitHub.
 
 ## Usando control de versiones
 
