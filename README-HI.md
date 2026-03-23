@@ -134,7 +134,7 @@ Mozilla healthy internet का वादा करता है और इस�
 - [The Architecture of Open Source Applications](http://www.aosabook.org/en/git.html) - वितरित वर्कफ़्लोज़ को सक्षम करने के लिए कवर के तहत Git के विभिन्न पहलू काम करते हैं, और यह कैसे अन्य संस्करण नियंत्रण प्रणालियों (VCS) से भिन्न होता है।
 - [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - लिनस टॉर्वाल्ड्स (लिनक्स), लैरी वॉल (पर्ल), और रिचर्ड स्टेलमैन (जीएनयू) जैसे ओपन-सोर्स अग्रदूतों से निबंध।
 
-## Open Source contribution initiatives
+## Open Source योगदान पहल
 Initiatives और programs जो contributors को Open Source projects में participate करने के लिए encourage करते हैं।
 
 - [Up For Grabs](https://up-for-grabs.net/) - शुरुआत के अनुकूल मुद्दों के साथ परियोजनाएं शामिल हैं
