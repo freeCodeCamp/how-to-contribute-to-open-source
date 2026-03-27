@@ -26,8 +26,20 @@
         <li><a href="./README-FA.md"> فارسی </a></li>
         <li><a href="./README-UR.md">اردو </a></li>
         <li><a href="./README-AR.md">اللغة العربية </a></li>
+        <li><a href="./README-BG.md"> български </a></li>
+        <li><a href="./README-GU.md"> ગુજરાતી </a></li>
+        <li><a href="./README-HY.md"> Armenian </a></li>
+        <li><a href="./README-MS.md"> Bahasa Melayu </a></li>
+        <li><a href="./README-NL.md"> Nederlands </a></li>
+        <li><a href="./README-PL.md"> Polski </a></li>
+        <li><a href="./README-SA.md"> संस्कृतम् </a></li>
+        <li><a href="./README-SI.md"> සිංහල </a></li>
+        <li><a href="./README-SL.md"> Slovenščina </a></li>
         <li><a href="./README-TA.md">தமிழ்</a></li>
+        <li><a href="./README-TE.md"> తెలుగు </a></li>
         <li><a href="./README-NE.md">नेपाली</a></li>
+        <li><a href="./README-UK.md"> Українська </a></li>
+        <li><a href="./README-VI.md"> Tiếng Việt </a></li>
         <li><a href="./README-ML.md">മലയാളം</a></li>
     </ul>
 </details>
