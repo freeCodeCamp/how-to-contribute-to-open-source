@@ -164,15 +164,20 @@ The main `README.md` file is written in English. That file will be the template 
 
 This repository is about contributing to open source and generally, translation is important to reach diverse audiences. It is recommended that you provide language-specific resources links instead of the English-resource links.
 
-The non-English README files are named `README-XX.md`, where `xx` is the
+The non-English README files are named `README-XX.md`, where `XX` usually
+follows the
 [two letter language code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
-for the language.
+for the language. Some existing translations use established variants such as
+`pt-BR`, so follow the naming convention already used in the repository when
+you update or add localized files.
 
 You can contribute to the non-English README files by taking links that are in the English README but are not in the language of your choosing. When making a pull request with these changes, please tag someone who can verify your language contribution by adding `@` in front of their GitHub username to the pull request.
 
 If your language does not exist yet, feel free to start it yourself. If you decide to do this, please add more than just the title. If you do not have the time to create one, feel free to
 [create an issue](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/issues/new/choose)
 to crowdsource help.
+
+When you add a new translation, also add it to the language list at the top of the main `README.md` so contributors can discover it easily. The README workflow validates that README-to-README links point to existing files and that every translation is represented in the main language picker.
 
 ### Adding to the Project File
 
