@@ -131,3 +131,113 @@ before contributing.
       - [first-timers-only](https://github.com/ifmeorg/ifme/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
       - [good first issue](https://github.com/ifmeorg/ifme/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
       - [beginner friendly](https://github.com/ifmeorg/ifme/issues?q=is%3Aopen+is%3Aissue+label%3A%22beginner+friendly%22)
+
+---
+
+## Java
+
+- `[Apache Commons](https://commons.apache.org/)` (org)
+    - [Commons Lang](https://github.com/apache/commons-lang) (project)
+        - [Contributing Guide](https://github.com/apache/commons-lang/blob/master/CONTRIBUTING.md)
+        - Issue labels:
+            - [good first issue](https://github.com/apache/commons-lang/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+    - [Commons Collections](https://github.com/apache/commons-collections) (project)
+        - [Contributing Guide](https://github.com/apache/commons-collections/blob/master/CONTRIBUTING.md)
+        - Issue labels:
+            - [good first issue](https://github.com/apache/commons-collections/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+- `[Checkstyle](https://github.com/checkstyle/checkstyle)` (project)
+    - [Contributing Guide](https://checkstyle.org/contributing.html)
+    - Issue labels:
+        - [good first issue](https://github.com/checkstyle/checkstyle/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+        - [help wanted](https://github.com/checkstyle/checkstyle/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
+- `[JUnit 5](https://github.com/junit-team/junit5)` (project)
+    - [Contributing Guide](https://github.com/junit-team/junit5/blob/main/CONTRIBUTING.md)
+    - Issue labels:
+        - [up-for-grabs](https://github.com/junit-team/junit5/issues?q=is%3Aopen+is%3Aissue+label%3A%22up-for-grabs%22)
+        - [help wanted](https://github.com/junit-team/junit5/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
+- `[Mockito](https://github.com/mockito/mockito)` (project)
+    - [Contributing Guide](https://github.com/mockito/mockito/blob/main/.github/CONTRIBUTING.md)
+    - Issue labels:
+        - [good first issue](https://github.com/mockito/mockito/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+        - [help wanted](https://github.com/mockito/mockito/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
+- `[Quarkus](https://github.com/quarkusio/quarkus)` (project)
+    - [Contributing Guide](https://github.com/quarkusio/quarkus/blob/main/CONTRIBUTING.md)
+    - Issue labels:
+        - [good first issue](https://github.com/quarkusio/quarkus/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+        - [help wanted](https://github.com/quarkusio/quarkus/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
+- `[Hibernate ORM](https://github.com/hibernate/hibernate-orm)` (project)
+    - [Contributing Guide](https://github.com/hibernate/hibernate-orm/blob/main/CONTRIBUTING.md)
+    - Issue labels:
+        - [good first issue](https://github.com/hibernate/hibernate-orm/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+- `[Netty](https://github.com/netty/netty)` (project)
+    - [Contributing Guide](https://github.com/netty/netty/blob/4.1/CONTRIBUTING.md)
+    - Issue labels:
+        - [good first issue](https://github.com/netty/netty/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+        - [help wanted](https://github.com/netty/netty/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
+- `[Apache Kafka](https://github.com/apache/kafka)` (project)
+    - [Contributing Guide](https://kafka.apache.org/contributing.html)
+    - Issue labels:
+        - [newbie](https://issues.apache.org/jira/issues/?jql=project%20%3D%20KAFKA%20AND%20labels%20%3D%20newbie%20AND%20status%20%3D%20Open)
+- `[OpenTelemetry Java](https://github.com/open-telemetry/opentelemetry-java)` (project)
+    - [Contributing Guide](https://github.com/open-telemetry/opentelemetry-java/blob/main/CONTRIBUTING.md)
+    - Issue labels:
+        - [good first issue](https://github.com/open-telemetry/opentelemetry-java/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+        - [help wanted](https://github.com/open-telemetry/opentelemetry-java/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
+
+---
+
+## C / Systems
+
+- `[Redis](https://github.com/redis/redis)` (project)
+    - [Contributing Guide](https://github.com/redis/redis/blob/unstable/CONTRIBUTING.md)
+    - Issue labels:
+        - [good first issue](https://github.com/redis/redis/issues?q=is%3Aopen+is%3Aissue+label%3Agood-first-issue)
+- `[Neovim](https://github.com/neovim/neovim)` (project)
+    - [Contributing Guide](https://github.com/neovim/neovim/blob/master/CONTRIBUTING.md)
+    - Issue labels:
+        - [good-first-issue](https://github.com/neovim/neovim/issues?q=is%3Aopen+is%3Aissue+label%3Agood-first-issue)
+        - [help wanted](https://github.com/neovim/neovim/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
+
+---
+
+## Infrastructure / DevOps
+
+- `[Kubernetes](https://github.com/kubernetes/kubernetes)` (project)
+    - [Contributing Guide](https://kubernetes.io/docs/contribute/)
+    - Issue labels:
+        - [good first issue](https://github.com/kubernetes/kubernetes/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+        - [help wanted](https://github.com/kubernetes/kubernetes/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
+- `[Gitea](https://github.com/go-gitea/gitea)` (project)
+    - [Contributing Guide](https://github.com/go-gitea/gitea/blob/main/CONTRIBUTING.md)
+    - Issue labels:
+        - [good first issue](https://github.com/go-gitea/gitea/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+        - [help wanted](https://github.com/go-gitea/gitea/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
+
+---
+
+## Game Development
+
+- `[Godot Engine](https://github.com/godotengine/godot)` (project)
+    - [Contributing Guide](https://docs.godotengine.org/en/stable/contributing/ways_to_contribute.html)
+    - Issue labels:
+        - [junior job](https://github.com/godotengine/godot/issues?q=is%3Aopen+is%3Aissue+label%3A%22junior+job%22)
+        - [good first issue](https://github.com/godotengine/godot/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+
+---
+
+## General
+
+- `[VS Code](https://github.com/microsoft/vscode)` (project)
+    - [Contributing Guide](https://github.com/microsoft/vscode/blob/main/CONTRIBUTING.md)
+    - Issue labels:
+        - [good first issue](https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+        - [help wanted](https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
+- `[Exercism](https://github.com/exercism)` (org)
+    - [Contributing Guide](https://exercism.org/docs/community/contributors)
+    - [Java Track](https://github.com/exercism/java) (project)
+        - Issue labels:
+            - [good first issue](https://github.com/exercism/java/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+            - [help wanted](https://github.com/exercism/java/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
+    - [C Track](https://github.com/exercism/c) (project)
+        - Issue labels:
+            - [good first issue](https://github.com/exercism/c/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
