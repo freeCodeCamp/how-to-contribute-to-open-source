@@ -131,3 +131,124 @@ before contributing.
       - [first-timers-only](https://github.com/ifmeorg/ifme/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
       - [good first issue](https://github.com/ifmeorg/ifme/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
       - [beginner friendly](https://github.com/ifmeorg/ifme/issues?q=is%3Aopen+is%3Aissue+label%3A%22beginner+friendly%22)
+
+---
+## Java / Backend (High Priority for Backend SDE path)
+
+- `[Apache Commons](https://commons.apache.org/)` (org)
+    - Note: Most beginner-friendly Java org. Small, isolated utility issues. Start here.
+    - [Commons Lang](https://github.com/apache/commons-lang) (project)
+        - [Contributing Guide](https://github.com/apache/commons-lang/blob/master/CONTRIBUTING.md)
+        - Issue labels:
+            - [good first issue](https://github.com/apache/commons-lang/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+    - [Commons Collections](https://github.com/apache/commons-collections) (project)
+        - [Contributing Guide](https://github.com/apache/commons-collections/blob/master/CONTRIBUTING.md)
+        - Issue labels:
+            - [good first issue](https://github.com/apache/commons-collections/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+- `[Checkstyle](https://github.com/checkstyle/checkstyle)` (project)
+    - Note: Java static analysis tool. Has one of the best-structured beginner programs — issues come with exact file, line, and expected fix.
+    - [Contributing Guide](https://checkstyle.org/contributing.html)
+    - Issue labels:
+        - [good first issue](https://github.com/checkstyle/checkstyle/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+        - [help wanted](https://github.com/checkstyle/checkstyle/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
+- `[JUnit 5](https://github.com/junit-team/junit5)` (project)
+    - Note: The standard Java testing framework. Good issues are well-scoped and reviewers are responsive.
+    - [Contributing Guide](https://github.com/junit-team/junit5/blob/main/CONTRIBUTING.md)
+    - Issue labels:
+        - [up-for-grabs](https://github.com/junit-team/junit5/issues?q=is%3Aopen+is%3Aissue+label%3A%22up-for-grabs%22)
+        - [help wanted](https://github.com/junit-team/junit5/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
+- `[Mockito](https://github.com/mockito/mockito)` (project)
+    - Note: Most-used Java mocking library. Small, readable codebase — good for understanding how Java test tooling works internally.
+    - [Contributing Guide](https://github.com/mockito/mockito/blob/main/.github/CONTRIBUTING.md)
+    - Issue labels:
+        - [good first issue](https://github.com/mockito/mockito/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+        - [help wanted](https://github.com/mockito/mockito/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
+- `[Quarkus](https://github.com/quarkusio/quarkus)` (project)
+    - Note: Modern Java microservices framework. Very active community, fast PR reviews, structured onboarding.
+    - [Contributing Guide](https://github.com/quarkusio/quarkus/blob/main/CONTRIBUTING.md)
+    - Issue labels:
+        - [good first issue](https://github.com/quarkusio/quarkus/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+        - [help wanted](https://github.com/quarkusio/quarkus/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
+- `[Hibernate ORM](https://github.com/hibernate/hibernate-orm)` (project)
+    - Note: The reference Java ORM. Contributing here is directly relevant if you're using JPA/Spring Data.
+    - [Contributing Guide](https://github.com/hibernate/hibernate-orm/blob/main/CONTRIBUTING.md)
+    - Issue labels:
+        - [good first issue](https://github.com/hibernate/hibernate-orm/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+- `[Netty](https://github.com/netty/netty)` (project)
+    - Note: Async Java networking framework. Directly relevant to your HTTP server and networking work in C — similar primitives, different layer.
+    - [Contributing Guide](https://github.com/netty/netty/blob/4.1/CONTRIBUTING.md)
+    - Issue labels:
+        - [help wanted](https://github.com/netty/netty/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
+        - [good first issue](https://github.com/netty/netty/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+- `[Apache Kafka](https://github.com/apache/kafka)` (project)
+    - Note: Distributed messaging backbone used at every MAANG company. Start with docs/test issues — core code is complex.
+    - [Contributing Guide](https://kafka.apache.org/contributing.html)
+    - Issue labels:
+        - [newbie](https://issues.apache.org/jira/issues/?jql=project%20%3D%20KAFKA%20AND%20labels%20%3D%20newbie%20AND%20status%20%3D%20Open)
+- `[OpenTelemetry Java](https://github.com/open-telemetry/opentelemetry-java)` (project)
+    - Note: Standard observability SDK for Java. Very welcoming community and structured onboarding for newcomers.
+    - [Contributing Guide](https://github.com/open-telemetry/opentelemetry-java/blob/main/CONTRIBUTING.md)
+    - Issue labels:
+        - [good first issue](https://github.com/open-telemetry/opentelemetry-java/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+        - [help wanted](https://github.com/open-telemetry/opentelemetry-java/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
+
+---
+## C / Systems
+
+- `[Redis](https://github.com/redis/redis)` (project)
+    - Note: Written in C. Your shell and HTTP server work gives you directly applicable context here. Start with docs, tests, or minor bug fixes.
+    - [Contributing Guide](https://github.com/redis/redis/blob/unstable/CONTRIBUTING.md)
+    - Issue labels:
+        - [good first issue](https://github.com/redis/redis/issues?q=is%3Aopen+is%3Aissue+label%3Agood-first-issue)
+- `[Neovim](https://github.com/neovim/neovim)` (project)
+    - Note: C/Lua codebase. One of the most active OSS communities. Well-labeled issues, responsive maintainers, strong beginner culture.
+    - [Contributing Guide](https://github.com/neovim/neovim/blob/master/CONTRIBUTING.md)
+    - Issue labels:
+        - [good-first-issue](https://github.com/neovim/neovim/issues?q=is%3Aopen+is%3Aissue+label%3Agood-first-issue)
+        - [help wanted](https://github.com/neovim/neovim/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
+
+---
+## Infrastructure / DevOps
+
+- `[Kubernetes](https://github.com/kubernetes/kubernetes)` (project)
+    - Note: Go codebase but has a dedicated SIG-Docs and SIG-ContribEx track designed for absolute beginners. Good entry point even without Go experience.
+    - [Contributing Guide](https://kubernetes.io/docs/contribute/)
+    - Issue labels:
+        - [good first issue](https://github.com/kubernetes/kubernetes/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+        - [help wanted](https://github.com/kubernetes/kubernetes/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
+- `[Gitea](https://github.com/go-gitea/gitea)` (project)
+    - Note: Self-hosted Git service written in Go. Smaller codebase than GitLab, very welcoming to first-timers, fast PR review cycle.
+    - [Contributing Guide](https://github.com/go-gitea/gitea/blob/main/CONTRIBUTING.md)
+    - Issue labels:
+        - [good first issue](https://github.com/go-gitea/gitea/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+        - [help wanted](https://github.com/go-gitea/gitea/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
+
+---
+## Game Engine (Hobby)
+
+- `[Godot Engine](https://github.com/godotengine/godot)` (project)
+    - Note: C++ engine core + GDScript runtime. Has a dedicated label for beginner-scope issues. Docs contributions are especially easy to start with.
+    - [Contributing Guide](https://docs.godotengine.org/en/stable/contributing/ways_to_contribute.html)
+    - Issue labels:
+        - [junior job](https://github.com/godotengine/godot/issues?q=is%3Aopen+is%3Aissue+label%3A%22junior+job%22)
+        - [good first issue](https://github.com/godotengine/godot/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+
+---
+## General / High Signal
+
+- `[VS Code](https://github.com/microsoft/vscode)` (project)
+    - Note: TypeScript. Massive active community, issues are well-triaged. Even small fixes carry resume weight because of the project's visibility.
+    - [Contributing Guide](https://github.com/microsoft/vscode/blob/main/CONTRIBUTING.md)
+    - Issue labels:
+        - [good first issue](https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+        - [help wanted](https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
+- `[Exercism](https://github.com/exercism)` (org)
+    - Note: Multi-language coding education platform. You can contribute exercises or fix issues in the Java track directly — highly relevant, easy scope.
+    - [Contributing Guide](https://exercism.org/docs/community/contributors)
+    - [Java Track](https://github.com/exercism/java) (project)
+        - Issue labels:
+            - [good first issue](https://github.com/exercism/java/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+            - [help wanted](https://github.com/exercism/java/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
+    - [C Track](https://github.com/exercism/c) (project)
+        - Issue labels:
+            - [good first issue](https://github.com/exercism/c/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
