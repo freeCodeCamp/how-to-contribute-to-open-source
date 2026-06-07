@@ -61,6 +61,7 @@ If you have questions or comments, please create an issue.
 
 > Articles and resources that discuss the world and culture of Open Source.
 
+- [Complete Guide to Open Source - How to Contribute](https://www.youtube.com/watch?v=yzeVMecydCE) by [Eddie Jaoude] (https://www.youtube.com/user/eddiejaoude) 
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG).
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials by DigitalOcean to guide you on your way to contribution success here on GitHub.
 - [Complete Guide on Open Source Contributions](https://www.youtube.com/playlist?list=PLR0CKdeR_FyscaxEksDVXc4UQvlOFLYS6) - YouTube tutorials playlist by "Dev Sense".
