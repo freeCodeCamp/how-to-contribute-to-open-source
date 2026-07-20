@@ -93,6 +93,7 @@ If you have questions or comments, please create an issue.
 - ["6 Best Practices to Manage Pull Request Creation and Feedback"](https://doordash.engineering/2022/08/23/6-best-practices-to-manage-pull-request-creation-and-feedback/) from Jenna Kiyasu, software engineer at DoorDash Engineering.
 - ["Contribute to the Open-Source Community"](https://arijitgoswami.hashnode.dev/contribute-to-the-open-source-community) - Advantages of open-source software, how to understand the inner workings of an open-source project and make the first contribution.
 - ["Complete Guide to Open Source - How to Contribute"](https://www.youtube.com/watch?v=yzeVMecydCE) (41:52) - Learn why and how to contribute to open source software with Eddie Jaoude.
+- [Crash Course in Contributing to Open Source Projects](https://youtu.be/5OL8XoMMOfA) - A walkthrough of contributing to scikit-learn and other established Open Source projects.
 
 ## Direct GitHub searches
 
