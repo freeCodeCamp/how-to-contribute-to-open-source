@@ -9,6 +9,7 @@
         <li><a href="./README-BN.md"> বাংলা </a></li>
         <li><a href="./README-CN.md"> 中文 </a></li>
         <li><a href="./README-RU.md"> русский </a></li>
+        <li><a href="./README-SI.md"> සිංහල </a></li>
         <li><a href="./README-RO.md"> Românesc </a></li>
         <li><a href="./README-IT.md"> Italiano </a></li>
         <li><a href="./README-ID.md"> Indonesia </a></li>
