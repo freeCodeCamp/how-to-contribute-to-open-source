@@ -64,7 +64,7 @@ before contributing.
   - [Contributing Guide](https://github.com/lingdojo/kana-dojo/blob/main/.github/CONTRIBUTING.md)
   - [Beginner Contribution Guide](https://github.com/lingdojo/kana-dojo/blob/main/docs/CONTRIBUTING-BEGINNERS.md)
   - Issue labels:
-    - [good first issue](https://github.com/lingdojo/kana-dojo/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+        - [good first issue](https://github.com/lingdojo/kana-dojo/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 - `[Metamaps](https://metamaps.cc/)` (org)
     - [Metamaps](https://github.com/metamaps/metamaps) (project)
         - [Contribution Guide](https://github.com/metamaps/metamaps/blob/develop/doc/CONTRIBUTING.md)
