@@ -25,6 +25,11 @@ before contributing.
     - Issue labels:
         - [Open Issue](https://github.com/search?q=org%3Adocker+is%3Aissue+is%3Aopen)
         - [exp/beginner](https://github.com/docker/docker/issues?q=is%3Aopen+is%3Aissue+label%3Aexp%2Fbeginner+sort%3Aupdated-desc)
+- `[First Contributions](https://github.com/firstcontributions/first-contributions)` (project)
+    - [Contributing Guide](https://github.com/firstcontributions/first-contributions/blob/main/.github/CONTRIBUTING.md)
+    - Issue labels:
+        - [good first issue](https://github.com/firstcontributions/first-contributions/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+        - [help wanted](https://github.com/firstcontributions/first-contributions/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 - `[freeCodeCamp.org](https://www.freecodecamp.org/)` (org)
     - [freeCodeCamp.org](https://github.com/freeCodeCamp/freeCodeCamp/) (project)
         - [Contributing guide](https://contribute.freecodecamp.org)
@@ -55,6 +60,11 @@ before contributing.
             - [first-timers-only](https://github.com/hoodiehq/hoodie/labels/first-timers-only)
             - [help wanted](https://github.com/hoodiehq/hoodie/labels/help%20wanted)
             - [starter](https://github.com/hoodiehq/hoodie/labels/starter)
+- `[KanaDojo](https://github.com/lingdojo/kana-dojo)` (project)
+  - [Contributing Guide](https://github.com/lingdojo/kana-dojo/blob/main/.github/CONTRIBUTING.md)
+  - [Beginner Contribution Guide](https://github.com/lingdojo/kana-dojo/blob/main/docs/CONTRIBUTING-BEGINNERS.md)
+  - Issue labels:
+        - [good first issue](https://github.com/lingdojo/kana-dojo/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 - `[Metamaps](https://metamaps.cc/)` (org)
     - [Metamaps](https://github.com/metamaps/metamaps) (project)
         - [Contribution Guide](https://github.com/metamaps/metamaps/blob/develop/doc/CONTRIBUTING.md)
